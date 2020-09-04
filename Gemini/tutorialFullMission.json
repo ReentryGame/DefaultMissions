@@ -323,7 +323,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "Verify that the computer is runnin. This module will give you an IVI correction once you reach Apogee. Time to Apogee can be read using the computer by checking core 73 and time to Perigee by checking core 74",
+            "Message": "Verify that the computer is running. This module will give you an IVI correction once you reach Apogee. Time to Apogee can be read using the computer by checking core 73 and time to Perigee by checking core 74",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

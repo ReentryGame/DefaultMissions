@@ -846,7 +846,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "Retros are seperated. Since you are in Orbit, the velocities are higher, and the reentry time is longer. Maintain reentry attitude, and if nessecary, perform another horizon check.",
+            "Message": "Retros are separated. Since you are in Orbit, the velocities are higher, and the reentry time is longer. Maintain reentry attitude, and if nessecary, perform another horizon check.",
             "PinID": 0,
             "PinPosition": 0,
             "PullHandleID": 0,

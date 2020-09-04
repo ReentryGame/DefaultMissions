@@ -158,7 +158,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "This reference frame can change throughout the mission, and what it is defined as is not yet important. What's important is that this frame of refernece is defined in the Lunar Guidance Computer, and in the Abort Guidance System.",
+            "Message": "This reference frame can change throughout the mission, and what it is defined as is not yet important. What's important is that this frame of reference is defined in the Lunar Guidance Computer, and in the Abort Guidance System.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

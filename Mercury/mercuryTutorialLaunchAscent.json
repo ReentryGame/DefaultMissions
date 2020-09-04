@@ -18,7 +18,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "Welcome back, {{profileName}}. In this tutorial we will go through all the steps required to launch, and try to complete an ascent. This is the FINAL CHECKs checklist in your mission pad, press [M] to acces it.",
+            "Message": "Welcome back, {{profileName}}. In this tutorial we will go through all the steps required to launch, and try to complete an ascent. This is the FINAL CHECKS checklist in your mission pad, press [M] to access it.",
             "PinID": 0,
             "PinPosition": 0,
             "PullHandleID": 0,

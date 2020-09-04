@@ -1,7 +1,7 @@
 {
-    "BriefingText": "BRIEFING\r\n\r\nIn this lesson, we will learn about the Electrical Power Subsystem of the Apollo Spacecraft. The electrical power subsystem (EPS) consists of the systems, reactants and equipment required to provide electrical power onboard the spacecraft. The main power sources are 3 Fuel Cells, 3 batteries and two pyro batteris. The power is distributed through several DC-busses and AC-busses.\r\n\r\nThe power is distributed through several DC-busses and AC-busses. AC power is generated from DC through Inverters.",
+    "BriefingText": "BRIEFING\r\n\r\nIn this lesson, we will learn about the Electrical Power Subsystem of the Apollo Spacecraft. The electrical power subsystem (EPS) consists of the systems, reactants and equipment required to provide electrical power onboard the spacecraft. The main power sources are 3 Fuel Cells, 3 batteries and two pyro batteries. The power is distributed through several DC-busses and AC-busses.\r\n\r\nThe power is distributed through several DC-busses and AC-busses. AC power is generated from DC through Inverters.",
     "CommandModulePilot": "Patrick",
-    "Description": "The Electrical Power Subsystem (EPS) consists of the systems, reactants and equipment required to provide electrical power onboard the spacecraft. The main power sources are 3 Fuel Cells, 3 batteries and two pyro batteris. The power is distributed through several DC-busses and AC-busses.",
+    "Description": "The Electrical Power Subsystem (EPS) consists of the systems, reactants and equipment required to provide electrical power onboard the spacecraft. The main power sources are 3 Fuel Cells, 3 batteries and two pyro batteries. The power is distributed through several DC-busses and AC-busses.",
     "FlightPlanPrefabId": 0,
     "Id": 102,
     "Inclination": 72.5,

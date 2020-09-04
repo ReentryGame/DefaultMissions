@@ -282,7 +282,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 1,
-            "Message": "The Capsule comes with three series of batteris. The MAIN batteries, the STANDBY batteries and the ISOLATED batteries. The SQUIBs are connected to the ISOLATED batteries. Let's ensure the ISOLATED batteries are working by checking that the voltage is over 28. Rotate the DC Selector to ISO and read the volts on the VOLTMETER.",
+            "Message": "The Capsule comes with three series of batteries. The MAIN batteries, the STANDBY batteries and the ISOLATED batteries. The SQUIBs are connected to the ISOLATED batteries. Let's ensure the ISOLATED batteries are working by checking that the voltage is over 28. Rotate the DC Selector to ISO and read the volts on the VOLTMETER.",
             "PinID": 0,
             "PinPosition": 0,
             "PullHandleID": 0,

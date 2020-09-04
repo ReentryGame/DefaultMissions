@@ -228,7 +228,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "If this happens, it's a good idea to switch over to the STANDBY batteries for safety. This is done by setting the STBY BTRY swith to ON. It will connect the standby batteries to the MAIN DC BUS.",
+            "Message": "If this happens, it's a good idea to switch over to the STANDBY batteries for safety. This is done by setting the STBY BTRY switch to ON. It will connect the standby batteries to the MAIN DC BUS.",
             "PinID": 4,
             "PinPosition": 1,
             "PlayAudioClip_String3": false,

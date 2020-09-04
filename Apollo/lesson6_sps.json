@@ -982,7 +982,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 0,
-            "Message": "Let's try to use the third option now. Set the SPS Thrust Direct On swith to DIRECT ON. This will ignite the engine and start the burn.",
+            "Message": "Let's try to use the third option now. Set the SPS Thrust Direct On switch to DIRECT ON. This will ignite the engine and start the burn.",
             "PinID": 130,
             "PinPosition": 4,
             "String1": null,

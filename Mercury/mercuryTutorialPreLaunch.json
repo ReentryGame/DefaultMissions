@@ -330,7 +330,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "Press [F7] for Radio View. The next system we check is the Radio Communication system. It has two modes, UHF (Ultra High Frquency) and HF (High Frequency). You can switch between them using the TRANSMIT switch. The primary communication system is UHF.",
+            "Message": "Press [F7] for Radio View. The next system we check is the Radio Communication system. It has two modes, UHF (Ultra High Frequency) and HF (High Frequency). You can switch between them using the TRANSMIT switch. The primary communication system is UHF.",
             "PinID": 0,
             "PinPosition": 0,
             "PullHandleID": 0,

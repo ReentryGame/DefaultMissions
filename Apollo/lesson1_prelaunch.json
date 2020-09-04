@@ -1342,7 +1342,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 2,
-            "Message": "Let's also check Battery C. Battery C is important and is used for many of the important electrical systems during failiures. Rotate the DC selection knob on MDC-3 to BAT C and check that the voltage is 37-37.5 vdc.",
+            "Message": "Let's also check Battery C. Battery C is important and is used for many of the important electrical systems during failures. Rotate the DC selection knob on MDC-3 to BAT C and check that the voltage is 37-37.5 vdc.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

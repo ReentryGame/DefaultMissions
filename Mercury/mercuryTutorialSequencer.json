@@ -228,7 +228,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "Pending is indicated by a red light and means that the event is about to happen, is processing, or has failed. The light will switch to green when completed. Failiures will remain RED.",
+            "Message": "Pending is indicated by a red light and means that the event is about to happen, is processing, or has failed. The light will switch to green when completed. Failures will remain RED.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

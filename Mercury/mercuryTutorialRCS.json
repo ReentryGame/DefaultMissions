@@ -696,7 +696,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "You can set the ASCS mode swith to AUX On to enable auxiliary daming, a system that automatically damps out any attitude rates down to 0.5 degrees/second. If you want the spacecraft to stand still, select this mode. Try this now - you might still have some rotation after the FBW mode, if not create some using FBW first.",
+            "Message": "You can set the ASCS mode switch to AUX On to enable auxiliary damping, a system that automatically damps out any attitude rates down to 0.5 degrees/second. If you want the spacecraft to stand still, select this mode. Try this now - you might still have some rotation after the FBW mode, if not create some using FBW first.",
             "PinID": 12,
             "PinPosition": 2,
             "PlayAudioClip_String3": false,

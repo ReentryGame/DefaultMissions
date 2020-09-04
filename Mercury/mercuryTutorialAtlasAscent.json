@@ -72,7 +72,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "By default, the only checklist you need to follow is the FINAL CHECKs checklist. Click on it. You can follow it manually, or click RUN. Do the latter now.",
+            "Message": "By default, the only checklist you need to follow is the FINAL CHECKS checklist. Click on it. You can follow it manually, or click RUN. Do the latter now.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

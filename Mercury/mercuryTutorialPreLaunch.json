@@ -234,7 +234,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "Next, we need to connects the squib battery to the squib bus, arming the rockets pyrotechnics. This is REQUIRED to jettison and separate parts of the rocket. Press F5 for command view and ARM the SQUIB now.",
+            "Message": "Next, we need to connect the squib battery to the squib bus, arming the rockets pyrotechnics. This is REQUIRED to jettison and separate parts of the rocket. Press F5 for command view and ARM the SQUIB now.",
             "PinID": 15,
             "PinPosition": 1,
             "PullHandleID": 0,

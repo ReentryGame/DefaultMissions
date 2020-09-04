@@ -1,0 +1,450 @@
+{
+    "GameBuild": "TP",
+    "MercuryState": {
+        "position": {
+            "x": 5209.03662,
+            "y": 3496.3833,
+            "z": 1969.08716
+        },
+        "velocity": {
+            "x": -3.85563517,
+            "y": 2.19335437,
+            "z": 6.40083551
+        }
+    },
+    "Mission": {
+        "CampaignId": "NONE",
+        "CampaignIndex": 0,
+        "IsCustomMission": false,
+        "MissionActivities": [],
+        "MissionGoals": [
+            {
+                "Completed": false,
+                "Description": "Complete the lesson.",
+                "Progress": null,
+                "String1": null,
+                "String2": null,
+                "Target1": 0.0,
+                "Target2": 0.0,
+                "Target3": 0.0,
+                "Type": 2
+            }
+        ],
+        "MissionPath": "Mercury/mercuryTutorialEPS",
+        "MissionProgress": 1,
+        "MissionTotalInstructions": 1
+    },
+    "ObjectOrientations": {
+        "Earth": {
+            "w": -0.707053661,
+            "x": 0.707053661,
+            "y": 0.008672404,
+            "z": 0.008672404
+        },
+        "MercuryCapsule": {
+            "w": -0.8153188,
+            "x": 0.407482654,
+            "y": -0.386585921,
+            "z": 0.1405866
+        },
+        "Platform1": {
+            "w": -0.2554738,
+            "x": 0.508311331,
+            "y": 0.43578738,
+            "z": -0.697454035
+        },
+        "Sun": {
+            "w": 0.4905085,
+            "x": 0.0,
+            "y": -0.8714364,
+            "z": 0.0
+        }
+    },
+    "Panel": {
+        "PanelFuses": [
+            {
+                "Id": 1,
+                "Pos": 1
+            },
+            {
+                "Id": 2,
+                "Pos": 1
+            },
+            {
+                "Id": 3,
+                "Pos": 1
+            },
+            {
+                "Id": 4,
+                "Pos": 1
+            },
+            {
+                "Id": 5,
+                "Pos": 1
+            },
+            {
+                "Id": 6,
+                "Pos": 1
+            },
+            {
+                "Id": 7,
+                "Pos": 1
+            },
+            {
+                "Id": 8,
+                "Pos": 1
+            },
+            {
+                "Id": 9,
+                "Pos": 1
+            },
+            {
+                "Id": 10,
+                "Pos": 1
+            },
+            {
+                "Id": 11,
+                "Pos": 1
+            },
+            {
+                "Id": 12,
+                "Pos": 1
+            },
+            {
+                "Id": 13,
+                "Pos": 1
+            },
+            {
+                "Id": 14,
+                "Pos": 1
+            },
+            {
+                "Id": 15,
+                "Pos": 1
+            },
+            {
+                "Id": 16,
+                "Pos": 1
+            },
+            {
+                "Id": 17,
+                "Pos": 1
+            },
+            {
+                "Id": 18,
+                "Pos": 1
+            },
+            {
+                "Id": 19,
+                "Pos": 1
+            },
+            {
+                "Id": 20,
+                "Pos": 1
+            },
+            {
+                "Id": 21,
+                "Pos": 1
+            },
+            {
+                "Id": 22,
+                "Pos": 1
+            },
+            {
+                "Id": 23,
+                "Pos": 1
+            },
+            {
+                "Id": 24,
+                "Pos": 1
+            },
+            {
+                "Id": 25,
+                "Pos": 1
+            },
+            {
+                "Id": 26,
+                "Pos": 1
+            },
+            {
+                "Id": 27,
+                "Pos": 1
+            },
+            {
+                "Id": 28,
+                "Pos": 1
+            },
+            {
+                "Id": 29,
+                "Pos": 1
+            },
+            {
+                "Id": 30,
+                "Pos": 1
+            },
+            {
+                "Id": 31,
+                "Pos": 1
+            }
+        ],
+        "PanelHandles": [
+            {
+                "Id": 1,
+                "Pos": 1
+            },
+            {
+                "Id": 2,
+                "Pos": 1
+            },
+            {
+                "Id": 3,
+                "Pos": 1
+            },
+            {
+                "Id": 4,
+                "Pos": 1
+            },
+            {
+                "Id": 6,
+                "Pos": 1
+            },
+            {
+                "Id": 5,
+                "Pos": 1
+            },
+            {
+                "Id": 7,
+                "Pos": 1
+            },
+            {
+                "Id": 8,
+                "Pos": 1
+            },
+            {
+                "Id": 9,
+                "Pos": 1
+            },
+            {
+                "Id": 10,
+                "Pos": 1
+            },
+            {
+                "Id": 11,
+                "Pos": 1
+            },
+            {
+                "Id": 12,
+                "Pos": 1
+            },
+            {
+                "Id": 13,
+                "Pos": 2
+            }
+        ],
+        "PanelKnobs": [
+            {
+                "Id": 1,
+                "selection": 0.0
+            },
+            {
+                "Id": 2,
+                "selection": 0.0
+            },
+            {
+                "Id": 3,
+                "selection": 2.0
+            },
+            {
+                "Id": 5,
+                "selection": 2.0
+            },
+            {
+                "Id": 4,
+                "selection": 2.0
+            },
+            {
+                "Id": 6,
+                "selection": 2.0
+            },
+            {
+                "Id": 7,
+                "selection": 8.0
+            }
+        ],
+        "PanelSwitches": [
+            {
+                "Id": 1,
+                "Pos": 1
+            },
+            {
+                "Id": 2,
+                "Pos": 3
+            },
+            {
+                "Id": 3,
+                "Pos": 1
+            },
+            {
+                "Id": 4,
+                "Pos": 3
+            },
+            {
+                "Id": 5,
+                "Pos": 3
+            },
+            {
+                "Id": 6,
+                "Pos": 3
+            },
+            {
+                "Id": 7,
+                "Pos": 3
+            },
+            {
+                "Id": 8,
+                "Pos": 3
+            },
+            {
+                "Id": 9,
+                "Pos": 3
+            },
+            {
+                "Id": 10,
+                "Pos": 3
+            },
+            {
+                "Id": 11,
+                "Pos": 3
+            },
+            {
+                "Id": 12,
+                "Pos": 1
+            },
+            {
+                "Id": 13,
+                "Pos": 1
+            },
+            {
+                "Id": 14,
+                "Pos": 1
+            },
+            {
+                "Id": 15,
+                "Pos": 1
+            },
+            {
+                "Id": 16,
+                "Pos": 1
+            },
+            {
+                "Id": 17,
+                "Pos": 1
+            },
+            {
+                "Id": 18,
+                "Pos": 1
+            },
+            {
+                "Id": 19,
+                "Pos": 1
+            },
+            {
+                "Id": 20,
+                "Pos": 1
+            },
+            {
+                "Id": 21,
+                "Pos": 3
+            },
+            {
+                "Id": 22,
+                "Pos": 2
+            },
+            {
+                "Id": 23,
+                "Pos": 3
+            },
+            {
+                "Id": 24,
+                "Pos": 3
+            },
+            {
+                "Id": 25,
+                "Pos": 1
+            },
+            {
+                "Id": 26,
+                "Pos": 3
+            },
+            {
+                "Id": 27,
+                "Pos": 1
+            },
+            {
+                "Id": 28,
+                "Pos": 1
+            },
+            {
+                "Id": 29,
+                "Pos": 1
+            },
+            {
+                "Id": 34,
+                "Pos": 2
+            },
+            {
+                "Id": 31,
+                "Pos": 3
+            },
+            {
+                "Id": 30,
+                "Pos": 3
+            },
+            {
+                "Id": 32,
+                "Pos": 3
+            },
+            {
+                "Id": 33,
+                "Pos": 3
+            },
+            {
+                "Id": 35,
+                "Pos": 3
+            },
+            {
+                "Id": 36,
+                "Pos": 3
+            },
+            {
+                "Id": 37,
+                "Pos": 3
+            },
+            {
+                "Id": 38,
+                "Pos": 3
+            },
+            {
+                "Id": 39,
+                "Pos": 3
+            }
+        ]
+    },
+    "SpaceProgram": 0,
+    "Timers": {
+        "EventTimer": "00:00:00",
+        "GameTimer": "00:10:39.4790000",
+        "MissionDateTime": "1961-07-10T14:05:41.479",
+        "PlannedRetroTimestamp": "18:00:04.2360000",
+        "TimeOfIgnition": "1961-07-10T14:00:02",
+        "TimeSinceLaunch": "00:05:37.2350000",
+        "TimeToLaunch": "-00:05:39.4790000",
+        "TimeToRetro": "03:54:22.7490000"
+    },
+    "Version": 0.607,
+    "WorldOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "BriefingText": "BRIEFING",
+    "Description": "asdfsdf",
+    "FlightPlanPrefabId": 0,
+    "Id": 99,
+    "Inclination": 33.0,
+    "InitialTimeToRetrograde": "01:00:00",
+    "MinutesBeforeLaunch": 5.0,
+    "MissionActivities": [
+        {
+            "Cancelled": false,
+            "Completed": false,
+            "Description": "The 60\ufffd yaw maneuver will be used to check the periscope as a yaw reference when large angular errors exist.",
+            "Points": 10,
+            "Started": false,
+            "Steps": [
+                {
+                    "Completed": false,
+                    "Description": " Switch to fly-by-wire control system",
+                    "FlightMode": 2,
+                    "Goal": 3,
+                    "Progress": null,
+                    "Value1": 0.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Set up low yaw right (2\ufffd/sec) rate",
+                    "FlightMode": 0,
+                    "Goal": 6,
+                    "Progress": null,
+                    "Value1": 0.0,
+                    "Value2": 0.0,
+                    "Value3": 2.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Allow the spacecraft to drift until the yaw angle becomes approximately 60\ufffd. ",
+                    "FlightMode": 0,
+                    "Goal": 0,
+                    "Progress": null,
+                    "Value1": 60.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Stabilise the spacecraft rates to zero.",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 5.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Observe the motion of the ground track through the periscope  on both low and high magnification. ",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Set up a low left yaw motion and stabilise the spacecraft  attitude at 0\ufffd yaw, 0\ufffd roll, and -34\ufffd pitch.  Use periscope  as the reference.",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 60.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Records results of the maneuver in Notes, return to Orbit Attitude",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                }
+            ],
+            "TimeLimit": 400.0,
+            "Title": "60\ufffd Yaw Maneuver"
+        },
+        {
+            "Cancelled": false,
+            "Completed": false,
+            "Description": "To determine the ability of the astronaut to control the attitude of the spacecraft using the horizon as a control reference under day and night conditions. ",
+            "Points": 10,
+            "Started": false,
+            "Steps": [
+                {
+                    "Completed": false,
+                    "Description": "Switch to manual proportional control ",
+                    "FlightMode": 4,
+                    "Goal": 3,
+                    "Progress": null,
+                    "Value1": 0.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Align the spacecraft to orbit attitude on the instruments (-34,0,0)",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Pitch up to -14\u00b0 (window reference)",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Return pitch to orbit (window reference) ",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Roll right 20\u00b0 (window reference)",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Return to orbit attitude (window reference) ",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": " Yaw left 20\u00b0 (window reference)",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 30.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                },
+                {
+                    "Completed": false,
+                    "Description": "Return to orbit attitude (window reference) ",
+                    "FlightMode": 0,
+                    "Goal": 5,
+                    "Progress": null,
+                    "Value1": 0.0,
+                    "Value2": 0.0,
+                    "Value3": 0.0
+                }
+            ],
+            "TimeLimit": 300.0,
+            "Title": "Day Horizon Check"
+        }
+    ],
+    "MissionCommands": [
+        {
+            "Action": 0,
+            "Bool1": false,
+            "Completed": false,
+            "Delivered": false,
+            "DisplayTime": 3.0,
+            "Fault": 0,
+            "From": 1,
+            "FuseID": 0,
+            "KnobID": 0,
+            "Message": "Test flight modes",
+            "PinID": 0,
+            "PinPosition": 0,
+            "PullHandleID": 0,
+            "PullHandlePosition": 0,
+            "String1": null,
+            "String2": null,
+            "String3": null,
+            "ThresholdLimit": 0.0,
+            "Timestamp": 0.0,
+            "Value1": 0.0,
+            "Value2": 0.0,
+            "Value3": 0.0
+        },
+        {
+            "Action": 1004,
+            "Bool1": false,
+            "Completed": false,
+            "Delivered": false,
+            "DisplayTime": 3.0,
+            "Fault": 1,
+            "From": 1,
+            "FuseID": 0,
+            "KnobID": 0,
+            "Message": "YAW FAIL STARTED!",
+            "PinID": 0,
+            "PinPosition": 0,
+            "PullHandleID": 0,
+            "PullHandlePosition": 0,
+            "String1": null,
+            "String2": null,
+            "String3": null,
+            "ThresholdLimit": 0.0,
+            "Timestamp": 3.0,
+            "Value1": 0.0,
+            "Value2": 0.0,
+            "Value3": 0.0
+        },
+        {
+            "Action": 0,
+            "Bool1": false,
+            "Completed": false,
+            "Delivered": false,
+            "DisplayTime": 3.0,
+            "Fault": 0,
+            "From": 1,
+            "FuseID": 0,
+            "KnobID": 0,
+            "Message": "DONE!",
+            "PinID": 0,
+            "PinPosition": 0,
+            "PullHandleID": 0,
+            "PullHandlePosition": 0,
+            "String1": null,
+            "String2": null,
+            "String3": null,
+            "ThresholdLimit": 0.0,
+            "Timestamp": 6.0,
+            "Value1": 0.0,
+            "Value2": 0.0,
+            "Value3": 0.0
+        }
+    ],
+    "MissionGoals": [
+        {
+            "Completed": false,
+            "Description": "Splash down in the ocean",
+            "Progress": null,
+            "String1": null,
+            "String2": null,
+            "Target1": 0.0,
+            "Target2": 0.0,
+            "Target3": 0.0,
+            "Type": 2
+        }
+    ],
+    "Rocket": 1,
+    "ScheduledLaunchTime": "2018-05-02T01:00:32",
+    "SpaceProgram": 0,
+    "StartInOrbit": true,
+    "TargetAp": 150.0,
+    "TargetPe": 150.0,
+    "Title": "TEst flight modes"
+}

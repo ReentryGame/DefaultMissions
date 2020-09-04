@@ -1,0 +1,62 @@
+{
+    "BriefingText": "BRIEFING\r\n\r\nNo assigned mission.",
+    "CommandModulePilot": "Patrick",
+    "Description": "Free flight with no assigned mission.",
+    "DisableDefaultAudioSFX": false,
+    "FlightPlanPrefabId": 0,
+    "Id": 0,
+    "Inclination": 32.5,
+    "InitialTimeToRetrograde": "10:00:00",
+    "LoadState": "",
+    "LunarModulePilot": "Lars",
+    "MinutesBeforeLaunch": 25.0,
+    "MissionActivities": [],
+    "MissionCommands": [
+        {
+            "Action": 0,
+            "Bool1": false,
+            "ButtonId": 0,
+            "Completed": false,
+            "Delivered": false,
+            "DisplayTime": 10.0,
+            "Fault": 0,
+            "From": 2,
+            "FuseID": 0,
+            "FusePosition": 0,
+            "KnobID": 0,
+            "Message": "Welcome to Apollo! This is a free flight with no assigned mission.",
+            "PinID": 0,
+            "PinPosition": 0,
+            "PlayAudioClip_String3": false,
+            "Priority": false,
+            "String1": null,
+            "String2": null,
+            "String3": null,
+            "ThresholdLimit": 0.0,
+            "Timestamp": 10.0,
+            "Value1": 0.0,
+            "Value2": 0.0,
+            "Value3": 0.0
+        }
+    ],
+    "MissionGoals": [
+        {
+            "Completed": false,
+            "Description": "Splashdown.",
+            "Progress": null,
+            "String1": null,
+            "String2": null,
+            "Target1": 0.0,
+            "Target2": 0.0,
+            "Target3": 0.0,
+            "Type": 0
+        }
+    ],
+    "Payload": 1,
+    "ScheduledLaunchTime": "1968-11-05T14:00:58",
+    "SpaceProgram": 2,
+    "StartInOrbit": false,
+    "TargetAp": 100.0,
+    "TargetPe": 100.0,
+    "Title": "Apollo Free Play"
+}

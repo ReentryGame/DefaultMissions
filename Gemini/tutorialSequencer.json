@@ -123,7 +123,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "It works by illuminateing a task you have to perform. If a light illuminates, you can open it and press the trigger to execute the step. This is a fully manual operation.",
+            "Message": "It works by illuminating a task you have to perform. If a light illuminates, you can open it and press the trigger to execute the step. This is a fully manual operation.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

@@ -261,7 +261,7 @@
             "From": 1,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "Roger. {{profileName}}, veriyfy cockpit and use the Communication Menu to report that the cockpit is ready.",
+            "Message": "Roger. {{profileName}}, Verify cockpit and use the Communication Menu to report that the cockpit is ready.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

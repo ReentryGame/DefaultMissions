@@ -1,72 +1,72 @@
 {
-  "fullPathDescriptionFile": null,
-  "campaignPath": null,
-  "Title": "QUICKSTART:  The Bridge to the Moon",
-  "TileBackgroundImage": "tileBg.png",
-  "PageBackgroundImage": "pageBg.png",
-  "Sections": [
-    {
-      "Type": 2,
-      "Data": "c1.png",
-      "Value": 0
-    },
-    {
-      "Type": 1,
-      "Data": "The space race has started. The Soviet Union has beaten the US on almost every front by putting the first man in space, and in Orbit.\r\n\r\nProject Mercury followed tightly, and after successfully putting an American in space, NASA is working hard on their next space program; Project Gemini.\r\n\r\nThe year is 1962. NASA has just announced that they are accepting new astronaut applications for Project Gemini, and you decided to give it a go.\r\n\r\nThe application was accepted, and after a long period of intense training, things are starting to get real, and the reach for space is getting closer.",
-      "Value": 0
-    },
-    {
-      "Type": 0,
-      "Data": "The Spaceship",
-      "Value": 0
-    },
-    {
-      "Type": 2,
-      "Data": "Gemini.png",
-      "Value": 0
-    },
-    {
-      "Type": 1,
-      "Data": "The Gemini capsule is a brand new spaceship, with room for two astronauts, the commander and the pilot.\r\n\r\nIt is designed to piloted much like a jet fighter, and has the ability to maneuver in Orbit.",
-      "Value": 0
-    },
-    {
-      "Type": 2,
-      "Data": "GeminiCockpit.png",
-      "Value": 0
-    },
-    {
-      "Type": 1,
-      "Data": "The cockpit has 7 panels with controls, and has an On-Board Computer (OBC) used to aid the crew in-flight.",
-      "Value": 0
-    },
-    {
-      "Type": 0,
-      "Data": "Missions",
-      "Value": 0
-    }
-  ],
-  "Missions": [
-    {
-      "missionIndex": 0,
-      "FileName": "Missions/part1.json",
-      "Title": "Launch Rehersal",
-      "CampaignProgressInfo": "After a long and intense training period, you are ready to step out of the simulator and enter a real Gemini cockpit for the first time. You have been assigned your first Gemini Mission as a Pilot with Commander Patrick. The Gemini spacecraft is standing ready for a launch rehersal and tests, and is attached to the Titan II launch vehicle designed to take the spaceship from the Launch Pad into Orbit.",
-      "Program": 1
-    },
-    {
-      "missionIndex": 0,
-      "FileName": "Missions/part2.json",
-      "Title": "The first Mission",
-      "CampaignProgressInfo": "After the launch rehersal was completed, the rocket has been prepared for launch. You will join Commander Patrick on the first Gemini mission, that will take the spacecraft into Orbit.",
-      "Program": 1
-    },
-    {
-      "missionIndex": 0,
-      "FileName": "Missions/part3.json",
-      "Title": "The new Commander",
-      "CampaignProgressInfo": "Your first Gemini flight was a success, and Commander Patrick recommended the agency to to give you your own flight. You will be commanding the next Gemini mission, with astronaut Paul jr. as your pilot. This will be a complete mission from launch to splashdown. It is recommended that you complete Gemini Academy before attempting this flight.",
-      "Program": 1
-    }
-  ]
+    "Missions": [
+        {
+            "CampaignProgressInfo": "After a long and intense training period, you are ready to step out of the simulator and enter a real Gemini cockpit for the first time. You have been assigned your first Gemini Mission as a Pilot with Commander Patrick. The Gemini spacecraft is standing ready for a launch rehersal and tests, and is attached to the Titan II launch vehicle designed to take the spaceship from the Launch Pad into Orbit.",
+            "FileName": "Missions/part1.json",
+            "Program": 1,
+            "Title": "Launch Rehersal",
+            "missionIndex": 0
+        },
+        {
+            "CampaignProgressInfo": "After the launch rehersal was completed, the rocket has been prepared for launch. You will join Commander Patrick on the first Gemini mission, that will take the spacecraft into Orbit.",
+            "FileName": "Missions/part2.json",
+            "Program": 1,
+            "Title": "The first Mission",
+            "missionIndex": 0
+        },
+        {
+            "CampaignProgressInfo": "Your first Gemini flight was a success, and Commander Patrick recommended the agency to to give you your own flight. You will be commanding the next Gemini mission, with astronaut Paul jr. as your pilot. This will be a complete mission from launch to splashdown. It is recommended that you complete Gemini Academy before attempting this flight.",
+            "FileName": "Missions/part3.json",
+            "Program": 1,
+            "Title": "The new Commander",
+            "missionIndex": 0
+        }
+    ],
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Data": "c1.png",
+            "Type": 2,
+            "Value": 0
+        },
+        {
+            "Data": "The space race has started. The Soviet Union has beaten the US on almost every front by putting the first man in space, and in Orbit.\r\n\r\nProject Mercury followed tightly, and after successfully putting an American in space, NASA is working hard on their next space program; Project Gemini.\r\n\r\nThe year is 1962. NASA has just announced that they are accepting new astronaut applications for Project Gemini, and you decided to give it a go.\r\n\r\nThe application was accepted, and after a long period of intense training, things are starting to get real, and the reach for space is getting closer.",
+            "Type": 1,
+            "Value": 0
+        },
+        {
+            "Data": "The Spaceship",
+            "Type": 0,
+            "Value": 0
+        },
+        {
+            "Data": "Gemini.png",
+            "Type": 2,
+            "Value": 0
+        },
+        {
+            "Data": "The Gemini capsule is a brand new spaceship, with room for two astronauts, the commander and the pilot.\r\n\r\nIt is designed to piloted much like a jet fighter, and has the ability to maneuver in Orbit.",
+            "Type": 1,
+            "Value": 0
+        },
+        {
+            "Data": "GeminiCockpit.png",
+            "Type": 2,
+            "Value": 0
+        },
+        {
+            "Data": "The cockpit has 7 panels with controls, and has an On-Board Computer (OBC) used to aid the crew in-flight.",
+            "Type": 1,
+            "Value": 0
+        },
+        {
+            "Data": "Missions",
+            "Type": 0,
+            "Value": 0
+        }
+    ],
+    "TileBackgroundImage": "tileBg.png",
+    "Title": "QUICKSTART:  The Bridge to the Moon",
+    "campaignPath": null,
+    "fullPathDescriptionFile": null
 }

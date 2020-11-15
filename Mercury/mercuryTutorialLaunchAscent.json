@@ -354,7 +354,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "The capsule has two Oxygen tanks, one primary and one secondary. The ECS is controlling them automatically. When the Primary tank is empty (less than 10%) it will switch to the seconday tank.",
+            "Message": "The capsule has two Oxygen tanks, one primary and one secondary. The ECS is controlling them automatically. When the Primary tank is empty (less than 10%) it will switch to the secondary tank.",
             "PinID": 0,
             "PinPosition": 0,
             "PullHandleID": 0,

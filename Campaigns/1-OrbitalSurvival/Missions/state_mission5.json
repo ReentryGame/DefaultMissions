@@ -1,1 +1,480 @@
-{"Version":0.621,"GameBuild":"TP","Mission":{"CampaignIndex":4,"CampaignId":"Campaign 1:  Orbital Survival","IsCustomMission":true,"MissionPath":"C:\\Users\\bohi8\\AppData\\LocalLow\\Wilhelmsen Studios\\ReEntry\\Campaigns\\OrbitalSurvival\\Missions/mission5.json","MissionProgress":1,"MissionTotalInstructions":1,"MissionGoals":[{"Progress":null,"Completed":false,"Type":2,"Description":"Splashdown","Target1":0.0,"Target2":0.0,"Target3":0.0,"String1":"","String2":""}],"MissionActivities":[],"LoadPanelState":false,"LoadPanelStateFileName":""},"Timers":{"GameTimer":"1.11:24:37.8170000","MissionDateTime":"1963-06-22T01:14:39.817","TimeSinceLaunch":"1.11:14:35.5010000","TimeToRetro":"00:21:24.4720000","PlannedRetroTimestamp":"01:36:04.3160000","EventTimer":"00:00:00","TimeToLaunch":"-1.11:14:37.8170000","TimeOfIgnition":"1963-06-20T14:00:02"},"MercuryState":{"position":{"x":4307.695,"y":-997.9298,"z":-4855.074},"velocity":{"x":5.182115,"y":4.510073,"z":3.69856763}},"ObjectOrientations":{"MercuryCapsule":{"x":-0.7982061,"y":0.5276233,"z":-0.195193052,"w":-0.215361267},"Platform1":{"x":-0.234599486,"y":0.0931859538,"z":0.8179137,"w":0.5170073},"Earth":{"x":-0.0699807554,"y":-0.7036354,"z":-0.7036354,"w":0.0699807554},"Sun":{"x":0.0,"y":-0.9742698,"z":0.0,"w":0.2253851}},"WorldOffset":{"x":0.0,"y":0.0,"z":0.0},"Panel":{"PanelSwitches":[{"Id":1,"Pos":1},{"Id":2,"Pos":3},{"Id":3,"Pos":1},{"Id":4,"Pos":3},{"Id":5,"Pos":3},{"Id":6,"Pos":3},{"Id":7,"Pos":3},{"Id":8,"Pos":3},{"Id":9,"Pos":3},{"Id":10,"Pos":3},{"Id":11,"Pos":3},{"Id":12,"Pos":3},{"Id":13,"Pos":1},{"Id":14,"Pos":1},{"Id":15,"Pos":1},{"Id":16,"Pos":1},{"Id":17,"Pos":1},{"Id":18,"Pos":3},{"Id":19,"Pos":1},{"Id":20,"Pos":1},{"Id":21,"Pos":3},{"Id":22,"Pos":2},{"Id":23,"Pos":3},{"Id":24,"Pos":3},{"Id":25,"Pos":3},{"Id":26,"Pos":3},{"Id":27,"Pos":1},{"Id":28,"Pos":1},{"Id":29,"Pos":1},{"Id":34,"Pos":2},{"Id":31,"Pos":3},{"Id":30,"Pos":3},{"Id":32,"Pos":3},{"Id":33,"Pos":3},{"Id":35,"Pos":3},{"Id":36,"Pos":3},{"Id":37,"Pos":3},{"Id":38,"Pos":3},{"Id":39,"Pos":3},{"Id":40,"Pos":5},{"Id":41,"Pos":1},{"Id":42,"Pos":5},{"Id":43,"Pos":5},{"Id":44,"Pos":5},{"Id":45,"Pos":5}],"PanelFuses":[{"Id":1,"Pos":1},{"Id":2,"Pos":1},{"Id":3,"Pos":2},{"Id":4,"Pos":2},{"Id":5,"Pos":1},{"Id":6,"Pos":1},{"Id":7,"Pos":1},{"Id":8,"Pos":1},{"Id":9,"Pos":1},{"Id":10,"Pos":1},{"Id":11,"Pos":1},{"Id":12,"Pos":1},{"Id":13,"Pos":1},{"Id":14,"Pos":1},{"Id":15,"Pos":1},{"Id":16,"Pos":2},{"Id":17,"Pos":1},{"Id":18,"Pos":1},{"Id":19,"Pos":1},{"Id":20,"Pos":1},{"Id":21,"Pos":1},{"Id":22,"Pos":1},{"Id":23,"Pos":2},{"Id":24,"Pos":2},{"Id":25,"Pos":1},{"Id":26,"Pos":1},{"Id":27,"Pos":1},{"Id":28,"Pos":1},{"Id":29,"Pos":1},{"Id":30,"Pos":1},{"Id":31,"Pos":1}],"PanelKnobs":[{"Id":1,"selection":0.0},{"Id":2,"selection":0.0},{"Id":3,"selection":2.0},{"Id":5,"selection":2.0},{"Id":4,"selection":2.0},{"Id":6,"selection":2.0},{"Id":7,"selection":8.0}],"PanelHandles":[{"Id":1,"Pos":1},{"Id":2,"Pos":1},{"Id":3,"Pos":2},{"Id":4,"Pos":1},{"Id":6,"Pos":1},{"Id":5,"Pos":1},{"Id":7,"Pos":1},{"Id":8,"Pos":1},{"Id":9,"Pos":1},{"Id":10,"Pos":1},{"Id":11,"Pos":1},{"Id":12,"Pos":1},{"Id":13,"Pos":2},{"Id":14,"Pos":1}]},"SpaceProgram":0}
+{
+    "GameBuild": "TP",
+    "MercuryState": {
+        "position": {
+            "x": 4307.695,
+            "y": -997.9298,
+            "z": -4855.074
+        },
+        "velocity": {
+            "x": 5.182115,
+            "y": 4.510073,
+            "z": 3.69856763
+        }
+    },
+    "Mission": {
+        "CampaignId": "Campaign 1:  Orbital Survival",
+        "CampaignIndex": 4,
+        "IsCustomMission": true,
+        "LoadPanelState": false,
+        "LoadPanelStateFileName": "",
+        "MissionActivities": [],
+        "MissionGoals": [
+            {
+                "Completed": false,
+                "Description": "Splashdown",
+                "Progress": null,
+                "String1": "",
+                "String2": "",
+                "Target1": 0.0,
+                "Target2": 0.0,
+                "Target3": 0.0,
+                "Type": 2
+            }
+        ],
+        "MissionPath": "C:\\Users\\bohi8\\AppData\\LocalLow\\Wilhelmsen Studios\\ReEntry\\Campaigns\\OrbitalSurvival\\Missions/mission5.json",
+        "MissionProgress": 1,
+        "MissionTotalInstructions": 1
+    },
+    "ObjectOrientations": {
+        "Earth": {
+            "w": 0.0699807554,
+            "x": -0.0699807554,
+            "y": -0.7036354,
+            "z": -0.7036354
+        },
+        "MercuryCapsule": {
+            "w": -0.215361267,
+            "x": -0.7982061,
+            "y": 0.5276233,
+            "z": -0.195193052
+        },
+        "Platform1": {
+            "w": 0.5170073,
+            "x": -0.234599486,
+            "y": 0.0931859538,
+            "z": 0.8179137
+        },
+        "Sun": {
+            "w": 0.2253851,
+            "x": 0.0,
+            "y": -0.9742698,
+            "z": 0.0
+        }
+    },
+    "Panel": {
+        "PanelFuses": [
+            {
+                "Id": 1,
+                "Pos": 1
+            },
+            {
+                "Id": 2,
+                "Pos": 1
+            },
+            {
+                "Id": 3,
+                "Pos": 2
+            },
+            {
+                "Id": 4,
+                "Pos": 2
+            },
+            {
+                "Id": 5,
+                "Pos": 1
+            },
+            {
+                "Id": 6,
+                "Pos": 1
+            },
+            {
+                "Id": 7,
+                "Pos": 1
+            },
+            {
+                "Id": 8,
+                "Pos": 1
+            },
+            {
+                "Id": 9,
+                "Pos": 1
+            },
+            {
+                "Id": 10,
+                "Pos": 1
+            },
+            {
+                "Id": 11,
+                "Pos": 1
+            },
+            {
+                "Id": 12,
+                "Pos": 1
+            },
+            {
+                "Id": 13,
+                "Pos": 1
+            },
+            {
+                "Id": 14,
+                "Pos": 1
+            },
+            {
+                "Id": 15,
+                "Pos": 1
+            },
+            {
+                "Id": 16,
+                "Pos": 2
+            },
+            {
+                "Id": 17,
+                "Pos": 1
+            },
+            {
+                "Id": 18,
+                "Pos": 1
+            },
+            {
+                "Id": 19,
+                "Pos": 1
+            },
+            {
+                "Id": 20,
+                "Pos": 1
+            },
+            {
+                "Id": 21,
+                "Pos": 1
+            },
+            {
+                "Id": 22,
+                "Pos": 1
+            },
+            {
+                "Id": 23,
+                "Pos": 2
+            },
+            {
+                "Id": 24,
+                "Pos": 2
+            },
+            {
+                "Id": 25,
+                "Pos": 1
+            },
+            {
+                "Id": 26,
+                "Pos": 1
+            },
+            {
+                "Id": 27,
+                "Pos": 1
+            },
+            {
+                "Id": 28,
+                "Pos": 1
+            },
+            {
+                "Id": 29,
+                "Pos": 1
+            },
+            {
+                "Id": 30,
+                "Pos": 1
+            },
+            {
+                "Id": 31,
+                "Pos": 1
+            }
+        ],
+        "PanelHandles": [
+            {
+                "Id": 1,
+                "Pos": 1
+            },
+            {
+                "Id": 2,
+                "Pos": 1
+            },
+            {
+                "Id": 3,
+                "Pos": 2
+            },
+            {
+                "Id": 4,
+                "Pos": 1
+            },
+            {
+                "Id": 6,
+                "Pos": 1
+            },
+            {
+                "Id": 5,
+                "Pos": 1
+            },
+            {
+                "Id": 7,
+                "Pos": 1
+            },
+            {
+                "Id": 8,
+                "Pos": 1
+            },
+            {
+                "Id": 9,
+                "Pos": 1
+            },
+            {
+                "Id": 10,
+                "Pos": 1
+            },
+            {
+                "Id": 11,
+                "Pos": 1
+            },
+            {
+                "Id": 12,
+                "Pos": 1
+            },
+            {
+                "Id": 13,
+                "Pos": 2
+            },
+            {
+                "Id": 14,
+                "Pos": 1
+            }
+        ],
+        "PanelKnobs": [
+            {
+                "Id": 1,
+                "selection": 0.0
+            },
+            {
+                "Id": 2,
+                "selection": 0.0
+            },
+            {
+                "Id": 3,
+                "selection": 2.0
+            },
+            {
+                "Id": 5,
+                "selection": 2.0
+            },
+            {
+                "Id": 4,
+                "selection": 2.0
+            },
+            {
+                "Id": 6,
+                "selection": 2.0
+            },
+            {
+                "Id": 7,
+                "selection": 8.0
+            }
+        ],
+        "PanelSwitches": [
+            {
+                "Id": 1,
+                "Pos": 1
+            },
+            {
+                "Id": 2,
+                "Pos": 3
+            },
+            {
+                "Id": 3,
+                "Pos": 1
+            },
+            {
+                "Id": 4,
+                "Pos": 3
+            },
+            {
+                "Id": 5,
+                "Pos": 3
+            },
+            {
+                "Id": 6,
+                "Pos": 3
+            },
+            {
+                "Id": 7,
+                "Pos": 3
+            },
+            {
+                "Id": 8,
+                "Pos": 3
+            },
+            {
+                "Id": 9,
+                "Pos": 3
+            },
+            {
+                "Id": 10,
+                "Pos": 3
+            },
+            {
+                "Id": 11,
+                "Pos": 3
+            },
+            {
+                "Id": 12,
+                "Pos": 3
+            },
+            {
+                "Id": 13,
+                "Pos": 1
+            },
+            {
+                "Id": 14,
+                "Pos": 1
+            },
+            {
+                "Id": 15,
+                "Pos": 1
+            },
+            {
+                "Id": 16,
+                "Pos": 1
+            },
+            {
+                "Id": 17,
+                "Pos": 1
+            },
+            {
+                "Id": 18,
+                "Pos": 3
+            },
+            {
+                "Id": 19,
+                "Pos": 1
+            },
+            {
+                "Id": 20,
+                "Pos": 1
+            },
+            {
+                "Id": 21,
+                "Pos": 3
+            },
+            {
+                "Id": 22,
+                "Pos": 2
+            },
+            {
+                "Id": 23,
+                "Pos": 3
+            },
+            {
+                "Id": 24,
+                "Pos": 3
+            },
+            {
+                "Id": 25,
+                "Pos": 3
+            },
+            {
+                "Id": 26,
+                "Pos": 3
+            },
+            {
+                "Id": 27,
+                "Pos": 1
+            },
+            {
+                "Id": 28,
+                "Pos": 1
+            },
+            {
+                "Id": 29,
+                "Pos": 1
+            },
+            {
+                "Id": 34,
+                "Pos": 2
+            },
+            {
+                "Id": 31,
+                "Pos": 3
+            },
+            {
+                "Id": 30,
+                "Pos": 3
+            },
+            {
+                "Id": 32,
+                "Pos": 3
+            },
+            {
+                "Id": 33,
+                "Pos": 3
+            },
+            {
+                "Id": 35,
+                "Pos": 3
+            },
+            {
+                "Id": 36,
+                "Pos": 3
+            },
+            {
+                "Id": 37,
+                "Pos": 3
+            },
+            {
+                "Id": 38,
+                "Pos": 3
+            },
+            {
+                "Id": 39,
+                "Pos": 3
+            },
+            {
+                "Id": 40,
+                "Pos": 5
+            },
+            {
+                "Id": 41,
+                "Pos": 1
+            },
+            {
+                "Id": 42,
+                "Pos": 5
+            },
+            {
+                "Id": 43,
+                "Pos": 5
+            },
+            {
+                "Id": 44,
+                "Pos": 5
+            },
+            {
+                "Id": 45,
+                "Pos": 5
+            }
+        ]
+    },
+    "SpaceProgram": 0,
+    "Timers": {
+        "EventTimer": "00:00:00",
+        "GameTimer": "1.11:24:37.8170000",
+        "MissionDateTime": "1963-06-22T01:14:39.817",
+        "PlannedRetroTimestamp": "01:36:04.3160000",
+        "TimeOfIgnition": "1963-06-20T14:00:02",
+        "TimeSinceLaunch": "1.11:14:35.5010000",
+        "TimeToLaunch": "-1.11:14:37.8170000",
+        "TimeToRetro": "00:21:24.4720000"
+    },
+    "Version": 0.621,
+    "WorldOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}

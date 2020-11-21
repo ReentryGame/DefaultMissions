@@ -286,7 +286,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "Approximately 1 pound of gaseous helium, at a nominal pressure of 3,050 psia at +70\u00b0 F, is stored in the helium tank.",
+            "Message": "Approximately 1 pound of gaseous helium, at a nominal pressure of 3,050 psia at +70° F, is stored in the helium tank.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

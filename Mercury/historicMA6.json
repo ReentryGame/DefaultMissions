@@ -1,5 +1,5 @@
 {
-    "BriefingText": "BRIEFING\r\n\r\nThe primary pilot objective of the first manned orbital flight is to give detailed reporting of spacecraft system operation,\r\n\r\nChecks:\r\n1) Electrical check\r\nWrite down the voltage on all batteries, the main bus and the standby bus in your notes\r\n\r\n2) Station check\r\nEnsure ASCS on and in retro attitude. Note the attitude, attitude rates, retrograde times, cabin pressure, temperatures, oxygen levels, fuel levels and electrical check\r\n\r\n3) 30 minute check\r\nCheck X,Y,Z\r\n\r\n4) Blood pressure check\r\nStart the blood pressure system, let it run for 30 seconds, then stop it.\r\n\r\nRetro sequence areas\r\n1A\r\n1B\r\n1C\r\n1D\r\n1E\r\n1F\r\n\r\n\r\nFLIGHT PLAN\r\n00:07 - CONTROL SYSTEM CHECK\r\n\r\n00:24 - 60 YAW MANEUVER\r\n\r\n00:45 - IOS: Look for flare\r\n\r\n180 YAW MANEUVER\r\n\r\nSTAR TRACKING CHECK\r\nStar Tracking. From orbit attitude, the spacecraft will be pitched up to approximately 34\u00b0.  A star will be chosen which falls on the approximate center line of the window.  The spacecraft will then be pitched down at a rate to hold the star in the same position relative to the window.  The procedure is complete when the astronaut is satisfied with his ability to hold a star in a fixed position with respect to the spacecraft window.\r\n",
+    "BriefingText": "BRIEFING\r\n\r\nThe primary pilot objective of the first manned orbital flight is to give detailed reporting of spacecraft system operation,\r\n\r\nChecks:\r\n1) Electrical check\r\nWrite down the voltage on all batteries, the main bus and the standby bus in your notes\r\n\r\n2) Station check\r\nEnsure ASCS on and in retro attitude. Note the attitude, attitude rates, retrograde times, cabin pressure, temperatures, oxygen levels, fuel levels and electrical check\r\n\r\n3) 30 minute check\r\nCheck X,Y,Z\r\n\r\n4) Blood pressure check\r\nStart the blood pressure system, let it run for 30 seconds, then stop it.\r\n\r\nRetro sequence areas\r\n1A\r\n1B\r\n1C\r\n1D\r\n1E\r\n1F\r\n\r\n\r\nFLIGHT PLAN\r\n00:07 - CONTROL SYSTEM CHECK\r\n\r\n00:24 - 60 YAW MANEUVER\r\n\r\n00:45 - IOS: Look for flare\r\n\r\n180 YAW MANEUVER\r\n\r\nSTAR TRACKING CHECK\r\nStar Tracking. From orbit attitude, the spacecraft will be pitched up to approximately 34°.  A star will be chosen which falls on the approximate center line of the window.  The spacecraft will then be pitched down at a rate to hold the star in the same position relative to the window.  The procedure is complete when the astronaut is satisfied with his ability to hold a star in a fixed position with respect to the spacecraft window.\r\n",
     "Description": "MA-6 will take the first american astronaut into an orbit around the Earth. It will use the new and powerfull Mercury Atlas launch vehicle to carry the capsule up to a speed of 7800 m/s.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
@@ -393,7 +393,7 @@
         {
             "Cancelled": false,
             "Completed": false,
-            "Description": "The 60\u00b0 yaw maneuver will be used to check the periscope as a yaw reference when large angular errors exist.",
+            "Description": "The 60° yaw maneuver will be used to check the periscope as a yaw reference when large angular errors exist.",
             "Points": 10,
             "Started": false,
             "Steps": [
@@ -409,7 +409,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Set up low yaw right (2\u00b0/sec) rate",
+                    "Description": "Set up low yaw right (2°/sec) rate",
                     "FlightMode": 0,
                     "Goal": 6,
                     "Progress": null,
@@ -419,7 +419,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Allow the spacecraft to drift until the yaw angle becomes approximately 60\u00b0. Keep roll at 0\u00b0",
+                    "Description": "Allow the spacecraft to drift until the yaw angle becomes approximately 60°. Keep roll at 0°",
                     "FlightMode": 0,
                     "Goal": 0,
                     "Progress": null,
@@ -449,7 +449,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Set up a low left yaw motion and stabilise the spacecraft  attitude at 0\u00b0 yaw, 0\u00b0 roll, and -34\u00b0 pitch.  Use periscope  as the reference.",
+                    "Description": "Set up a low left yaw motion and stabilise the spacecraft  attitude at 0° yaw, 0° roll, and -34° pitch.  Use periscope  as the reference.",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -469,7 +469,7 @@
                 }
             ],
             "TimeLimit": 400.0,
-            "Title": "60\u00b0 Yaw Maneuver"
+            "Title": "60° Yaw Maneuver"
         },
         {
             "Cancelled": false,
@@ -500,7 +500,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Pitch up to -14\u00b0 (window reference)",
+                    "Description": "Pitch up to -14° (window reference)",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -520,7 +520,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Roll right 20\u00b0 (window reference)",
+                    "Description": "Roll right 20° (window reference)",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -540,7 +540,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": " Yaw left 20\u00b0 (window reference)",
+                    "Description": " Yaw left 20° (window reference)",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -591,7 +591,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Pitch up to -14\u00b0 (window reference)",
+                    "Description": "Pitch up to -14° (window reference)",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -611,7 +611,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Roll right 20\u00b0 (window reference)",
+                    "Description": "Roll right 20° (window reference)",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -631,7 +631,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": " Yaw left 20\u00b0 (window reference)",
+                    "Description": " Yaw left 20° (window reference)",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -2901,7 +2901,7 @@
             "From": 0,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "This is {{capsuleName}}, starting 60\u00b0 yaw maneuver. I'm about 40 seconds late on that one. Starting yaw maneuver at present time. Over.",
+            "Message": "This is {{capsuleName}}, starting 60° yaw maneuver. I'm about 40 seconds late on that one. Starting yaw maneuver at present time. Over.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -2927,7 +2927,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "Roger, starting 60\u00b0 Yaw Maneuver activity.",
+            "Message": "Roger, starting 60° Yaw Maneuver activity.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -2953,7 +2953,7 @@
             "From": 0,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "60\u00b0 Yaw Maneuver over.",
+            "Message": "60° Yaw Maneuver over.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -4695,7 +4695,7 @@
             "From": 0,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "I'm will use fly-by-wire so I can control more accurately. It just started as I got to Guaymas, and appears to be it drifts off in yaw, to the right at about 1\u00b0 per second. Will use fly-by-wire and controlling manually. Over.",
+            "Message": "I'm will use fly-by-wire so I can control more accurately. It just started as I got to Guaymas, and appears to be it drifts off in yaw, to the right at about 1° per second. Will use fly-by-wire and controlling manually. Over.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -9428,7 +9428,7 @@
         },
         {
             "Completed": false,
-            "Description": "Complete the 60\u00b0 Yaw Maneuver Check",
+            "Description": "Complete the 60° Yaw Maneuver Check",
             "Progress": null,
             "String1": null,
             "String2": null,

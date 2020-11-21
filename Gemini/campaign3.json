@@ -17,7 +17,7 @@
             "Steps": [
                 {
                     "Completed": false,
-                    "Description": "Task: Circulize the orbit. Try to get it to 161km by 161km with an inclination of 32.5\u00b0. Inclination is most important. If Pe is different than 6532, aim to equalize Pe and Ap and hit Dismiss when done.",
+                    "Description": "Task: Circulize the orbit. Try to get it to 161km by 161km with an inclination of 32.5°. Inclination is most important. If Pe is different than 6532, aim to equalize Pe and Ap and hit Dismiss when done.",
                     "FlightMode": 0,
                     "Goal": 7,
                     "Platform": 0,
@@ -476,7 +476,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "Verify that the orbit is circular, and that the orbit plane to 29.91\u00b0. Press ROGER when ready, den DENY on Activity Cancelled (this logic is changing).",
+            "Message": "Verify that the orbit is circular, and that the orbit plane to 29.91°. Press ROGER when ready, den DENY on Activity Cancelled (this logic is changing).",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

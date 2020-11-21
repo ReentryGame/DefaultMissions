@@ -1,5 +1,5 @@
 {
-    "BriefingText": "BRIEFING\r\n\r\nIn this lesson, you will learn how to separate the CSM from the Launch Vehicle (LV) SIVB, next you will use the CSM's translation thrusters for translating forward by moving gently the CSM away at a safe distance from the LM and the SIVB (no more than 100 feet), then you will turn around by pitching up the CSM at 180\u00b0 until facing the Lunar Module (LM). after a little Roll to your left you will align the Lunar module Aim Crosshair with the Apollo CSM COAS, once it is aligned perfectly, you will translate forward until capturing the Lunar Module (LM). finally you will release the Lunar Module from the Launch Vehicle (LV) SIVB, then gently translate backward until separation is successful.",
+    "BriefingText": "BRIEFING\r\n\r\nIn this lesson, you will learn how to separate the CSM from the Launch Vehicle (LV) SIVB, next you will use the CSM's translation thrusters for translating forward by moving gently the CSM away at a safe distance from the LM and the SIVB (no more than 100 feet), then you will turn around by pitching up the CSM at 180° until facing the Lunar Module (LM). after a little Roll to your left you will align the Lunar module Aim Crosshair with the Apollo CSM COAS, once it is aligned perfectly, you will translate forward until capturing the Lunar Module (LM). finally you will release the Lunar Module from the Launch Vehicle (LV) SIVB, then gently translate backward until separation is successful.",
     "CommandModulePilot": "Puma",
     "Description": "The Transposition & Docking maneuver involves separating the Apollo Command/Service Module (CSM) spacecraft from the SIVB launch vehicle, turning it around, and docking its nose to the Apollo Lunar Module (LM). The Lunar Module is then extracted from the adapter.",
     "DisableDefaultAudioSFX": false,
@@ -1215,7 +1215,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "Once separated at a fair distance, [PITCH UP] until you can see the Lunar Module from its top (a 180\u00b0 turn), then [ROLL] a little to the left for aligning the \"T\" shaped aim with the COAS, Next [TRANSLATE FORWARD] gently while the \"T\" shaped aim is aligned with the COAS (keep relative velocity no greater than 0.1 f/s).",
+            "Message": "Once separated at a fair distance, [PITCH UP] until you can see the Lunar Module from its top (a 180° turn), then [ROLL] a little to the left for aligning the \"T\" shaped aim with the COAS, Next [TRANSLATE FORWARD] gently while the \"T\" shaped aim is aligned with the COAS (keep relative velocity no greater than 0.1 f/s).",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

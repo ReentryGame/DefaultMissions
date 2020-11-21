@@ -2,7 +2,7 @@
     "CompletionMessage": "The uncontrolled tumble was due to a faulty jet in the OAMS system, and naturally the press has been all over the incident. However, the docking objective was met, and Patrick commanded the final Gemini flight with no incidents. This means all the objectives of Project Gemini has been met, and focus has shifted to the Apollo program. Patrick has been scheduled for the first Apollo flight, and all efforts are being done to make sure the Apollo Command Module is ready in time. Your success in Gemini, and the ability to solve problems as they arise has made you one of the most famous astronauts, and naturally, you have been assigned a seat in the Apollo program.",
     "Missions": [
         {
-            "CampaignProgressInfo": "After a few successful testflights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft.",
+            "CampaignProgressInfo": "After a few successful test-flights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft.",
             "FileName": "Missions/mission1.json",
             "Program": 1,
             "Title": "A New Spacecraft",

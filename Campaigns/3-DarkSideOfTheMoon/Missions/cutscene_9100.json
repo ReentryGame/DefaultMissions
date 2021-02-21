@@ -1,0 +1,13 @@
+{
+  "StartInOrbit": false,
+  "ScheduledLaunchTime": "1965-03-23T08:24:00",
+  "InitialTimeToRetrograde": "02:30:00",
+  "MissionCommands": [],
+  "MissionGoals": [],
+  "MissionActivities": [],
+  "SpaceProgram": 9000,
+  "Id": 9100,
+  "ID": "1ad1b591-7349-4388-b15d-aaef5c506c3a",
+  "Title": "PURE OXYGEN",
+  "Description": "Patrick and his crew has been performing a full dress-rehersal all day. The brand new Apollo spacecraft seems to have some issues, and the team is working hard on figuring it out. As backup crew, you and your team will be joining the Launch Control Center to oversee the rehersal."
+}

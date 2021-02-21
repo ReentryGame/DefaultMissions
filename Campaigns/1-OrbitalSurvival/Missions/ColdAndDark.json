@@ -1,5 +1,28 @@
 {
+    "Version": 0.621,
     "GameBuild": "TP",
+    "Mission": {
+        "CampaignIndex": 0,
+        "CampaignId": null,
+        "IsCustomMission": false,
+        "MissionPath": "",
+        "MissionProgress": 0,
+        "MissionTotalInstructions": 0,
+        "MissionGoals": [],
+        "MissionActivities": [],
+        "LoadPanelState": false,
+        "LoadPanelStateFileName": ""
+    },
+    "Timers": {
+        "GameTimer": "00:00:00",
+        "MissionDateTime": "0001-01-01T00:00:00",
+        "TimeSinceLaunch": "00:00:00",
+        "TimeToRetro": "00:00:00",
+        "PlannedRetroTimestamp": "00:00:00",
+        "EventTimer": "00:00:00",
+        "TimeToLaunch": "00:00:00",
+        "TimeOfIgnition": "0001-01-01T00:00:00"
+    },
     "MercuryState": {
         "position": {
             "x": 0.0,
@@ -12,259 +35,38 @@
             "z": 0.0
         }
     },
-    "Mission": {
-        "CampaignId": null,
-        "CampaignIndex": 0,
-        "IsCustomMission": false,
-        "LoadPanelState": false,
-        "LoadPanelStateFileName": "",
-        "MissionActivities": [],
-        "MissionGoals": [],
-        "MissionPath": "",
-        "MissionProgress": 0,
-        "MissionTotalInstructions": 0
-    },
     "ObjectOrientations": {
-        "Earth": {
-            "w": 0.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-        },
         "MercuryCapsule": {
-            "w": 0.0,
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0
+            "z": 0.0,
+            "w": 0.0
         },
         "Platform1": {
-            "w": 0.0,
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0
+            "z": 0.0,
+            "w": 0.0
+        },
+        "Earth": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
         },
         "Sun": {
-            "w": 0.0,
             "x": 0.0,
             "y": 0.0,
-            "z": 0.0
+            "z": 0.0,
+            "w": 0.0
         }
     },
+    "WorldOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
     "Panel": {
-        "PanelFuses": [
-            {
-                "Id": 1,
-                "Pos": 2
-            },
-            {
-                "Id": 2,
-                "Pos": 2
-            },
-            {
-                "Id": 3,
-                "Pos": 2
-            },
-            {
-                "Id": 4,
-                "Pos": 2
-            },
-            {
-                "Id": 5,
-                "Pos": 2
-            },
-            {
-                "Id": 6,
-                "Pos": 2
-            },
-            {
-                "Id": 7,
-                "Pos": 2
-            },
-            {
-                "Id": 8,
-                "Pos": 2
-            },
-            {
-                "Id": 9,
-                "Pos": 2
-            },
-            {
-                "Id": 10,
-                "Pos": 2
-            },
-            {
-                "Id": 11,
-                "Pos": 2
-            },
-            {
-                "Id": 12,
-                "Pos": 2
-            },
-            {
-                "Id": 13,
-                "Pos": 2
-            },
-            {
-                "Id": 14,
-                "Pos": 2
-            },
-            {
-                "Id": 15,
-                "Pos": 2
-            },
-            {
-                "Id": 16,
-                "Pos": 2
-            },
-            {
-                "Id": 17,
-                "Pos": 2
-            },
-            {
-                "Id": 18,
-                "Pos": 2
-            },
-            {
-                "Id": 19,
-                "Pos": 2
-            },
-            {
-                "Id": 20,
-                "Pos": 2
-            },
-            {
-                "Id": 21,
-                "Pos": 2
-            },
-            {
-                "Id": 22,
-                "Pos": 2
-            },
-            {
-                "Id": 23,
-                "Pos": 2
-            },
-            {
-                "Id": 24,
-                "Pos": 2
-            },
-            {
-                "Id": 25,
-                "Pos": 2
-            },
-            {
-                "Id": 26,
-                "Pos": 2
-            },
-            {
-                "Id": 27,
-                "Pos": 2
-            },
-            {
-                "Id": 28,
-                "Pos": 2
-            },
-            {
-                "Id": 29,
-                "Pos": 2
-            },
-            {
-                "Id": 30,
-                "Pos": 2
-            },
-            {
-                "Id": 31,
-                "Pos": 2
-            }
-        ],
-        "PanelHandles": [
-            {
-                "Id": 1,
-                "Pos": 1
-            },
-            {
-                "Id": 2,
-                "Pos": 1
-            },
-            {
-                "Id": 3,
-                "Pos": 1
-            },
-            {
-                "Id": 4,
-                "Pos": 1
-            },
-            {
-                "Id": 6,
-                "Pos": 1
-            },
-            {
-                "Id": 5,
-                "Pos": 1
-            },
-            {
-                "Id": 7,
-                "Pos": 1
-            },
-            {
-                "Id": 8,
-                "Pos": 1
-            },
-            {
-                "Id": 9,
-                "Pos": 1
-            },
-            {
-                "Id": 10,
-                "Pos": 1
-            },
-            {
-                "Id": 11,
-                "Pos": 1
-            },
-            {
-                "Id": 12,
-                "Pos": 1
-            },
-            {
-                "Id": 13,
-                "Pos": 2
-            },
-            {
-                "Id": 14,
-                "Pos": 1
-            }
-        ],
-        "PanelKnobs": [
-            {
-                "Id": 1,
-                "selection": 0.0
-            },
-            {
-                "Id": 2,
-                "selection": 0.0
-            },
-            {
-                "Id": 3,
-                "selection": 2.0
-            },
-            {
-                "Id": 5,
-                "selection": 0.0
-            },
-            {
-                "Id": 4,
-                "selection": 0.0
-            },
-            {
-                "Id": 6,
-                "selection": 0.0
-            },
-            {
-                "Id": 7,
-                "selection": 8.0
-            }
-        ],
         "PanelSwitches": [
             {
                 "Id": 1,
@@ -446,23 +248,221 @@
                 "Id": 45,
                 "Pos": 4
             }
+        ],
+        "PanelFuses": [
+            {
+                "Id": 1,
+                "Pos": 2
+            },
+            {
+                "Id": 2,
+                "Pos": 2
+            },
+            {
+                "Id": 3,
+                "Pos": 2
+            },
+            {
+                "Id": 4,
+                "Pos": 2
+            },
+            {
+                "Id": 5,
+                "Pos": 2
+            },
+            {
+                "Id": 6,
+                "Pos": 2
+            },
+            {
+                "Id": 7,
+                "Pos": 2
+            },
+            {
+                "Id": 8,
+                "Pos": 2
+            },
+            {
+                "Id": 9,
+                "Pos": 2
+            },
+            {
+                "Id": 10,
+                "Pos": 2
+            },
+            {
+                "Id": 11,
+                "Pos": 2
+            },
+            {
+                "Id": 12,
+                "Pos": 2
+            },
+            {
+                "Id": 13,
+                "Pos": 2
+            },
+            {
+                "Id": 14,
+                "Pos": 2
+            },
+            {
+                "Id": 15,
+                "Pos": 2
+            },
+            {
+                "Id": 16,
+                "Pos": 2
+            },
+            {
+                "Id": 17,
+                "Pos": 2
+            },
+            {
+                "Id": 18,
+                "Pos": 2
+            },
+            {
+                "Id": 19,
+                "Pos": 2
+            },
+            {
+                "Id": 20,
+                "Pos": 2
+            },
+            {
+                "Id": 21,
+                "Pos": 2
+            },
+            {
+                "Id": 22,
+                "Pos": 2
+            },
+            {
+                "Id": 23,
+                "Pos": 2
+            },
+            {
+                "Id": 24,
+                "Pos": 2
+            },
+            {
+                "Id": 25,
+                "Pos": 2
+            },
+            {
+                "Id": 26,
+                "Pos": 2
+            },
+            {
+                "Id": 27,
+                "Pos": 2
+            },
+            {
+                "Id": 28,
+                "Pos": 2
+            },
+            {
+                "Id": 29,
+                "Pos": 2
+            },
+            {
+                "Id": 30,
+                "Pos": 2
+            },
+            {
+                "Id": 31,
+                "Pos": 2
+            }
+        ],
+        "PanelKnobs": [
+            {
+                "Id": 1,
+                "selection": 0.0
+            },
+            {
+                "Id": 2,
+                "selection": 0.0
+            },
+            {
+                "Id": 3,
+                "selection": 2.0
+            },
+            {
+                "Id": 5,
+                "selection": 0.0
+            },
+            {
+                "Id": 4,
+                "selection": 0.0
+            },
+            {
+                "Id": 6,
+                "selection": 0.0
+            },
+            {
+                "Id": 7,
+                "selection": 8.0
+            }
+        ],
+        "PanelHandles": [
+            {
+                "Id": 1,
+                "Pos": 1
+            },
+            {
+                "Id": 2,
+                "Pos": 1
+            },
+            {
+                "Id": 3,
+                "Pos": 1
+            },
+            {
+                "Id": 4,
+                "Pos": 1
+            },
+            {
+                "Id": 6,
+                "Pos": 1
+            },
+            {
+                "Id": 5,
+                "Pos": 1
+            },
+            {
+                "Id": 7,
+                "Pos": 1
+            },
+            {
+                "Id": 8,
+                "Pos": 1
+            },
+            {
+                "Id": 9,
+                "Pos": 1
+            },
+            {
+                "Id": 10,
+                "Pos": 1
+            },
+            {
+                "Id": 11,
+                "Pos": 1
+            },
+            {
+                "Id": 12,
+                "Pos": 1
+            },
+            {
+                "Id": 13,
+                "Pos": 2
+            },
+            {
+                "Id": 14,
+                "Pos": 1
+            }
         ]
     },
-    "SpaceProgram": 0,
-    "Timers": {
-        "EventTimer": "00:00:00",
-        "GameTimer": "00:00:00",
-        "MissionDateTime": "0001-01-01T00:00:00",
-        "PlannedRetroTimestamp": "00:00:00",
-        "TimeOfIgnition": "0001-01-01T00:00:00",
-        "TimeSinceLaunch": "00:00:00",
-        "TimeToLaunch": "00:00:00",
-        "TimeToRetro": "00:00:00"
-    },
-    "Version": 0.621,
-    "WorldOffset": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    }
+    "SpaceProgram": 0
 }

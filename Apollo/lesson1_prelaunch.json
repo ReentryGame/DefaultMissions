@@ -9,8 +9,7 @@
     "LunarModulePilot": "Lars",
     "MinutesBeforeLaunch": 25.0,
     "MissionActivities": [],
-    "MissionCommands": [
-        {
+    "MissionCommands": [{
             "Action": 0,
             "Bool1": false,
             "ButtonId": 0,
@@ -2110,7 +2109,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 0,
-            "Message": "Set the two PAD COMM switches on the CNR and LMP radio panels of OFF.",
+            "Message": "Set the two PAD COMM switches on the CNR and LMP Radio panels to off.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,
@@ -2195,19 +2194,17 @@
             "Value3": 0.0
         }
     ],
-    "MissionGoals": [
-        {
-            "Completed": false,
-            "Description": "Splashdown in the ocean",
-            "Progress": null,
-            "String1": null,
-            "String2": null,
-            "Target1": 0.0,
-            "Target2": 0.0,
-            "Target3": 0.0,
-            "Type": 0
-        }
-    ],
+    "MissionGoals": [{
+        "Completed": false,
+        "Description": "Splashdown in the ocean",
+        "Progress": null,
+        "String1": null,
+        "String2": null,
+        "Target1": 0.0,
+        "Target2": 0.0,
+        "Target3": 0.0,
+        "Type": 0
+    }],
     "ScheduledLaunchTime": "1967-06-05T14:00:58",
     "SpaceProgram": 2,
     "StartInOrbit": false,

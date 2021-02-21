@@ -31,7 +31,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "Good morning {{profileName}}, today is the big day! This exam is currently quite hard to complete due to Apollo Atmospheric Entry being reworked.",
+            "Message": "Good morning {{profileName}}, today is the big day!",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

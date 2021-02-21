@@ -2334,7 +2334,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "It's important to balance this. When there is no need for precise attitudes, keep the dead band high to save fuel.",
+            "Message": "It's important to balance this. When there is no need for presice attitudes, keep the dead band high to save fuel.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

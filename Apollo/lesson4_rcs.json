@@ -6,6 +6,7 @@
     "Id": 103,
     "Inclination": 72.5,
     "InitialTimeToRetrograde": "10:00:00",
+    "LoadState": "state_apolloFreeFlightCSMOrbit",
     "LunarModulePilot": "Paul",
     "MinutesBeforeLaunch": 25.0,
     "MissionActivities": [],

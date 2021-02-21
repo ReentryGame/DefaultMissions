@@ -1246,7 +1246,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "A new set of a VERB and NOUN configuration is displayd, and looking up in the Reentry Lunar Module Flight manual, this is the weights of the LM and the CSM.",
+            "Message": "A new set of a VERB and NOUN configuration is displayed, and looking up in the Reentry Lunar Module Flight manual, this is the weights of the LM and the CSM.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

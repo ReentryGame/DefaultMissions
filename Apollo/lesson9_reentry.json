@@ -1,7 +1,7 @@
 {
-    "BriefingText": "BRIEFING\r\n\r\nAtmospheric Entry is the last phase of any Apollo Mission and must be carefully planned and executed.\r\nIt's and involved phase and it's important to double check the steps and the values.\r\n\r\nIn this lesson we will go through the steps needed to perform the entry burn using the SPS, then separate from the Service Module.\r\nUsing what's commonly referred to as the 60's, namely Program 61 - 67 on the Command Module computer, we can prepare the computer for entry.\r\n\r\nP61 - Entry Preparation\r\nP62 - CM/SM Separation and Preentry Maneuver\r\nP63 - Entry - Initialization\r\nP64 - Entry - post 0.05g\r\nP65 - Entry - Up control\r\nP66 - Entry - Ballistic\r\nP67 - Final Phase\r\n\r\nWe will start orienting the CSM to retrograde direction, before using P30 and P40 to perform the needed burn.\r\nThen we will follow checklists and set up the computer for entry.\r\n\r\nThe EMS, Entry Monitoring System, is heavily used during entry and will display the optimal entry path.\r\n\r\nAfter the 60's, the parachute deployment sequence starts, before splashing down into the ocean.\r\n\r\n\r\nGood luck!",
+    "BriefingText": "BRIEFING\r\n\r\nAtmospheric Entry is the last phase of any Apollo Mission and must be carefully planned and executed.\r\nIt's an involved mission phase and it's important to double check the steps and the values.\r\n\r\nIn this lesson we will go through the steps needed to perform the entry burn using the SPS, then separate from the Service Module.\r\nUsing what's commonly referred to as the 60's, namely Program 61 - 67 on the Command Module computer, we can prepare the computer for entry.\r\n\r\nP61 - Entry Preparation\r\nP62 - CM/SM Separation and Preentry Maneuver\r\nP63 - Entry - Initialization\r\nP64 - Entry - post 0.05g\r\nP65 - Entry - Up control\r\nP66 - Entry - Ballistic\r\nP67 - Final Phase\r\n\r\nWe will start orienting the CSM to retrograde direction, before using P30 and P40 to perform the needed burn.\r\nThen we will follow checklists and set up the computer for entry.\r\n\r\nThe EMS, Entry Monitoring System, is heavily used during entry and will display the optimal entry path.\r\n\r\nAfter the 60's, the parachute deployment sequence starts, before splashing down into the ocean.\r\n\r\n\r\nGood luck!",
     "CommandModulePilot": "Patrick",
-    "Description": "Atmospheric Entry is a demanding phase of the mission. A lot of preparations are needed, and the last part of the spacecraft, the command module capsule, will make the final journey and splash down into the ocean. This tutorial will use the SPS to set the trajectory back through the atmosphere, and the computer to guide the capsule through.",
+    "Description": "Atmospheric Entry is a demanding phase of the mission. A lot of preparations are needed, and the last part of the spacecraft, the command module capsule, will make the final journey and splash down into the ocean. This lesson will use the SPS to set the trajectory back through the atmosphere, and the computer to guide the capsule through.",
     "DisableDefaultAudioSFX": false,
     "EarthRotationOffsetDegrees": 0.0,
     "FlightPlanPrefabId": 0,
@@ -2015,7 +2015,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "This activates the entry DAP and once again displays predicted landing point and gives you an oppertunity to select the initial lift vector.",
+            "Message": "This activates the entry DAP and once again displays predicted landing point and gives you an opportunity to select the initial lift vector.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

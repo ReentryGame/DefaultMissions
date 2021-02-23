@@ -62,7 +62,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "In this lession, we will focus on the Primary Guidance and Navigation System (PNGS). The Abort Guidance System (AGS) is a backup system to the PNGS.",
+            "Message": "In this lession, we will focus on the Primary Guidance and Navigation System (PNGS). The Abort Guidance System (AGS) is a backup system to the PNGS, not yet implemented in Reentry.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

@@ -1,112 +1,112 @@
 {
-    "CompletionMessage": "The uncontrolled tumble was due to a faulty jet in the OAMS system, and naturally the press has been all over the incident. However, the docking objective was met, and Patrick commanded the final Gemini flight with no incidents. This means all the objectives of Project Gemini has been met, and focus has shifted to the Apollo program. Patrick has been scheduled for the first Apollo flight, and all efforts are being done to make sure the Apollo Command Module is ready in time. Your success in Gemini, and the ability to solve problems as they arise has made you one of the most famous astronauts, and naturally, you have been assigned a seat in the Apollo program.",
-    "Missions": [
-        {
-            "CampaignProgressInfo": "After a few successful test-flights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft.",
-            "FileName": "Missions/mission1.json",
-            "Program": 1,
-            "Title": "A New Spacecraft",
-            "missionIndex": 0
-        },
-        {
-            "CampaignProgressInfo": "The new spacecraft is working well, and orbital maneuvering has been proven in the previous flight. It's once again your turn to head up there and perform the first ever EVA attempt by the U.S. Once again the U.S.S.R. beat the U.S. in performing the first ever EVA in Voskhod a few months ago, but this is a critical maneuver we need to master for Project Apollo!",
-            "FileName": "Missions/mission2.json",
-            "Program": 1,
-            "Title": "The Walk in Space",
-            "missionIndex": 0
-        },
-        {
-            "CampaignProgressInfo": "Rendezvousing and docking with another spacecraft is another crucial task needed by the Apollo program, as astronauts will need to extract the Lunar Module from the Launch Vehicle, as well as getting back from the Lunar Surface. The next mission was all about practicing these two methods, however, the target docking vehicle failed to launch. Patrick and his crew is still in orbit in the long duration mission, so we will try to rendezvous with them instead, and leaving the docking for another mission.",
-            "FileName": "Missions/mission3.json",
-            "Program": 1,
-            "Title": "Face to Face",
-            "missionIndex": 0
-        },
-        {
-            "CampaignProgressInfo": "The press has gone wild after the first U.S. rendezvous & formation flying in space was achieved, including Commander Patricks 14 days in space. A lot of work is still in front of us as we make progress towards the bold goal and dream of landing on the Moon. A docking training module has just successfully launched into orbit at an altitude of 300 km, and it's your job to catch up with it, rendezvous and dock.",
-            "FileName": "Missions/mission4.json",
-            "Program": 1,
-            "Title": "The Docking",
-            "missionIndex": 0
-        },
-        {
-            "CampaignProgressInfo": "Multiple unsuccessful docking attempts has been made due to technical issues with either the docking target or the launch vehicle carrying it. As you are getting very good at rendezvous, it has been decided that you will get back up there and complete the job. A larger target vehicle named Agena has been launched up there, and a re-attempt at the first ever docking will be made. The Agena has a propulsion engine that will be used to get into record breaking altitudes.",
-            "FileName": "Missions/mission5.json",
-            "Program": 1,
-            "Title": "Let's Dock!?",
-            "missionIndex": 0
-        }
-    ],
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Campaign 2: Mastering Orbital Flight",
+    "TileBackgroundImage": "tileBg.png",
     "PageBackgroundImage": "pageBg.png",
     "Sections": [
         {
+            "Type": 0,
             "Data": "A New Destination",
-            "Type": 0,
             "Value": 0
         },
         {
+            "Type": 1,
             "Data": "The race for space between the U.S.S.R. and the U.S. is still going strong, and the U.S.S.R. has achieved more firsts than the U.S.  We are in catchup mode. Both Vostok and the new U.S.S.R. spacecraft \"Voskhod\" is making firsts at a rappid pace such as longest time in orbit, EVA and multi-crew operations in space.",
-            "Type": 1,
             "Value": 0
         },
         {
+            "Type": 1,
             "Data": "During Project Mercury, the president announced the goal of landing astronauts on the Moon. To reach this goal the development of a new program named \"Project Apollo\" was started.\r\n\r\nProject Mercury successfully met its goals of sending astronauts into Earth orbit, and returning them safely back to Earth. Building on its success, a new spacecraft has been developed to further learn and understand how orbital flight works. The program is named \"Project Gemini\".\r\n\r\nBefore sending anyone to the Moon, we need to learn everything needed to do so, and test it. Gemini's objective is to understand and test the space travel techniques needed to support the Apollo mission to land astronauts on the Moon.\r\n\r\nA Lunar Mission needs us to survive in space for up to 14 days, understand the methods of performing extra-vehicular activity (EVA), and the orbital maneuvers necessary to achieve rendezvous and docking with another spacecraft.",
-            "Type": 1,
             "Value": 0
         },
         {
+            "Type": 0,
             "Data": "The Spacecraft",
-            "Type": 0,
             "Value": 0
         },
         {
-            "Data": "The Gemini spacecraft is a larger spacecraft with room for two astronauts, and has the capability to alter its trajectory in space. The larger spacecraft is divided into three major sections: The Reentry module, the Retro module, and the Equipment module. Both the retro module and the equipment module are separated from the spacecraft before reentry.",
             "Type": 1,
+            "Data": "The Gemini spacecraft is a larger spacecraft with room for two astronauts and has the capability to alter its trajectory in space. The larger spacecraft is divided into three major sections: The Reentry module, the Retro module, and the Equipment module. Both the retro module and the equipment module are separated from the spacecraft before reentry.",
             "Value": 0
         },
         {
-            "Data": "Gemini_spacecraft.png",
             "Type": 2,
+            "Data": "Gemini_spacecraft.png",
             "Value": 0
         },
         {
+            "Type": 0,
             "Data": "The Reentry module",
-            "Type": 0,
             "Value": 0
         },
         {
+            "Type": 1,
             "Data": "The reentry module is the pressurized crew cabin that makes it possible to survive in space. It is the only part of the spacecraft that makes the entire journey from launch to splashdown. \r\n\r\nIt is powered by two different power sources: batteries as in Project Mercury, and the newly developed Fuel Cells that produce power from cryogenic substances.\r\n\r\nTwo attitude control systems named the RCS is used for attitude control during reentry.\r\n\r\nA state of the art on-board computer (OBC) will aid the crew in performing orbital maneuvers and guidance. Two different types of joysticks provide control of the spacecraft in both yaw, pitch roll, and translational axes (forward, backward, up, down, and sideways). Translation control enables rendezvous, docking, and crew control of the flight path.",
-            "Type": 1,
             "Value": 0
         },
         {
+            "Type": 0,
             "Data": "The Adapter Module",
-            "Type": 0,
             "Value": 0
         },
         {
+            "Type": 1,
             "Data": "The Adapter Module consists of both the Retro and the Equipment module. \r\n\r\nThe equipment module consists of most equipment needed during orbital flight. 16 thrusters used for both attitude and translational control is located here, as well as the Fuel Cells and cryogenic substances.\r\n\r\nFour solid-fuel retrorockets are located in the Reentry module, and are fired one-by-one as in Project Mercury.\r\n\r\nThe Equipment module powers the spacecraft in orbit, and is separated before the retrograde burn. After retrograde, the retro section is jettisoned before entry.",
-            "Type": 1,
             "Value": 0
         },
         {
+            "Type": 0,
             "Data": "The Academy",
-            "Type": 0,
             "Value": 0
         },
         {
-            "Data": "The press around the world printed your name in every paper after your heroic efforts in Project Mercury. Your skills and knowledge of the spacecraft was the essentials of your success, and the difference between a safe entry and a disaster. Your veteran skills are needed in Project Gemini, and you will be a commander with your own crew. Martin, the Director of Flight Crew Operation has assigned a newly hired astronaut named Aaron Skye as your co-pilot.\r\n\r\nBefore jumping into your first Gemini flight, it's time to visit the Academy again to get the Gemini License. The Gemini Academy can be found in the \"ACADEMY\" section of the Main Menu and will take you through everything you need to know about this brand new spacecraft. It's recommended to take a copy of the Reentry Gemini Flight Manual with you to the Academy so you can learn the theory and get a deeper understanding of the spacecraft. The tasks ahead will be complicated, and you will be one of the first to solve them.\r\n\r\nOptional: Once you have completed and received the Gemini Pilot Certificate, let your fellow astronauts know in the Official Reentry Discord group, where many of the other Gemini astronauts hang out. You can find them in discord.gg/reentrygame.",
             "Type": 1,
+            "Data": "The press around the world printed your name in every paper after your heroic efforts in Project Mercury. Your skills and knowledge of the spacecraft was the essentials of your success, and the difference between a safe entry and a disaster. Your veteran skills are needed in Project Gemini, and you will be a commander with your own crew. Martin, the Director of Flight Crew Operation has assigned a newly hired astronaut named Aaron Skye as your co-pilot.\r\n\r\nBefore jumping into your first Gemini flight, it's time to visit the Academy again to get the Gemini License. The Gemini Academy can be found in the \"ACADEMY\" section of the Main Menu and will take you through everything you need to know about this brand-new spacecraft. It's recommended to take a copy of the Reentry Gemini Flight Manual with you to the Academy so you can learn the theory and get a deeper understanding of the spacecraft. The tasks ahead will be complicated, and you will be one of the first to solve them.\r\n\r\nOptional: Once you have completed and received the Gemini Pilot Certificate, let your fellow astronauts know in the Official Reentry Discrod group, where many of the other Gemini astronauts hang out. You can find them in discord.gg/reentrygame.",
             "Value": 0
         },
         {
-            "Data": "Missions",
             "Type": 0,
+            "Data": "Missions",
             "Value": 0
         }
     ],
-    "TileBackgroundImage": "tileBg.png",
-    "Title": "Campaign 2: Mastering Orbital Flight",
-    "campaignPath": null,
-    "fullPathDescriptionFile": null
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 1,
+            "FileName": "Missions/mission1.json",
+            "Title": "A New Spacecraft",
+            "CampaignProgressInfo": "After a few successful testflights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 1,
+            "FileName": "Missions/mission2.json",
+            "Title": "The Walk in Space",
+            "CampaignProgressInfo": "The new spacecraft is working well, and orbital maneuvering has been proven in the previous flight. It's once again your turn to head up there and perform the first ever EVA attempt by the U.S. Once again, the U.S.S.R. beat the U.S. in performing the first ever EVA in Voskhod a few months ago, but this is a critical maneuver we need to master for Project Apollo!"
+        },
+        {
+            "missionIndex": 0,
+            "Program": 1,
+            "FileName": "Missions/mission3.json",
+            "Title": "Face to Face",
+            "CampaignProgressInfo": "Rendezvousing and docking with another spacecraft is another crucial task needed by the Apollo program, as astronauts will need to extract the Lunar Module from the Launch Vehicle, as well as getting back from the Lunar Surface. The next mission was all about practicing these two methods, however, the target docking vehicle failed to launch. Patrick and his crew are still in orbit in the long duration mission, so we will try to rendezvous with them instead, and leaving the docking for another mission."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 1,
+            "FileName": "Missions/mission4.json",
+            "Title": "The Docking",
+            "CampaignProgressInfo": "The press has gone wild after the first U.S. rendezvous & formation flying in space was achieved, including Commander Patricks 14 days in space. A lot of work is still in front of us as we make progress towards the bold goal and dream of landing on the Moon. A docking training module has just successfully launched into orbit at an altitude of 300 km, and it's your job to catch up with it, rendezvous and dock."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 1,
+            "FileName": "Missions/mission5.json",
+            "Title": "Let's Dock!?",
+            "CampaignProgressInfo": "Multiple unsuccessful docking attempts has been made due to technical issues with either the docking target or the launch vehicle carrying it. As you are getting very good at rendezvous, it has been decided that you will get back up there and complete the job. A larger target vehicle named Agena has been launched up there, and a re-attempt at the first ever docking will be made. The Agena has a propulsion engine that will be used to get into record breaking altitudes."
+        }
+    ],
+    "CompletionMessage": "The uncontrolled tumble was due to a faulty jet in the OAMS system, and naturally the press has been all over the incident. However, the docking objective was met, and Patrick commanded the final Gemini flight with no incidents. This means all the objectives of Project Gemini has been met, and focus has shifted to the Apollo program. Patrick has been scheduled for the first Apollo flight, and all efforts are being done to make sure the Apollo Command Module is ready in time. Your success in Gemini, and the ability to solve problems as they arise has made you one of the most famous astronauts, and naturally, you have been assigned a seat in the Apollo program."
 }

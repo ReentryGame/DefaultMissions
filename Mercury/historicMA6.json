@@ -4689,7 +4689,7 @@
             "From": 0,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "I'm will use fly-by-wire so I can control more accurately. It just started as I got to Guaymas, and appears to be it drifts off in yaw, to the right at about 1° per second. Will use fly-by-wire and controlling manually. Over.",
+            "Message": "I will use fly-by-wire so I can control more accurately. It just started as I got to Guaymas, and appears to be it drifts off in yaw, to the right at about 1° per second. Will use fly-by-wire and controlling manually. Over.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

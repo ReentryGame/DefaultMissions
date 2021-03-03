@@ -638,7 +638,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "To do this, follow the RCS PRESSURIZATION checklist, located in the SUBSYSTEMS ACTIVATION IV CHECKLIST. You can find it by scrolling down to almost the middle of the pad, just before the RCS HOT/COLD FIRING CHECK. Press SET UP RCS, and ROGER when complete.",
+            "Message": "To do this, follow the RCS PRESSURIZATION checklist, located in the ACTIVATION section. You can find it by scrolling down to almost the middle of the pad, just before the RCS HOT/COLD FIRING CHECK. Press SET UP RCS, and ROGER when complete.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

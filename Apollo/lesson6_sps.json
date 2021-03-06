@@ -431,7 +431,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 0,
-            "Message": "AUTO will control the valves automatically by the thrsut on/off logic and is the normal position.",
+            "Message": "AUTO will control the valves automatically by the thrust on/off logic and is the normal position.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

@@ -143,7 +143,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 0,
-            "Message": "Both Direct Current (DC) and Alternating Current (AC) is available. DC is generated from the Fuel Cells and Batteries directly, while AC is generated throgh three inverters.",
+            "Message": "Both Direct Current (DC) and Alternating Current (AC) is available. DC is generated from the Fuel Cells and Batteries directly, while AC is generated through three inverters.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

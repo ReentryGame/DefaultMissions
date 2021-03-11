@@ -607,7 +607,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "Enter the cockpit again and get a good view of the AGC. Mission Control have already set the values into the memory of the AGC, so our job will be to verify and make changes if needed.",
+            "Message": "Enter the cockpit again and get a good view of the AGC. Mission Control has already set the values into the memory of the AGC, so our job will be to verify and make changes if needed.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

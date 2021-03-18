@@ -72,7 +72,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "Ooxygen is supplied at 5.5 PSI in the cabin, and has two circuits: One through the cabin and one through the suit.",
+            "Message": "Oxygen is supplied at 5.5 PSI in the cabin, and has two circuits: One through the cabin and one through the suit.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

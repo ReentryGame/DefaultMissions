@@ -543,7 +543,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "The tool has three parameters you can alter. You can use the PLUSS and MINUS buttons to alter the value with the number in-between the buttons. You can adjust the modification value as needed.",
+            "Message": "The tool has three parameters you can alter. You can use the PLUS and MINUS buttons to alter the value with the number in-between the buttons. You can adjust the modification value as needed.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

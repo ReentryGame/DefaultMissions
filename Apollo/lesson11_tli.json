@@ -479,7 +479,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "Notice the while line. This is your trajectory once you enter the lunar sphere of influence, meaning the point where the gravity of the Moon is stronger than the gravity of Earth.",
+            "Message": "Notice the white line. This is your trajectory once you enter the lunar sphere of influence, meaning the point where the gravity of the Moon is stronger than the gravity of Earth.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

@@ -682,7 +682,7 @@
             "Timestamp": 0.0,
             "DisplayTime": 7.0,
             "From": 1,
-            "Message": "When in BT position, the VOLTS gauge will show the voltage of the battery. I low voltage on a battery can indicate a fault, and the battery should not be used. This one looks good.",
+            "Message": "When in BT position, the VOLTS gauge will show the voltage of the battery. Low voltage on a battery can indicate a fault, and the battery should not be used. This one looks good.",
             "Value1": 0.0,
             "Value2": 0.0,
             "Value3": 0.0,

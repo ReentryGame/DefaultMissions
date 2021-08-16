@@ -53,6 +53,7 @@
         }
     ],
     "Payload": 1,
+    "AllowRandomFailures": true,
     "ScheduledLaunchTime": "1968-11-05T14:00:58",
     "SpaceProgram": 2,
     "StartInOrbit": false,

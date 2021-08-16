@@ -2291,7 +2291,7 @@
     "MinutesBeforeLaunch": 10.0,
     "TargetAp": 161.0,
     "TargetPe": 161.0,
-    "Inclination": 33.0,
+    "Inclination": 32.5,
     "DisableDefaultAudioSFX": false,
     "LoadState": "",
     "OverridePanelState": false,

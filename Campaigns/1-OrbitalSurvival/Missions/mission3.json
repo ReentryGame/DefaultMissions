@@ -1385,7 +1385,7 @@
             "Bool1": false,
             "ThresholdLimit": 0.0,
             "PinID": 14,
-            "PinPosition": 3,
+            "PinPosition": 1,
             "FuseID": 0,
             "PullHandleID": 0,
             "PullHandlePosition": 0,

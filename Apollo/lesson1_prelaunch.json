@@ -2188,7 +2188,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 0.0,
       "From": 2,
-      "Message": "Then we will set the BAMGs to RATE 1. The BMAGS are used for backup attitude source, and for angular rates. Set BMAG ROLL to RATE 1.",
+      "Message": "Then we will set the BMAGs to RATE 1. The BMAGS are used for backup attitude source, and for angular rates. Set BMAG ROLL to RATE 1.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

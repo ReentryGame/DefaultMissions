@@ -3113,7 +3113,7 @@
   "LoadState": "stateFilename.json",
   "AllowRandomFailures": false,
   "RealisticRadioRange": false,
-  "OverrideSunPhase": false,
+  "OverrideSunPhase": true,
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": true,
   "OverridePanelStateFileName": "Default/ColdAndDark.json",

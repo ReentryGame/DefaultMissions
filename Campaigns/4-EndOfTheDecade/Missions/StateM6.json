@@ -4167,7 +4167,7 @@
                 },
                 {
                     "Id": 152,
-                    "Pos": 2
+                    "Pos": 1
                 },
                 {
                     "Id": 153,
@@ -4183,7 +4183,7 @@
                 },
                 {
                     "Id": 156,
-                    "Pos": 1
+                    "Pos": 2
                 },
                 {
                     "Id": 157,
@@ -4199,6 +4199,14 @@
                 },
                 {
                     "Id": 160,
+                    "Pos": 2
+                },
+                {
+                    "Id": 161,
+                    "Pos": 2
+                },
+                {
+                    "Id": 162,
                     "Pos": 2
                 }
             ],
@@ -4241,11 +4249,11 @@
                 },
                 {
                     "Id": 10,
-                    "selection": 2.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 11,
-                    "selection": 3.0
+                    "selection": 2.0
                 },
                 {
                     "Id": 12,
@@ -4277,7 +4285,7 @@
                 },
                 {
                     "Id": 19,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 20,
@@ -4285,15 +4293,15 @@
                 },
                 {
                     "Id": 21,
-                    "selection": 0.0
+                    "selection": 2.0
                 },
                 {
                     "Id": 22,
-                    "selection": 0.0
+                    "selection": 2.0
                 },
                 {
                     "Id": 23,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 24,
@@ -4301,15 +4309,15 @@
                 },
                 {
                     "Id": 25,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 26,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 27,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 28,
@@ -4321,7 +4329,7 @@
                 },
                 {
                     "Id": 30,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 31,
@@ -4329,7 +4337,7 @@
                 },
                 {
                     "Id": 32,
-                    "selection": 0.0
+                    "selection": 7.0
                 },
                 {
                     "Id": 33,
@@ -4341,18 +4349,26 @@
                 },
                 {
                     "Id": 35,
-                    "selection": 0.0
-                },
-                {
-                    "Id": 36,
-                    "selection": 0.0
-                },
-                {
-                    "Id": 37,
                     "selection": 1.0
                 },
                 {
+                    "Id": 36,
+                    "selection": 1.0
+                },
+                {
+                    "Id": 37,
+                    "selection": 0.0
+                },
+                {
                     "Id": 38,
+                    "selection": 1.0
+                },
+                {
+                    "Id": 39,
+                    "selection": 1.0
+                },
+                {
+                    "Id": 40,
                     "selection": 1.0
                 }
             ],
@@ -4579,6 +4595,9 @@
         "y": -353.97,
         "z": -252.038742
     },
+    "CDRpos": 1,
+    "CMPpos": 0,
+    "LMPpos": 1,
     "SpaceProgram": 2,
     "SessionState": 4
 }

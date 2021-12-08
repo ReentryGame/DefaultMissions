@@ -1,7 +1,7 @@
 {
     "BriefingText": "BRIEFING\r\n\r\nExplore the Moon, and attempt a Lunar Ascent.",
     "CommandModulePilot": "Lars",
-    "Description": "The LM has landed on the Moon. Explore the Lunar surface by food, or take the Rover out for a spin. When ready, perform a Lunar Ascent, Rendezvous with the CSM and perform a docking.",
+    "Description": "The LM has landed on the Moon. Explore the Lunar surface by foot, or take the Rover out for a spin. When ready, perform a Lunar Ascent, Rendezvous with the CSM and perform a docking.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
     "Id": 504,

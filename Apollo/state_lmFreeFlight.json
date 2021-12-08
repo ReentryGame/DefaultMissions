@@ -1018,7 +1018,7 @@
                 },
                 {
                     "Id": 25,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 26,
@@ -1066,7 +1066,7 @@
                 },
                 {
                     "Id": 37,
-                    "selection": 1.0
+                    "selection": 0.0
                 }
             ],
             "PanelRolls": [

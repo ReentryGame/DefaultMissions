@@ -3115,7 +3115,7 @@
   "SpaceProgram": 2,
   "Id": 100,
   "ID": "3ed9dbe4-fec4-4d04-b515-eae6c792f985",
-  "Title": "Apollo Lesson 1 - Pre-Launch",
+  "Title": "Lesson 1 - Pre-Launch",
   "Description": "Welcome to Project Apollo! This spacecraft is far more advanced and complex than both Project Mercury and Project Gemini and will take a lot of studying to master.\r\nThese lessons are designed to give you the basic understanding of its systems.",
   "BriefingText": "BRIEFING\r\n\r\nWelcome to Project Apollo, the most advanced spacecraft to-date. The spacecraft has many complex systems that work together to provide navigation and life-support for three astronauts for long-duration missions in space.\r\n\r\nDon't feel overwhelmed by the amount of switches and systems, it will all make sense in the end. And you will have access to checklists.\r\n\r\nThis lesson will teach you the final preparations before launch and the boost phase. We will go through the Computer and the systems needed for a safe ascent. However, the mission will end before the launch.",
   "FlightPlanPrefabId": 0,

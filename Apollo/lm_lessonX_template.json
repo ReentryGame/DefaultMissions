@@ -1,15 +1,15 @@
 {
-    "BriefingText": "BRIEFING\r\n\r\n1)Activate the Lunar Module\n2)Perform a Descent Orbit Injection burn (reduce Pe to 15km altitude).\n2)Undock the Lunar Module\n3)Perform a Powered Descent and Landing.",
-    "CommandModulePilot": "Lars",
-    "Description": "The LM is docked with the CSM. It needs to be activated, before a Descent Orbit Injection burn can take the stack into a proper orbit for powered descent and landing.",
+    "BriefingText": "BRIEFING\r\n\r\nInstructor: Patrick\r\nLevel: Advanced\r\n\r\nIn this lesson, we will go deeper into the Electrical Power Subsystem (EPS). We will learn about the various power sources available, and their modes of operation.",
+    "CommandModulePilot": "Patrick",
+    "Description": "In the previous lessons, you learned how to enter the LM, and the various checklists for activating subsystems. In this lesson, you will learn how the basics of the Electrical Power Subsystem works.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
-    "Id": 504,
+    "Id": 127,
     "Inclination": 32.5,
-    "InitialTimeToRetrograde": "11:20:00",
-    "LoadState": "state_lmExam.json",
+    "InitialTimeToRetrograde": "10:00:00",
+    "LoadState": "state_lesson3.json",
     "LunarModulePilot": "Paul",
-    "MinutesBeforeLaunch": 60.0,
+    "MinutesBeforeLaunch": 10.0,
     "MissionActivities": [],
     "MissionCommands": [
         {
@@ -30,7 +30,7 @@
             "LM_KnobID": 0,
             "LM_PinID": 0,
             "LM_PinPosition": 0,
-            "Message": "Scenario: Lunar Module Undocking",
+            "Message": "Welcome to the Electrical Power Subsystem lesson of the Lunar Module Academy.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -39,7 +39,7 @@
             "String2": null,
             "String3": null,
             "ThresholdLimit": 0.0,
-            "Timestamp": 10.0,
+            "Timestamp": 0.0,
             "Value1": 0.0,
             "Value2": 0.0,
             "Value3": 0.0
@@ -48,7 +48,7 @@
     "MissionGoals": [
         {
             "Completed": false,
-            "Description": "Survive",
+            "Description": "Complete the lesson",
             "Progress": null,
             "String1": null,
             "String2": null,
@@ -59,10 +59,10 @@
         }
     ],
     "Payload": 1,
-    "ScheduledLaunchTime": "1969-07-20T07:51:00",
+    "ScheduledLaunchTime": "1969-03-04T15:00:00",
     "SpaceProgram": 2,
     "StartInOrbit": true,
     "TargetAp": 185.0,
     "TargetPe": 185.0,
-    "Title": "Lunar Module Undocking"
+    "Title": "Lesson 3 - Electrical Power"
 }

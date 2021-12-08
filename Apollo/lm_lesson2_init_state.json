@@ -4289,7 +4289,7 @@
                 },
                 {
                     "Id": 25,
-                    "selection": 0.0
+                    "selection": 1.0
                 },
                 {
                     "Id": 26,
@@ -4337,7 +4337,7 @@
                 },
                 {
                     "Id": 37,
-                    "selection": 1.0
+                    "selection": 0.0
                 },
                 {
                     "Id": 38,
@@ -4567,6 +4567,9 @@
         "y": -353.97,
         "z": 0.0
     },
+    "CDRpos": 1,
+    "CMPpos": 0,
+    "LMPpos": 1,
     "SpaceProgram": 2,
     "SessionState": 2
 }

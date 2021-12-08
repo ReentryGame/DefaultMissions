@@ -4567,6 +4567,9 @@
         "y": -353.97,
         "z": 0.0
     },
+    "CDRpos": 0,
+    "CMPpos": 0,
+    "LMPpos": 0,
     "SpaceProgram": 2,
     "SessionState": 1
 }

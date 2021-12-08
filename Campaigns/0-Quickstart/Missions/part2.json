@@ -1835,7 +1835,7 @@
             "Timestamp": 0.0,
             "DisplayTime": 7.0,
             "From": 1,
-            "Message": "To modify the Orbit, you need to use the translational thrusters. Use [U] to go forward, [O] to to backwards, [J] to go left, [L] to go right.",
+            "Message": "To modify the Orbit, you need to use the translational thrusters. Use [U] to go forward, [O] to go backwards, [J] to go left, [L] to go right.",
             "Value1": 0.0,
             "Value2": 0.0,
             "Value3": 0.0,

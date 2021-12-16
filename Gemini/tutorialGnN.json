@@ -657,7 +657,7 @@
             "String3": null,
             "ThresholdLimit": 2.0,
             "Timestamp": 0.0,
-            "Value1": 0.0,
+            "Value1": 2.0,
             "Value2": 0.0,
             "Value3": 0.0
         },
@@ -696,7 +696,7 @@
             "DisplayTime": 3.0,
             "Fault": 0,
             "From": 2,
-            "GaugeId": 29,
+            "GaugeId": 30,
             "KnobID": 0,
             "Message": "You can see the amount of propellant for the various propulsion systems using the PROP gauge with the selector knob below it.",
             "PinID": 0,

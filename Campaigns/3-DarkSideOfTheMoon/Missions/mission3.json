@@ -5,6 +5,7 @@
   "MissionCommands": [
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -38,6 +39,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -71,6 +73,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -104,6 +107,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -137,6 +141,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -170,6 +175,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -203,6 +209,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 750,
@@ -236,13 +243,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 753,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Then reconfigure the burn parameters so you get a Perilune of about 1850 km. Set the camera to burn point and try setting the Angle of TLI departure to 18 and the Flight Time Factor to 0.3987.",
+      "Message": "Then reconfigure the burn parameters so you get a Perilune of about 60 nmi alt. Set the camera to burn point and try setting the Angle of TLI departure to 18 and the Flight Time Factor to 0.4075.",
       "Value1": 1850.0,
       "Value2": 15.0,
       "Value3": 0.0,
@@ -269,6 +277,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 754,
@@ -302,6 +311,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -335,6 +345,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -368,6 +379,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -401,6 +413,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 200,
@@ -434,6 +447,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 204,
@@ -467,6 +481,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 202,
@@ -500,6 +515,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 200,
@@ -533,6 +549,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -566,6 +583,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 18,
@@ -599,6 +617,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -632,6 +651,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -665,6 +685,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 18,
@@ -698,6 +719,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 166,
@@ -731,6 +753,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -764,6 +787,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -797,6 +821,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -830,6 +855,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -863,6 +889,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 167,
@@ -896,6 +923,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -929,6 +957,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -962,6 +991,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -995,6 +1025,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1028,6 +1059,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1061,6 +1093,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1094,6 +1127,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1127,13 +1161,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Roger, sounds good. Crew, we will perform the CSM SEPARATION (NO LM) checklist to separate.",
+      "Message": "Roger, sounds good. Crew, we will perform the CSM SEPARATION PREP and the CSM SEPARATION checklists to separate.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1160,13 +1195,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 3,
-      "Message": "Sounds good, let's get familiar with the checklist, soon it will be just us and the CSM for the rest of the journey.",
+      "Message": "Sounds good, let's get familiar with the checklists, soon it will be just us and the CSM for the rest of the journey.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1193,6 +1229,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1226,6 +1263,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1259,6 +1297,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1292,6 +1331,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1325,13 +1365,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Let's prepare the EMS too. It will be good to see the dV we acquire from the maneuver. Use the RUN feature to complete and set up the dV mode of the EMS. It's under ENTRY MONITOR SYSTEM and named dV SETUP.",
+      "Message": "Let's prepare the EMS too. It will be good to see the dV we acquire from the maneuver. Use the RUN feature to complete and set up the dV mode of the EMS. It's under G&C REFERENCE and named dV SETUP.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1358,6 +1399,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -1391,6 +1433,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1424,13 +1467,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Ok, the next checklist is the CSM SEPARATION (NO LM) checklist.",
+      "Message": "Ok, the next checklist is the CSM SEPARATION PREP checklist.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1457,17 +1501,18 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Starting the CSM SEPARATION (NO LM) checklist now.",
+      "Message": "Starting the CSM SEPARATION PREP checklist now.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
-      "String1": "CSMSE",
+      "String1": "TnDCSMSepPrep",
       "String2": "",
       "String3": "",
       "Bool1": false,
@@ -1490,13 +1535,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1006,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Roger. You are free to separate when ready, take your time.",
+      "Message": "Roger. Complete the preparation.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1523,6 +1569,41 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
+      "Completed": false,
+      "Priority": false,
+      "Action": 1005,
+      "Timestamp": 25.0,
+      "DisplayTime": 6.0,
+      "From": 2,
+      "Message": "You are free to complete the separation. Use th RUN feature on the CSM SEPARATION checklist.",
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0,
+      "String1": "TnDCSMSep",
+      "String2": "",
+      "String3": "",
+      "Bool1": false,
+      "ThresholdLimit": 0.0,
+      "PinID": 0,
+      "PinPosition": 0,
+      "KnobID": 0,
+      "ButtonId": 0,
+      "FuseID": 0,
+      "FusePosition": 0,
+      "LM_PinID": 0,
+      "LM_PinPosition": 0,
+      "LM_KnobID": 0,
+      "LM_ButtonId": 0,
+      "LM_FuseID": 0,
+      "LM_FusePosition": 0,
+      "Fault": 0,
+      "Failure": 0,
+      "PlayAudioClip_String3": false
+    },
+    {
+      "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1556,6 +1637,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 152,
@@ -1589,6 +1671,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1622,6 +1705,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1655,6 +1739,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1688,6 +1773,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1721,6 +1807,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1754,6 +1841,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1787,6 +1875,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1820,6 +1909,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1853,6 +1943,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1886,6 +1977,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1919,6 +2011,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1952,6 +2045,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -1985,6 +2079,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -2018,6 +2113,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -2051,6 +2147,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -2084,6 +2181,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -2117,6 +2215,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -2150,6 +2249,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -2183,6 +2283,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -2216,6 +2317,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -2249,6 +2351,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1004,

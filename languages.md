@@ -23,7 +23,7 @@ This section will contain a table with the status of mission translation. Each m
 #### Campaign
 | Mission                                                 | Spanish | Russian | French | German |   |   |
 |---------------------------------------------------------|---------|---------|--------|--------|---|---|
-| Campaign Definition file                                |         |         |        |        |   |   |
+| Campaign Descriptor file                                |         |         |        |        |   |   |
 | Mission 1                                               |         |         |        |        |   |   |
 | Mission 2                                               |         |         |        |        |   |   |
 | Mission 3                                               |         |         |        |        |   |   |

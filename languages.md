@@ -21,6 +21,14 @@ This section will contain a table with the status of mission translation. Each m
 | VIRTUAL REALITY</br>mercuryTutorialVR.json                        |         |         |        |        |   |   |
 
 #### Campaign
+| Mission                                                 | Spanish | Russian | French | German |   |   |
+|---------------------------------------------------------|---------|---------|--------|--------|---|---|
+| Campaign Definition file                                |         |         |        |        |   |   |
+| Mission 1                                               |         |         |        |        |   |   |
+| Mission 2                                               |         |         |        |        |   |   |
+| Mission 3                                               |         |         |        |        |   |   |
+| Mission 4                                               |         |         |        |        |   |   |
+| Mission 5                                               |         |         |        |        |   |   |
 
 ## Translating
 The in-game tool can be used to translate. The process is similar to the one in https://github.com/ReentryGame/Languages.

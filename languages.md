@@ -10,7 +10,7 @@ This section will contain a table with the status of mission translation. Each m
 #### Academy
 | Mission                                                           | Spanish | Russian | French | German |   |   |
 |-------------------------------------------------------------------|---------|---------|--------|--------|---|---|
-| LESSON 1 - PRE-LAUNCH</br>mercuryTutorialPreLaunch.json           |         |         |        |        |   |   |
+| LESSON 1 - PRE-LAUNCH</br>mercuryTutorialPreLaunch.json           |    0%     |         |        |        |   |   |
 | LESSON 2 - LAUNCH & ASCENT</br>mercuryTutorialLaunchAscent.json   |         |         |        |        |   |   |
 | LESSON 3 - CHECKLISTS & ATLAS</br>mercuryTutorialAtlasAscent.json |         |         |        |        |   |   |
 | LESSON 4 - ELECTRICITY</br>mercuryTutorialEPS.json                |         |         |        |        |   |   |

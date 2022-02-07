@@ -11,6 +11,14 @@ This section will contain a table with the status of mission translation. Each m
 The in-game tool can be used to translate. The process is similar to the one in https://github.com/ReentryGame/Languages.
 To contribute, you will need to get the mission files stored on your harddrive, pick a language to translate to for a given file that is missing in the status above, use the in-game tool to translate (or a text editor), then commit and push the change as a pull request. We will then test and verify, and potentially merge the change into the game.
 
+| Language | code |
+|----------|------|
+| Spanish  | es   |
+| Russian  | ru   |
+| French   | fr   |
+| German   | de   |
+|          |      |
+
 ### 1. Setup
 The first step you need to do is to clone or download this repo to your local environment. Do this by using the clone/download zip button on this repo (Code->Clone/Download Zip)
 

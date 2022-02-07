@@ -6,6 +6,17 @@ A mission translated mission will have the language code as part of its filename
 
 ## Status
 This section will contain a table with the status of mission translation. Each mission will have a row with a status code for each language as a column.
+| Mission                                                           | Spanish | Russian | French | German |   |   |
+|-------------------------------------------------------------------|---------|---------|--------|--------|---|---|
+| LESSON 1 - PRE-LAUNCH</br>mercuryTutorialPreLaunch.json           |         |         |        |        |   |   |
+| LESSON 2 - LAUNCH & ASCENT</br>mercuryTutorialLaunchAscent.json   |         |         |        |        |   |   |
+| LESSON 3 - CHECKLISTS & ATLAS</br>mercuryTutorialAtlasAscent.json |         |         |        |        |   |   |
+| LESSON 4 - ELECTRICITY</br>mercuryTutorialEPS.json                |         |         |        |        |   |   |
+| LESSON 5 - ATTITUDE CONTROL</br>mercuryTutorialRCS.json           |         |         |        |        |   |   |
+| LESSON 6 - STAYING ALIVE</br>mercuryTutorialECS.json              |         |         |        |        |   |   |
+| LESSON 7 - SEQUENCER</br>mercuryTutorialSequencer.json            |         |         |        |        |   |   |
+| EXAM - FULL MISSION</br>mercuryTutorialFullMission.json           |         |         |        |        |   |   |
+| VIRTUAL REALITY</br>mercuryTutorialVR.json                        |         |         |        |        |   |   |
 
 ## Translating
 The in-game tool can be used to translate. The process is similar to the one in https://github.com/ReentryGame/Languages.

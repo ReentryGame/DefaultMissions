@@ -8,9 +8,9 @@ A mission translated mission will have the language code as part of its filename
 This section will contain a table with the status of mission translation. Each mission will have a row with a status code for each language as a column.
 ### MERCURY
 #### Academy
-| Mission                                                           | Spanish | Russian | French | German |   |   |
+| Mission                                                           | Spanish | Russian | French | German |Chinese   |   |
 |-------------------------------------------------------------------|---------|---------|--------|--------|---|---|
-| LESSON 1 - PRE-LAUNCH</br>mercuryTutorialPreLaunch.json           |    0%     |         |        |        |   |   |
+| LESSON 1 - PRE-LAUNCH</br>mercuryTutorialPreLaunch.json           |    0%     |         |        |        | 100%  |   |
 | LESSON 2 - LAUNCH & ASCENT</br>mercuryTutorialLaunchAscent.json   |         |         |        |        |   |   |
 | LESSON 3 - CHECKLISTS & ATLAS</br>mercuryTutorialAtlasAscent.json |         |         |        |        |   |   |
 | LESSON 4 - ELECTRICITY</br>mercuryTutorialEPS.json                |         |         |        |        |   |   |
@@ -21,7 +21,7 @@ This section will contain a table with the status of mission translation. Each m
 | VIRTUAL REALITY</br>mercuryTutorialVR.json                        |         |         |        |        |   |   |
 
 #### Campaign
-| Mission                                                 | Spanish | Russian | French | German |   |   |
+| Mission                                                 | Spanish | Russian | French | German | Chinese  |   |
 |---------------------------------------------------------|---------|---------|--------|--------|---|---|
 | Campaign Descriptor file                                |         |         |        |        |   |   |
 | Mission 1                                               |         |         |        |        |   |   |

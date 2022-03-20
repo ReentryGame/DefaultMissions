@@ -77,7 +77,7 @@
             "Program": 1,
             "FileName": "Missions/mission1.json",
             "Title": "A New Spacecraft",
-            "CampaignProgressInfo": "After a few successful testflights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft."
+            "CampaignProgressInfo": "After a few successful test-flights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft."
         },
         {
             "missionIndex": 0,

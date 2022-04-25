@@ -1,7 +1,7 @@
 {
     "BriefingText": "BRIEFING\r\n\r\nNo assigned mission.",
     "CommandModulePilot": "Patrick",
-    "Description": "Free flight with no assigned mission.",
+    "Description": "Free flight with no assigned mission. Loads onto pad at T-25 min. Pre-Flight checklist must still be completed.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
     "Id": 0,
@@ -59,5 +59,5 @@
     "StartInOrbit": false,
     "TargetAp": 100.0,
     "TargetPe": 100.0,
-    "Title": "Apollo Free Play"
+    "Title": "Apollo SLV - Launch (T-25m)"
 }

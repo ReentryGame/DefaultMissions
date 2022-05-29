@@ -1,5 +1,5 @@
 {
-    "BriefingText": "任务简报\r\n\r\n您将在启动前 5 分钟进入。 太空舱处于进入状态。\r\n\r\n过程：\r\n1) 执行 FINAL CHECKS 清单\r\n2) 执行 ASCENT 清单\r\n3) 执行 PRE-RETRO 清单\r\ n4) 执行 RETRO 清单\r\n5) 执行 REENTRY 清单\r\n6) 执行 LANDING 清单\r\n\r\n您将降落在大西洋中.",
+    "BriefingText": "任务简报\r\n\r\n您将在启动前 5 分钟进入。 太空舱处于进入状态。\r\n\r\n过程：\r\n1) 执行 FINAL CHECKS 清单\r\n2) 执行 ASCENT 清单\r\n3) 执行 PRE-RETRO 清单\r\n4) 执行 RETRO 清单\r\n5) 执行 REENTRY 清单\r\n6) 执行 LANDING 清单\r\n\r\n您将降落在大西洋中.",
     "Description": "本课将指导您完成从发射到再入和返回的完整任务。 您将使用您在之前课程中学到的所有内容以及真正的宇航员使用的清单.",
     "FlightPlanPrefabId": 0,
     "Id": 107,

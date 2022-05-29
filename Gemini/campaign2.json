@@ -1,6 +1,6 @@
 {
     "BriefingText": "BRIEFING\r\n\r\nAnother Gemini Spacecraft is currently in Orbit around Earth. Your job is to rendezvous with it and fly in formation, before returning to Earth.",
-    "CoPilot": "Patric",
+    "CoPilot": "Patrick",
     "Description": "Another Gemini Spacecraft is currently in Orbit around Earth. Your job is to rendezvous with it and fly in formation, before returning to Earth.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,

@@ -389,7 +389,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 10.0,
       "From": 1,
-      "Message": "In the Virtual Cockpit, press F6 to move the camera to the stabilization control panel. A square named ASCS MODE SELECT with 3 switches configures this system in conjunction with 4 pull handles: a black MANUAL pull handle, and 3 white handles for PITCH, ROLL and YAW.",
+      "Message": "In the Virtual Cockpit, press F6 to move the camera to the stabilization control panel. A rectangle called ASCS MODE SELECT with 3 switches configures this system in conjunction with 4 pull handles: a black MANUAL pull handle, and 3 white handles for PITCH, ROLL and YAW.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

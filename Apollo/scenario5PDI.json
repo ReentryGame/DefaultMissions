@@ -1,7 +1,7 @@
 {
     "BriefingText": "BRIEFING\r\n\r\nPlan and perform a powered descent and landing.",
     "CommandModulePilot": "Lars",
-    "Description": "The LM is undocked from the CSM and in a proper Lunder Descent orbit. A Powered Descent needs to be planned, with a landing in the Sea of Tranquility.",
+    "Description": "The LM is undocked from the CSM and in a proper Lunar Descent orbit. A Powered Descent needs to be planned, with a landing in the Sea of Tranquility.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
     "Id": 504,

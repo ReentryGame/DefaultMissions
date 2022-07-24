@@ -765,7 +765,7 @@
     "MissionGoals": [
         {
             "Completed": false,
-            "Description": "Comlete the tutorial",
+            "Description": "Complete the tutorial",
             "Priority": false,
             "Progress": null,
             "String1": null,

@@ -551,7 +551,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 0,
-            "Message": "The FDAI will rotate to the configured launch attitude, and when comlete, Program 01 will automatically change to Program 02.",
+            "Message": "The FDAI will rotate to the configured launch attitude, and when complete, Program 01 will automatically change to Program 02.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

@@ -767,7 +767,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 0,
-            "Message": "Either or both the A or B SPS injector valve systems need to be armed to ignite the engine. The protected dV THRUST A/B switches on MDC-1 switch is used to ARM the control logic for the eninge injector valves A/B.",
+            "Message": "Either or both the A or B SPS injector valve systems need to be armed to ignite the engine. The protected dV THRUST A/B switches on MDC-1 switch is used to ARM the control logic for the engine injector valves A/B.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

@@ -1032,7 +1032,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 2,
-      "Message": "ARM the SPS engine at this point, making it ready for burn. Set SPS dV Thurst A to ARM. Optionally, you can ARM B too.",
+      "Message": "ARM the SPS engine at this point, making it ready for burn. Set SPS dV thrust A to ARM. Optionally, you can ARM B too.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

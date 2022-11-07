@@ -2188,7 +2188,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 1,
-      "Message": "Press PRO to accept automaneuvering so the CSM will try to faces the LM. Return to the LM.",
+      "Message": "Press PRO to accept automaneuvering so the CSM will try to face the LM once the mode is set back to CMC. Do this and return to the LM.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

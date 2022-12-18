@@ -454,7 +454,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 3,
-      "Message": "AGC Parameters should be uplinked. One you run P15, N33 will show the ignition time in mission elapsed time.",
+      "Message": "AGC Parameters should be uplinked. Once you run P15, N33 will show the ignition time in mission elapsed time.",
       "Value1": 15.0,
       "Value2": 0.0,
       "Value3": 0.0,

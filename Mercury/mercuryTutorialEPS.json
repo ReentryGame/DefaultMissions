@@ -70,7 +70,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Before we start, we will make a quick reconfiguration of the autopilot as we will be depowering important components the ASCS is depending on.",
+      "Message": "Before we start, we will make a quick reconfiguration of the autopilot as we will be de-powering important components the ASCS is depending on.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

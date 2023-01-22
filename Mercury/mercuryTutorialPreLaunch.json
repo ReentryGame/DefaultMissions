@@ -302,7 +302,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 1,
-      "Message": "The rockets pyrotechnics (pyros) are armed by a squib switch. When armed, the isolated battery can power and trigger them. Arming the squibs are REQUIRED to jettison and separate parts of the rocket. ARM the SQUIB now.",
+      "Message": "The rockets pyrotechnics (pyro) are armed by a squib switch. When armed, the isolated battery can power and trigger them. Arming the squibs are REQUIRED to jettison and separate parts of the rocket. ARM the SQUIB now.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

@@ -964,7 +964,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 2,
-      "Message": "[SCS TVC] Makes the thrust vector to keep inertially fixed during any burn, [RATE CMD] works as some sort of NULL rotation for a while.",
+      "Message": "[SCS TVC] Makes the thrust vector to keep inertial fixed during any burn, [RATE CMD] works as some sort of NULL rotation for a while.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

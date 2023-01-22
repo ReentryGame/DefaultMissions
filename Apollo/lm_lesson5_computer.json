@@ -1406,7 +1406,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 2,
-      "Message": "As a challenge, are you able to find that DAP configuration again? Verb 04 can be used to display two octals, one in R1 and another in R2, and the DAP exists in Noun 46.",
+      "Message": "As a challenge, are you able to find that DAP configuration again? Verb 04 can be used to display two octal numbers, one in R1 and another in R2, and the DAP exists in Noun 46.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

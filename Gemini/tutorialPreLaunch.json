@@ -548,7 +548,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "The Main DC Bus is now powered by both systems. As in Project Mercury, the pyrotechniques are dependent on another isolated power system, the Common Controls Bus.",
+            "Message": "The Main DC Bus is now powered by both systems. As in Project Mercury, the pyrotechnics are dependent on another isolated power system, the Common Controls Bus.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

@@ -237,7 +237,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "The oxygen used in the capsule is the same as the cyrogenic oxygen used in the Fuel Cells. It is heated before entering the oxygen loops. The primary oxygen tank is in the Adapter and the secondary in the Capsule for reentry.",
+            "Message": "The oxygen used in the capsule is the same as the cryogenic oxygen used in the Fuel Cells. It is heated before entering the oxygen loops. The primary oxygen tank is in the Adapter and the secondary in the Capsule for reentry.",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

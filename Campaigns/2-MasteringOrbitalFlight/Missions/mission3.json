@@ -2139,7 +2139,7 @@
   "Id": 8255563,
   "ID": "ceb0af33-4dff-478a-9633-788da2052dc6",
   "Title": "FACE TO FACE",
-  "Description": "The U.S.S.R. achieved a rendezvous with a distance of several kilometers and had radio contact between two Vostok crafts. However, no formation flying was possible. In this mission, you will rendezvous with another Gemini spacecraft, and fly in formation with it using the OAMS thursters.",
+  "Description": "The U.S.S.R. achieved a rendezvous with a distance of several kilometers and had radio contact between two Vostok crafts. However, no formation flying was possible. In this mission, you will rendezvous with another Gemini spacecraft, and fly in formation with it using the OAMS thrusters.",
   "BriefingText": "",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,

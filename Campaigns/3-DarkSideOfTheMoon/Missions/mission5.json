@@ -353,7 +353,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Roger, since we used P52, opt 1, the burn direction should be at 0 pitch and 0 yaw on the FDAI. For the P40 automaneuver steps, amke sure to set N18 to all zeros to achieve this. Proceed towards countdown and make sure the craft is aligning with the burn direction.",
+      "Message": "Roger, since we used P52, opt 1, the burn direction should be at 0 pitch and 0 yaw on the FDAI. For the P40 auto-maneuver steps, make sure to set N18 to all zeros to achieve this. Proceed towards countdown and make sure the craft is aligning with the burn direction.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

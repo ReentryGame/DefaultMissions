@@ -22,7 +22,7 @@
         },
         {
             "Type": 1,
-            "Data": "Modified intercontinental ballistic missiles can be used to launch artificial satellites to space. On 4. October 1957 the Soviet Union (USSR) successfully launched a satellite named Sputnik 1 into orbit around Earth, becoming the first artificial Earth satellite. It was a simple and lightweight satellite containing a radio transmitter. It transmitted a signal for three weeks before it's batteries died, and reentered and burned up in the atmosphere two months later.",
+            "Data": "Modified intercontinental ballistic missiles can be used to launch artificial satellites to space. On 4. October 1957 the Soviet Union (USSR) successfully launched a satellite named Sputnik 1 into orbit around Earth, becoming the first artificial Earth satellite. It was a simple and lightweight satellite containing a radio transmitter. It transmitted a signal for three weeks before its batteries died, and reentered and burned up in the atmosphere two months later.",
             "Value": 0
         },
         {
@@ -92,7 +92,7 @@
             "Program": 0,
             "FileName": "Missions/mission1.json",
             "Title": "Interior Inspection",
-            "CampaignProgressInfo": " April 01, 1961: We are targetting a launch early in May. You are selected as the astronaut who will be the first human in history to make the journey into space."
+            "CampaignProgressInfo": " April 01, 1961: We are targeting a launch early in May. You are selected as the astronaut who will be the first human in history to make the journey into space."
         },
         {
             "missionIndex": 0,

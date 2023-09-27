@@ -1,7 +1,7 @@
 {
   "StartInOrbit": false,
   "ScheduledLaunchTime": "1965-06-03T15:14:00",
-  "InitialTimeToRetrograde": "20:00:00",
+  "InitialTimeToRetrograde": "120:00:00",
   "MissionCommands": [
     {
       "Delivered": false,
@@ -2691,7 +2691,7 @@
   "ID": "314555c9-3890-4ae8-a623-f30231659d2c",
   "Title": "WALK IN SPACE",
   "Description": "Extra-vehicular activity (EVA) aka. spacewalk is mandatory in Project Apollo, where astronauts will need to leave the spacecraft and walk on the Moon. This mission is designed to support this and learn how you are able to work outside the spacecraft in Earth orbit.",
-  "BriefingText": "BRIEFING\r\n\r\nIn this mission you will be launched into an initial elliptical orbit of 161km x 225 km.\n\nAfter insertion, you will spend a few minutes getting familiar with attitude control in both DIRECT and RATE COMMAND mode. This will simulate how the EVA controls work.\n\nAt MET 60 minutes, you will perform an EVA with the task of retrieving a backpack located at the rear end of the spaceship. To retrieve it, press the GET button above the backpack.\r\n\r\nAfter the EVA, we will return back home.\r\n\r\nEVA CONTROLS\r\nUse the Hand-Held Maneuvering Unit (HHMU) to translate forward and backwards using normal translation controls, and change your orientation using the normal attitude controls.\r\n\r\nOnce you move in a direction, there is no force that will stop you so you will need to counter with the opposite direction to stop or change direction.\r\nAvoid hitting the capsule with too high velocity, or else Newtons third law will add force back to the ship, and it will start drifting.\r\n\r\nGood luck!",
+  "BriefingText": "BRIEFING\r\n\r\nIn this mission you will be launched into an initial elliptical orbit.\n\nAfter insertion, you will spend a few minutes getting familiar with attitude control in both DIRECT and RATE COMMAND mode. This will simulate how the EVA controls work.\n\nAt MET 60 minutes, you will perform an EVA with the task of retrieving a backpack located at the rear end of the spaceship. To retrieve it, press the GET button above the backpack.\r\n\r\nAfter the EVA, we will return back home.\r\n\r\nEVA CONTROLS\r\nUse the Hand-Held Maneuvering Unit (HHMU) to translate forward and backwards using normal translation controls, and change your orientation using the normal attitude controls.\r\n\r\nOnce you move in a direction, there is no force that will stop you so you will need to counter with the opposite direction to stop or change direction.\r\nAvoid hitting the capsule with too high velocity, or else Newtons third law will add force back to the ship, and it will start drifting.\r\n\r\nGood luck!",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 0.0,

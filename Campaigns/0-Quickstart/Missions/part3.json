@@ -1435,7 +1435,7 @@
     ],
     "MissionActivities": [],
     "SpaceProgram": 1,
-    "Id": 2002,
+    "Id": 134579,
     "Title": "The new Commander",
     "Description": "You now have your own flight, and will be commanding the next Gemini mission. It has one orbit scheduled, and you will be commanding the spacecraft through the atmosphere, complete one orbit and reenter, with a splashdown in the Atlantic. It is expected that you perform all the checklists and major tasks onboard.",
     "BriefingText": "BRIEFING\r\n\r\nYou will be commanding the Gemini spacecraft into Orbit. One orbit is scheduled and the retrograde sequence will be starting 91 minutes after launch. \r\n\r\nThis is a Commanders Training flight, and you will be performing the spacecraft tasks. The main goals of the flight is to:\r\n- Test the Gemini capsules control systems\r\n- Manually maneuver the spacecraft attitude\r\n- Observe the surface of Earth from space\r\n- Reenter and land in the Atlantic\r\n\r\nGood luck!",

@@ -1,7 +1,7 @@
 {
   "StartInOrbit": false,
   "ScheduledLaunchTime": "1965-03-23T15:30:00",
-  "InitialTimeToRetrograde": "02:30:00",
+  "InitialTimeToRetrograde": "120:00:00",
   "MissionCommands": [
     {
       "Delivered": false,
@@ -65,7 +65,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Sounds good.  Once again, you are the first to fly it, {{profileName}}! We are all excited for the mission and seeing this state-of-the-art spacecraft fly.",
+      "Message": "Sounds good. Once again, you are the first to fly it, {{profileName}}! We are all excited for the mission and seeing this state-of-the-art spacecraft fly.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -173,7 +173,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Right. As you have requested, we are in a cold & dark state. Use the RUN feature and complete the Interior Inspection checklist.",
+      "Message": "Right. First we will inspect the cockpit and set up the reminding switches so we are ready to perform pre-launch system tests. Use the RUN feature and complete the Interior Inspection checklist.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3196,8 +3196,8 @@
   "RealisticRadioRange": false,
   "OverrideSunPhase": true,
   "OverrideSunPhaseValue": 180.0,
-  "OverridePanelState": true,
-  "OverridePanelStateFileName": "Default/ColdAndDark.json",
+  "OverridePanelState": false,
+  "OverridePanelStateFileName": "Default/Ingress.json",
   "OverrideTargetVehiclePhase": false,
   "OverrideTargetVehiclePhaseValue": 180.0
 }

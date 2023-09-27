@@ -1,7 +1,7 @@
 {
   "StartInOrbit": false,
   "ScheduledLaunchTime": "1966-02-12T15:42:00",
-  "InitialTimeToRetrograde": "20:00:00",
+  "InitialTimeToRetrograde": "120:00:00",
   "MissionCommands": [
     {
       "Delivered": false,

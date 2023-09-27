@@ -1,7 +1,7 @@
 {
   "StartInOrbit": false,
   "ScheduledLaunchTime": "1966-03-16T16:41:02",
-  "InitialTimeToRetrograde": "20:00:00",
+  "InitialTimeToRetrograde": "120:00:00",
   "MissionCommands": [
     {
       "Delivered": false,
@@ -11,7 +11,7 @@
       "Timestamp": 10.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "The Agena has successfully reached its circular orbit of about 300km altitude at inclination 28.91 degrees.",
+      "Message": "The Agena has successfully reached its circular orbit of about 160 nmi altitude at inclination 28.91 degrees.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -2009,7 +2009,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Exactly, planned orbit is at an altitude of about 1400 km. The highest Earth orbit ever reached by a crewed spacecraft. Verify OAMS is off and control mode is set to FREE.",
+      "Message": "Exactly, planned orbit is at an altitude of about 755 nmi. The highest Earth orbit ever reached by a crewed spacecraft. Verify OAMS is off and control mode is set to FREE.",
       "Value1": 20.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3570,8 +3570,8 @@
   "Id": 3678160,
   "ID": "aa7e21f3-3a9b-496c-bb2f-7e3f90830dc6",
   "Title": "LET'S DOCK!?",
-  "Description": "The Agena Target Vehicle has launched into orbit. You will re-try docking, and if successful, use the Agena engine to raise your orbit to 1400 km altitude, before returning home. If successful, this will be the first docking in history, and the longest distance humans has been from Earth. The Block I Command Module spacecraft is also rapidly making progress in the Apollo project, meaning we are slowly getting closer to the Moon.",
-  "BriefingText": "Agena is in a 298 x 297 km circular orbit with inclination 28.91 degrees.\n\nThis mission has 3 main goals:\n\n1) Rendezvous & Docking\nYou will be launched in-plane with Agena and need to circulate and rendezvous with it, before station keeping and docking.\n\n2) Raise Orbital Altitude at Ap\nOnce docked, you will use the Agena engine to raise your orbit to about 1400 km altitude.\n\n3) Safely return home\n\nGood luck!\n",
+  "Description": "The Agena Target Vehicle has launched into orbit. You will re-try docking, and if successful, use the Agena engine to raise your orbit to 755 nmi altitude, before returning home. If successful, this will be the first docking in history, and the longest distance humans has been from Earth. The Block I Command Module spacecraft is also rapidly making progress in the Apollo project, meaning we are slowly getting closer to the Moon.",
+  "BriefingText": "Agena is in a 160 x 160 nmi circular orbit with inclination 28.91 degrees.\n\nThis mission has 3 main goals:\n\n1) Rendezvous & Docking\nYou will be launched in-plane with Agena and need to circulate and rendezvous with it, before station keeping and docking.\n\n2) Raise Orbital Altitude at Ap\nOnce docked, you will use the Agena engine to raise your orbit to about 755 nmi altitude.\n\n3) Safely return home\n\nGood luck!\n",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 0.0,

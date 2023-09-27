@@ -1,7 +1,7 @@
 {
     "AllowRandomFailures": true,
     "BriefingText": "BRIEFING\r\n\r\nNo assignment, enjoy your flight.",
-    "Description": "Enter the Mercury-Atlas rocket in an open world with no assigned mission. Mission starts at T-90 with the capsule configured to a cold & dark panel state.",
+    "Description": "Enter the Mercury-Redstone rocket in an open world with no assigned mission. The mission starts at T-90 with the capsule configured to a cold & dark panel state.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
     "ID": "fad7d6d5-c19a-4a44-92c0-8d0464c647f5",

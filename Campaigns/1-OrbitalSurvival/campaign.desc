@@ -13,7 +13,7 @@
         },
         {
             "Type": 1,
-            "Data": "For generations we have been gazing up on the stars, telling tales of the ancient constellation that builds up the night sky. These fixed sources of distant light, some millions light years away, have been the basis for nagivators across the world for centuries. Mesmerized by the unknowns and vastness of space, philosophers and scientists had dedicated lifetimes of work to answer its existence.\r\n\r\nRecent developments in engineering, technology and research has unlocked the possibilities of answering many of the things that once just was a dream: Travelling to space.",
+            "Data": "For generations we have been gazing up to the stars, telling tales of the ancient constellations that build up the night sky. These fixed sources of distant light, some millions of light years away, have been the basis for navigators across the world for centuries. Mesmerized by the unknowns and vastness of space, philosophers and scientists have dedicated lifetimes of work to answer its existence.\r\n\r\nRecent developments in engineering, technology and research have unlocked the possibilities of answering many of the things that once were just a dream: Travelling to space.",
             "Value": 0
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "Type": 1,
-            "Data": "Modified intercontinental ballistic missiles can be used to launch artificial satellites to space. On 4. October 1957 the Soviet Union (USSR) successfully launched a satellite named Sputnik 1 into orbit around Earth, becoming the first artificial Earth satellite. It was a simple and lightweight satellite containing a radio transmitter. It transmitted a signal for three weeks before its batteries died, and reentered and burned up in the atmosphere two months later.",
+            "Data": "Modified intercontinental ballistic missiles can be used to launch artificial satellites to space. On 4 October 1957 the Soviet Union (USSR) successfully launched a satellite named Sputnik 1 into orbit around Earth, becoming the first artificial Earth satellite. It was a simple and lightweight satellite containing a radio transmitter. It transmitted a signal for three weeks before its batteries died, and reentered and burned up in the atmosphere two months later.",
             "Value": 0
         },
         {
@@ -107,22 +107,22 @@
             "Program": 0,
             "FileName": "Missions/mission3.json",
             "Title": "Going Orbital",
-            "CampaignProgressInfo": "Astronaut Patrick successfully followed a secondary Mercury-Redstone mission to verify its objectivs. The USSR orbited a cosmonaut, and it's time to catch up with their achievements."
+            "CampaignProgressInfo": "Astronaut Patrick successfully followed a secondary Mercury-Redstone mission to verify its objectives. The USSR orbited a Cosmonaut, and it's time to catch up with their achievements."
         },
         {
             "missionIndex": 0,
             "Program": 0,
             "FileName": "Missions/mission4.json",
             "Title": "Long Haul",
-            "CampaignProgressInfo": "The program had a huge achievement after your previous flight, and you have become a national hero. But it's time to get up again. Your next flight will have 6 orbits."
+            "CampaignProgressInfo": "Your previous flight was a huge achievement for the program, and you have become a national hero. But it's time to get up again. Your next flight will have 6 orbits."
         },
         {
             "missionIndex": 0,
             "Program": 0,
             "FileName": "Missions/mission5.json",
             "Title": "Hawaii",
-            "CampaignProgressInfo": "A malfunction in the Atlas launch vehicle caused by an anomaly resulted in an abort, and the loss of the launch vehicle. This has caused a bit of a setback, but we are on track again. Since then, Astronaut Patrick followed with a successful identical mission to yours, currently holding the record of longest time in space."
+            "CampaignProgressInfo": "A malfunction in the Atlas launch vehicle caused by an anomaly resulted in an abort, and the loss of the launch vehicle. This has caused a bit of a setback, but we are on track again. Since then, Astronaut Patrick successfully followed with an identical mission to yours, currently holding the record of longest time in space."
         }
     ],
-    "CompletionMessage": "After the success and completion of the final Mercury mission where you orbited 24 times, it was concluded that all resources will be moved into the development of the next space program, and the journey towards the Moon. Project Mercury had met its objectives, and some of the Mercury astronauts will continue their careers in Project Gemini."
+    "CompletionMessage": "After the success and completion of the final Mercury mission where you orbited 24 times, it was concluded that all resources would be moved into the development of the next space program, and the journey towards the Moon. Project Mercury met its objectives, and some of the Mercury astronauts will continue their careers in Project Gemini."
 }

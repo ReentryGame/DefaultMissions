@@ -52,7 +52,7 @@
   "Id": 7819262,
   "ID": "d2b1d4d5-20aa-4c06-99b8-f1c8ff47587c",
   "Title": "Scenario - In-Orbit",
-  "Description": "This scenario will load the Mercury Capsule into orbit. Your task is to get familiar with it during orbital flight and return back home. It is up to you how you want to spend the time in a scenario.",
+  "Description": "This scenario will load the Mercury Capsule in orbit. Your task is to get familiar with it during orbital flight, and return back home. It is up to you how you want to spend the time in this scenario.",
   "BriefingText": "",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,

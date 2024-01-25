@@ -16,7 +16,7 @@
             "Steps": [
                 {
                     "Completed": false,
-                    "Description": " Switch to fly-by-wire control system",
+                    "Description": "Switch to fly-by-wire control system",
                     "FlightMode": 2,
                     "Goal": 3,
                     "Progress": null,
@@ -56,7 +56,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Observe the motion of the ground track through the periscope  on both low and high magnification. ",
+                    "Description": "Observe the motion of the ground track through the periscope on both low and high magnification. ",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -66,7 +66,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Set up a low left yaw motion and stabilise the spacecraft  attitude at 0\ufffd yaw, 0\ufffd roll, and -34\ufffd pitch.  Use periscope  as the reference.",
+                    "Description": "Set up a low left yaw motion and stabilise the spacecraft attitude at 0\ufffd yaw, 0\ufffd roll, and -34\ufffd pitch. Use periscope for reference.",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -76,7 +76,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Records results of the maneuver in Notes, return to Orbit Attitude",
+                    "Description": "Record results of the maneuver in Notes, return to Orbit Attitude",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Progress": null,
@@ -273,5 +273,5 @@
     "StartInOrbit": true,
     "TargetAp": 150.0,
     "TargetPe": 150.0,
-    "Title": "TEst flight modes"
+    "Title": "Test flight modes"
 }

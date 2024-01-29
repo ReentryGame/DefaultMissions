@@ -130,7 +130,7 @@
             "Timestamp": 120.0,
             "DisplayTime": 3.0,
             "From": 2,
-            "Message": "{{capsuleName}}, this mission is similar to the previous mission. The goal is to once again get into orbit, then you try the various flight modes of the capsule.",
+            "Message": "{{capsuleName}}, this mission is similar to the previous mission. The goal is once again to get into orbit, then you try the various flight modes of the capsule.",
             "Value1": 0.0,
             "Value2": 0.0,
             "Value3": 0.0,

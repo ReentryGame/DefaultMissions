@@ -592,7 +592,7 @@
             "Timestamp": 25.0,
             "DisplayTime": 6.0,
             "From": 1,
-            "Message": "We recommend you to shut down the PROGRAMMER by setting its fuse to off for the reminder of the flight, and remain in manual attitude control.",
+            "Message": "We recommend you to shut down the PROGRAMMER by setting its fuse to OFF for the reminder of the flight, and remain in manual attitude control.",
             "Value1": 0.0,
             "Value2": 0.0,
             "Value3": 0.0,

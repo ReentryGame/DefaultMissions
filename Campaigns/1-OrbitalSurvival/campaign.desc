@@ -13,7 +13,7 @@
         },
         {
             "Type": 1,
-            "Data": "For generations we have been gazing up to the stars, telling tales of the ancient constellations that build up the night sky. These fixed sources of distant light, some millions of light years away, have been the basis for navigators across the world for centuries. Mesmerized by the unknowns and vastness of space, philosophers and scientists have dedicated lifetimes of work to answer its existence.\r\n\r\nRecent developments in engineering, technology and research have unlocked the possibilities of answering many of the things that once were just a dream: Travelling to space.",
+            "Data": "For generations we have been gazing up to the stars, telling tales of the ancient constellations that made up the night sky. These fixed sources of distant light, some millions of light years away, have been the basis for navigators across the world for centuries. Mesmerized by the unknowns and vastness of space, philosophers and scientists have dedicated lifetimes of work to answer its existence.\r\n\r\nRecent developments in engineering, technology and research have unlocked the possibilities of answering many of the things that once were just a dream: Travelling to space.",
             "Value": 0
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "Type": 1,
-            "Data": "The first requirement of this campaign is that you complete the Mercury Academy. The Academy can be found on the Main Menu, and will take you through all the details required to operate this brand new spaceship! During your stay with the Academy, it's recommended to also have a copy of the Reentry Mercury Flight Manual with you so you can get a deeper understanding of the systems practiced during training.\r\n\r\nOptional: Once you have completed and received the Mercury Pilot Certificate, let your fellow astronauts know in the Official Reentry Discord group, where many of the other Reentry Astronauts hang out. You can find them in discord.gg/reentrygame.",
+            "Data": "The first requirement of this campaign is that you complete the Mercury Academy. The Academy can be found on the Main Menu, and will take you through all the details required to operate this brand new spaceship! During your stay with the Academy, it's recommended to also have a copy of the Reentry Mercury Flight Manual with you so you can get a deeper understanding of the systems practised during training.\r\n\r\nOptional: Once you have completed and received the Mercury Pilot Certificate, let your fellow astronauts know in the Official Reentry Discord group, where many of the other Reentry Astronauts hang out. You can find them in discord.gg/reentrygame.",
             "Value": 0
         }
     ],
@@ -100,7 +100,7 @@
             "Program": 0,
             "FileName": "Missions/mission2.json",
             "Title": "Reaching Space",
-            "CampaignProgressInfo": "The USSR beat us again, but we still have an important flight coming up.  May 05, 1961: Launch day."
+            "CampaignProgressInfo": "The USSR beat us again, but we still have an important flight coming up. May 05, 1961: Launch day."
         },
         {
             "missionIndex": 0,

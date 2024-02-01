@@ -25,7 +25,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "{{profileName}}, perform a manual ascent and insertion into parking a 163x265 km orbit with inclination 32.5 degrees.",
+            "Message": "{{profileName}}, perform a manual ascent and insertion into a parking orbit of 163x265 km with an 32.5 degree inclination.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

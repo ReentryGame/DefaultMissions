@@ -279,7 +279,7 @@
             "From": 1,
             "FuseID": 0,
             "KnobID": 0,
-            "Message": "T -60 seconds, ensure the spacecraft is configured and the Launch Control switch is set to Ready.",
+            "Message": "T-60 seconds, ensure the spacecraft is configured and the Launch Control switch is set to Ready.",
             "PinID": 3,
             "PinPosition": 1,
             "PullHandleID": 0,

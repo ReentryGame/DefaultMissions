@@ -605,7 +605,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "Once [30] is Displayed in the hours digits, turn Dial clockwise back to middle position [0] and use the other positions to set seconds to [00]. Next, turn [LEFT PIN] DOWN TO => [STOP].",
+      "Message": "Once [30] is Displayed in the minutes digits, turn Dial clockwise back to middle position [0] and use the other positions to set seconds to [00]. Next, turn [LEFT PIN] DOWN TO => [STOP].",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

@@ -1,7 +1,7 @@
 {
-    "BriefingText": "Lors de cette mission, vous serez lancé sur une orbite initiale. Depuis cette orbite, vous effectuerez une sortie extravéhiculaire (EVA) avec pour mission de récupérer un sac à dos situé à l'arrière du vaisseau spatial. Pour le récupérer, appuyez sur le bouton GET situé au-dessus du sac à dos. \N- Après l'EVA, nous retournerons à la maison. \N- Contrôles de l'EVA \N- Utilisez l'Unité de Manœuvre Manuelle (HHMU) pour avancer et reculer en utilisant les contrôles de translation normaux, et changez votre orientation en utilisant les contrôles d'attitude normaux. \r\n- Une fois que vous vous déplacez dans une direction, il n'y a pas de force qui vous arrêtera, vous devrez donc contrer avec la direction opposée pour vous arrêter ou changer de direction.\r\n- Evitez de heurter la capsule avec une vitesse trop élevée, sinon la troisième loi de Newton ajoutera de la force au vaisseau, et il commencera à dériver.\r\n- Bonne chance.!",
+    "BriefingText": "BRIEFING\r\n\r\nIn this mission you will be launched into an initial orbit. From this orbit, you will perform an EVA with the task of retrieving a backpack located at the rear end of the spaceship. To retrieve it, press the GET button above the backpack.\r\n\r\nAfter the EVA, we will return back home.\r\n\r\nEVA CONTROLS\r\nUse the Hand-Held Maneuvering Unit (HHMU) to translate forward and backwards using normal translation controls, and change your orientation using the normal attitude controls.\r\n\r\nOnce you move in a direction, there is no force that will stop you so you will need to counter with the opposite direction to stop or change direction.\r\nAvoid hitting the capsule with too high velocity, or else Newtons third law will add force back to the ship, and it will start drifting.\r\n\r\nGood luck!",
     "CoPilot": "Patrick",
-    "Description": "Cette mission s'appuiera sur la dernière mission et consistera à effectuer une EVA. Cela signifie que vous entrerez en orbite, puis sortirez du cockpit et effectuerez une opération simple, puis reviendrez dans le cockpit.",
+    "Description": "This mission will build upon the last mission and will be around performing an EVA. This means you will enter an orbit, then exit the cockpit and perform a simple operation, then return into the cockpit.",
     "DisableDefaultAudioSFX": false,
     "FlightPlanPrefabId": 0,
     "Id": 11,
@@ -13,13 +13,13 @@
         {
             "Cancelled": false,
             "Completed": false,
-            "Description": "Au cours de cette opération, vous effectuerez une sortie extravéhiculaire (EVA) et obtiendrez un backback situé à l'extrémité du vaisseau..",
+            "Description": "In this activity, you will perform an EVA and get a backback located at the end of the ship.",
             "Points": 100,
             "Started": false,
             "Steps": [
                 {
                     "Completed": false,
-                    "Description": "Réglez le mode de vol sur Plate-forme et la Plate-forme sur SEF",
+                    "Description": "Set the flight mode to Platform and the Platform to SEF",
                     "FlightMode": 6,
                     "Goal": 3,
                     "Platform": 2,
@@ -30,7 +30,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Suivez la checklist EVA pour vider la cabine de son oxygène avant d'ouvrir le sas.",
+                    "Description": "Follow the EVA Checklist to VENT the cabin of oxygen before opening the Hatch.",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Platform": 0,
@@ -41,7 +41,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Lorsque vous êtes prêt, ouvrez la trappe et appuyez sur le bouton EVA pour quitter le vaisseau spatial.",
+                    "Description": "When ready, open the hatch and press the EVA button to exit the spacecraft.",
                     "FlightMode": 0,
                     "Goal": 8,
                     "Platform": 0,
@@ -52,7 +52,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Utilisez les commandes EVA pour obtenir le sac à dos situé à l'arrière du navire, là où le véhicule de lancement était monté.",
+                    "Description": "Use the EVA controls to get the backpack located in the rear of the ship, where the Launch Vehicle was mounted.",
                     "FlightMode": 0,
                     "Goal": 9,
                     "Platform": 0,
@@ -63,7 +63,7 @@
                 },
                 {
                     "Completed": false,
-                    "Description": "Cela conclut le travail, retournez à l'intérieur..",
+                    "Description": "This concludes the activity, return inside.",
                     "FlightMode": 0,
                     "Goal": 5,
                     "Platform": 0,
@@ -90,7 +90,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "Bonjour {{profileName}} ! Dans cette mission, nous allons nous lancer en orbite et effectuer une EVA.",
+            "Message": "Good morning {{profileName}}! In this mission, we will launch into orbit and perform an EVA.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -115,7 +115,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "L'objectif est de tester comment un humain peut manœuvrer à l'extérieur du vaisseau spatial. Vous devrez récupérer un sac à dos situé à l'arrière du navire.",
+            "Message": "The goal is to test how a human can maneuver outside of the spacecraft. You will have to pick up a backpack located in the rear or the ship.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -140,7 +140,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "Familiarisez-vous avec la mission à l'aide du Mission Pad et préparez le cockpit au lancement à l'aide de la checklist PRE-LAUNCH..",
+            "Message": "Get familiar with the mission using the Mission Pad and prepare the cockpit for launch using the PRE-LAUNCH checklist.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,

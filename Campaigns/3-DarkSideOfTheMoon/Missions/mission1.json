@@ -1,10 +1,12 @@
 {
+  "LV": 0,
   "StartInOrbit": false,
   "ScheduledLaunchTime": "1968-10-11T14:00:00",
   "InitialTimeToRetrograde": "6.06:00:00",
   "MissionCommands": [
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -38,13 +40,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "We have 14 checklists to complete, 13 will be done by you. There's a lot of switches to flip, and systems to verify.",
+      "Message": "We have 14 checklists to complete, 13 will be done by you. There's a lot of switches to flip, and systems to verify. It is a good task for learning the panel layout and where switches are.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -71,6 +74,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -104,6 +108,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 168,
@@ -137,6 +142,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -170,6 +176,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -203,6 +210,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -236,13 +244,82 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
+      "From": 1,
+      "Message": "Anyways, let's get started, we don't have much time. You should be familiar with the cockpit from the Academy, so start by executing the Backup Crew Ingress checklist. Use the RUN feature.",
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0,
+      "String1": "BackupCrewIngress",
+      "String2": "",
+      "String3": "",
+      "Bool1": false,
+      "ThresholdLimit": 0.0,
+      "PinID": 0,
+      "PinPosition": 0,
+      "KnobID": 0,
+      "ButtonId": 0,
+      "FuseID": 0,
+      "FusePosition": 0,
+      "LM_PinID": 0,
+      "LM_PinPosition": 0,
+      "LM_KnobID": 0,
+      "LM_ButtonId": 0,
+      "LM_FuseID": 0,
+      "LM_FusePosition": 0,
+      "Fault": 0,
+      "Failure": 0,
+      "PlayAudioClip_String3": false
+    },
+    {
+      "Delivered": false,
+      "Processed": false,
+      "Completed": false,
+      "Priority": false,
+      "Action": 1006,
+      "Timestamp": 25.0,
+      "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Anyways, let's get started, we don't have much time. You should be familiar with the cockpit from the Academy, so start by executing the Activation: Activation checklist. Use the RUN feature.",
+      "Message": "Completing the Backup Crew Ingress checklist.",
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0,
+      "String1": "",
+      "String2": "",
+      "String3": "",
+      "Bool1": false,
+      "ThresholdLimit": 0.0,
+      "PinID": 0,
+      "PinPosition": 0,
+      "KnobID": 0,
+      "ButtonId": 0,
+      "FuseID": 0,
+      "FusePosition": 0,
+      "LM_PinID": 0,
+      "LM_PinPosition": 0,
+      "LM_KnobID": 0,
+      "LM_ButtonId": 0,
+      "LM_FuseID": 0,
+      "LM_FusePosition": 0,
+      "Fault": 0,
+      "Failure": 0,
+      "PlayAudioClip_String3": false
+    },
+    {
+      "Delivered": false,
+      "Processed": false,
+      "Completed": false,
+      "Priority": false,
+      "Action": 1005,
+      "Timestamp": 25.0,
+      "DisplayTime": 6.0,
+      "From": 1,
+      "Message": "Continue with the Activation: Activation checklist. Use the RUN feature.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -269,6 +346,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -302,6 +380,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -335,6 +414,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -368,6 +448,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -401,6 +482,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -434,6 +516,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -467,6 +550,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -500,6 +584,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -533,6 +618,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -566,6 +652,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -599,6 +686,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -632,6 +720,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -665,6 +754,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -698,6 +788,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -731,6 +822,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -764,6 +856,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -797,6 +890,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -830,6 +924,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -863,6 +958,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -896,6 +992,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -929,6 +1026,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -962,6 +1060,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -995,6 +1094,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1028,6 +1128,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -1061,6 +1162,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -1094,6 +1196,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1127,13 +1230,14 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Very good. The Right-Hand Equipment Bay (RHEB) contains most of the fuses needed by the Electrical Power System (EPS). Lots of acronyms in Apollo! Then go ahead and set up the ORDEAL by following the ORDEAL checks.",
+      "Message": "Very good. The Right-Hand Equipment Bay (RHEB) contains most of the circuit breakers needed by the Electrical Power System (EPS). Lots of acronyms in Apollo! Then go ahead and set up the ORDEAL by following the ORDEAL checks.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1160,6 +1264,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -1193,6 +1298,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1226,6 +1332,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -1259,6 +1366,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -1292,6 +1400,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -1325,6 +1434,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -1358,6 +1468,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1391,6 +1502,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1424,6 +1536,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1457,6 +1570,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -1490,6 +1604,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -1523,6 +1638,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1556,6 +1672,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1005,
@@ -1589,6 +1706,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1006,
@@ -1622,6 +1740,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1655,6 +1774,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 0,
@@ -1688,6 +1808,7 @@
     },
     {
       "Delivered": false,
+      "Processed": false,
       "Completed": false,
       "Priority": false,
       "Action": 1004,

@@ -239,7 +239,7 @@
             "FuseID": 0,
             "FusePosition": 0,
             "KnobID": 0,
-            "Message": "Using fuses and switches, it is also possible to change what Main DC Bus a component is connected to, It can be either MNA, MNB or both.",
+            "Message": "Using fuses and switches, it is also possible to change what Main DC Bus a component is connected to (MNA, MNB or both).",
             "PinID": 0,
             "PinPosition": 0,
             "String1": null,

@@ -1,0 +1,134 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref11",
+  "Group": "MISSION",
+  "Name": "REF 11 - 30 MIN REPORT",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999011,
+  "AutoGenerate": false,
+  "checklistText": "REFERENCE NO. 11\n30-Minute Report\n\nPURPOSE\nTo determine at regular intervals the complete status of the astronaut and the spacecraft.\r\n\nPROCEDURE\nT + 0:\n  Push blood pressure switch – start\r\n  Take one blood pressure sample\r (just let it run for a few seconds)\n  Push blood pressure switch – stop\n\nT + 1 min:\n  Exercise – 30 pulls on Bungee cord\n\nT + 2 min:\n  Push blood pressure switch – start\r\n  Take one blood pressure sample\r (just let it run for a few seconds)\n  Push blood pressure switch – stop\n\nT + 3 min:\n  Visual acuity test\r\n    Snellen test\r\n    Astigmatic test\r\n\n  Head motion – pitch, roll, yaw\n  Reach accuracy\n  Line position check\n  Spacecraft status report\r\n    Fill out [C] MISSION TOOLS - FORMS - 30-Minute Report\n  ",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+0 min:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 1,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureStart (4/1)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Let it run for 5 seconds (one sample)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 2,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureEnd (4/2)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+1 min: Excersie - 30 pulls on Bungee cord (improvise)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+2 min:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 1,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureStart (4/1)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Let it run for 5 seconds (one sample)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 2,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureEnd (4/2)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+3 min:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Visual acuity test (cover one eye at a time)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "- Snellen test (improvise)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "- Astigmatic test (improvise)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Spacecraft status report",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "- Fill out [C] MISSION TOOLS - FORMS - 30-Minute Report",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

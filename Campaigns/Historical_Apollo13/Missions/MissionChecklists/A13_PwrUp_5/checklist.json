@@ -1,0 +1,262 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A13_PwrUp_5",
+  "Group": "MISSION",
+  "Name": "A13: CM EI-1+20",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 990000006,
+  "AutoGenerate": true,
+  "checklistText": "ENTRY SEQUENCE\n\nEI-1+20",
+  "Steps": [
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 13,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set BMAGPWR1 to position 1 (3/13)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "EI-1+10 (do it now):",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "PERFORM SCS POWER UP - G/2-4:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 113,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set BMAGRoll to Up (1/113)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 114,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set BMAGPitch to Up (1/114)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 115,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set BMAGYaw to Up (1/115)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 112,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set CMCMode to Down (1/112)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 81,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SCCont to Up (1/81)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 128,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic12MNA to Closed (2/128)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 130,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic34MNA to Closed (2/130)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 129,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic12MNB to Closed (2/129)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 131,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic34MNB to Closed (2/131)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 246,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set LogicPower23 to Up (1/246)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 73,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SigCondDriverBiasPWR1 to Up (1/73)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 5,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSElectronicsPWR to position 2 (3/5)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 4,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "set FDAIPowerSelector to position 0 (3/4)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 13,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BMAGPWR1 to position 2 (3/13)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 4,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set FDAIPowerSelector to position 1 (3/4)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 113,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set BMAGRoll to Down (1/113)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 114,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set BMAGPitch to Down (1/114)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 115,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set BMAGYaw to Down (1/115)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 252,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SuitCompressor1 to Up (1/252)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 81,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set SCCont to Down (1/81)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 76,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RotCntlPWR_Normal1 to Up (1/76)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 77,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RotCntlPWR_Normal2 to Up (1/77)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 56,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set ATTSet to Up (1/56)"
+    },
+    {
+      "Program": 0,
+      "Type": 4,
+      "SetID": 29,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push GDCAlign (4/29)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 56,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set ATTSet to Down (1/56)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 78,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RotCntlPWR_Direct1 to Up (1/78)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 79,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RotCntlPWR_Direct2 to Up (1/79)"
+    }
+  ],
+  "Images": []
+}

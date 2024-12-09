@@ -1,0 +1,342 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A13_PwrUp_1",
+  "Group": "MISSION",
+  "Name": "A13: CM EI-6+30",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 990000001,
+  "AutoGenerate": true,
+  "checklistText": "ENTRY SEQUENCE\n\nEI-6+30",
+  "Steps": [
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "COPY LM& CM PADs",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "SWITCH LIOH CANISTERS (change both using the Function Bubbles [C])",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 132,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set EMSMNA to Open (2/132)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 133,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set EMSMNB to Open (2/133)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 310,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set P8_FloodFixed to Up (1/310)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 12,
+      "ToPosID": 16,
+      "Text": null,
+      "Description": "set FloodRight to position 16 (3/12)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 285,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set P100_FloodFixed to Up (1/285)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 153,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatAPwrEntPstLnd to Closed (2/153)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 154,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatBPwrEntPstLnd to Closed (2/154)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 155,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatCPwrEntPstLnd to Closed (2/155)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 118,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatteryChargeA to Closed (2/118)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 119,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatteryChargeB to Closed (2/119)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 256,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set MainBusTieAC to Up (1/256)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 257,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set MainBusTieBC to Up (1/257)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 113,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatteryRelayBus_BatA to Closed (2/113)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 114,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatteryRelayBus_BatB to Closed (2/114)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 103,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorDCMNA to Closed (2/103)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 104,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorDCMNB to Closed (2/104)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 137,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set MainABatC to Closed (2/137)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 161,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set InstPwrCntrlCB3 to Open (2/161)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 162,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set InstPwrCntrlCB4 to Open (2/162)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 258,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P5_Inst_EssMNB to Closed (2/258)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 37,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P382_EvapWaterControlPrimary to position 1 (3/37)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 38,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P382_EvapWaterControlSecondary to position 1 (3/38)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "CM RCS PREHEAT (E/1-5 step 35):",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 50,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set RCSLogicMNA to Closed (2/50)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 51,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set RCSLogicMNB to Closed (2/51)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 156,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RCSLogic to Up (1/156)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 68,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set CMHtr1 to Closed (2/68)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 69,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set CMHtr2 to Closed (2/69)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 157,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set CM_RCS_Heaters to Up (1/157)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Keep on for 20 minutes or til lowest rdg is 3.9 vdc)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "CM PWR UP cont:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 108,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set CnWSDCMNB to Closed (2/108)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 151,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set CW_PWR to Up (1/151)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 109,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorUnitDCMNA to Closed (2/109)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 110,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorUnitDCMNB to Closed (2/110)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 258,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set MNAUndervoltSensor to Up (1/258)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 259,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set MNBUndervoltSensor to Up (1/259)"
+    }
+  ],
+  "Images": []
+}

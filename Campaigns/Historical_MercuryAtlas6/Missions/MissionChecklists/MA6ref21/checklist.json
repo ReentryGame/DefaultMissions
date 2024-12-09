@@ -1,0 +1,25 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref21",
+  "Group": "MISSION",
+  "Name": "REF 21 - Landmarks",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999021,
+  "AutoGenerate": false,
+  "checklistText": "REFERENCE NO. 21\r\nLandmark Observation Comments\r\n\r\nFIRST ORBIT\n\n1. Canary Islands plus African Coast should be easily recognizable since Canaries are volcanic in origin and rise abruptly from the ocean. However, cold Canary current flowing toward Equator past islands causes considerable fog and low clouds along the coast, especially during N. hemisphere winter. Inland in Africa a few miles there should be few clouds unless a major meteorological occurrence interferes; e.g., a low pressure center over W. Mediterranean causing west winds in this area.\r\n\r\n2. Anti-Atlas Range of the Atlas Mountains should be visible.\r\n\r\n3. Ahaggar Mountains at 0:23:00 should be visible to left of track. Lava outflows from center peaks contrast favorably with lighter colored surrounding sands and gravels.\r\n\r\n4. Lake Chad will probably be at an intermediate level during December – January. This is a shallow, greatly fluctuating shoreline lake. Saline deposits around lake may be more visible than the lake itself. However, marsh-type vegetation should provide contrast where water has recently been present.\r\n\r\n5. A brief description of areas A and B as shown in this sketch of Africa in delineated below.\r\n\n\n\n\n\n\nArea A: \nTropical Savanna region in N. hemisphere. Very wet in\r March – September. Dessicated and dry from September to \rMarch, especially so in December and January.\r\n\nArea B: \nExactly opposite to Area A. Wet in December and January.\r Should be very green, contrasted to dry and yellow in \rArea A.\n\r\n6. Lake Victoria and Lake Albert – excellent checkpoints. Check \rnumber of snow-capped peaks in area and attempt to identify.\n\n7. Perth region should be dry this part of the year (January –\r February). City should be visible, but at night lights may not be visible even though city and suburbs have over 200,000 people. Suggest having airfields in vicinity turn on high-intensity landing runway lights if available.\n\n8. Lights also at Brisbane.\r\n\n9. See if Rio Grande River is visible in U.S.\n\n10. What type of earth landscapes are visible, i.e.:\r\n(a) Agricultural – can you see cultivated vs. pastures, etc., \rby checkerboard pattern?\r\n(b) Are major highways and railroads visible?\r\n(c) Are large cities visible?\r\n(d) Can you see large bridges across Mississippi River?\r\n(e) Are woods and forests a darker color so that they are \rreadialy discernible?\n\n\nSECOND ORBIT\n1. Time interception with African Coast. Cape Blane, the hook \rjust to the left of track, should be readily recognizable.\r\n\n2. Niger Delta region.\n\n3. Congo Jungle region – densely forested.\n\n4. Madagascar – excellent checkpoint. Does east side look \rdifferent from west side? How does it look?\n\n5. Are waters of Colorado River visible where they flow out into \rupper Gulf of California?\n\n6. There are some good black and white high-altitude rocket shots \rof El Paso area at the same altitude as spacecraft. This should provide a perfect 1 to 1 comparison to check if this is what astronaut saw and if color provides him with any additional information.\r\n\n7. Check cloud cover along coast to see effect of ocean currents \ron weather. Maybe astronaut could determine various limits of currents by color and outline them on MCC chart.\n\nTHIRD ORBIT\n1. Across Kalihari Desert in S. Africa. Land should get greener \ras spacecraft proceeds from West to East. Okovanggo Basin should be visible but no water should be in Lake Ngami.\n\n\n\n",
+  "Steps": [],
+  "Images": [
+    {
+      "Name": "africa.png",
+      "Position": {
+        "x": 0.0,
+        "y": 775.0
+      },
+      "Size": {
+        "x": 341.0,
+        "y": 162.0
+      }
+    }
+  ]
+}

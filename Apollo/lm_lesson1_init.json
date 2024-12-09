@@ -557,7 +557,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Set the EMER CABIN REPRESS to OFF to prevnt triggering it as the cabin pressure will reduce during pressurization.",
+      "Message": "Set the EMER CABIN REPRESS to OFF to prevent triggering it as the cabin pressure will reduce during pressurization.",
       "Value1": 2.0,
       "Value2": 0.0,
       "Value3": 0.0,

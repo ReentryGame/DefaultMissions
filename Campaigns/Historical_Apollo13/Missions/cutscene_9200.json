@@ -1,0 +1,13 @@
+{
+  "StartInOrbit": false,
+  "ScheduledLaunchTime": "1965-03-23T08:24:00",
+  "InitialTimeToRetrograde": "02:30:00",
+  "MissionCommands": [],
+  "MissionGoals": [],
+  "MissionActivities": [],
+  "SpaceProgram": 9000,
+  "Id": 9100,
+  "ID": "2ad1b591-7349-4389-b15d-aaef5c506c4a",
+  "Title": "THE CO2 ADAPTER",
+  "Description": "A scene where you can look at the CO2 adapter. This is currently just a placeholder. It will later evolve into a mini-game. If you have suggestions on how to make this into a mini-game, let me know. Simply load into it and press the EXIT button. You can orbit the camera by holding in the middle mouse button."
+}

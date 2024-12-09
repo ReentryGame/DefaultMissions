@@ -1,0 +1,13 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref4",
+  "Group": "MISSION",
+  "Name": "REF 4 - Control Systems Check",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999004,
+  "AutoGenerate": false,
+  "checklistText": "REFERENCE NO. 4\r\nControl Systems Check\r\n\r\nPURPOSE\r\nTo check all the control modes in order to assure their \r\nreadiness as backups to the ASCS system. This procedure will check \r\nall control modes. The spacecraft is on ASCS in orbit attitude at \r\nthe beginning of the test.\r\n\r\nPROCEDURE\r\nRecord manual and automatic fuel\r\n\r\nManual fuel handle – pull direct\r\nRSCS switch – Rate Comd\r\nASCS switch – Aux Damp\r\n\r\nPitch up from -34° at 4°/sec\r\nManual fuel handle – push Rate Comd\r\n(Observe rate damping to within ±3°/sec)\r\nRSCS switch – Auto\r\n(Observe aux. damping to within ±0.5°/sec)\r\nASCS switch – FBW\r\n(Zero rate at 0° pitch)\r\n\r\nASCS switch – Aux Damp\r\nRSCS switch – Rate Comd\r\nManual fuel handle – pull direct\r\n\r\nInitiate 4°/sec yaw right\r\nManual fuel handle – push Rate Comd\r\n(Observe rate damping to within ±3°/sec)\r\nRSCS switch – Auto\r\n(Observe aux. damping to within ±0.5°/sec)\r\nASCS switch – FBW\r\n(Zero rate at 30° yaw right)\r\n\r\nReset ASCS and RSCS switches and pull manual fuel handle\r\n\r\nInitiate 4°/sec yaw left\r\nManual fuel handle – push Rate Comd\r\n(Observe rate damping to within ±3°/sec)\r\nRSCS switch – Auto\r\n(Observe aux. damping to within ±0.5°/sec)\r\nASCS switch – FBW\r\n(Zero rate at 30° yaw)\r\n\r\nReset ASCS and RSCS switches and pull manual fuel handle\r\nInitiate 4°/sec roll right\r\nManual fuel handle – push Rate Comd\r\n(Observe rate damping to within ±3°/sec)\r\nRSCS switch – Auto\r\n(Observe aux. damping to within ±0.5°/sec)\r\nASCS switch – FBW\r\n(Zero rate at 30° roll right)\r\n\r\nReset ASCS and RSCS switches and pull manual fuel handle\r\n\r\nInitiate 4°/sec roll left\r\nManual fuel handle – push Rate Comd\r\n(Observe rate damping to within ±3°/sec)\r\nRSCS switch – Auto\r\n(Observe aux. damping to within ±0.5°/sec)\r\nASCS switch – FBW\r\n(Zero rate at 0° roll)\r\nUse high thrust jets on FBW as needed or check them at this point\r\n\r\nReset ASCS and RSCS switches and pull manual fuel handle\r\n\r\nInitiate 4°/sec pitch down\r\nManual fuel handle – push Rate Comd\r\n(Observe rate damping to within ±3°/sec)\r\nRSCS switch – Auto\r\n(Observe aux. damping to within ±0.5°/sec)\r\nASCS switch – FBW\r\n(Zero rates at 0° yaw, 0° roll, -34° pitch)\r\n\r\nRecord manual and automatic fuel (est: 5% from both)\r\n",
+  "Steps": [],
+  "Images": []
+}

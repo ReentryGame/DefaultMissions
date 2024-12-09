@@ -1,0 +1,150 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A13_PwrUp_4",
+  "Group": "MISSION",
+  "Name": "A13: CM EI-2+15",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 990000004,
+  "AutoGenerate": true,
+  "checklistText": "ENTRY SEQUENCE\n\nEI-2+15",
+  "Steps": [
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "PERFORM IMU POWER UP - G/2-1:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 246,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set LogicPower23 to Up (1/246)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 4,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set FDAIPowerSelector to position 1 (3/4)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 54,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set FDAISelect to Up (1/54)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 112,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set CMCMode to Down (1/112)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 39,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set GnNIMUPWR to Up (1/39)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "No Att lt - on (90 sec)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "No Att lt - off",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Wait 15 sec",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "PERFORM OPTICS POWER UP - G/2-3:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 38,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set GnNOpticsPWR to Up (1/38)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 276,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P122_Tracker to Middle (1/276)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 276,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set P122_Tracker to Up (1/276)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 215,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P229_TimersMNA to Closed (2/215)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Press the SYNC MET TIMERS function button [C]",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

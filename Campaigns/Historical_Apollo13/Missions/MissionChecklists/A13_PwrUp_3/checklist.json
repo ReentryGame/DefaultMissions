@@ -1,0 +1,454 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A13_PwrUp_3",
+  "Group": "MISSION",
+  "Name": "A13: CM EI-2+30",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 990000003,
+  "AutoGenerate": true,
+  "checklistText": "ENTRY SEQUENCE\n\nEI-2+30",
+  "Steps": [
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 257,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P5_Inst_EssMNA to Closed (2/257)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 247,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P5_GN_ImuHtr_MNA to Closed (2/247)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 28,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set CMCMNA to Closed (2/28)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 174,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set LM_PWR_1_MNA to Open (2/174)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 175,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set LM_PWR_2_MNB to Open (2/175)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 139,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set MainBBatBusB to Closed (2/139)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 145,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set InvPwr1MainA to Closed (2/145)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 146,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set InvPwr2MainB to Closed (2/146)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 147,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set InvPwr3MainA to Closed (2/147)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 148,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set InvPwr3MainB to Closed (2/148)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 113,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatteryRelayBus_BatA to Closed (2/113)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 114,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BatteryRelayBus_BatB to Closed (2/114)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 7,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set InvCtrl1 to Closed (2/7)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 8,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set InvCtrl2 to Closed (2/8)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 9,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set InvCtrl3 to Closed (2/9)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 7,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set Inverter1MNA to Up (1/7)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 10,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set ACBus1Inv1 to Up (1/10)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 13,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set ACBus2Inv1 to Up (1/13)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 105,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorAC1 to Closed (2/105)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 106,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorAC2 to Closed (2/106)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 111,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorUnitAC1 to Closed (2/111)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 112,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set EPSSensorUnitAC2 to Closed (2/112)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 107,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set CnWSDCMNA to Closed (2/107)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 271,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set P3_ACBus1Reset to Up (1/271)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 272,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set P3_ACBus2Reset to Up (1/272)"
+    },
+    {
+      "Program": 0,
+      "Type": 4,
+      "SetID": 36,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push MasterCaution (4/36)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 178,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P225_FlightBusMNA to Closed (2/178)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 179,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P225_FlightBusMNB to Closed (2/179)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 194,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P225_CentralTimingEquip_MNA to Closed (2/194)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 195,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P225_CentralTimingEquip_MNB to Closed (2/195)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 250,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set TelecomGroup1 to Up (1/250)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 251,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set TelecomGroup2 to Down (1/251)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 214,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SBandNormalXpndr to Up (1/214)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 234,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SqB_PwrSCE to Up (1/234)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 235,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SqB_PwrPMP to Up (1/235)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 223,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set UpTlmCmd to Up (1/223)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 245,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set UpTlm_CM to Up (1/245)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 143,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set FlgtPstLndMainA to Closed (2/143)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 144,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set FlgtPstLndMainB to Closed (2/144)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 196,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set Radio1Power to Up (1/196)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 205,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set Radio2Power to Up (1/205)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 30,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set IMUMNA to Closed (2/30)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 31,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set IMUMNB to Closed (2/31)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 32,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set OSSMNA to Closed (2/32)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 33,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set OSSMNB to Closed (2/33)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 34,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set GnNPWRAC1 to Closed (2/34)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 35,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set GnNPWRAC2 to Closed (2/35)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 52,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set GNLightACPWR to Down (1/52)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "PERFORM CMC POWER UP - G 2-2:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 4,
+      "SetID": 16,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push AGCPro (4/16)"
+    },
+    {
+      "Program": 0,
+      "Type": 4,
+      "SetID": 1,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push AGCVerb (4/1)"
+    },
+    {
+      "Program": 0,
+      "Type": 4,
+      "SetID": 14,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push AGC9 (4/14)"
+    },
+    {
+      "Program": 0,
+      "Type": 4,
+      "SetID": 11,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push AGC6 (4/11)"
+    },
+    {
+      "Program": 0,
+      "Type": 4,
+      "SetID": 18,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push AGCEntr (4/18)"
+    }
+  ],
+  "Images": []
+}

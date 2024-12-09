@@ -12,7 +12,7 @@
     "MissionActivities": [],
     "MissionCommands": [
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -37,7 +37,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -48,7 +48,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "In this lesson, we will take a look at the basics of the sequencer, and learn about the retrograde and landing stages. We will perform these in the next lesson.",
+            "Message": "In this lesson, we will take a look at the basics of the sequencer, and learn about the retrograde and landing stages. This will mostly be a theoretical walkthrough. We will perform these in the next lesson.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -62,7 +62,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -87,7 +87,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -112,7 +112,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -137,7 +137,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -162,7 +162,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -187,7 +187,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -198,7 +198,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "The first is IND RETRO ATT. By executing this action, the platform will be tilted for correct retro attitude.",
+            "Message": "The first is IND RETRO ATT. By executing this action, the inertial platform will be tilted -16 degrees in pitch for correct retro attitude.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -212,7 +212,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -237,7 +237,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -262,7 +262,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -273,7 +273,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "As with the OAMS system, the RCS ring A and ring B (two systems for redundancy and efficiency) must have propulsion and power. These are set by the RCS CNTL PWR and PROP MOTOR VALVES switches in the center panel.",
+            "Message": "As with the OAMS system, the RCS ring A and ring B (two systems for redundancy and efficiency) must receive propellant and power. These are set by the RCS CNTL PWR and PROP MOTOR VALVES switches in the center panel.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -287,7 +287,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -298,7 +298,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "At Tr-30, the SEP OAMS LINES, SEP ELEC, SEP ADPT and ARM AUTO RETRO is illuminated.",
+            "Message": "At Tr-30, meaning 30 seconds before retrograde, the SEP OAMS LINES, SEP ELEC, SEP ADPT and ARM AUTO RETRO is illuminated.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -312,7 +312,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -337,7 +337,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -348,7 +348,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "Lastly, you need to ARM the AUTO RETRO system. This also needs the retro squibs active. It will then fire the retros. It is normal to trigger the MAN FIRE RETRO 1 second after retro fire just to be sure.",
+            "Message": "Lastly, you need to ARM the AUTO RETRO system. This requires the retro rocket No.1, No.2, No.3 and No.4 squibs active. It will then fire the retros. It is normal to trigger the MAN FIRE RETRO 1 second after retro fire just to be sure.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -362,7 +362,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -387,7 +387,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -412,7 +412,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -437,7 +437,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -448,7 +448,7 @@
             "From": 2,
             "GaugeId": 0,
             "KnobID": 0,
-            "Message": "The computer is set to REENT (keep in mind the 10 minute loading), and you are now on the way back to Earth.",
+            "Message": "The computer is then set to REENT (keep in mind the 7 minute loading), and you are now on the way back to Earth.",
             "PinID": 0,
             "PinPosition": 0,
             "PlayAudioClip_String3": false,
@@ -462,7 +462,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -487,7 +487,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -512,7 +512,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -537,7 +537,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,
@@ -562,7 +562,7 @@
             "Value3": 0.0
         },
         {
-            "Action": 0,
+            "Action": 1,
             "Bool1": false,
             "ButtonId": 0,
             "Completed": false,

@@ -7,11 +7,11 @@
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "Good morning {{profileName}}, I am Hector and I will be your instructor.",
+      "Message": "Good morning {{profileName}}, I am Hector and I will be your instructor, and today is RE-ENTRY day!",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -28,13 +28,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -55,13 +56,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -82,13 +84,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -109,13 +112,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -136,13 +140,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -163,13 +168,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -190,13 +196,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -217,7 +224,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -227,7 +235,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "First, we need to set the Gemini spacecraft to Retrograde attitude. Hit 'V' on your keyboard for opening [V]IEW SELECTOR, then Select [CENTER PEDESTAL]. In the [PROP MOTOR VALVES] section set [OAMS] TO = > [OPEN].",
+      "Message": "We need to maneuver the Gemini spacecraft to Retrograde attitude. Hit 'V' on your keyboard for opening [V]IEW SELECTOR, then Select [CENTER PEDESTAL]. In the [PROP MOTOR VALVES] section set [OAMS] to [OPEN].",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -244,7 +252,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -254,7 +263,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "Now, in [CNTL PWR] section set [OAMS] TO = > [ON].",
+      "Message": "Now, in [CNTL PWR] section set [OAMS] to [ON].",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -271,17 +280,18 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "This [OAMS] are needed for performing the Retro Burn.",
+      "Message": "The [OAMS] is needed to maneuver to the Retro Burn attitude.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -298,7 +308,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -325,17 +336,18 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "This will hold the spacecrafts Attitude to the PLATFORM selected.",
+      "Message": "This will hold the spacecraft Attitude to the PLATFORM selected.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -352,7 +364,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -362,7 +375,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 4.0,
       "From": 2,
-      "Message": "Then, set [PLATFORM] TO => [BEF] on the [CENTER PEDESTAL].",
+      "Message": "Then, set [PLATFORM] to [BEF] on the [CENTER PEDESTAL].",
       "Value1": 4.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -379,13 +392,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -406,17 +420,18 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Set the Computer Mode to PRE LN, then press START on the computer.",
+      "Message": "Set the Computer Mode to PRE LN, then press START on the computer. Press ROGER when the compter is running the PRE LN program.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -433,7 +448,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -460,7 +476,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -487,7 +504,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -514,17 +532,18 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "The new reading will show time for Retro burn in Seconds. We have about one orbit to prepare for entry, much more than what was really needed.",
+      "Message": "The new reading will show time for Retro burn in minutes:seconds, where the message is formatted as MMM:SS. We have about one orbit to prepare for entry, much more than what was really needed.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -541,17 +560,18 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "One important tool during entry is the Event Timer, so let us start by learning how to use it.",
+      "Message": "One important tool during entry is the Event Timer, so let us start by learning how to use it. Set the Event Timer mode to STOP, then open [C] MISSION TOOLS -> COCKPIT FUNCTIONS -> RESET EVENT TIMER.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -568,7 +588,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -578,7 +599,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "We will set the Event Timer to a count down for [30:00] minutes (DN mode). Turn the Event Timer Dial counterclockwise (Left) to increase numbers until getting to [30:00] minutes.  ",
+      "Message": "We will set the Event Timer to a count down from [30:00] minutes (in DOWN (DN) mode). Turn the Event Timer Dial counterclockwise (Left) to increase numbers until getting to [30:00] minutes.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -595,7 +616,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -605,7 +627,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "Once [30] is Displayed in the minutes digits, turn Dial clockwise back to middle position [0] and use the other positions to set seconds to [00]. Next, turn [LEFT PIN] DOWN TO => [STOP].",
+      "Message": "Once [30] is Displayed in the minutes digits, turn Dial clockwise back to middle position [0]. You can use the other positions to increase/decrease seconds and minutes if needed.. Next, turn [LEFT PIN] DOWN to [STOP].",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -622,7 +644,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -649,7 +672,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -676,13 +700,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -703,13 +728,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -730,13 +756,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -757,7 +784,36 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
+    },
+    {
+      "Delivered": false,
+      "Completed": false,
+      "Priority": false,
+      "Action": 1,
+      "Timestamp": 25.0,
+      "DisplayTime": 6.0,
+      "From": 2,
+      "Message": "You can also switch the flight mode to a manual mode such as PULSE, RATE COMMAND or DIRECT, and align the space craft in roll. Try to manually align the craft now so roll is zero, and that you have the Earth below you (heads up). Press ROGER when complete.",
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0,
+      "String1": "",
+      "String2": "",
+      "String3": "",
+      "Bool1": false,
+      "ThresholdLimit": 0.0,
+      "PinID": 0,
+      "PinPosition": 0,
+      "KnobID": 0,
+      "ButtonId": 0,
+      "GaugeId": 0,
+      "ComputerMode": 0,
+      "Fault": 0,
+      "Failure": 0,
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -784,13 +840,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -811,7 +868,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -821,7 +879,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "It is important that you correctly set up the event timer when instructed so, as the OBC/CORE 19 will be unavailable while the OBC loads. RUN the checklist now.",
+      "Message": "It is important that you correctly set up the event timer when instructed so, as the OBC/CORE 19 might be unavailable while the OBC loads. RUN the checklist now.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -838,7 +896,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -848,7 +907,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "You will need to monitor Core 19 (press READ OUT multiple times). As you proceed with the checklist, one of last steps will be to start the Event Timer when CORE 19 reaches 1200 (20 minutes), before loading the OBC entry module. Loading takes 10 minutes, and it will leave us about 10 minutes of time before the burn.",
+      "Message": "You will need to monitor Core 19 (press READ OUT multiple times). As you proceed with the checklist, one of last steps will be to start the Event Timer when CORE 19 reaches 02000 (020:00 minutes), before loading the OBC entry module. Loading takes 10 minutes, and it will leave us about 10 minutes of time before the burn.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -865,13 +924,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -892,7 +952,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -919,13 +980,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -946,13 +1008,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -973,13 +1036,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
@@ -1000,7 +1064,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1027,7 +1092,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1054,7 +1120,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1081,7 +1148,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1108,7 +1176,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1135,13 +1204,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -1162,13 +1232,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -1189,13 +1260,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -1216,13 +1288,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1243,13 +1316,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -1270,13 +1344,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1297,13 +1372,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1324,13 +1400,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1351,13 +1428,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1378,13 +1456,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1405,13 +1484,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1432,7 +1512,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1459,7 +1540,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1486,7 +1568,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1513,13 +1596,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
@@ -1540,7 +1624,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1567,7 +1652,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1594,13 +1680,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
@@ -1621,7 +1708,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1648,7 +1736,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1675,13 +1764,14 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
@@ -1702,7 +1792,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1729,7 +1820,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1756,7 +1848,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     },
     {
       "Delivered": false,
@@ -1783,7 +1876,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     }
   ],
   "MissionGoals": [

@@ -1,0 +1,142 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref5",
+  "Group": "MISSION",
+  "Name": "REF 5 - YAW MNVR",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999005,
+  "AutoGenerate": false,
+  "checklistText": "REFERENCE NO. 5\n\nYaw Maneuver Check\n\nPURPOSE\nThe yaw maneuver will be used to check the periscope as a yaw \rreference when large angular errors exist.\n\nPROCEDURE\n1. Switch to fly-by-wire control system (if necessary)\r\n\n2. Set up low yaw right (1° to 2°/sec) rate.\n\n3. Allow the spacecraft to drift until the yaw angle becomes approximately 60°.\r\n\n4. Stabilise the spacecraft rates to zero.\n\n5. Observe the motion of the ground track through the periscope \ron both low and high magnification.\r\n\n6. Set up a low left yaw motion and stabilise the spacecraft \rattitude at 0° yaw, 0° roll, and -34° pitch. Use periscope \ras the reference.\n\n7. Records results of the maneuver.\n\n\n",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 5,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set PitchLock to position In (5/5)"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 6,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set YawLock to position In (5/6)"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 4,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set RollLock to position In (5/4)"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 3,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set ManualControl to position In (5/3)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 13,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set ASCSAuto to Left (1/13)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 12,
+      "ToPosID": 3,
+      "Text": null,
+      "Description": "set ASCSMode to Right (1/12)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Set up low yaw right (1° to 2°/sec) rate.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Drift to 60° yaw.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Stabilise rates to zero.\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Set periscope to LOW magnification",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Observe the motion of the ground track through the periscope",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Set periscope to HIGH magnification",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Observe the motion of the ground track through the periscope",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Set up low yaw left (1° to 2°/sec) rate.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Stabilise attitude at 0° yaw, 0° roll, and -34° pitch.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "[I'm at attitude]",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

@@ -1,28 +1,30 @@
 {
     "fullPathDescriptionFile": null,
     "campaignPath": null,
-    "Title": "Kampanje 1:  Orbital Overlevelse",
+    "ID": "63b0617d-07cb-4e8b-bc8e-5065cc05321e",
+    "Title": "Campaign 1:  Orbital Survival",
+    "DisplayTitle": "Kampanje 1:  Orbital Overlevelse",
     "TileBackgroundImage": "tileBg.png",
     "PageBackgroundImage": "pageBg.png",
     "Sections": [
         {
             "Type": 0,
-            "Data": "Drømmen om verdensrommet",
+            "Data": "Drømmen om Rommet",
             "Value": 0
         },
         {
             "Type": 1,
-            "Data": "For generations we have been gazing up on the stars, telling tales of the ancient constellation that builds up the night sky. These fixed sources of distant light, some millions light years away, have been the basis for nagivators across the world for centuries. Mesmerized by the unknowns and vastness of space, philosophers and scientists had dedicated lifetimes of work to answer its existence.\r\n\r\nRecent developments in engineering, technology and research has unlocked the possibilities of answering many of the things that once just was a dream: Travelling to space.",
+            "Data": "For generasjoner har vi sett opp mot stjernene og fortalt historier om de eldgamle stjernebildene som prydet nattehimmelen. Disse faste lyskildene, noen millioner lysår unna, har i århundrer vært grunnlaget for navigatører over hele verden. Trollbundet av det ukjente og rommets enorme vidder, har filosofer og forskere viet livsverk til å forstå dets eksistens.\r\n\r\nNylige fremskritt innen ingeniørkunst, teknologi og forskning har åpnet mulighetene for å besvare mange av de spørsmålene som en gang bare var en drøm: Å reise ut i verdensrommet.",
             "Value": 0
         },
         {
             "Type": 0,
-            "Data": "Rockets",
+            "Data": "Raketter",
             "Value": 0
         },
         {
             "Type": 1,
-            "Data": "Modified intercontinental ballistic missiles can be used to launch artificial satellites to space. On 4. October 1957 the Soviet Union (USSR) successfully launched a satellite named Sputnik 1 into orbit around Earth, becoming the first artificial Earth satellite. It was a simple and lightweight satellite containing a radio transmitter. It transmitted a signal for three weeks before it's batteries died, and reentered and burned up in the atmosphere two months later.",
+            "Data": "Modifiserte interkontinentale ballistiske missiler kan brukes til å skyte opp kunstige satellitter til verdensrommet. Den 4. oktober 1957 lyktes Sovjetunionen (USSR) med å sende en satellitt ved navn Sputnik 1 i bane rundt jorden, og det ble dermed den første kunstige jordsatellitten. Sputnik 1 var en enkel og lett satellitt som inneholdt en radiosender. Den sendte ut signaler i tre uker før batteriene gikk tomme, og den gikk inn i atmosfæren og brant opp to måneder senere.",
             "Value": 0
         },
         {
@@ -32,7 +34,7 @@
         },
         {
             "Type": 1,
-            "Data": "Surprised by this, the United States (US) created what would become NASA to expedite the US space exploration efforts. Explorer 1 was successfully launched on January 31, 1958 on a Juno launch vehicle. A Cosmic Ray sensor onboard was used to, for the first time, detect the Van Allen belt. It provided data for almost four months before the batteries died, but remained in orbit for about 12 years before reentering the atmosphere.",
+            "Data": "Overrasket over dette opprettet USA det som skulle bli NASA for å akselerere landets romutforskning. Explorer 1 ble med suksess skutt opp 31. januar 1958 med en Juno-bærerakett. En kosmisk strålesensor om bord ble brukt til å oppdage Van Allen-beltet for første gang. Satellitten leverte data i nesten fire måneder før batteriene gikk tomme, men forble i bane rundt jorden i omtrent 12 år før den gikk inn i atmosfæren igjen.",
             "Value": 0
         },
         {
@@ -47,7 +49,7 @@
         },
         {
             "Type": 1,
-            "Data": "With the launch of Sputnik 1, the competition of achieving firsts in space flight capabilities between the USSR and the US had started. The US was lagging behind, and crewed spaceflight became the next goal.",
+            "Data": "Med oppskytningen av Sputnik 1 startet konkurransen mellom USSR og USA om å oppnå milepæler innen romfart. USA lå bakpå, og bemannet romfart ble det neste målet.",
             "Value": 0
         },
         {
@@ -57,7 +59,7 @@
         },
         {
             "Type": 1,
-            "Data": "Project Mercury is the first official space program with a target of putting a man in orbit with a safe return. After a long selection process with brutal tests, you finally received the phone call congratulating you for being selected as one of the astronauts to fly the Mercury capsule. Your comrade Patrick (\"Rad\") from the Test Pilot squadron also made it to the team.\r\n",
+            "Data": "Prosjekt Mercury er det første offisielle romprogrammet med mål om å sende et menneske i bane rundt jorden og sikre en trygg retur. Etter en lang utvelgelsesprosess med brutale tester fikk du endelig telefonen som gratulerte deg med å ha blitt valgt som en av astronautene som skal fly Mercury-kapselen. Din kamerat Patrick (\"Rad\") fra testpilot-skvadronen ble også med på laget.\r\n",
             "Value": 0
         },
         {
@@ -67,7 +69,7 @@
         },
         {
             "Type": 1,
-            "Data": "The Mercury spacecraft consists of a pressurized crew compartment with room for one astronaut (1), the retropack used to return from orbit (2), a heatshield used to survive an entry through the atmosphere (3), a recovery compartment where the landing chutes are located (4), an antenna section used for communication, scanners for spacecraft orientation (5), and a launch escape system used to safely take the capsule away from a failing launch vehicle during an abort(6).",
+            "Data": "Mercury-romfartøyet består av en trykksatt mannskapskapsel med plass til én astronaut (1), en retropakke som brukes til å returnere fra bane (2), en varmeskjold for å overleve inngangen gjennom atmosfæren (3), et gjenopprettingsrom hvor landingsskjermene er plassert (4), en antenneseksjon for kommunikasjon og skannere for romfartøyets orientering (5), samt et nødutskytningssystem som kan sikre kapselen ved å fjerne den fra en feilende bærerakett under en avbrutt oppskytning (6).",
             "Value": 0
         },
         {
@@ -82,7 +84,7 @@
         },
         {
             "Type": 1,
-            "Data": "The first requirement of this campaign is that you complete the Mercury Academy. The Academy can be found on the Main Menu, and will take you through all the details required to operate this brand new spaceship! During your stay with the Academy, it's recommended to also have a copy of the Reentry Mercury Flight Manual with you so you can get a deeper understanding of the systems practiced during training.\r\n\r\nOptional: Once you have completed and received the Mercury Pilot Certificate, let your fellow astronauts know in the Official Reentry Discord group, where many of the other Reentry Astronauts hang out. You can find them in discord.gg/reentrygame.",
+            "Data": "Det første kravet for denne kampanjen er at du fullfører Mercury-akademiet. Akademiet finner du i hovedmenyen, og det vil ta deg gjennom alle detaljene som kreves for å operere dette splitter nye romfartøyet! Under oppholdet på akademiet anbefales det å ha en kopi av Reentry Mercury Flight Manual tilgjengelig, slik at du kan få en dypere forståelse av systemene som trenes på.\r\n\r\nValgfritt: Når du har fullført og mottatt Mercury Pilot Certificate, kan du informere dine medastronauter i den offisielle Reentry Discord-gruppen, hvor mange av de andre Reentry-astronautene holder til. Du finner dem på discord.gg/reentrygame.",
             "Value": 0
         }
     ],
@@ -92,36 +94,36 @@
             "Program": 0,
             "FileName": "Missions/mission1.json",
             "Title": "Interior Inspection",
-            "CampaignProgressInfo": " April 01, 1961: We are targetting a launch early in May. You are selected as the astronaut who will be the first human in history to make the journey into space."
+            "CampaignProgressInfo": " April 01, 1961: Vi sikter mot en oppskytning tidlig i mai. Du er valgt som astronauten som skal være den første mennesket i historien til å gjøre reisen ut i verdensrommet."
         },
         {
             "missionIndex": 0,
             "Program": 0,
             "FileName": "Missions/mission2.json",
-            "Title": "Reaching Space",
-            "CampaignProgressInfo": "The USSR beat us again, but we still have an important flight coming up.  May 05, 1961: Launch day."
+            "Title": "Reisen til Rommet",
+            "CampaignProgressInfo": "Sovjetunionen slo oss igjen, men vi har fortsatt en viktig flyvning som kommer. 5. mai 1961: Oppskytningsdag."
         },
         {
             "missionIndex": 0,
             "Program": 0,
             "FileName": "Missions/mission3.json",
-            "Title": "Going Orbital",
-            "CampaignProgressInfo": "Astronaut Patrick successfully followed a secondary Mercury-Redstone mission to verify its objectivs. The USSR orbited a cosmonaut, and it's time to catch up with their achievements."
+            "Title": "Å Gå i Bane",
+            "CampaignProgressInfo": "Astronaut Patrick fullførte vellykket et sekundært Mercury-Redstone-oppdrag for å verifisere målene. Sovjetunionen satte en kosmonaut i bane, og det er på tide å ta igjen deres prestasjoner."
         },
         {
             "missionIndex": 0,
             "Program": 0,
             "FileName": "Missions/mission4.json",
-            "Title": "Long Haul",
-            "CampaignProgressInfo": "The program had a huge achievement after your previous flight, and you have become a national hero. But it's time to get up again. Your next flight will have 6 orbits."
+            "Title": "Langtur",
+            "CampaignProgressInfo": "Din forrige flyvning var en stor prestasjon for programmet, og du har blitt en nasjonal helt. Men det er på tide å reise seg igjen. Din neste flyvning vil ha 6 baner."
         },
         {
             "missionIndex": 0,
             "Program": 0,
             "FileName": "Missions/mission5.json",
             "Title": "Hawaii",
-            "CampaignProgressInfo": "A malfunction in the Atlas launch vehicle caused by an anomaly resulted in an abort, and the loss of the launch vehicle. This has caused a bit of a setback, but we are on track again. Since then, Astronaut Patrick followed with a successful identical mission to yours, currently holding the record of longest time in space."
+            "CampaignProgressInfo": "En feil i Atlas-bæreraketten forårsaket av en anomalie førte til en avbrytelse og tap av raketten. Dette har medført en liten forsinkelse, men vi er tilbake på rett spor. Siden den gang har astronaut Patrick gjennomført et identisk oppdrag som ditt, og holder for øyeblikket rekorden for lengst tid i verdensrommet."
         }
     ],
-    "CompletionMessage": "After the success and completion of the final Mercury mission where you orbited 24 times, it was concluded that all resources will be moved into the development of the next space program, and the journey towards the Moon. Project Mercury had met its objectives, and some of the Mercury astronauts will continue their careers in Project Gemini."
+    "CompletionMessage": "Etter suksessen og fullføringen av det siste Mercury-oppdraget, hvor du gikk i bane 24 ganger, ble det konkludert med at alle ressurser ville bli omdirigert til utviklingen av det neste romprogrammet, og reisen mot månen. Prosjekt Mercury oppnådde sine mål, og noen av Mercury-astronautene vil fortsette sine karrierer i Prosjekt Gemini."
 }

@@ -2,6 +2,7 @@
     "fullPathDescriptionFile": null,
     "campaignPath": null,
     "Title": "Apollo 13",
+    "DisplayTitle": "Apollo 13",
     "TileBackgroundImage": "tileBg.png",
     "PageBackgroundImage": "pageBg.png",
     "Sections": [

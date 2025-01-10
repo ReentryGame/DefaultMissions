@@ -45,6 +45,7 @@ The language structure is similar to campaigns. A campaign is made out of a *.de
 Each mission of the campaign works like a normal mission and can be translated like the other missions (see above)
 
 
+## Using GitHub
 Forking a repo
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
 

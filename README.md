@@ -1,5 +1,5 @@
 # DefaultMissions
-This repo contains the default missions used by Reentry.
+This repo contains the default missions used by Reentry. This includes all the free play missions, the academy lessons, and the historic missions.
 
 
 # Languages

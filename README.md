@@ -1,6 +1,15 @@
 # DefaultMissions
 This repo contains the default missions used by Reentry. This includes all the free play missions, the academy lessons, and the historic missions.
 
+# Unused Missions
+The following missions are not used and does not need translation. They are there for some who are using a really old build but has been deprecated.
+
+Mercury:
+- campaign0.json
+- campaign1.json
+- historicMA6.json
+- historicMR3.json
+- historicMR4.json
 
 # Languages
 Each mission can be translated into any language using a language code as part of their file name.

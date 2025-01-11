@@ -3,6 +3,7 @@
     "campaignPath": null,
     "ID": "7cf11756-3e44-470e-ab89-d6cded6bd37d",
     "Title": "Campaign 3: Dark Side of the Moon",
+    "DisplayTitle": "Campaign 3: Dark Side of the Moon",
     "TileBackgroundImage": "tileBg.png",
     "PageBackgroundImage": "pageBg.png",
     "Sections": [

@@ -3,6 +3,7 @@
     "campaignPath": null,
     "ID": "1aaa781c-097f-4ba4-9f0d-f7184e100407",
     "Title": "Campaign 2: Mastering Orbital Flight",
+    "DisplayTitle": "Campaign 2: Mastering Orbital Flight",
     "TileBackgroundImage": "tileBg.png",
     "PageBackgroundImage": "pageBg.png",
     "Sections": [

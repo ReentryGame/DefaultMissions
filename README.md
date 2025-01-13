@@ -1,8 +1,8 @@
 # DefaultMissions
-This repo contains the default missions used by Reentry. This includes all the free play missions, the academy lessons, and the historic missions.
+This repo contains the default missions used by Reentry. This includes all the free play missions, the academy lessons, scenarios, campaigns, and the historic missions.
 
 # Unused Missions
-The following missions are not in use and should not be transalted. They are there for some users who are using special builds.
+The following missions are not in use and should not be translated. They are there for some users who are using special builds.
 
 Mercury:
 - campaign0.json
@@ -22,6 +22,8 @@ The following list shows the languages we currently want to support. More will b
 | French                 | fr-fr |
 | German                 | de-de |
 | Chinese (Simplified)   | zh-cn |
+| Portuguese of Brazil   | pt-br |
+| Japanese               | ja-ja |
 
 ## How to contribute
 To contribute, you will need to get the mission files stored on your harddrive, pick a language to translate to for a given file that is missing in the status above, use a text editor such as Visual Studio Code, then commit and push the change as a pull request. We will then test and verify, and potentially merge the change into the game.

@@ -1,7 +1,7 @@
 # DefaultMissions
 This repo contains the default missions used by Reentry. This includes all the free play missions, the academy lessons, scenarios, campaigns, and the historic missions.
 
-# Unused Missions
+# Unused / Deprecated Missions
 The following missions are not in use and should not be translated. They are there for some users who are using special builds.
 
 Mercury:
@@ -11,6 +11,11 @@ Mercury:
 - historicMR3.json
 - historicMR4.json
 
+Gemini:
+- Gemini\campaign1.json
+- Gemini\campaign2.json
+- Gemini\campaign3.json
+- Gemini\historicGT3.json
 
 Apollo:
 - Apollo\campaign0.json

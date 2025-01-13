@@ -22,6 +22,8 @@ The following list shows the languages we currently want to support. More will b
 | French                 | fr-fr |
 | German                 | de-de |
 | Chinese (Simplified)   | zh-cn |
+| Portuguese of Brazil   | pt-br |
+| Japanese               | ja-ja |
 
 ## How to contribute
 To contribute, you will need to get the mission files stored on your harddrive, pick a language to translate to for a given file that is missing in the status above, use a text editor such as Visual Studio Code, then commit and push the change as a pull request. We will then test and verify, and potentially merge the change into the game.

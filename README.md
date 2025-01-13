@@ -11,6 +11,17 @@ Mercury:
 - historicMR3.json
 - historicMR4.json
 
+
+Apollo:
+- Apollo\campaign0.json
+- Apollo\campaign1LunarOrbit.json
+- Apollo\campaign2Descent.json
+- Apollo\campaign3ForeignWorld.json
+- Apollo\campaign4Ascent.json
+- Apollo\campaign5Rndz.json
+- Apollo\campaign6Docking.json
+- Apollo\campaign7LOI.json
+
 # Languages
 Each mission can be translated into any language using a language code as part of their file name.
 

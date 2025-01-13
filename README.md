@@ -1,5 +1,5 @@
 # DefaultMissions
-This repo contains the default missions used by Reentry. This includes all the free play missions, the academy lessons, and the historic missions.
+This repo contains the default missions used by Reentry. This includes all the free play missions, the academy lessons, scenarios, campaigns, and the historic missions.
 
 # Unused Missions
 The following missions are not in use and should not be transalted. They are there for some users who are using special builds.

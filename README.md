@@ -22,6 +22,7 @@ Apollo:
 - Apollo\campaign6Docking.json
 - Apollo\campaign7LOI.json
 - Apollo\lesson12_LOI.json
+- Apollo\lesson14_ECS_0Full.json
 
 # Languages
 Each mission can be translated into any language using a language code as part of their file name.

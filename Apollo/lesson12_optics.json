@@ -1447,6 +1447,8 @@
     }
   ],
   "MissionActivities": [],
+  "MissionChecklists": [],
+  "Comment": "",
   "SpaceProgram": 2,
   "Id": 3984574,
   "ID": "7dca58f3-43a1-479f-9969-460cb50e8917",
@@ -1472,5 +1474,6 @@
   "OverridePanelStateCM": false,
   "OverridePanelStateFileNameCM": "Default/Ingress.json",
   "OverridePanelStateLM": false,
-  "OverridePanelStateFileNameLM": "Default/Ingress.json"
+  "OverridePanelStateFileNameLM": "Default/Ingress.json",
+  "AlwaysSyncMissionCycleTimerWithMET": false
 }

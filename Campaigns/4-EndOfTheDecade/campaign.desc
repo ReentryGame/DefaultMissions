@@ -112,49 +112,49 @@
             "CampaignProgressInfo": "The Saturn V is standing tall on the pad, ready to take the crew to orbit and beyond. The primary goal of the mission is to land on the Moon and get home safely, however, the journey is long, and many critical and advanced maneuvers must be successful to reach the goal. This marks the beginning of the journey."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 1,
             "Program": 2,
             "FileName": "Missions/mission2.json",
             "Title": "Mission 2",
             "CampaignProgressInfo": "After reaching a stable orbit around Earth the crew must prepare for Trans-Lunar Injection, followed by the Transposition & Docking maneuver used to extract the Lunar Module from the Launch Vehicle. The two spacecrafts will then fly as one to the Moon."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 2,
             "Program": 2,
             "FileName": "Missions/mission3.json",
             "Title": "Mission 3",
             "CampaignProgressInfo": "The Trans-Lunar Injection burn has placed the CSM and the LM on a trajectory to the Moon, with a target Pe of 60 nmi altitude. The crew must prepare the Service Propulsion System (SPS) to perform the Lunar Orbit Injection burn. With the Lunar Module as the payload, the SPS will need to do a bit more work than usual. This critical burn requires full focus by the crew as a slight deviation in burn length or system configuration can take the spacecraft on a collision course with the Moon."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 3,
             "Program": 2,
             "FileName": "Missions/mission4.json",
             "Title": "Mission 4",
             "CampaignProgressInfo": "With the CSM and the LM in a circular orbit around the Moon, the next burn will insert the CSM/LM into a descent orbit. The Descent Orbit Insertion burn needs to be performed at the right time to bring Pe down to an altitude of 50.000 feet, 350 nmi ahead of the planned landing location. The Lunar Module will then be activated and released from the CSM."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 4,
             "Program": 2,
             "FileName": "Missions/mission5.json",
             "Title": "Mission 5",
             "CampaignProgressInfo": "The Lunar Module has undocked from the CSM and is in its own orbit around the Moon. The CSM has returned to a circular 60 nmi orbit, while the Lunar Module must be prepared for the powered descent that will take it down to the Lunar surface."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 5,
             "Program": 2,
             "FileName": "Missions/mission6.json",
             "Title": "Mission 6",
             "CampaignProgressInfo": "The Lunar Landing was a success, and the crew has walked on the Moon. The next series of events will bring the Lunar Module back into orbit, rendezvous with the CSM, and dock. The crew will then ingress the CSM, and say farewell to the Lunar Module."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 6,
             "Program": 2,
             "FileName": "Missions/mission7.json",
             "Title": "Mission 7",
             "CampaignProgressInfo": "The return journey has started. With the Lunar Module gone, the crew must once again prepare the SPS for another burn, the Trans-Earth Injection burn. The TEI burn will take the crew on a trajectory that will escape the gravity of the Moon, and bring them back to an orbit around Earth, with Perigee scracthing its atmosphere."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 7,
             "Program": 2,
             "FileName": "Missions/mission8.json",
             "Title": "Mission 8",

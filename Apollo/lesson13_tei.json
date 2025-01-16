@@ -1,4 +1,5 @@
 {
+  "LV": 0,
   "StartInOrbit": true,
   "ScheduledLaunchTime": "1968-12-21T14:24:00",
   "InitialTimeToRetrograde": "6.06:00:00",
@@ -732,6 +733,8 @@
     }
   ],
   "MissionActivities": [],
+  "MissionChecklists": [],
+  "Comment": "",
   "SpaceProgram": 2,
   "Id": 173979,
   "ID": "40488c83-df25-4e0b-8032-577c2ddb8143",
@@ -757,5 +760,6 @@
   "OverridePanelStateCM": false,
   "OverridePanelStateFileNameCM": "Default/Ingress.json",
   "OverridePanelStateLM": false,
-  "OverridePanelStateFileNameLM": "Default/Ingress.json"
+  "OverridePanelStateFileNameLM": "Default/Ingress.json",
+  "AlwaysSyncMissionCycleTimerWithMET": false
 }

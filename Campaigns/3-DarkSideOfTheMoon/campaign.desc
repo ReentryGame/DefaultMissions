@@ -157,42 +157,42 @@
             "CampaignProgressInfo": "Commander Patrick is strapped in and ready with his crew, currently performing a test in preparation for the first manned Apollo flight!"
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 1,
             "Program": 2,
             "FileName": "Missions/mission1.json",
             "Title": "Backup Crew",
             "CampaignProgressInfo": "A lot was learned from the tragic loss of the first Apollo mission and its crew. The new and improved \"Block II\" Command Module is now part of the Apollo spacecraft, and is ready at the pad. You are part of the backup crew for the flight and will prepare the cockpit for Prime Crew ingress."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 2,
             "Program": 2,
             "FileName": "Missions/mission2.json",
             "Title": "7.5 Million Pounds of Thrust",
             "CampaignProgressInfo": "The first manned Apollo mission was a success! However, the Lunar Module is having a lot of delays and will not be ready in time for your mission. All testing of the Lunar Module has been moved to another mission. We have already tested the Command Module in Earth orbit, so instead of cancelling or postponing your mission, it has been decided that your destination will be the Moon."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 3,
             "Program": 2,
             "FileName": "Missions/mission3.json",
             "Title": "Set Sail",
             "CampaignProgressInfo": "The crew has successfully ascended into Earth Parking Orbit and has configured the spacecraft for orbital insertion. The upcoming procedure is a critical one and will take the spacecraft on a journey towards the Moon."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 4,
             "Program": 2,
             "FileName": "Missions/mission4.json",
             "Title": "Loss of Signal",
             "CampaignProgressInfo": "The Moon is rapidly growing larger in the windows and the crew must prepare for the Lunar Orbit Injection burn."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 5,
             "Program": 2,
             "FileName": "Missions/mission5.json",
             "Title": "Thrust of the Engineers",
             "CampaignProgressInfo": "The crew is ready to go home."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 6,
             "Program": 2,
             "FileName": "Missions/mission6.json",
             "Title": "Heat",

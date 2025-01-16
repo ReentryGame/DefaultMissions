@@ -82,28 +82,28 @@
             "CampaignProgressInfo": "After a few successful test-flights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 1,
             "Program": 1,
             "FileName": "Missions/mission2.json",
             "Title": "The Walk in Space",
             "CampaignProgressInfo": "The new spacecraft is working well, and orbital maneuvering has been proven in the previous flight. It's once again your turn to head up there and perform the first ever EVA attempt by the U.S. Once again, the U.S.S.R. beat the U.S. in performing the first ever EVA in Voskhod a few months ago, but this is a critical maneuver we need to master for Project Apollo!"
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 2,
             "Program": 1,
             "FileName": "Missions/mission3.json",
             "Title": "Face to Face",
             "CampaignProgressInfo": "Rendezvousing and docking with another spacecraft is another crucial task needed by the Apollo program, as astronauts will need to extract the Lunar Module from the Launch Vehicle, as well as getting back from the Lunar Surface. The next mission was all about practicing these two methods, however, the target docking vehicle failed to launch. Patrick and his crew are still in orbit in the long duration mission, so we will try to rendezvous with them instead, and leaving the docking for another mission."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 3,
             "Program": 1,
             "FileName": "Missions/mission4.json",
             "Title": "The Docking",
             "CampaignProgressInfo": "The press has gone wild after the first U.S. rendezvous & formation flying in space was achieved, including Commander Patricks 14 days in space. A lot of work is still in front of us as we make progress towards the bold goal and dream of landing on the Moon. A docking training module has just successfully launched into orbit at an altitude of 300 km, and it's your job to catch up with it, rendezvous and dock."
         },
         {
-            "missionIndex": 0,
+            "missionIndex": 4,
             "Program": 1,
             "FileName": "Missions/mission5.json",
             "Title": "Let's Dock!?",

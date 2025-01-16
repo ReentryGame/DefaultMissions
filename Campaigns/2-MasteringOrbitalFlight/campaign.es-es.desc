@@ -1,0 +1,115 @@
+{
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": "1aaa781c-097f-4ba4-9f0d-f7184e100407",
+  "Title": "Campaign 2: Mastering Orbital Flight",
+  "DisplayTitle": "Campaña 2: Dominando el Vuelo Orbital",
+  "TileBackgroundImage": "tileBg.png",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 0,
+      "Data": "Un Nuevo Destino",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La carrera por el espacio entre la U.R.S.S. y los EE.UU. sigue en pleno apogeo, y la U.R.S.S. ha logrado más logros pioneros que los EE.UU. Estamos en modo de recuperación. Tanto Vostok como la nueva nave espacial de la U.R.S.S. \"Vosjod\" están logrando primeras veces a un ritmo rápido, como el tiempo más largo en órbita, EVA y operaciones multi tripuladas en el espacio.",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Durante el Proyecto Mercury, el presidente anunció el objetivo de enviar astronautas a la Luna. Para alcanzar este objetivo, se inició el desarrollo de un nuevo programa llamado \"Proyecto Apolo\".\n\nEl Proyecto Mercury logró exitosamente sus metas de enviar astronautas a la órbita terrestre y regresarlos de forma segura a la Tierra. Basándose en su éxito, se ha desarrollado una nueva nave espacial para seguir aprendiendo y comprendiendo cómo funciona el vuelo orbital. El programa se llama \"Proyecto Géminis\".\n\nAntes de enviar a alguien a la Luna, necesitamos aprender todo lo necesario para hacerlo y probarlo. El objetivo de Géminis es comprender y probar las técnicas de viaje espacial necesarias para apoyar la misión Apolo de llevar astronautas a la Luna.\n\nUna Misión Lunar nos exige sobrevivir en el espacio durante hasta 14 días, entender los métodos de realizar actividades extravehiculares (EVA), y las maniobras orbitales necesarias para lograr un encuentro y acoplamiento con otra nave espacial.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La Nave Espacial",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La nave espacial Géminis es una nave espacial más grande con espacio para dos astronautas y tiene la capacidad de alterar su trayectoria en el espacio. La nave espacial más grande se divide en tres secciones principales: El módulo de reentrada, el módulo retro y el módulo de equipamiento. Tanto el módulo retro como el módulo de equipamiento se separan de la nave espacial antes de la reentrada.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Gemini_spacecraft.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "El módulo de reentrada",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El módulo de reentrada es la cabina presurizada de la tripulación que permite sobrevivir en el espacio. Es la única parte de la nave espacial que completa todo el viaje desde el lanzamiento hasta el amerizaje.\n\nEstá alimentado por dos fuentes de energía diferentes: baterías como en el Proyecto Mercury, y las recién desarrolladas Celdas de Combustible que producen energía a partir de sustancias criogénicas.\n\nDos sistemas de control de actitud llamados RCS se utilizan para el control de actitud durante la reentrada.\n\nUna computadora de última generación a bordo (OBC) ayudará a la tripulación a realizar maniobras orbitales y guiar la nave. Dos tipos diferentes de joysticks proporcionan control de la nave en los ejes de guiñada, cabeceo, alabeo y translación (hacia adelante, hacia atrás, arriba, abajo y lateral). El control de translación permite el encuentro, acoplamiento y control de la trayectoria de vuelo por parte de la tripulación.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "El Módulo del Adaptador",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El Módulo Adaptador consiste tanto del módulo Retro como del módulo de Equipamiento.\n\nEl módulo de equipamiento contiene la mayoría del equipamiento necesario durante el vuelo orbital. Aquí se encuentran 16 propulsores utilizados tanto para el control de actitud como para el control translacional, así como las Celdas de Combustible y sustancias criogénicas.\n\nCuatro cohetes retrorreactores de combustible sólido se encuentran en el módulo de Reentrada, y se disparan uno a uno como en el Proyecto Mercury.\n\nEl módulo de Equipamiento alimenta la nave espacial en órbita, y se separa antes de la quemadura retrógrada. Tras la retrógrada, la sección retro es desechada antes de la entrada.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La Academia",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La prensa de todo el mundo imprimió tu nombre en cada periódico después de tus esfuerzos heroicos en el Proyecto Mercury. Tus habilidades y conocimiento de la nave espacial fueron esenciales para tu éxito, y la diferencia entre una entrada segura y un desastre. Tus habilidades veteranas son necesarias en el Proyecto Géminis, y serás comandante con tu propia tripulación. Martin, el Director de Operaciones de la Tripulación de Vuelo, ha asignado a un astronauta recién contratado llamado Aaron Skye como tu copiloto.\n\nAntes de embarcarte en tu primer vuelo Géminis, es tiempo de visitar la Academia nuevamente para obtener la Licencia Géminis. La Academia Géminis se encuentra en la sección \"ACADEMIA\" del Menú Principal y te llevará a través de todo lo que necesitas saber sobre esta nueva nave espacial. Se recomienda llevar una copia del Manual de Vuelo de Reentrada Géminis contigo a la Academia para que puedas aprender la teoría y obtener una comprensión más profunda de la nave espacial. Las tareas por delante serán complicadas, y serás uno de los primeros en resolverlas.\n\nOpcional: Una vez que hayas completado y recibido el Certificado de Piloto Géminis, avisa a tus colegas astronautas en el grupo oficial de Discord de Reentrada, donde se reúnen muchos de los otros astronautas Géminis. Los puedes encontrar en discord.gg/reentrygame. ",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Misiones",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/mission1.json",
+      "Title": "Una Nueva Nave Espacial",
+      "CampaignProgressInfo": "Después de algunos vuelos de prueba exitosos con el vehículo de lanzamiento Gemini-Titan II, es tu turno de ser el primero que probará la nueva nave espacial Gemini, y por primera vez intentarás cambiar la forma de la órbita usando los propulsores OAMS. La U.R.S.S. ya ha superado a los EE.UU. al tener un vuelo tripulado múltiple usando su nave espacial Vosjod, pero esto aún está por ser probado en una nave estadounidense.",
+      "Program": 1,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/mission2.json",
+      "Title": "La Caminata en el Espacio",
+      "CampaignProgressInfo": "La nueva nave espacial está funcionando bien, y la maniobra orbital ha sido probada en el vuelo anterior. \nEs una vez más tu turno de subir allá arriba y realizar el primer intento de EVA jamás hecho por los EE. UU. \nUna vez más, la U.R.S.S. venció a los EE. UU. al realizar la primera EVA en Voskhod hace unos meses, ¡pero esta es una maniobra crítica que necesitamos dominar para el Proyecto Apolo!",
+      "Program": 1,
+      "missionIndex": 1
+    },
+    {
+      "FileName": "Missions/mission3.json",
+      "Title": "Cara a Cara",
+      "CampaignProgressInfo": "Rendezvousing and docking with another spacecraft is another crucial task needed by the Apollo program, as astronauts will need to extract the Lunar Module from the Launch Vehicle, as well as getting back from the Lunar Surface. The next mission was all about practicing these two methods, however, the target docking vehicle failed to launch. Patrick and his crew are still in orbit in the long duration mission, so we will try to rendezvous with them instead, and leaving the docking for another mission.",
+      "Program": 1,
+      "missionIndex": 2
+    },
+    {
+      "FileName": "Missions/mission4.json",
+      "Title": "El Atraque",
+      "CampaignProgressInfo": "La prensa se ha vuelto loca después de que se lograra el primer encuentro y vuelo en formación de EE. UU. en el espacio, incluidos los 14 días del Comandante Patrick en el espacio. Aún queda mucho trabajo por delante mientras avanzamos hacia la audaz meta y sueño de aterrizar en la Luna. Un módulo de entrenamiento de acoplamiento acaba de lanzarse con éxito a una órbita a una altitud de 300 km, y es tu trabajo alcanzarlo, encontrarte y acoplar.",
+      "Program": 1,
+      "missionIndex": 3
+    },
+    {
+      "FileName": "Missions/mission5.json",
+      "Title": "¡Atracamos?",
+      "CampaignProgressInfo": "Se han realizado múltiples intentos fallidos de acoplamiento debido a problemas técnicos con el objetivo de acoplamiento o el vehículo de lanzamiento que lo transporta. Dado que te estás volviendo muy bueno en el encuentro orbital, se ha decidido que volverás allá arriba y completarás el trabajo. Se ha lanzado un vehículo objetivo más grande llamado Agena allá arriba, y se hará un nuevo intento en el primer acoplamiento espacial. El Agena tiene un motor de propulsión que se utilizará para alcanzar altitudes sin precedentes.",
+      "Program": 1,
+      "missionIndex": 4
+    }
+  ],
+  "CompletionMessage": "The uncontrolled tumble was due to a faulty jet in the OAMS system, and naturally the press has been all over the incident. However, the docking objective was met, and Patrick commanded the final Gemini flight with no incidents. This means all the objectives of Project Gemini has been met, and focus has shifted to the Apollo program. Patrick has been scheduled for the first Apollo flight, and all efforts are being done to make sure the Apollo Command Module is ready in time. Your success in Gemini, and the ability to solve problems as they arise has made you one of the most famous astronauts, and naturally, you have been assigned a seat in the Apollo program.",
+  "Hidden": false
+}

@@ -1,0 +1,74 @@
+{
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": null,
+  "Title": "Gemini-Titan 3",
+  "DisplayTitle": "Géminis-Titán 3",
+  "TileBackgroundImage": "",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 0,
+      "Data": "Objetivos de la misión",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "OBJETIVOS PRINCIPALES\n1. Demostrar el vuelo orbital tripulado en la nave espacial Géminis y calificar aún más los sistemas de la nave espacial y el vehículo de lanzamiento para futuras misiones tripuladas.\n \n2. Demostrar y evaluar las operaciones de la red de seguimiento mundial con una nave espacial y tripulación.\n \n3. Evaluar el diseño de Géminis y sus efectos en el rendimiento de la tripulación.\n \n4. Demostrar y evaluar la capacidad de maniobrar la nave espacial en órbita utilizando el Sistema de Actitud y Maniobra Orbital (OAMS).\n \n5. Demostrar la capacidad para controlar la trayectoria de vuelo de reentrada y el punto de aterrizaje.\n \n6. Evaluar el rendimiento de los siguientes sistemas de la nave espacial:\na. Controles y pantallas de la estación de la tripulación\nb. Control ambiental\nc. Trajes espaciales de Géminis\nd. Guía y control\ne. Energía eléctrica y secuencial\nf. Propulsión\ng. Comunicaciones y seguimiento\nh. Pirotecnia\ni. Instrumentación\nj. Alimentación, agua y gestión de residuos\nk. Aterrizaje y recuperación\n \n7. Demostrar la verificación de sistemas, procedimientos previos al lanzamiento y de lanzamiento para naves espaciales tripuladas.\n \n8. Recuperar la nave espacial y evaluar los sistemas de recuperación.\n\nOBJETIVOS SECUNDARIOS\n1. Evaluar los siguientes sistemas de la nave espacial:\na. Equipamiento de astronautas\nb. Instrumentación biomédica\nc. Higiene personal\n \n2. Realizar los siguientes experimentos:\na. Crecimiento de huevos de erizo de mar\nb. Efectos de la radiación y de la ingravidez en la sangre\nc. Comunicaciones de reentrada\n \n3. Obtener cobertura fotográfica general en órbita.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Plan de vuelo",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "flightplan.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Detalles de la misión",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Comandante: Gus Grissom\nPiloto: John Young\nNombre de la cápsula: The Molly Brown\nVehículo de lanzamiento: Titan II\nFecha de lanzamiento: 1965-03-23\nSitio de lanzamiento: Cabo Cañaveral, Estados Unidos\n\nInicio de la misión:\nT -15 minutos con comprobaciones finales",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Traduce el siguiente texto al español. Mantén los corchetes cuadrados. Incluye símbolos de salto de línea en la salida. No formatees la salida: Notas",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Esta es una misión histórica con el objetivo de recrear la misión lo mejor posible dentro de las limitaciones del juego.\n\nReentry ha diseñado una cápsula genérica con todas las principales características del Géminis. Algunas lecturas como voltajes, amperios, detalles de trayectoria, etc., pueden diferir del audio.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Misiones",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/gt3.json",
+      "Title": "Géminis-Titan 3",
+      "CampaignProgressInfo": "La primera misión Géminis.",
+      "Program": 1,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/gt3-stripped.json",
+      "Title": "Gemini-Titan 3 (NO COMMs)",
+      "CampaignProgressInfo": "Esta es una versión de juego libre de la misión diseñada para ser jugada por ti mismo mientras sigues manualmente el plan de vuelo. Se han eliminado todas las comunicaciones de misión y fallos.",
+      "Program": 1,
+      "missionIndex": 1
+    }
+  ],
+  "CompletionMessage": "",
+  "Hidden": true
+}

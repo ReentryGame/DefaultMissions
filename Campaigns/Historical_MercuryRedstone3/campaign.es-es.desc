@@ -1,0 +1,78 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Mercury-Redstone 3",
+    "DisplayTitle": "Mercury-Redstone 3",
+    "TileBackgroundImage": "",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "Objetivos de la misión",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "1. Familiarizar al ser humano con una experiencia espacial breve pero completa, que incluya el despegue, vuelo propulsado, vuelo sin peso (aproximadamente 5 minutos), reentrada y fases de aterrizaje del vuelo.\r\n2. Evaluar la capacidad del ser humano para funcionar como una unidad durante el vuelo espacial demostrando el control manual de la actitud de la nave espacial antes, durante y después del retrofuego, y el uso de las comunicaciones por voz durante el vuelo.\r\n3. Estudiar las reacciones fisiológicas del ser humano durante el vuelo espacial.\r\n4. Recuperar al astronauta y la nave espacial.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Plan de vuelo",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "00:00 - Despegue\r\n01:24 - Comprobaciones de presión, máximo-q\r\n02:22 - Corte del vehículo de lanzamiento y separación de la torre\r\n02:32 - Separación de la nave y despliegue del periscopio\r\n02:37 - Giro de 180 grados\r\n03:10 - Pruebas de control manual con ASCS\r\n Tomar control manual de un eje a la vez:\r\n A) Pitch manual, de -14.5 a -34, luego regresar a -14.5\r\n B) Yaw manual, a la izquierda hasta -10, luego regresar a 0\r\n C) Roll manual, a la izquierda hasta -10, luego regresar a 0\r\n\r\n03:50 - Observación visual con periscopio en actitud orbital (-14 pitch, 0 yaw, 0 roll)\r\n04:44 - Iniciar secuencia de retrofuego, volver a actitud de retrofuego (-34 pitch, 0 yaw, 0 roll)\r\n05:14 - Retroceso bajo control manual en todos los ejes\r\n06:14 - Expulsión del retro\r\n06:15 - Comprobaciones de HF\r\n06:20 - Actitud de reentrada usando FBW (+34 pitch, 0 yaw, 0 roll)\r\n06:44 - Retracción del periscopio (se producirá con 0.05g en reentrada)\r\n07:48 - Retroceso del periscopio, 0.05g\r\n08:20 - Aceleración máxima en reentrada\r\n09:38 - Despliegue del paracaídas de drogues\r\n10:15 - Despliegue del paracaídas principal\r\n15:22 - Aterrizaje (ligeramente desplazado en reentrada, aún afinando)",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "flightplan.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Mission Details",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Comandante: Alan Shepard\r\nNombre de la cápsula: Freedom-7\r\nCohete: Redstone\r\nPerfil de la misión: Suborbital\r\n\r\nHora de lanzamiento programada: 5 de mayo de 1961, 07:20 AM EST\r\nInicio de la cuenta regresiva: 4 de mayo de 1961 ~8:30 PM EST\r\nIngreso a la cápsula: 5 de mayo de 1961 05:15AM EST (06:15 EDT)\r\nRetraso no planeado a las 07:05 EST durante 1 hora para dejar despejar las nubes y arreglar una fuente de alimentación defectuosa\r\nPoco después de reanudar la cuenta regresiva, se produjeron más retrasos debido a un reinicio del sistema en el Centro de Vuelo Espacial Goddard.\r\n\r\nInicio de la misión:\r\nT -15 minutos con las comprobaciones finales",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Notes",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Esta es una misión histórica con el objetivo de recrear la misión lo mejor posible dentro de las limitaciones del juego. \r\n\r\nReentry ha diseñado una cápsula genérica con todas las características principales del Mercury. Algunas lecturas, como voltajes, amperios, detalles de la trayectoria, etc., pueden diferir del audio.\r\n\r\nCompleta la misión principal para desbloquear una versión en vivo de Control de Misión, donde las comunicaciones de la misión han sido eliminadas.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Misiones",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/freedom7.json",
+            "Title": "MR-3: Freedom 7",
+            "CampaignProgressInfo": "La primera misión Mercury"
+        },
+        {
+            "missionIndex": 1,
+            "Program": 0,
+            "FileName": "Missions/freedom7mcc.json",
+            "Title": "MR-3: Freedom 7 (MCC) ",
+            "CampaignProgressInfo": "Esta es una versión de juego libre de la misión diseñada para ser jugada por ti mismo o para ser utilizada durante sesiones multijugador habilitadas con control de misión en línea. Todas las comunicaciones de la misión han sido eliminadas."
+        }
+    ],
+    "CompletionMessage": "",
+    "Hidden": true
+}

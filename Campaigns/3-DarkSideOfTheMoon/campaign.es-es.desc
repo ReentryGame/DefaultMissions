@@ -1,0 +1,204 @@
+{
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": "7cf11756-3e44-470e-ab89-d6cded6bd37d",
+  "Title": "Campaign 3: Dark Side of the Moon",
+  "DisplayTitle": "Campaña 3: Lado Oscuro de la Luna",
+  "TileBackgroundImage": "tileBg.png",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 0,
+      "Data": "La Luna",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La Luna nunca ha estado tan cerca. El programa Géminis ha creado con éxito el puente tecnológico necesario para realizar el viaje a la Luna. Con el cohete más grande jamás construido por el hombre, transportando una nave espacial con componentes de la tecnología más avanzada jamás volada, un equipo de tres astronautas intentará el viaje a la Luna.\n\nPara lograrlo, aún hay muchas cosas que deben salir bien. El Módulo de Comando de Apolo todavía no ha sido probado para el vuelo tripulado, y el Módulo Lunar necesario para aterrizar en la Luna está muy retrasado.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "El Saturno V",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El cohete (vehículo de lanzamiento) utilizado para llevar la nave espacial Apolo a la órbita y hacia la Luna es el Saturno V. Consiste en tres etapas principales: S-IC, S-II y S-IVB",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "SaturnV_S-IC.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La primera etapa (S-IC, \"S-one-C\") consta de cinco motores F-1 que se utilizan para llevar todo el conjunto a través de la atmósfera. Las fuerzas combinadas de los cinco motores F-1 son 7,500,000 lbf. El motor central es fijo, mientras que los cuatro motores exteriores pueden ser orientados para el control de actitud.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "SaturnV_S-II.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La segunda etapa (S-II, \"S-dos\") está propulsada por cinco motores J-2 con un empuje total de 1,000,000 lbf. Acelerará la pila a través de la atmósfera superior.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "SaturnV_S-IVB.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La tercera etapa (S-IVB, \"S-cuatro-B\") está propulsada por un motor J-2 con una fuerza de empuje de 200,000 lbf. El motor se encenderá dos veces. Una vez durante el ascenso, y una vez para colocar la nave espacial en una trayectoria lunar, un procedimiento conocido como Inyección Trans-Lunar). También llevará el Módulo Lunar y el adaptador de la nave espacial.\n\nEl Sistema de Propulsión Auxiliar (APS) se utiliza como control de actitud primario hasta que el S-IVB se separa después de la TLI.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La nave espacial Apolo.",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Una nueva nave espacial llamada el Módulo de Mando y Servicio (CSM) ha sido desarrollada. Está compuesta por dos partes principales: El Módulo de Mando (CM) y el Módulo de Servicio (SM). El vehículo de lanzamiento Apollo Saturn V llevará la nave espacial a la órbita terrestre y luego hacia una trayectoria lunar. La nave espacial se separará del vehículo de lanzamiento y continuará el viaje alrededor de la Luna, de regreso hacia la Tierra. Justo antes de la reentrada, el Módulo de Servicio se separará y el Módulo de Mando entrará en la atmósfera y amerizará en el océano.\n\nDurante el ascenso a través de la atmósfera, el Sistema de Escape al Lanzamiento (LES) se utiliza para alejar el Módulo de Mando y su tripulación del Vehículo de Lanzamiento en caso de emergencia.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "ApolloSpacecraftDiagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "El Módulo de Comando",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El Módulo de Comando alberga a una tripulación de tres en un compartimento presurizado con bodegas de equipos, controles, pantallas y sistemas necesarios para todo el viaje. Tiene su propio sistema eléctrico, así como un Sistema de Control de Reacción (RCS) necesario durante la entrada atmosférica.\n\nTambién tiene una escotilla delantera que se utilizará para entrar y salir del Módulo Lunar una vez que esté completo.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Command_Module_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "El Módulo de Servicio",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La SM es una parte no presurizada de la nave espacial que lleva el equipo obligatorio necesario para la larga duración de una misión lunar. Lleva el sistema eléctrico principal (Celdas de Combustible), reactivos, el Sistema de Propulsión de Servicio (SPS) y todos sus componentes. El SPS es el motor principal de la nave espacial y se utiliza para todas las quemaduras principales. La SM también lleva el principal Sistema de Control de Reacción (RCS) para el control de actitud y el control de translación.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Service_Module_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Sistema de Escape de Lanzamiento",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La Torre de Escape del Lanzamiento está de vuelta. Se decidió abandonar el método del asiento eyectable usado en el Proyecto Géminis y regresar a métodos de escape similares utilizados en el Proyecto Mercurio.\n\nDurante el lanzamiento y ascenso del cohete Apolo Saturno V, la Torre de Escape del Lanzamiento puede ser utilizada para separar el Módulo de Mando del cohete fallido, con un descenso inmediato y amerizaje. Un lanzamiento del Saturno V tiene cinco modos de aborto, donde los tres primeros modos utilizarán el LES. Después de la etapa S-IC, el LES se jettisona ya que ya no es necesario.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Launch_escape_system_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Controles y Pantallas",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Los Controles y Displays utilizados para controlar la nave espacial están ubicados en el Módulo de Comando. Consiste en cientos de fusibles, interruptores y controles utilizados para configurar y operar la nave espacial. Se utiliza una computadora de propósito general de última generación llamada Apollo Guidance Computer como el método de guía principal. Utilizando óptica como sus ojos, una Unidad de Medición Inercial (IMU) como sus piernas, el AGC puede navegar y maniobrar la nave espacial desde el lanzamiento hasta la entrada, con la entrada de la Tripulación y el Control de Misión.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Apollo_Command_Module_Main_Control_Panel.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La Academia",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Después de haber sido astronauta durante mucho tiempo con experiencia volando tanto en la nave espacial Mercury como en la Gemini, con las habilidades y la mente necesarias para salir de las emergencias más severas, la prensa espera verte en un asiento para el Programa Apollo.\n\nMartin, el Director de Operaciones de la Tripulación de Vuelo, te ha nombrado Comandante de la 2da misión Apollo, con el propósito de probar la nave espacial en órbita terrestre, así como el Módulo Lunar.\n\nAl igual que en el Proyecto Gemini, el astronauta veterano Aaron formará parte de tu tripulación, y será el Piloto del Módulo de Comando (CMP). Lodkins ha estado entrenando para su primer viaje al espacio y se unirá a tu tripulación como Piloto del Módulo Lunar (LMP).\n\nHay mucha presión sobre nosotros si queremos tener éxito en alunizar en esta década. Por lo tanto, es vital que cada misión Apollo que conduzca al alunizaje sea un éxito.\n\nEstás programado para la Academia del Módulo de Comando Apollo para comenzar tu entrenamiento de inmediato. Antes de intentar esta campaña, debes obtener el certificado de Piloto del Módulo de Comando. La Academia se encuentra en la sección \"ACADEMIA\" del Menú Principal y te guiará a través de todo lo que necesitas saber sobre la nave para comandar una misión.\n\nOtros astronautas que han pasado por la Academia también se pueden encontrar en el grupo oficial de Reentry Discord. Aprender esta tarea es difícil por ti mismo, ¡así que busca ayuda!\nDirígete a: discord.gg/reentrygame ¡para encontrarnos!\n\nOpcional: Una vez que hayas completado y recibido el Certificado de Piloto del Módulo de Comando, avisa a tus compañeros astronautas para que también puedas obtener la Insignia de la Comunidad del Módulo de Comando Apollo.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Misiones",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/cutscene_9100.json",
+      "Title": "Ensayo",
+      "CampaignProgressInfo": "Comandante Patrick está asegurado y listo con su tripulación, actualmente realizando una prueba en preparación para el primer vuelo tripulado de Apolo!",
+      "Program": 9000,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/mission1.json",
+      "Title": "Equipo de respaldo",
+      "CampaignProgressInfo": "Mucho se aprendió de la trágica pérdida de la primera misión Apolo y su tripulación. El nuevo y mejorado Módulo de Comando \"Bloque II\" ahora forma parte de la nave Apolo, y está listo en la plataforma de lanzamiento. Eres parte de la tripulación de respaldo para el vuelo y prepararás la cabina para la entrada de la Tripulación Principal.",
+      "Program": 2,
+      "missionIndex": 1
+    },
+    {
+      "FileName": "Missions/mission2.json",
+      "Title": "7.5 Millones de Libras de Empuje",
+      "CampaignProgressInfo": "¡La primera misión tripulada del Apolo fue un éxito!\nSin embargo, el Módulo Lunar está experimentando muchos retrasos y no estará listo a tiempo para su misión.\nToda la prueba del Módulo Lunar se ha trasladado a otra misión.\nYa hemos probado el Módulo de Comando en órbita terrestre, por lo que en lugar de cancelar o posponer su misión, se ha decidido que su destino será la Luna.",
+      "Program": 2,
+      "missionIndex": 2
+    },
+    {
+      "FileName": "Missions/mission3.json",
+      "Title": "Zarpar",
+      "CampaignProgressInfo": "La tripulación ha ascendido con éxito a la Órbita de Estacionamiento Terrestre y ha configurado la nave espacial para la inserción orbital. El procedimiento próximo es crítico y llevará a la nave espacial en un viaje hacia la Luna.",
+      "Program": 2,
+      "missionIndex": 3
+    },
+    {
+      "FileName": "Missions/mission4.json",
+      "Title": "Pérdida de Señal",
+      "CampaignProgressInfo": "La Luna está creciendo rápidamente en las ventanas  \ny la tripulación debe prepararse para la quemadura de Inyección en Órbita Lunar.",
+      "Program": 2,
+      "missionIndex": 4
+    },
+    {
+      "FileName": "Missions/mission5.json",
+      "Title": "Impulso de los Ingenieros",
+      "CampaignProgressInfo": "La tripulación está lista para regresar a casa.",
+      "Program": 2,
+      "missionIndex": 5
+    },
+    {
+      "FileName": "Missions/mission6.json",
+      "Title": "Calor  \n[Dejar espacio]",
+      "CampaignProgressInfo": "La tripulación se encuentra en una trayectoria de planeo hacia la Tierra y debe hacer lo necesario para tener un ángulo de entrada de aproximadamente 6.5 grados.",
+      "Program": 2,
+      "missionIndex": 6
+    }
+  ],
+  "CompletionMessage": "Congratulations on completing the campaign!",
+  "Hidden": false
+}

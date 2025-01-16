@@ -1,0 +1,166 @@
+{
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": "ade16a87-6ef6-43a2-87c6-c6d40e7fe73d",
+  "Title": "Campaign 4: The End of the Decade",
+  "DisplayTitle": "Campaña 4: El Fin de la Década",
+  "TileBackgroundImage": "tileBg.png",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 1,
+      "Data": "El final de la década se acerca cada vez más.\nLas primeras misiones tripuladas al espacio ocurrieron hace 8 años, con la promesa de llevar a un hombre a la Luna para el final de la década.\nMucho ha ocurrido desde entonces.\nHemos presenciado grandes avances técnicos, pérdidas trágicas y logros importantes.\nTanto el programa Mercury como el programa Géminis han allanado el camino para llegar a donde estamos hoy.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "El Módulo Lunar  \n  ",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El Módulo Lunar está completo, y ha sido probado en misiones posteriores desde tu última misión. Ha superado todas las pruebas tanto en la órbita terrestre como en la lunar. La tarea final queda: El Aterrizaje Lunar.",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El viaje a la Luna es largo, y se llevarán a cabo muchos pasos críticos. Tres astronautas harán el viaje en el módulo de Comando y Servicio. Llevará consigo el Módulo Lunar, y cuando sea el momento adecuado, dos astronautas entrarán en el Módulo Lunar y lo pilotarán hasta un aterrizaje seguro en el suelo lunar.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Lunar_Module_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El Módulo Lunar tiene dos etapas. Una se llama la Etapa de Ascenso y es la parte presurizada de la nave espacial donde los astronautas operan la nave espacial. La Etapa de Descenso es la etapa inferior de color naranja con las patas de aterrizaje y un gran motor de descenso utilizado para aterrizar en la Luna. La etapa de ascenso se separará de la Etapa de Descenso durante el despegue desde la superficie lunar. La Etapa de Descenso se convierte en la plataforma de lanzamiento para la etapa de ascenso. La etapa de ascenso tiene un motor de ascenso dedicado que la llevará desde la superficie e la Luna y en una órbita alrededor de la Luna.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "800px-LM_illustration_02.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La Etapa de Descenso  \n",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La etapa de descenso contiene el motor de descenso, y dos tanques de combustible y oxidante utilizados por el mismo. También contiene Helio utilizado para presurizar el motor, 5 baterías utilizadas por el sistema de energía eléctrica, el radar de aterrizaje utilizado durante el descenso, una escalera utilizada para bajar a la superficie, almacenamiento de agua y carga útil.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La Etapa de Ascenso",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La etapa de ascenso contiene el compartimento presurizado utilizado para alojar a los astronautas, y la mayoría de los sistemas utilizados para operar la nave espacial. El radar de encuentro se utiliza durante la ascensión para rastrear al CSM, y durante el acoplamiento para la medición de distancia. Cuatro cuadrantes RCS están ubicados en el exterior utilizados para el control de actitud y translacional. Las radios de comunicación también están ubicadas en el techo, así como un objetivo de acoplamiento utilizado por el CSM al acoplarse con el LM. Las baterías de ascenso también están ubicadas en el módulo de ascenso y se utilizan para alimentarlo después de que la etapa de descenso esté separada.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Controles y Pantallas",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "LM-CB11-16lbl.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "El Módulo Lunar es operado a través de los paneles de control, las palancas de control de actitud y las palancas de control de traslación. Una computadora de guía, similar a la que se encuentra en el CSM, se utiliza para la navegación, y se conoce como la Computadora de Guía Lunar (LGC). Dos astronautas operarán la nave de pie. Una escotilla sobre sus cabezas se utiliza para entrar y salir del Módulo Lunar cuando está acoplado al CSM, y una escotilla frontal se utiliza para entrar y salir cuando están en la superficie lunar.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La tripulación",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Martín, el Director de Operaciones de Tripulación de Vuelo te ha nombrado Comandante de la misión de Aterrizaje Lunar. Ha asignado al Sr. Thompson como tu Piloto del Módulo Lunar, y al Sr. Wood como tu Piloto del Módulo de Comando.\n\nJacob Thompson y Héctor Wood son ambos veteranos del programa espacial estadounidense, y han volado misiones Géminis y Apolo. El Sr. Thompson voló en la misión anterior donde el Módulo Lunar fue probado en órbita lunar, y el Sr. Wood fue el comandante de la primera misión de Apolo donde el Módulo de Comando y Servicio fue probado en órbita.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "La Academia",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Estás programado para comenzar el entrenamiento en la Academia del Módulo Lunar de inmediato. Antes de intentar esta campaña, debes obtener el certificado de Piloto de Módulo Lunar. La Academia se encuentra en la sección \"ACADEMY\" del Menú Principal, y te guiará a través de todo lo que necesitas saber sobre la nave espacial para comandar una misión de alunizaje.\n\nOtros astronautas que han pasado por la Academia también se pueden encontrar en el grupo oficial de Discord de Reentrada. Aprender esto por tu cuenta es difícil, ¡así que busca ayuda!\n¡Dirígete a: discord.gg/reentrygame para encontrarnos!\n\nOpcional: Una vez hayas completado y recibido el Certificado de Piloto de Módulo Lunar, hazles saber a tus compañeros astronautas para que también puedas obtener la Insignia de la Comunidad del Módulo Lunar.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Misiones",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/mission1.json",
+      "Title": "Misión 1",
+      "CampaignProgressInfo": "El Saturno V está erguido en la plataforma, listo para llevar a la tripulación a la órbita y más allá.\nEl objetivo principal de la misión es aterrizar en la Luna y regresar a casa sanos y salvos, sin embargo, el camino es largo y se deben realizar muchas maniobras críticas y avanzadas con éxito para alcanzar la meta.\nEste marca el comienzo del viaje.",
+      "Program": 2,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/mission2.json",
+      "Title": "Misión 2",
+      "CampaignProgressInfo": "Después de alcanzar una órbita estable alrededor de la Tierra el equipo debe prepararse para la Inyección Translunar,[line break]seguida por la maniobra de Transposición y Acoplamiento utilizada para extraer el Módulo Lunar del Vehículo de Lanzamiento. Ambas naves espaciales volarán entonces como una hacia la Luna.",
+      "Program": 2,
+      "missionIndex": 1
+    },
+    {
+      "FileName": "Missions/mission3.json",
+      "Title": "Misión 3",
+      "CampaignProgressInfo": "La quemadura de inyección translunar ha colocado al Módulo de Comando y Servicio (CSM) y al Módulo Lunar en una trayectoria hacia la Luna, con un objetivo de Pe de 60 millas náuticas de altitud.\nEl equipo debe preparar el Sistema de Propulsión de Servicio (SPS) para realizar la quemadura de inserción en órbita lunar.\nCon el Módulo Lunar como carga útil, el SPS necesitará hacer un poco más de trabajo de lo habitual. Esta quemadura crítica requiere plena concentración por parte del equipo, ya que una ligera desviación en la duración de la quemadura o en la configuración del sistema puede llevar a la nave espacial a una trayectoria de colisión con la Luna.",
+      "Program": 2,
+      "missionIndex": 2
+    },
+    {
+      "FileName": "Missions/mission4.json",
+      "Title": "Misión 4",
+      "CampaignProgressInfo": "Con el CSM y el LM en órbita circular alrededor de la Luna, la siguiente quemadura insertará el CSM/LM en una órbita de descenso. \nLa quemadura de Inserción en la Órbita de Descenso debe realizarse en el momento adecuado para llevar Pe a una altitud de 50.000 pies, 350 nmi delante de la ubicación de aterrizaje planeada. \nEntonces, el Módulo Lunar será activado y liberado del CSM.",
+      "Program": 2,
+      "missionIndex": 3
+    },
+    {
+      "FileName": "Missions/mission5.json",
+      "Title": "Misión 5",
+      "CampaignProgressInfo": "El Módulo Lunar se ha desacoplado del CSM y está en su propia órbita alrededor de la Luna. \nEl CSM ha regresado a una órbita circular de 60 millas náuticas, mientras que el Módulo Lunar debe ser preparado para el descenso propulsado que lo llevará a la superficie lunar.",
+      "Program": 2,
+      "missionIndex": 4
+    },
+    {
+      "FileName": "Missions/mission6.json",
+      "Title": "Misión 6",
+      "CampaignProgressInfo": "El alunizaje fue un éxito, y la tripulación ha caminado en la Luna. La próxima serie de eventos traerá de vuelta al Módulo Lunar a la órbita, se reunirá con el CSM, y acoplará. La tripulación luego ingresará al CSM, y se despedirá del Módulo Lunar.",
+      "Program": 2,
+      "missionIndex": 5
+    },
+    {
+      "FileName": "Missions/mission7.json",
+      "Title": "Misión 7",
+      "CampaignProgressInfo": "El viaje de regreso ha comenzado. Con el Módulo Lunar desaparecido, la tripulación debe una vez más preparar el SPS para otra ignición, la quemadura de Inyección Trans-Tierra. La quemadura de Inyección Trans-Tierra llevará a la tripulación en una trayectoria que escapará de la gravedad de la Luna, y los traerá de vuelta a una órbita alrededor de la Tierra, con el Perigeo rozando su atmósfera.",
+      "Program": 2,
+      "missionIndex": 6
+    },
+    {
+      "FileName": "Missions/mission8.json",
+      "Title": "Misión 8",
+      "CampaignProgressInfo": "La tripulación está en trayectoria hacia la Tierra. Con una velocidad de 36500 pies por segundo, la tripulación debe asegurarse de que impactarán la atmósfera y la Interfaz de Entrada con el ángulo correcto. El Módulo de Servicio será eyectado, y el Módulo de Comando reentrará y aterrizará en el océano.",
+      "Program": 2,
+      "missionIndex": 7
+    }
+  ],
+  "CompletionMessage": "Landing on the Moon is not an easy task, nor is the return journey. You have mastered the entire Lunar Mission Profile with the Command & Service Module and the Lunar Module spacecrafts. The world once again celebrates your achievements.",
+  "Hidden": false
+}

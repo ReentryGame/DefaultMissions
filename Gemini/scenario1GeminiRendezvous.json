@@ -7,6 +7,7 @@
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "ID": "72d9a81f-c7c4-41d4-8827-ee81f9b41173",
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
@@ -28,7 +29,8 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false
+      "PlayAudioClip_String3": false,
+      "Comment": null
     }
   ],
   "MissionGoals": [

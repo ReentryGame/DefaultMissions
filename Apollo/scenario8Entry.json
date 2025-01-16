@@ -1,4 +1,5 @@
 {
+  "LV": 0,
   "StartInOrbit": true,
   "ScheduledLaunchTime": "1969-07-20T07:51:00",
   "InitialTimeToRetrograde": "11:20:00",
@@ -8,6 +9,7 @@
       "Processed": false,
       "Completed": false,
       "Priority": false,
+      "ID": "9e1956ac-99db-4bca-8279-6e18cb4ffc55",
       "Action": 0,
       "Timestamp": 10.0,
       "DisplayTime": 5.0,
@@ -52,6 +54,8 @@
     }
   ],
   "MissionActivities": [],
+  "MissionChecklists": [],
+  "Comment": "",
   "SpaceProgram": 2,
   "Id": 504,
   "ID": "7cfd1374-61a9-42a6-9505-341d149d3538",
@@ -77,5 +81,6 @@
   "OverridePanelStateCM": false,
   "OverridePanelStateFileNameCM": "Default/Ingress.json",
   "OverridePanelStateLM": false,
-  "OverridePanelStateFileNameLM": "Default/Ingress.json"
+  "OverridePanelStateFileNameLM": "Default/Ingress.json",
+  "AlwaysSyncMissionCycleTimerWithMET": false
 }

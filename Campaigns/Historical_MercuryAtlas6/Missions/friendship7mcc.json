@@ -8,6 +8,8 @@
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": "",
+      "ID": "879ab722-7992-4656-b874-271e1176a353",
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
@@ -56,6 +58,7 @@
     "/MissionChecklists/MA6ref21",
     "/MissionChecklists/MA6ref23"
   ],
+  "MissionInsigniaPath": "",
   "SpaceProgram": 0,
   "Id": 2571319,
   "ID": "88cd451f-e5a1-48c4-a3b5-7f7211fa0ec3",

@@ -1934,7 +1934,7 @@
   "OverrideSunPhase": false,
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelStateCM": true,
-  "OverridePanelStateFileNameCM": "Default/ColdAndDark.json",
+  "OverridePanelStateFileNameCM": "./state_m1pnl.json",
   "OverridePanelStateLM": false,
   "OverridePanelStateFileNameLM": "Default/Ingress.json",
   "AlwaysSyncMissionCycleTimerWithMET": false

@@ -1230,7 +1230,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "Next we will turn on the On-Board Computer (OBC). The OBC is AC powered through something called the inertial measurement unit (IMU), and the Main DC Bus using an internal inverter. The nertial measurement unit are gyros used for attitude information.",
+      "Message": "Next we will turn on the On-Board Computer (OBC). The OBC is AC powered through something called the inertial measurement unit (IMU), and the Main DC Bus using an internal inverter. The inertial measurement unit contains gyros used for attitude information.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

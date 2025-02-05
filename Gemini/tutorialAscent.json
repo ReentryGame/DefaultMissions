@@ -1810,7 +1810,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "If your ascent was nominal, this value (AFT/FWD) should be close to zero. The green lights (+/-) above and below the AFT/FWD digit shows the direction you need to correct the orbit, of the digit is not all zeros.",
+      "Message": "If your ascent was nominal, this value (AFT/FWD) should be close to zero. The green lights (+/-) above and below the AFT/FWD digit shows the direction you need to correct the orbit, if the digit is not all zeros.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

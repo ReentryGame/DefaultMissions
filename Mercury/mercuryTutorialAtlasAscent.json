@@ -727,7 +727,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "The reason there are two RUN buttons is because you an queue up steps from multiple checklists, and this lets you decide if the steps of the checklist you wish to RUN should be added after the existing steps (if any) or if you wish to add it before the existing steps.",
+      "Message": "The reason there are two RUN buttons is because you can queue up steps from multiple checklists, and this lets you decide if the steps of the checklist you wish to RUN should be added after the existing steps (if any) or if you wish to add it before the existing steps.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

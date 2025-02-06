@@ -563,7 +563,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "Retrograde is in {{timeToRetro}}. Start preparing to retry by following the PRE RETRO checklist.",
+      "Message": "Retrograde is in {{timeToRetro}}. Start preparing to the retro burn by following the PRE RETRO checklist.",
       "Value1": 300.0,
       "Value2": 0.0,
       "Value3": 0.0,

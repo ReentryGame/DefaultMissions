@@ -1223,7 +1223,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 1,
-      "Message": "Let us signal to the Blockhouse that we are staring the final checks and will be ready for launch. Set the LAUNCH CONTROL switch to READY so the blockhous knows they can trigger the ignition. If this switch is READY, the rocket will launch when the countdown reaches zero.",
+      "Message": "Let us signal to the Blockhouse that we are starting the final checks and will be ready for launch. Set the LAUNCH CONTROL switch to READY so the blockhouse knows they can trigger the ignition. If this switch is READY, the rocket will launch when the countdown reaches zero.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

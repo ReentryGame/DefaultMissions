@@ -609,7 +609,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 3,
-      "Message": "Key V48E to reconfigure the DAP, then Key V21E to change R1. Following the DAP Setup checklist, set R1 to +12000 and press ENTER. Hit PRO until the routine is complete.",
+      "Message": "Key V48E to reconfigure the DAP, then Key V21E to change R1. Following the DAP Setup checklist, set R1 to +22102 and press ENTER. Hit PRO until the routine is complete.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

@@ -135,7 +135,7 @@
       "String1": "",
       "String2": "",
       "String3": "",
-      "Bool1": false,
+      "Bool1": true,
       "ThresholdLimit": 0.0,
       "PinID": 35,
       "PinPosition": 4,

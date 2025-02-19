@@ -1,6 +1,7 @@
 {
   "Rocket": 0,
   "StartInOrbit": false,
+  "OldHighlighterQueueMode": true,
   "ScheduledLaunchTime": "1961-07-21T12:20:36",
   "InitialTimeToRetrograde": "00:04:44",
   "MissionCommands": [

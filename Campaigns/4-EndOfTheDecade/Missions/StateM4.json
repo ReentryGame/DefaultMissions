@@ -223,9 +223,9 @@
         "Substance_SM_SPS_Fuel": 6.2938773006079263
     },
     "LMInternal": {
-        "HatchOpen": false,
+        "HatchOpen": true,
         "Oxygen_Cabin": {
-            "x": 0.0,
+            "x": 1.52995992,
             "y": 70.0
         },
         "Oxygen_DescentTank1": {

@@ -43,12 +43,12 @@
         },
         {
             "Type": 0,
-            "Data": "Notes",
+            "Data": "Important",
             "Value": 0
         },
         {
             "Type": 1,
-            "Data": "This is a historic mission with the aim of recreating the mission to the best of my abilities within the limitation of the game. \r\n\r\nReentry has desgined a generic capsule with all of the main Mercury features. Some readouts such as voltages, amps, trajectory details etc, might differ from audio.\r\n\r\nComplete the main mission to unlock a Mission Control Live version where mission comms has been removed.",
+            "Data": "Do not RUN checklists unless specified in the Mission Commands. The Mission Commands will take you through everything you need. This is a historic mission with the aim of recreating the mission to the best of my abilities within the limitation of the game. \r\n\r\nReentry has desgined a generic capsule with all of the main Mercury features. Some readouts such as voltages, amps, trajectory details etc, might differ from audio.\r\n\r\nComplete the main mission to unlock a Mission Control Live version where mission comms has been removed.",
             "Value": 0
         },
         {

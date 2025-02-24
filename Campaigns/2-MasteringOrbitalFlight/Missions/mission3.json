@@ -1434,7 +1434,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Let us make a small course correction to tune our burn. Open the Mission Pad -> Map and check your Apogee. Compare it with the target Apogee. The [RNDZ: dAP = ____ nmi] shows how well the burn went, this is the delta difference to the Target Gemini once you reach Apogee. The smaller this value is, the closer to Agena you will be. Tune this using up/down/fwd/aft OAMS translation and bring it to < 1.0 nmi. Press DONE when complete.",
+      "Message": "Let us make a small course correction to tune our burn. Open the Mission Pad -> Map and check your Apogee. Compare it with the target Apogee. The [RNDZ: dAP = ____ nmi] shows how well the burn went, this is the delta difference to the Target Gemini once you reach Apogee. The smaller this value is, the closer to the target you will be. Tune this using up/down/fwd/aft OAMS translation and bring it to < 1.0 nmi. Press DONE when complete.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

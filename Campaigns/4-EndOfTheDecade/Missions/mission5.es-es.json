@@ -609,7 +609,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 3,
-      "Message": "Clave V48E para reconfigurar el DAP, luego Clave V21E para cambiar R1. Siguiendo la lista de verificación de configuración del DAP, establezca R1 en +12000 y presione ENTER. Presione PRO hasta que se complete la rutina.",
+      "Message": "Clave V48E para reconfigurar el DAP, luego Clave V21E para cambiar R1. Siguiendo la lista de verificación de configuración del DAP, establezca R1 en +22102 y presione ENTER. Presione PRO hasta que se complete la rutina.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

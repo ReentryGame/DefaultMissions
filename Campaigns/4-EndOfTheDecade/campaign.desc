@@ -116,7 +116,7 @@
             "Program": 2,
             "FileName": "Missions/mission2.json",
             "Title": "Mission 2",
-            "CampaignProgressInfo": "After reaching a stable orbit around Earth the crew must prepare for Trans-Lunar Injection, followed by the Transposition & Docking maneuver used to extract the Lunar Module from the Launch Vehicle. The two spacecrafts will then fly as one to the Moon."
+            "CampaignProgressInfo": "After reaching a stable orbit around Earth the crew must prepare for Trans-Lunar Injection, followed by the Transposition & Docking maneuver used to extract the Lunar Module from the Launch Vehicle. The two spacecraft will then fly as one to the Moon."
         },
         {
             "missionIndex": 2,
@@ -161,5 +161,5 @@
             "CampaignProgressInfo": "The crew is on a trajectory towards Earth. With a velocity of 36500 ft/s, the crew must make sure they will hit the atmosphere and the Entry Interface with the correct angle. The Service Module will be jettisoned, and the Command Module will reenter and land in the ocean."
         }
     ],
-    "CompletionMessage": "Landing on the Moon is not an easy task, nor is the return journey. You have mastered the entire Lunar Mission Profile with the Command & Service Module and the Lunar Module spacecrafts. The world once again celebrates your achievements."
+    "CompletionMessage": "Landing on the Moon is not an easy task, nor is the return journey. You have mastered the entire Lunar Mission Profile with the Command & Service Module and the Lunar Module spacecraft. The world once again celebrates your achievements."
 }

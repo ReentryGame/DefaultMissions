@@ -679,7 +679,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 2,
-      "Message": "Set the CM RCS PRESS switch to the up position to pressurize the CM RCS thrusters.",
+      "Message": "Set the CM RCS PRESS switch to the up position to pressurize the CM RCS thrusters (this requires the pyros to be powered and active aka. SECS LOGIC ON and Armed).",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

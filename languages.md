@@ -1,34 +1,9 @@
 # Languages
 This document will explain how mission translation works in Reentry.
 
-The language can be selected from SETTINGS. The dropdown will change the perferred language. The default language is english and will be the language that will be used if no translation exists for a particular mission.
+The language can be selected from SETTINGS. The dropdown will change the preferred language. The default language is english and will be the language that will be used if no translation exists for a particular mission. If you want to use a language-code not yet supported in the game, you can enter it in the override textbox and click the button.
 A translated mission will have the language code as part of its filename if translated. A mission file with no language code is the default english mission.
 
-## Status
-This section will contain a table with the status of mission translation. Each mission will have a row with a status code for each language as a column.
-### MERCURY
-#### Academy
-| Mission                                                           | Spanish | Russian | French | German |   |   |
-|-------------------------------------------------------------------|---------|---------|--------|--------|---|---|
-| LESSON 1 - PRE-LAUNCH</br>mercuryTutorialPreLaunch.json           |   0%    |   0%    |   0%   |   0%   |   |   |
-| LESSON 2 - LAUNCH & ASCENT</br>mercuryTutorialLaunchAscent.json   |   0%    |   0%    |   0%   |   0%   |   |   |
-| LESSON 3 - CHECKLISTS & ATLAS</br>mercuryTutorialAtlasAscent.json |   0%    |   0%    |   0%   |   0%   |   |   |
-| LESSON 4 - ELECTRICITY</br>mercuryTutorialEPS.json                |   0%    |   0%    |   0%   |   0%   |   |   |
-| LESSON 5 - ATTITUDE CONTROL</br>mercuryTutorialRCS.json           |   0%    |   0%    |   0%   |   0%   |   |   |
-| LESSON 6 - STAYING ALIVE</br>mercuryTutorialECS.json              |   0%    |   0%    |   0%   |   0%   |   |   |
-| LESSON 7 - SEQUENCER</br>mercuryTutorialSequencer.json            |   0%    |   0%    |   0%   |   0%   |   |   |
-| EXAM - FULL MISSION</br>mercuryTutorialFullMission.json           |   0%    |   0%    |   0%   |   0%   |   |   |
-| VIRTUAL REALITY</br>mercuryTutorialVR.json                        |   0%    |   0%    |   0%   |   0%   |   |   |
-
-#### Campaign
-| Mission                                                 | Spanish | Russian | French | German |   |   |
-|---------------------------------------------------------|---------|---------|--------|--------|---|---|
-| Campaign Descriptor file                                |         |         |        |        |   |   |
-| Mission 1                                               |         |         |        |        |   |   |
-| Mission 2                                               |         |         |        |        |   |   |
-| Mission 3                                               |         |         |        |        |   |   |
-| Mission 4                                               |         |         |        |        |   |   |
-| Mission 5                                               |         |         |        |        |   |   |
 
 ## Translating
 The in-game tool can be used to translate. The process is similar to the one in https://github.com/ReentryGame/Languages.

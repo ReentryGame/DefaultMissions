@@ -1,6 +1,6 @@
 {
   "StartInOrbit": false,
-  "ScheduledLaunchTime": "1966-02-12T15:42:00",
+  "ScheduledLaunchTime": "1966-02-12T15:04:00",
   "InitialTimeToRetrograde": "120.00:00:00",
   "MissionCommands": [
     {
@@ -1424,6 +1424,6 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 328.0
 }

@@ -7,6 +7,7 @@
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "d82ac7cb-bb61-4fa4-9459-0305816b5d79",
       "Action": 0,
       "Timestamp": 10.0,
@@ -29,13 +30,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "3f6d1960-6742-4f46-bc74-2ffe8a2e111d",
       "Action": 0,
       "Timestamp": 10.0,
@@ -58,13 +59,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "91e569ba-9202-48bf-8cc9-b8ce0fe38136",
       "Action": 0,
       "Timestamp": 10.0,
@@ -87,13 +88,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7d83177a-59c0-49f8-bc2f-70e5bd2c1c0d",
       "Action": 0,
       "Timestamp": 10.0,
@@ -116,13 +117,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "91175461-966a-4954-b1a6-c70734f5c328",
       "Action": 1,
       "Timestamp": 25.0,
@@ -145,13 +146,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "abafab41-0170-497c-8dc2-8d0e2531b0d0",
       "Action": 0,
       "Timestamp": 25.0,
@@ -174,13 +175,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "a50de308-dff7-4dfa-b28a-5799d7635a42",
       "Action": 0,
       "Timestamp": 25.0,
@@ -203,13 +204,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "73771c33-5737-4520-a18e-6f2d5c54a812",
       "Action": 0,
       "Timestamp": 25.0,
@@ -232,13 +233,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "39f0ac4b-99a8-4a59-a810-e78579900b5a",
       "Action": 0,
       "Timestamp": 540.0,
@@ -261,13 +262,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "422efdf9-3a49-4c3b-9255-08b21ab0beb1",
       "Action": 79,
       "Timestamp": 570.0,
@@ -290,13 +291,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "188cff98-16ec-467b-b887-971ae3eeede2",
       "Action": 0,
       "Timestamp": 0.0,
@@ -319,13 +320,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "4f7a8aa8-b8e9-4279-84d8-e29b16b4fc99",
       "Action": 0,
       "Timestamp": 0.0,
@@ -348,13 +349,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7d2b57a0-d58a-4f26-b803-bb55652565eb",
       "Action": 0,
       "Timestamp": 5.0,
@@ -377,13 +378,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "f902af52-78bd-4732-8418-cda92095d5db",
       "Action": 0,
       "Timestamp": 0.0,
@@ -406,13 +407,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "60c331ab-0ce5-4578-a904-ae0cd5e2c7d7",
       "Action": 0,
       "Timestamp": 0.0,
@@ -435,13 +436,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "8cbae889-b96d-4340-a40c-b0029dcbbc20",
       "Action": 0,
       "Timestamp": 50.0,
@@ -464,13 +465,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "cd87efc0-f2be-4243-be29-2b597ae2a4ce",
       "Action": 0,
       "Timestamp": 100.0,
@@ -493,13 +494,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "95a18b5f-be5d-4ade-a3c2-8f428e468e87",
       "Action": 0,
       "Timestamp": 25.0,
@@ -522,13 +523,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "c8c5a4b8-8e23-45c2-aa6c-0b2a2e4cfe7a",
       "Action": 0,
       "Timestamp": 25.0,
@@ -551,13 +552,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "686a128a-8d4b-4a51-b583-bbc1d8aa4953",
       "Action": 70,
       "Timestamp": 25.0,
@@ -580,13 +581,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "1b54db95-f1eb-41f5-882a-593404fed779",
       "Action": 0,
       "Timestamp": 25.0,
@@ -609,13 +610,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "219121f3-6e12-4338-aa35-3cc59b9e01c1",
       "Action": 0,
       "Timestamp": 25.0,
@@ -638,13 +639,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "e5d7b61b-5a51-47de-bb56-8013a691e66e",
       "Action": 0,
       "Timestamp": 25.0,
@@ -667,13 +668,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "95691771-f9a9-4210-bd96-1e5cf21e5c21",
       "Action": 0,
       "Timestamp": 25.0,
@@ -696,13 +697,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "e9603045-7705-422f-9d4f-02f28caf098d",
       "Action": 0,
       "Timestamp": 25.0,
@@ -725,13 +726,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "91608cba-107c-4c72-88d8-61dbdfae40eb",
       "Action": 0,
       "Timestamp": 25.0,
@@ -754,13 +755,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "eb48af1d-9f90-4f93-adeb-cda1c978cb85",
       "Action": 83,
       "Timestamp": 310.0,
@@ -783,13 +784,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "3235b548-8a70-43f2-81dd-c1a2ddb7c6c2",
       "Action": 0,
       "Timestamp": 10.0,
@@ -812,13 +813,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "b2b8053c-df27-4243-8093-75c97acffd28",
       "Action": 0,
       "Timestamp": 10.0,
@@ -841,13 +842,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "d1ecffbf-24a0-4ef2-9e45-cccfbf2e6f6c",
       "Action": 0,
       "Timestamp": 25.0,
@@ -870,13 +871,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "2ce3c2cf-7ec7-48c2-b714-c95c13711072",
       "Action": 71,
       "Timestamp": 25.0,
@@ -899,13 +900,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "c1a81b20-e418-4483-ad2e-aca0b573296b",
       "Action": 0,
       "Timestamp": 25.0,
@@ -928,13 +929,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "1b433627-bb17-4227-9d15-a79abe2ba09c",
       "Action": 0,
       "Timestamp": 25.0,
@@ -957,13 +958,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "1c8f43e1-8b2f-46d7-88f5-085de6b189ff",
       "Action": 1,
       "Timestamp": 25.0,
@@ -986,13 +987,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "2489f2d0-a8d7-4173-a2ca-afd4cab6f2ff",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1015,13 +1016,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "791577e1-407c-4c6e-8133-9278bc5fdc55",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1044,13 +1045,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "6956ade2-1f61-424f-8f73-78bfb9a459eb",
       "Action": 101,
       "Timestamp": 25.0,
@@ -1073,19 +1074,19 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "fe292bf8-4efb-4f64-8390-2218ba00b9b6",
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Catch-Up module running.",
+      "Message": "Catch-Up module loading. [Press ROGER when loading is complete.]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1102,13 +1103,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7a1725fb-e7a1-49a7-9f1a-2daec34d453a",
       "Action": 35,
       "Timestamp": 25.0,
@@ -1131,13 +1132,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7e42e544-b195-4675-83d6-f5e411172f8b",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1160,13 +1161,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "6abe75f9-468d-4ccb-94ef-4ed5cbd500b4",
       "Action": 21,
       "Timestamp": 25.0,
@@ -1189,13 +1190,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "ea99374a-49de-4c95-abd5-9b42b7cf20a8",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1218,13 +1219,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "3d6bb9bc-79cd-424e-9ae2-ca7834c23491",
       "Action": 32,
       "Timestamp": 25.0,
@@ -1247,13 +1248,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "c88ba298-3cdf-4b8a-845d-8f3102b30e08",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1276,13 +1277,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "fbba4adf-97e1-497b-8f4c-408ef87f0a62",
       "Action": 18,
       "Timestamp": 25.0,
@@ -1305,13 +1306,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "c155e691-4619-4f06-bcbd-f983ef2d9f3d",
       "Action": 18,
       "Timestamp": 25.0,
@@ -1334,19 +1335,19 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "380b09c2-380f-4349-a304-288a05fd9c52",
-      "Action": 0,
+      "Action": 1,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "MARK, zero the IVIs!",
+      "Message": "MARK, zero the IVIs! [Press ROGER when burn is complete.]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1363,13 +1364,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "dcf0b682-ab2d-4b11-8320-e4581fc10931",
       "Action": 100,
       "Timestamp": 25.0,
@@ -1392,13 +1393,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "13845a83-264b-41d2-87b0-a8663e0c4e82",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1421,13 +1422,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "798fa79a-67c0-443a-83fa-ba45b8c54c03",
       "Action": 100,
       "Timestamp": 25.0,
@@ -1450,13 +1451,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7a99559b-de58-491e-a82c-8d8040197072",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1479,13 +1480,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "f76988b7-f42f-4191-aa23-2a7b091ec7d2",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1508,13 +1509,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "2b9ecdb0-5392-404a-b885-26efe6dd064b",
       "Action": 34,
       "Timestamp": 25.0,
@@ -1537,13 +1538,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "dba8eb76-3482-4577-85cf-98e3cd3e1550",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1566,13 +1567,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "ac3971bc-2054-4a82-aee8-a577985dfde8",
       "Action": 100,
       "Timestamp": 25.0,
@@ -1595,13 +1596,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "b471e449-13ef-4117-be3e-42d0b48f6887",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1624,13 +1625,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7bf22ebf-189c-42ef-8e12-9568d8bc0f08",
       "Action": 18,
       "Timestamp": 25.0,
@@ -1653,13 +1654,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "5aa08883-094c-460c-bb82-f16da27141cf",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1682,13 +1683,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "2835ccc4-685e-466a-aee9-f1aecb8380cd",
       "Action": 1,
       "Timestamp": 25.0,
@@ -1711,13 +1712,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "9b3ef45c-9695-4655-a101-9dba7e2edf92",
       "Action": 101,
       "Timestamp": 25.0,
@@ -1740,13 +1741,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "2f8cd854-7ce6-4aa9-80a9-e741aad6c8eb",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1769,13 +1770,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7812f5af-30b0-4900-ac5e-818e50c7c507",
       "Action": 400,
       "Timestamp": 25.0,
@@ -1798,13 +1799,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "09582598-570d-45a5-b16f-034a2ac6b07b",
       "Action": 400,
       "Timestamp": 25.0,
@@ -1827,13 +1828,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "5b6b879b-4120-4f30-8105-4f71fc696c3d",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1856,13 +1857,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "0108f62f-b4a0-4ce4-af56-74f04b4de938",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1885,13 +1886,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "e094c63f-dc89-4ebc-8e80-67e379753040",
       "Action": 400,
       "Timestamp": 25.0,
@@ -1914,13 +1915,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "984666db-1c7c-4dea-9e4b-6c4dd3fc47ff",
       "Action": 84,
       "Timestamp": 25.0,
@@ -1943,13 +1944,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "8d4f3c87-3059-4a4a-ba33-9b2c0f959463",
       "Action": 0,
       "Timestamp": 25.0,
@@ -1972,13 +1973,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "f90835f8-828a-4bdc-8cee-3c9e1a52cdfd",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2001,13 +2002,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "2be6b319-15ec-4d02-8c73-964219d1ee93",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2030,13 +2031,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "92e944ed-d27a-4445-ba39-2af3aab51e71",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2059,13 +2060,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "83dfb947-bf40-44b8-a253-c38e0b336409",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2088,13 +2089,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "9f5cac13-b831-4010-91ba-23f8d1383ab0",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2117,13 +2118,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "029d2571-1b99-4966-b0d3-41fe23b0bbd1",
       "Action": 751,
       "Timestamp": 25.0,
@@ -2146,13 +2147,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 100,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "d214f951-c762-4505-8ace-da0493184ecf",
       "Action": 100,
       "Timestamp": 25.0,
@@ -2175,13 +2176,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "640c359e-33fc-47a6-a239-8f7849bd7812",
       "Action": 100,
       "Timestamp": 25.0,
@@ -2204,13 +2205,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "063809fa-4471-451d-aa50-9a64830caea0",
       "Action": 101,
       "Timestamp": 25.0,
@@ -2233,13 +2234,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "987b1fbe-6afa-4d28-a517-c8a1fb30f070",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2262,13 +2263,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "0eb75e7f-828e-40b0-bd69-676b687c8149",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2291,13 +2292,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "8089f796-c84a-437a-97aa-59b9f0a89f27",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2320,13 +2321,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "453bbeee-95f1-4dda-a984-92858dc0336b",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2349,13 +2350,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "f1728a4a-43eb-4bd3-a0bd-c04cba0c6db5",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2378,13 +2379,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "57725c6f-7444-4879-8f7d-b36e41f6a3d8",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2407,13 +2408,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "49e7ad7e-c77a-4a50-8300-7d80a6cef7d2",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2436,13 +2437,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "fcac6fb5-7c19-4791-9c42-92a2592c552e",
       "Action": 103,
       "Timestamp": 25.0,
@@ -2465,13 +2466,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "6498962b-f802-4e68-99b5-61873f94e386",
       "Action": 84,
       "Timestamp": 25.0,
@@ -2494,13 +2495,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "e5e73e15-23a0-413d-9943-565e5caff86f",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2523,13 +2524,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "8ca062b0-b29e-41a9-ab35-95b615f76060",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2552,13 +2553,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "5c8980b2-d154-47fc-85fd-af37778e53b5",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2581,13 +2582,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "5acfcfd4-2dea-4561-979f-e608d1e28f7c",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2610,13 +2611,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "30bdb8df-424c-41f8-b5e2-3cada8a09078",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2639,13 +2640,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "38da46ab-7608-467e-8e16-c6d693ae0517",
       "Action": 87,
       "Timestamp": 25.0,
@@ -2668,13 +2669,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "e4eef596-8db3-4319-9d4b-a1fd80221c14",
       "Action": 88,
       "Timestamp": 25.0,
@@ -2697,13 +2698,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "c632decc-a542-482f-a4a7-d9986e9c0781",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2726,13 +2727,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "a2976441-24ad-4f17-bd8d-73059bf7fd94",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2755,13 +2756,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "06e76bb8-ade8-4925-8aaf-4b30a66657ec",
       "Action": 0,
       "Timestamp": 25.0,
@@ -2784,13 +2785,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "4e60951a-2b04-4854-83a5-24b5b2bf0b28",
       "Action": 1,
       "Timestamp": 25.0,
@@ -2813,20 +2814,20 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "8554db33-d8fd-4dd8-a80a-6de4cdfb468d",
       "Action": 17,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "We should now have a retrograde burn time. We will start the retrograde checklist 10 minutes before ignition.",
-      "Value1": 600.0,
+      "Message": "We should now have a retrograde burn time. Start the PRE RETRO checklist now and follow the steps.",
+      "Value1": 300.0,
       "Value2": 0.0,
       "Value3": 0.0,
       "String1": "",
@@ -2842,13 +2843,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "cd661147-34de-4da0-9922-6cacbef1402e",
       "Action": 200,
       "Timestamp": 25.0,
@@ -2871,13 +2872,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7a06e8c6-c205-4534-bbbe-722b20c0773f",
       "Action": 201,
       "Timestamp": 25.0,
@@ -2900,13 +2901,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "94ac4a5b-fb31-4984-92d8-97be653bbb29",
       "Action": 72,
       "Timestamp": 25.0,
@@ -2929,13 +2930,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "e67749bd-93ed-446f-a517-8913b1daab2c",
       "Action": 17,
       "Timestamp": 25.0,
@@ -2958,13 +2959,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "1f2e1f29-4bf7-4ee1-8663-87d2201dd784",
       "Action": 200,
       "Timestamp": 25.0,
@@ -2987,13 +2988,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "413ce926-f079-4559-a560-4a3cb02a56aa",
       "Action": 81,
       "Timestamp": 25.0,
@@ -3016,19 +3017,19 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "3643af9d-2b9b-4772-9477-02960bb77dc9",
       "Action": 73,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Thrusting. Perform the RETRO JETTISON checklist when they all shut down. Burn lasts 20 seconds.",
+      "Message": "Thrusting. Continue the checklist. Burn lasts 20 seconds.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3045,13 +3046,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "f5237256-779d-4f9c-8839-b3065328b3dd",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3074,13 +3075,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "036fd441-2512-4de2-ba2e-3bb42cf373a5",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3103,13 +3104,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "99283db4-bd97-4290-a81f-3d88fb550d54",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3132,13 +3133,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "b0832ce8-6e3d-434e-b3b1-9a66c2b8a4a9",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3161,13 +3162,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "3f5bf78b-46e8-41b7-a486-d8a636d840f3",
       "Action": 75,
       "Timestamp": 25.0,
@@ -3190,44 +3191,15 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "ID": "9f1b29b6-9333-4bfc-8819-a1ffc03ef0cf",
-      "Action": 0,
-      "Timestamp": 25.0,
-      "DisplayTime": 6.0,
-      "From": 0,
-      "Message": "Ok, we are having some G's",
-      "Value1": 0.0,
-      "Value2": 0.0,
-      "Value3": 0.0,
-      "String1": "",
-      "String2": "",
-      "String3": "",
-      "Bool1": false,
-      "ThresholdLimit": 0.0,
-      "PinID": 0,
-      "PinPosition": 0,
-      "KnobID": 0,
-      "ButtonId": 0,
-      "GaugeId": 0,
-      "ComputerMode": 0,
-      "Fault": 0,
-      "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
-    },
-    {
-      "Delivered": false,
-      "Completed": false,
-      "Priority": false,
-      "ID": "d99ab2f1-fda9-4a1f-87f4-697661ced79c",
-      "Action": 0,
+      "Comment": null,
+      "ID": "60da6ea5-b376-4462-92ce-26b0c9e4820f",
+      "Action": 76,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
@@ -3248,42 +3220,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
-      "ID": "60da6ea5-b376-4462-92ce-26b0c9e4820f",
-      "Action": 76,
-      "Timestamp": 25.0,
-      "DisplayTime": 6.0,
-      "From": 1,
-      "Message": "I noticed.",
-      "Value1": 0.0,
-      "Value2": 0.0,
-      "Value3": 0.0,
-      "String1": "",
-      "String2": "",
-      "String3": "",
-      "Bool1": false,
-      "ThresholdLimit": 0.0,
-      "PinID": 0,
-      "PinPosition": 0,
-      "KnobID": 0,
-      "ButtonId": 0,
-      "GaugeId": 0,
-      "ComputerMode": 0,
-      "Fault": 0,
-      "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
-    },
-    {
-      "Delivered": false,
-      "Completed": false,
-      "Priority": false,
+      "Comment": null,
       "ID": "360bcd23-cd9b-4986-bec7-e547848ea702",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3306,13 +3249,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "1e695b9d-8527-4782-9a2a-421a26c30db7",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3335,13 +3278,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "3c22dd5e-ccdb-4581-baf5-faf2decff388",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3364,13 +3307,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "7fff5595-798e-49db-9ca6-2ef1cade5034",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3393,13 +3336,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "8d11ed49-3b14-43ca-bb4e-0433391908f4",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3422,13 +3365,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "8d5f6902-0e46-4539-8c2a-ba9e01fa50da",
       "Action": 77,
       "Timestamp": 25.0,
@@ -3451,13 +3394,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "16474eb4-6280-4a9d-80ac-547f112cf5a4",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3480,13 +3423,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "4879342f-4a14-4d7b-b39a-e9a7da58190c",
       "Action": 78,
       "Timestamp": 25.0,
@@ -3509,13 +3452,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "04e9e61b-b75f-4218-b29a-d6830a462c40",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3538,13 +3481,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "11564a2e-961a-4f1f-940d-77fa8b9732e5",
       "Action": 82,
       "Timestamp": 25.0,
@@ -3567,13 +3510,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "32b2d23b-83d2-444b-b96d-c14b2af82816",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3596,13 +3539,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "874340a9-52ae-4599-b591-e40376ca7b3d",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3625,13 +3568,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "09f2be19-eae2-41b9-9ad5-ac64b2ac1e8e",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3654,13 +3597,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "af7b757b-1290-4c3d-b295-dc281c6b8788",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3683,13 +3626,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "0df7b26c-fd81-4bfd-b81e-1085fbafb274",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3712,13 +3655,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "9ee801dd-b5f7-40a8-a2d4-386b68b9ab42",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3741,13 +3684,13 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "5a3eccf2-a38f-4d4a-9e82-5b5edb469d10",
       "Action": 0,
       "Timestamp": 25.0,
@@ -3770,19 +3713,19 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "a860834d-6e70-4857-b2cd-50f9c5b0f413",
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Indeed it is, can't wait for my next flight. But can't wait to test that Apollo Command Module.",
+      "Message": "It certainly is. I look forward to my next flight, and to progressing into the Apollo program.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3799,19 +3742,19 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "781604eb-631d-40aa-9a54-cf7c2262ec0d",
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Unfortunate with all the issues surrounding it, but it sure is a beautiful craft.",
+      "Message": "Unfortunate with all the issues surrounding it, but it is a beautiful craft.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3828,19 +3771,19 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "f9545b5a-d37c-4d37-ac9d-ee816b61628d",
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "I'm sure they will sort out the issues before flight, and there's unmanned tests planned.",
+      "Message": "I'm sure we will sort out the issues before flight, and there's unmanned tests planned.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3857,19 +3800,19 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     },
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "85b4d2a4-5f37-4a72-a7ca-ca5772a6abfd",
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Indeed. I will see you at the debrief. (Transmission ends)",
+      "Message": "Indeed. I will see you at the debrief. (Transmission ends, mission complete)",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3886,8 +3829,7 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     }
   ],
   "MissionGoals": [
@@ -3936,6 +3878,7 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 330.0,
+  "OldHighlighterQueueMode": false
 }

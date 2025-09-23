@@ -1973,7 +1973,7 @@
   "TargetPe": 0.0,
   "Inclination": 0.0,
   "DeltaRoll": 88.0,
-  "CoPilot": "Hector",
+  "CoPilot": "Patrick",
   "DisableDefaultAudioSFX": false,
   "LoadState": "state_entryLesson.json",
   "AllowRandomFailures": false,

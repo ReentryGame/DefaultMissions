@@ -361,7 +361,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "Seems like we have lost battery 1?",
+      "Message": "Had an increase in overall amps, ran a quick battery test. Seems like we have lost battery 1?",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1173,7 +1173,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Roger, circularization burn scheduled for the next Pe passing, in about {{timeToPe}}. Wait for the OBC to load (takes 10 minutes) then press READY to proceed.",
+      "Message": "Roger, circularization burn scheduled for the next Pe passing, in about {{timeToPe}}. [Wait for the OBC to load (takes 10 minutes) then press READY to proceed.]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1202,7 +1202,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Verify the OBC cores and reference the Circularize Orbit checklist, and bring this craft into a circular orbit. Use the map view as a tool, and translate up/down/fwd/aft to make Ap and Pe as equal as possible.",
+      "Message": "[Verify the OBC cores and reference the Circularize Orbit checklist, and bring this craft into a circular orbit. Use the Orbit Data on the MAP as a tool, and translate up/down/fwd/aft to make Ap and Pe as equal as possible.]",
       "Value1": 3.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -2370,6 +2370,6 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 328.0
 }

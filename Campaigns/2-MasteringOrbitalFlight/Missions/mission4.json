@@ -419,7 +419,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Follow the Circularize Orbit checklist and enter a circular orbit at Pe. To do this, use the Radio Commands to request a Pe-circularization burn.",
+      "Message": "Follow the Circularize Orbit checklist and enter a circular orbit at Ap. To do this, use the Radio Commands to request a Ap-circularization burn.",
       "Value1": 5.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1425,6 +1425,6 @@
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
   "OverrideTargetVehiclePhase": true,
-  "OverrideTargetVehiclePhaseValue": 328.0,
+  "OverrideTargetVehiclePhaseValue": 47.0,
   "OldHighlighterQueueMode": false
 }

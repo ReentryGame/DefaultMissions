@@ -1139,11 +1139,11 @@
       "Completed": false,
       "Priority": false,
       "ID": "c3f17e46-124e-4143-8788-87093b03994c",
-      "Action": 35,
+      "Action": 34,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Okay, estamos enlazando una actualización del OBC con los parámetros objetivo de la nueva órbita circular. La quemadura tendrá lugar en Pe en aproximadamente {{timeToPe}}.",
+      "Message": "Okay, estamos enlazando una actualización del OBC con los parámetros objetivo de la nueva órbita circular. La quemadura tendrá lugar en Ap en aproximadamente {{timeToAp}}.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1172,7 +1172,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Roger, quemadura de circularización programada para el próximo paso por el Pe, en aproximadamente {{timeToPe}}. Espere a que el OBC cargue (toma 10 minutos) y luego presione LISTO para proceder.",
+      "Message": "Roger, quemadura de circularización programada para el próximo paso por el Ap, en aproximadamente {{timeToAp}}. Espere a que el OBC cargue (toma 10 minutos) y luego presione LISTO para proceder.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -2371,5 +2371,5 @@
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
   "OverrideTargetVehiclePhase": true,
-  "OverrideTargetVehiclePhaseValue": 328.0
+  "OverrideTargetVehiclePhaseValue": 47.0
 }

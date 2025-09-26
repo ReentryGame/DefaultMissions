@@ -418,7 +418,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Sigue la lista de verificación Circularize Orbit y entra en una órbita circular en Pe. Para hacerlo, utiliza los Comandos de Radio para solicitar una quemadura de circularización en Pe.",
+      "Message": "Sigue la lista de verificación Circularize Orbit y entra en una órbita circular en Ap. Para hacerlo, utiliza los Comandos de Radio para solicitar una quemadura de circularización en Ap.",
       "Value1": 5.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1425,5 +1425,5 @@
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
   "OverrideTargetVehiclePhase": true,
-  "OverrideTargetVehiclePhaseValue": 328.0
+  "OverrideTargetVehiclePhaseValue": 47.0
 }

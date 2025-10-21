@@ -622,7 +622,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "Let's start by reading address (core) 98. This is the current Apogee of your orbit. The reason the term address is used it that the two digits tell the computere where in the computer memory the parameter exists.",
+      "Message": "Let's start by reading address (core) 98. This is the current Apogee of your orbit. The reason the term address is used it that the two digits tell the computer where in the computer memory the parameter exists.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

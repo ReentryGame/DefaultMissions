@@ -16757,7 +16757,7 @@
   "ID": "7bc7e5fe-3dad-48cf-8f35-bc009a8a6086",
   "Title": "MISSION 9 - THE LIFEBOAT",
   "Description": "The Command Module have had a serious issue and the crew is trying to identify what has happened, and are looking at survival options. Landing on the Moon is no longer the target.",
-  "BriefingText": "Primary objectives:\r\n• to perform selenological inspection, survey, and sampling of\r\nmaterials in a preselected region of the Fra Mauro formation;\r\n• to deploy and activate an Apollo lunar surface experiments package;\r\n• to further develop human capability to work in the lunar environment; and\r\n• to obtain photographs of candidate exploration sites.\n\n ADD COASTING PLAN FOR THE MISSION HERE, UNTIL MCC-2",
+  "BriefingText": "Primary objectives:\r\n• to perform selenological inspection, survey, and sampling of\r\nmaterials in a preselected region of the Fra Mauro formation;\r\n• to deploy and activate an Apollo lunar surface experiments package;\r\n• to further develop human capability to work in the lunar environment; and\r\n• to obtain photographs of candidate exploration sites.\n\n",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 0.0,

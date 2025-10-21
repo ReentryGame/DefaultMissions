@@ -7027,7 +7027,7 @@
   "ID": "1c5b1a66-547e-42b3-a47f-fa550521e61f",
   "Title": "MISSION 5 - COASTING",
   "Description": "The LM has been extracted from the SIVB, and the LM/CSM spacecraft is on its way to the Moon. The next phase will be the beginning of a long coasting period as the spacecraft flies from Earth to the Moon.",
-  "BriefingText": "Primary objectives:\r\n• to perform selenological inspection, survey, and sampling of\r\nmaterials in a preselected region of the Fra Mauro formation;\r\n• to deploy and activate an Apollo lunar surface experiments package;\r\n• to further develop human capability to work in the lunar environment; and\r\n• to obtain photographs of candidate exploration sites.\n\n ADD COASTING PLAN FOR THE MISSION HERE, UNTIL MCC-2",
+  "BriefingText": "Primary objectives:\r\n• to perform selenological inspection, survey, and sampling of\r\nmaterials in a preselected region of the Fra Mauro formation;\r\n• to deploy and activate an Apollo lunar surface experiments package;\r\n• to further develop human capability to work in the lunar environment; and\r\n• to obtain photographs of candidate exploration sites.\n\n",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 60.0,
   "TargetAp": 0.0,

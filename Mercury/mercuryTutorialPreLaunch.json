@@ -1033,7 +1033,7 @@
       "Priority": false,
       "Comment": "",
       "ID": "a6e1b0bc-c6e5-4d6c-915c-52380b5ff5d1",
-      "Action": 100,
+      "Action": 1007,
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 1,
@@ -1041,13 +1041,13 @@
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
-      "String1": "",
+      "String1": "PinTransmit",
       "String2": "",
       "String3": "",
       "Bool1": false,
       "ThresholdLimit": 0.0,
-      "PinID": 24,
-      "PinPosition": 3,
+      "PinID": 0,
+      "PinPosition": 0,
       "FuseID": 0,
       "PullHandleID": 0,
       "PullHandlePosition": 0,
@@ -1373,5 +1373,6 @@
   "OverrideSunPhase": false,
   "OverrideSunPhaseValue": 0.0,
   "RealisticRadioRange": false,
-  "LongDurationMissionSetup": false
+  "LongDurationMissionSetup": false,
+  "OldHighlighterQueueMode": false
 }

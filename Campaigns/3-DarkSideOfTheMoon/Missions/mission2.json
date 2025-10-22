@@ -1286,7 +1286,7 @@
   "ID": "4e2a2548-8ff5-409e-bb4b-265675dc4859",
   "Title": "7.5 MILLION POUNDS OF THRUST",
   "Description": "Standing 363 feet tall, the Saturn V rocket is only 25 minutes from launch. The backup crew has prepared your cockpit for flight, and you and your crew have been setting up the rest. Only one checklist remains.\n\nIn this mission, you will start your journey towards the Moon. The first part of the journey is the launch and ascent on to Earth orbit.",
-  "BriefingText": "You will be commanding the first manned trip to the Moon.\nYou and your crew will ascend into a 100nmi x 100nmi orbit with an inclination of 32.509° degrees.\n\nBackup Crew has performed the cockpit preparations, and you are only missing one checklist needed to ready the rocket for flight.\n\nAscent plan:\n1) Complete the Pre-Launch Final Preparations checklist\n2) Ignition and roll program\n3) Pitch and ascend through the atmosphere\n4) Accelerate to an orbital velocity of 25700 fps\n5) Complete the insertion checklists",
+  "BriefingText": "You will be commanding the first crewed trip to the Moon.\nYou and your crew will ascend into a 100nmi x 100nmi orbit with an inclination of 32.509° degrees.\n\nBackup Crew has performed the cockpit preparations, and you are only missing one checklist needed to ready the rocket for flight.\n\nAscent plan:\n1) Complete the Pre-Launch Final Preparations checklist\n2) Ignition and roll program\n3) Pitch and ascend through the atmosphere\n4) Accelerate to an orbital velocity of 25700 fps\n5) Complete the insertion checklists",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 25.0,
   "TargetAp": 0.0,

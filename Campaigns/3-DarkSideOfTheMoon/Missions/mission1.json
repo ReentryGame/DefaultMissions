@@ -1916,7 +1916,7 @@
   "ID": "7c233e1c-5f70-4567-988f-51aee02a4b5c",
   "Title": "BACKUP CREW",
   "Description": "The Apollo Command & Service Module consists of hundreds of systems all working together to bring a crew of three to the Moon and back, safely. To become a great Command Module Commander, it's important to know the layout of the cockpit, and to easily find the switch and system you are looking for, when needed.\n\nThese procedures teaches exactly that. Take your time. For each checklist, we will use the RUN feature to proceed the mission. Use the Mission Pad Checklists as a reference. MCC will guide you through.",
-  "BriefingText": "The first Manned Apollo mission is ready for flight after a long suspension due to the fire. The new Apollo \"Block II\" Command Module and spacecraft is ready in the pad.\n\nYou will ingress the cockpit in a Cold and Dark state.\n\nA total of 14 checklists must be completed to prepare the cockpit for Prime Crew Ingress.\n\nBackup Crew Procedures\n- Open the Hatch, remove seats.\n- Perform all the Backup Crew checklists\n- Prepare the cockpit for Primary Crew Ingress",
+  "BriefingText": "The first crewed Apollo mission is ready for flight after a long suspension due to the fire. The new Apollo \"Block II\" Command Module and spacecraft is ready in the pad.\n\nYou will ingress the cockpit in a Cold and Dark state.\n\nA total of 14 checklists must be completed to prepare the cockpit for Prime Crew Ingress.\n\nBackup Crew Procedures\n- Open the Hatch, remove seats.\n- Perform all the Backup Crew checklists\n- Prepare the cockpit for Primary Crew Ingress",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 190.0,
   "TargetAp": 0.0,

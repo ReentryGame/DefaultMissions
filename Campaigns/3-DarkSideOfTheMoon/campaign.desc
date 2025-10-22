@@ -14,7 +14,7 @@
         },
         {
             "Type": 1,
-            "Data": "The Moon has never felt closer. The Gemini program has successfully created the technological bridge needed to make the journey to the Moon. With the biggest rocket ever built by man, carrying a spacecraft with components of the most advanced technology ever flown, a crew of three astronauts will attempt the journey to the Moon.\r\n\r\nTo get there, a lot of things still need to go right. The Apollo Command Module is yet to be tested for manned flight, and the Lunar Module needed to actually land on the Moon is long overdue.",
+            "Data": "The Moon has never felt closer. The Gemini program has successfully created the technological bridge needed to make the journey to the Moon. With the biggest rocket ever built, carrying a spacecraft with components of the most advanced technology ever flown, a crew of three astronauts will attempt the journey to the Moon.\r\n\r\nTo get there, a lot of things still need to go right. The Apollo Command Module is yet to be tested for crewed flight, and the Lunar Module needed to actually land on the Moon is long overdue.",
             "Value": 0
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "Type": 1,
-            "Data": "The Launch Escape Tower is back. It was decided to depreciate the ejection seat method used in Project Gemini and return to a similar escape methods used in Project Mercury.\r\n\r\nDuring the launch and ascent of the Apollo Saturn V rocket, the Launch Escape Tower can be used to separate the Command Module from the failing rocket, with an immediate descent and splashdown. A Saturn V launch has five abort modes, where the three first modes will use the LES. After staging from the S-IC, the LES is jettisoned as it's no longer needed.",
+            "Data": "The Launch Escape Tower is back. It was decided to discontinue the ejection seat method used in Project Gemini and return to a similar escape methods used in Project Mercury.\r\n\r\nDuring the launch and ascent of the Apollo Saturn V rocket, the Launch Escape Tower can be used to separate the Command Module from the failing rocket, with an immediate descent and splashdown. A Saturn V launch has five abort modes, where the three first modes will use the LES. After staging from the S-IC, the LES is jettisoned as it's no longer needed.",
             "Value": 0
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "Type": 1,
-            "Data": "The Controls and Displays used to control the spacecraft is located in the Command Module. It consists of hundreds of fuses, switches and controls used to configure and operate the spacecraft. A state-of-the-art general purpose computer named the Apollo Guidance Computer is used as the primary guidance method. Using optics as its eyes, an Inertial Measurement Unit (IMU) as its legs, the AGC can navigate and maneuver the spacecraft from launch to entry, with input from the Crew and Mission Control.",
+            "Data": "The Controls and Displays used to control the spacecraft is located in the Command Module. It consists of hundreds of circuit breakers, switches and controls used to configure and operate the spacecraft. A state-of-the-art general purpose computer named the Apollo Guidance Computer is used as the primary guidance method. Using optics as its eyes, an Inertial Measurement Unit (IMU) as its legs, the AGC can navigate and maneuver the spacecraft from launch to entry, with input from the Crew and Mission Control.",
             "Value": 0
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "Type": 1,
-            "Data": "After being an astronaut for a long time with experience flying both the Mercury and the Gemini spacecraft, with the skills and mind needed to get out of the most severe emergencies, the press expect to see you in a seat for the Apollo Program.\r\n\r\nMartin, the Director of Flight Crew Operation has made you a Commander of the 2nd Apollo mission, with the purpose of testing the spacecraft in Earth orbit, as well as the Lunar Module. \r\n\r\nAs in Project Gemini, veteran astronaut Aaron will be part of your crew, and will be the Command Module Pilot (CMP). Lodkins has been training for his first trip to space. and will join your crew as the Lunar Module Pilot (LMP).\r\n\r\nA lot of pressure is upon us if we are to succeed of landing on the Moon in this decade. It is therefore vital that each and every Apollo mission leading to the Lunar Landing is a success.\r\n\r\nYou are scheduled for the Apollo Command Module Academy to being training immediately. Before attempting this campaign, you should get the Command Module Pilot certificate. The Academy can be found in the \"ACADEMY\" section of the Main Menu, and will take you through everything you need to know about the spacecraft to command a mission.\r\n\r\nOther astronauts who has gone through the Academy can also be found in the Official Reentry Discord group. Learning this thing is hard by yourself, so reach out to get help!\r\nHead to: discord.gg/reentrygame to find us!\r\n\r\nOptional: Once you have completed and received the Command Module Pilot Certificate, let your fellow astronauts know so you can get the Apollo Command Module Community Badge too.",
+            "Data": "After being an astronaut for a long time with experience flying both the Mercury and the Gemini spacecraft, with the skills and mind needed to get out of the most severe emergencies, the press expect to see you in a seat for the Apollo Program.\r\n\r\nMartin, the Director of Flight Crew Operation has made you a Commander of the 2nd Apollo mission, with the purpose of testing the spacecraft in Earth orbit, as well as the Lunar Module. \r\n\r\nAs in Project Gemini, veteran astronaut Aaron will be part of your crew, and will be the Command Module Pilot (CMP). Lodkins has been training for his first trip to space, and will join your crew as the Lunar Module Pilot (LMP).\r\n\r\nA lot of pressure is upon us if we are to succeed of landing on the Moon in this decade. It is therefore vital that each and every Apollo mission leading to the Lunar Landing is a success.\r\n\r\nYou are scheduled for the Apollo Command Module Academy to being training immediately. Before attempting this campaign, you should get the Command Module Pilot certificate. The Academy can be found in the \"ACADEMY\" section of the Main Menu, and will take you through everything you need to know about the spacecraft to command a mission.\r\n\r\nOther astronauts who has gone through the Academy can also be found in the Official Reentry Discord group. Learning this thing is hard by yourself, so reach out to get help!\r\nHead to: discord.gg/reentrygame to find us!\r\n\r\nOptional: Once you have completed and received the Command Module Pilot Certificate, let your fellow astronauts know so you can get the Apollo Command Module Community Badge too.",
             "Value": 0
         },
         {
@@ -154,7 +154,7 @@
             "Program": 9000,
             "FileName": "Missions/cutscene_9100.json",
             "Title": "Rehearsal",
-            "CampaignProgressInfo": "Commander Patrick is strapped in and ready with his crew, currently performing a test in preparation for the first manned Apollo flight!"
+            "CampaignProgressInfo": "Commander Patrick is strapped in and ready with his crew, currently performing a test in preparation for the first crewed Apollo flight!"
         },
         {
             "missionIndex": 1,
@@ -168,7 +168,7 @@
             "Program": 2,
             "FileName": "Missions/mission2.json",
             "Title": "7.5 Million Pounds of Thrust",
-            "CampaignProgressInfo": "The first manned Apollo mission was a success! However, the Lunar Module is having a lot of delays and will not be ready in time for your mission. All testing of the Lunar Module has been moved to another mission. We have already tested the Command Module in Earth orbit, so instead of cancelling or postponing your mission, it has been decided that your destination will be the Moon."
+            "CampaignProgressInfo": "The first crewed Apollo mission was a success! However, the Lunar Module is having a lot of delays and will not be ready in time for your mission. All testing of the Lunar Module has been moved to another mission. We have already tested the Command Module in Earth orbit, so instead of cancelling or postponing your mission, it has been decided that your destination will be the Moon."
         },
         {
             "missionIndex": 3,

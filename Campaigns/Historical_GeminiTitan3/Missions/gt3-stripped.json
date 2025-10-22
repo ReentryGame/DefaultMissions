@@ -157,7 +157,7 @@
   "Id": 7763546,
   "ID": "f9cc348a-7d52-4396-96c8-21460714880a",
   "Title": "GT-3: The Molly Brown",
-  "Description": "GT-3 was the first manned mission in NASA's Gemini program, the second American manned space program. Astronauts Gus Grissom and John Young will be flying three low Earth orbits in their spacecraft, which they nicknamed Molly Brown, with the main objectives of testing the new Gemini spacecraft.",
+  "Description": "GT-3 was the first crewed mission in NASA's Gemini program, the second American crewed space program. Astronauts Gus Grissom and John Young will be flying three low Earth orbits in their spacecraft, which they nicknamed Molly Brown, with the main objectives of testing the new Gemini spacecraft.",
   "BriefingText": "BRIEFING\r\n\r\nGemini III is set to launch at 09:24 am from Launch Complex 19 at Cape Kennedy, Florida.\r\nThe spaceship will launch into orbit where various tests will be performed. The spaceship will orbit Earth three times before reentry and splashdown.",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 20.0,

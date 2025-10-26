@@ -1275,7 +1275,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "The Command Module Computer (CMC) is responisble for maintaining a lot of parameters, and is also capable of maneuvering the craft without the need of manual attitude input. But to dive into this, we need to learn more about the computer.",
+      "Message": "The Command Module Computer (CMC) is responsible for maintaining a lot of parameters, and is also capable of maneuvering the craft without the need of manual attitude input. But to dive into this, we need to learn more about the computer.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

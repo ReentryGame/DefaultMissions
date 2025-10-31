@@ -55,7 +55,7 @@
   "SpaceProgram": 0,
   "Id": 99,
   "ID": "ba715f65-f89a-4023-9c9c-f3626b871415",
-  "Title": "Atlas Free Play",
+  "Title": "Atlas Jeu Libre",
   "Description": "Embarquez à bord du lanceur Mercury-Atlas dans un monde ouvert sans objectif donnés.",
   "BriefingText": "BRIEFING\r\n\r\nPas de tâches données, profitez du vol.",
   "FlightPlanPrefabId": 0,

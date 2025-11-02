@@ -2301,7 +2301,7 @@
   "ID": "00b616ae-cb33-410c-9d85-0978562a6ab5",
   "Title": "Lección 14: ECS y Oxígeno",
   "Description": "El sistema de control ambiental (ECS) está diseñado para proporcionar a la tripulación una ambiente acondicionado que sea tanto de soporte vital, como lo más cómodo posible. El ECS es auxiliado en el logro de esta tarea a través de una interfaz con el sistema de energía eléctrica, que suministra oxígeno y agua potable.\n\nEn esta lección daré una breve visión general del ECS antes de tratar en detalle el sistema de suministro de oxígeno.",
-  "BriefingText": "Completar la lección.\\n",
+  "BriefingText": "Completar la lección.",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 25.0,
   "TargetAp": 0.0,

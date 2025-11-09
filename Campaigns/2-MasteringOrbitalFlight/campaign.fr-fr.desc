@@ -1,0 +1,115 @@
+{
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": "1aaa781c-097f-4ba4-9f0d-f7184e100407",
+  "Title": "Campaign 2: Mastering Orbital Flight",
+  "DisplayTitle": "Campagne 2: Maîtriser le vol orbital",
+  "TileBackgroundImage": "tileBg.png",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 0,
+      "Data": "Nouvelle destination",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La course à l’espace entre l’U.R.S.S. et les États-Unis est toujours intense, et l’U.R.S.S. a déjà réalisé plus de premières que les États-Unis. Nous sommes en mode rattrapage. Les vaisseaux Vostok et le nouveau vaisseau soviétique Voskhod effectuent rapidement des exploits comme le plus long temps en orbite, la sortie extravéhiculaire (EVA) et les vols multi-équipages.",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Lors du projet Mercury, le président a annoncé l’objectif d’envoyer des astronautes sur la Lune. Pour atteindre cet objectif, un nouveau programme nommé Project Apollo a été lancé.\n\nLe projet Mercury a rempli avec succès ses objectifs : envoyer des astronautes en orbite terrestre et les ramener sains et saufs. S’appuyant sur ce succès, un nouveau vaisseau a été développé pour mieux comprendre et maîtriser le vol orbital : le programme Project Gemini.\n\nAvant d’envoyer quiconque sur la Lune, il est nécessaire d’apprendre et de tester tout ce qui est indispensable. L’objectif de Gemini est de comprendre et tester les techniques de voyage spatial nécessaires pour soutenir la mission Apollo et l’alunissage.\n\nUne mission lunaire requiert de survivre jusqu’à 14 jours dans l’espace, de maîtriser les sorties extravéhiculaires (EVA) et les manœuvres orbitales nécessaires pour effectuer rendez-vous et amarrage avec un autre vaisseau.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le vaisseau spatial",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le vaisseau Gemini est plus grand et peut accueillir deux astronautes, avec la capacité de modifier sa trajectoire en orbite. Il est divisé en trois sections principales : le module de rentrée, le module rétro et le module équipement. Les modules rétro et équipement sont séparés avant la rentrée atmosphérique.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Gemini_spacecraft.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le module de rentrée",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le module de rentrée est la cabine pressurisée qui permet de survivre dans l’espace. C’est la seule partie du vaisseau à effectuer tout le voyage, du lancement à l’amerrissage.\n\nIl est alimenté par deux sources d’énergie : des batteries (comme dans Mercury) et des piles à combustible produisant de l’énergie à partir de substances cryogéniques.\n\nDeux systèmes de contrôle d’attitude (RCS) sont utilisés pour la rentrée.\n\nUn ordinateur de bord de pointe (OBC) aide l’équipage pour les manœuvres orbitales et la navigation. Deux types de joysticks permettent de contrôler le vaisseau en tangage, roulis, lacet et axes de translation (avant, arrière, haut, bas, latéral). Le contrôle de translation permet rendez-vous, amarrage et ajustement de la trajectoire.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le module adaptateur",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le module adaptateur regroupe le module rétro et le module équipement.\n\nLe module équipement contient la majorité du matériel nécessaire pour le vol orbital : 16 propulseurs pour le contrôle d’attitude et de translation, les piles à combustible et les substances cryogéniques.\n\nQuatre rétrofusées à propergol solide sont situées dans le module de rentrée et sont déclenchées une par une comme dans Mercury.\n\nLe module équipement alimente le vaisseau en orbite et est séparé avant le burn rétrograde. Après ce burn, le module rétro est largué avant la rentrée.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "L’académie",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La presse mondiale a imprimé votre nom après vos exploits dans le projet Mercury. Vos compétences et votre connaissance du vaisseau ont été essentielles pour votre succès, la différence entre une rentrée sûre et un désastre.\n\nVotre expérience est nécessaire pour le projet Gemini : vous serez commandant avec votre propre équipage. Martin, directeur des opérations de vol, vous a assigné un nouvel astronaute, Aaron Skye, comme copilote.\n\nAvant votre premier vol Gemini, rendez-vous à l’Académie pour obtenir la licence Gemini. L’Académie Gemini se trouve dans la section « ACADEMY » du menu principal et vous enseignera tout sur ce nouveau vaisseau. Il est recommandé d’emporter le manuel de vol Gemini pour approfondir vos connaissances. Les tâches à venir seront complexes, et vous serez parmi les premiers à les résoudre.\n\nOptionnel : Une fois le certificat de pilote Gemini obtenu, partagez-le sur le Discord officiel de Reentry, où de nombreux autres astronautes Gemini se retrouvent : discord.gg/reentrygame.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Missions",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/mission1.json",
+      "Title": "Un nouveau vaisseau",
+      "CampaignProgressInfo": "Après quelques vols d’essai avec le lanceur Gemini-Titan II, c’est à vous de tester le vaisseau Gemini et de modifier pour la première fois la forme de l’orbite avec les propulseurs OAMS. L’U.R.S.S. a déjà battu les États-Unis pour un vol multi-équipage avec le Voskhod, mais cela reste à tester sur un vaisseau américain.",
+      "Program": 1,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/mission2.json",
+      "Title": "La sortie extravéhiculaire",
+      "CampaignProgressInfo": "Le vaisseau fonctionne bien et les manœuvres orbitales ont été testées. Vous devez réaliser le premier EVA américain. L’U.R.S.S. a été le premier avec Voskhod il y a quelques mois, mais c’est une manœuvre critique pour le projet Apollo.",
+      "Program": 1,
+      "missionIndex": 1
+    },
+    {
+      "FileName": "Missions/mission3.json",
+      "Title": "Face à face",
+      "CampaignProgressInfo": "Rendez-vous et amarrage avec un autre vaisseau sont essentiels pour Apollo, afin d’extraire le module lunaire et revenir de la Lune. La mission suivante vise à pratiquer ces méthodes, mais le vaisseau cible n’a pas décollé. Nous essaierons plutôt de rejoindre Patrick et son équipage en orbite.",
+      "Program": 1,
+      "missionIndex": 2
+    },
+    {
+      "FileName": "Missions/mission4.json",
+      "Title": "L’amarrage",
+      "CampaignProgressInfo": "La presse s’est emballée après le premier rendez-vous et vol en formation américain, y compris les 14 jours de Patrick dans l’espace. Un module d’entraînement à l’amarrage a été lancé à 300 km : votre mission est de le rattraper, de faire rendez-vous et d’amarrer.",
+      "Program": 1,
+      "missionIndex": 3
+    },
+    {
+      "FileName": "Missions/mission5.json",
+      "Title": "Amarrons-nous !?",
+      "CampaignProgressInfo": "Plusieurs tentatives d’amarrage ont échoué à cause de problèmes techniques. Vous êtes désormais assez expérimenté pour réussir. Un vaisseau plus grand, Agena, a été lancé pour réessayer le premier amarrage historique. Agena possède un moteur de propulsion pour atteindre des altitudes record.\r\r\n\r\n",
+      "Program": 1,
+      "missionIndex": 4
+    }
+  ],
+  "CompletionMessage": "Le roulis incontrôlé était dû à une panne d’un propulseur du système OAMS, et la presse s’en est emparée. Cependant, l’objectif d’amarrage a été atteint et Patrick a commandé le dernier vol Gemini sans incident. Tous les objectifs du projet Gemini sont donc atteints, et l’attention se tourne vers le programme Apollo. Patrick est prévu pour le premier vol Apollo, et tous les efforts sont faits pour que le module de commande Apollo soit prêt. Votre succès dans Gemini et votre capacité à résoudre les problèmes vous ont rendu célèbre et vous ont naturellement valu une place dans le programme Apollo.",
+  "Hidden": false
+}

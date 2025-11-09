@@ -1,129 +1,115 @@
 {
-    "fullPathDescriptionFile": null,
-    "campaignPath": null,
-    "ID": "63b0617d-07cb-4e8b-bc8e-5065cc05321e",
-    "Title": "Campaign 1:  Orbital Survival",
-    "DisplayTitle": "Campagne 1 :  Survie orbitale",
-    "TileBackgroundImage": "tileBg.png",
-    "PageBackgroundImage": "pageBg.png",
-    "Sections": [
-        {
-            "Type": 0,
-            "Data": "Le rêve de l'espace",
-            "Value": 0
-        },
-        {
-            "Type": 1,
-            "Data": "Depuis des générations, nous contemplons les étoiles et racontons des histoires sur les anciennes constellations qui composent le ciel nocturne. Ces sources fixes de lumière lointaine, situées à des millions d'années-lumière, ont servi de repères aux navigateurs du monde entier pendant des siècles. Fascinés par les inconnues et l'immensité de l'espace, les philosophes et les scientifiques ont consacré leur vie à tenter de répondre à ses mystères. Les progrès récents en matière d'ingénierie, de technologie et de recherche ont ouvert la voie à la réalisation de nombreux rêves autrefois inaccessibles, comme celui de voyager dans l'espace.",
-            "Value": 0
-        },
-        {
-            "Type": 0,
-            "Data": "Rockets",
-            "Value": 0
-        },
-        {
-            "Type": 1,
-            "Data": "Les missiles balistiques intercontinentaux modifiés peuvent être utilisés pour lancer des satellites artificiels dans l'espace. Le 4 octobre 1957, l'Union soviétique (URSS) a lancé avec succès un satellite nommé Spoutnik 1 en orbite autour de la Terre, devenant ainsi le premier satellite artificiel terrestre. Il s'agissait d'un satellite simple et léger contenant un émetteur radio. Il a transmis un signal pendant trois semaines avant que ses batteries ne s'épuisent, puis il est rentré dans l'atmosphère et s'est consumé deux mois plus tard.",
-            "Value": 0
-        },
-        {
-            "Type": 2,
-            "Data": "Sputnik_asm.png",
-            "Value": 0
-        },
-        {
-            "Type": 1,
-            "Data": "Surpris par cette découverte, les États-Unis ont créé ce qui allait devenir la NASA afin d'accélérer leurs efforts d'exploration spatiale. Explorer 1 a été lancé avec succès le 31 janvier 1958 à bord d'un lanceur Juno. Un capteur de rayons cosmiques embarqué a été utilisé pour détecter, pour la première fois, la ceinture de Van Allen. Il a fourni des données pendant près de quatre mois avant que les batteries ne s'épuisent, mais est resté en orbite pendant environ 12 ans avant de rentrer dans l'atmosphère.",
-            "Value": 0
-        },
-        {
-            "Type": 2,
-            "Data": "explorer1.png",
-            "Value": 0
-        },
-        {
-            "Type": 0,
-            "Data": "La course à l'espace",
-            "Value": 0
-        },
-        {
-            "Type": 1,
-            "Data": "Avec le lancement de Spoutnik 1, la course à la première place dans le domaine des vols spatiaux entre l'URSS et les États-Unis était lancée. Les États-Unis étaient à la traîne, et les vols spatiaux habités devinrent leur nouvel objectif.",
-            "Value": 0
-        },
-        {
-            "Type": 0,
-            "Data": "Projet Mercury",
-            "Value": 0
-        },
-        {
-            "Type": 1,
-            "Data": "Le projet Mercury est le premier programme spatial officiel dont l'objectif est de mettre un astronaute en orbite et de le ramener sain et sauf sur Terre. Après un long processus de sélection ponctué de tests brutaux, vous avez enfin reçu l'appel téléphonique vous félicitant d'avoir été sélectionné comme l'un des astronautes qui piloteront la capsule Mercury. Votre camarade Patrick (\" Rad \") de l'escadron des pilotes d'essai a également été retenu dans l'équipe.\r\n",
-            "Value": 0
-        },
-        {
-            "Type": 0,
-            "Data": "Le vaisseau spatial",
-            "Value": 0
-        },
-        {
-            "Type": 1,
-            "Data": "Le vaisseau spatial Mercury se compose d'un compartiment pressurisé pouvant accueillir un astronaute (1), du rétropack utilisé pour revenir de l'orbite (2), d'un bouclier thermique utilisé pour survivre à l'entrée dans l'atmosphère (3), d'un compartiment de récupération où se trouvent les parachutes d'atterrissage (4), d'une section d'antenne utilisée pour la communication, de scanners pour l'orientation du vaisseau spatial (5) et d'un système d'évacuation de lancement utilisé pour éloigner la capsule en toute sécurité d'un lanceur défaillant lors d'une interruption (6).",
-            "Value": 0
-        },
-        {
-            "Type": 2,
-            "Data": "theSpacecraft.png",
-            "Value": 0
-        },
-        {
-            "Type": 0,
-            "Data": "L'Académie",
-            "Value": 0
-        },
-        {
-            "Type": 1,
-            "Data": "La première condition pour participer à cette campagne est d'avoir suivi la formation de l'Académie Mercury. L'Académie se trouve dans le menu principal et vous fournira toutes les informations nécessaires pour piloter ce tout nouveau vaisseau spatial. Pendant votre séjour à l'Académie, nous vous recommandons de vous munir d'un exemplaire du manuel de vol Reentry Mercury afin de mieux comprendre les systèmes utilisés pendant la formation. r\n\r\nFacultatif : une fois que vous avez terminé et obtenu le certificat de pilote Mercury, informez-en vos collègues astronautes dans le groupe Discord officiel Reentry, où se retrouvent de nombreux autres astronautes Reentry. Vous les trouverez sur discord.gg/reentrygame.",
-            "Value": 0
-        }
-    ],
-    "Missions": [
-        {
-            "missionIndex": 0,
-            "Program": 0,
-            "FileName": "Missions/mission1.json",
-            "Title": "Inspection intérieure",
-            "CampaignProgressInfo": " 1er avril 1961 : Nous prévoyons un lancement début mai. Vous avez été sélectionné comme astronaute et serez le premier homme de l'histoire à voyager dans l'espace."
-        },
-        {
-            "missionIndex": 0,
-            "Program": 0,
-            "FileName": "Missions/mission2.json",
-            "Title": "Atteindre l'espace",
-            "CampaignProgressInfo": "L'URSS nous a encore battus, mais nous avons encore un vol important à venir. 5 mai 1961 : jour du lancement."
-        },
-        {
-            "missionIndex": 0,
-            "Program": 0,
-            "FileName": "Missions/mission3.json",
-            "Title": "En orbite",
-            "CampaignProgressInfo": "L'astronaute Patrick a mené à bien une mission secondaire Mercury-Redstone afin d'en vérifier les objectifs. L'URSS a envoyé un cosmonaute en orbite, et il est temps de rattraper son retard sur ses réalisations."
-        },
-        {
-            "missionIndex": 0,
-            "Program": 0,
-            "FileName": "Missions/mission4.json",
-            "Title": "Longue distance",
-            "CampaignProgressInfo": "Votre précédent vol a été une grande réussite pour le programme, et vous êtes devenu un héros national. Mais il est temps de vous relever. Votre prochain vol comptera 6 orbites."
-        },
-        {
-            "missionIndex": 0,
-            "Program": 0,
-            "FileName": "Missions/mission5.json",
-            "Title": "Hawaï",
-            "CampaignProgressInfo": "Une anomalie dans le lanceur Atlas a provoqué un arrêt de la mission et la perte du lanceur. Cela a causé un léger contretemps, mais nous sommes de nouveau sur la bonne voie. Depuis, l'astronaute Patrick a mené à bien une mission identique à la vôtre et détient actuellement le record de la plus longue durée passée dans l'espace."
-        }
-    ],
-    "CompletionMessage": "Après le succès et l'achèvement de la dernière mission Mercury, au cours de laquelle vous avez effectué 24 orbites, il a été décidé que toutes les ressources seraient consacrées au développement du prochain programme spatial et au voyage vers la Lune. Le projet Mercury a atteint ses objectifs, et certains des astronautes Mercury poursuivront leur carrière dans le cadre du projet Gemini."
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": "1aaa781c-097f-4ba4-9f0d-f7184e100407",
+  "Title": "Campaign 2: Mastering Orbital Flight",
+  "DisplayTitle": "Campagne 2: Maîtriser le vol orbital",
+  "TileBackgroundImage": "tileBg.png",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 0,
+      "Data": "Nouvelle destination",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La course à l’espace entre l’U.R.S.S. et les États-Unis est toujours intense, et l’U.R.S.S. a déjà réalisé plus de premières que les États-Unis. Nous sommes en mode rattrapage. Les vaisseaux Vostok et le nouveau vaisseau soviétique Voskhod effectuent rapidement des exploits comme le plus long temps en orbite, la sortie extravéhiculaire (EVA) et les vols multi-équipages.",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Lors du projet Mercury, le président a annoncé l’objectif d’envoyer des astronautes sur la Lune. Pour atteindre cet objectif, un nouveau programme nommé Project Apollo a été lancé.\n\nLe projet Mercury a rempli avec succès ses objectifs : envoyer des astronautes en orbite terrestre et les ramener sains et saufs. S’appuyant sur ce succès, un nouveau vaisseau a été développé pour mieux comprendre et maîtriser le vol orbital : le programme Project Gemini.\n\nAvant d’envoyer quiconque sur la Lune, il est nécessaire d’apprendre et de tester tout ce qui est indispensable. L’objectif de Gemini est de comprendre et tester les techniques de voyage spatial nécessaires pour soutenir la mission Apollo et l’alunissage.\n\nUne mission lunaire requiert de survivre jusqu’à 14 jours dans l’espace, de maîtriser les sorties extravéhiculaires (EVA) et les manœuvres orbitales nécessaires pour effectuer rendez-vous et amarrage avec un autre vaisseau.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le vaisseau spatial",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le vaisseau Gemini est plus grand et peut accueillir deux astronautes, avec la capacité de modifier sa trajectoire en orbite. Il est divisé en trois sections principales : le module de rentrée, le module rétro et le module équipement. Les modules rétro et équipement sont séparés avant la rentrée atmosphérique.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Gemini_spacecraft.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le module de rentrée",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le module de rentrée est la cabine pressurisée qui permet de survivre dans l’espace. C’est la seule partie du vaisseau à effectuer tout le voyage, du lancement à l’amerrissage.\n\nIl est alimenté par deux sources d’énergie : des batteries (comme dans Mercury) et des piles à combustible produisant de l’énergie à partir de substances cryogéniques.\n\nDeux systèmes de contrôle d’attitude (RCS) sont utilisés pour la rentrée.\n\nUn ordinateur de bord de pointe (OBC) aide l’équipage pour les manœuvres orbitales et la navigation. Deux types de joysticks permettent de contrôler le vaisseau en tangage, roulis, lacet et axes de translation (avant, arrière, haut, bas, latéral). Le contrôle de translation permet rendez-vous, amarrage et ajustement de la trajectoire.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le module adaptateur",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le module adaptateur regroupe le module rétro et le module équipement.\n\nLe module équipement contient la majorité du matériel nécessaire pour le vol orbital : 16 propulseurs pour le contrôle d’attitude et de translation, les piles à combustible et les substances cryogéniques.\n\nQuatre rétrofusées à propergol solide sont situées dans le module de rentrée et sont déclenchées une par une comme dans Mercury.\n\nLe module équipement alimente le vaisseau en orbite et est séparé avant le burn rétrograde. Après ce burn, le module rétro est largué avant la rentrée.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "L’académie",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La presse mondiale a imprimé votre nom après vos exploits dans le projet Mercury. Vos compétences et votre connaissance du vaisseau ont été essentielles pour votre succès, la différence entre une rentrée sûre et un désastre.\n\nVotre expérience est nécessaire pour le projet Gemini : vous serez commandant avec votre propre équipage. Martin, directeur des opérations de vol, vous a assigné un nouvel astronaute, Aaron Skye, comme copilote.\n\nAvant votre premier vol Gemini, rendez-vous à l’Académie pour obtenir la licence Gemini. L’Académie Gemini se trouve dans la section « ACADEMY » du menu principal et vous enseignera tout sur ce nouveau vaisseau. Il est recommandé d’emporter le manuel de vol Gemini pour approfondir vos connaissances. Les tâches à venir seront complexes, et vous serez parmi les premiers à les résoudre.\n\nOptionnel : Une fois le certificat de pilote Gemini obtenu, partagez-le sur le Discord officiel de Reentry, où de nombreux autres astronautes Gemini se retrouvent : discord.gg/reentrygame.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Missions",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/mission1.json",
+      "Title": "Un nouveau vaisseau",
+      "CampaignProgressInfo": "Après quelques vols d’essai avec le lanceur Gemini-Titan II, c’est à vous de tester le vaisseau Gemini et de modifier pour la première fois la forme de l’orbite avec les propulseurs OAMS. L’U.R.S.S. a déjà battu les États-Unis pour un vol multi-équipage avec le Voskhod, mais cela reste à tester sur un vaisseau américain.",
+      "Program": 1,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/mission2.json",
+      "Title": "La sortie extravéhiculaire",
+      "CampaignProgressInfo": "Le vaisseau fonctionne bien et les manœuvres orbitales ont été testées. Vous devez réaliser le premier EVA américain. L’U.R.S.S. a été le premier avec Voskhod il y a quelques mois, mais c’est une manœuvre critique pour le projet Apollo.",
+      "Program": 1,
+      "missionIndex": 1
+    },
+    {
+      "FileName": "Missions/mission3.json",
+      "Title": "Face à face",
+      "CampaignProgressInfo": "Rendez-vous et amarrage avec un autre vaisseau sont essentiels pour Apollo, afin d’extraire le module lunaire et revenir de la Lune. La mission suivante vise à pratiquer ces méthodes, mais le vaisseau cible n’a pas décollé. Nous essaierons plutôt de rejoindre Patrick et son équipage en orbite.",
+      "Program": 1,
+      "missionIndex": 2
+    },
+    {
+      "FileName": "Missions/mission4.json",
+      "Title": "L’amarrage",
+      "CampaignProgressInfo": "La presse s’est emballée après le premier rendez-vous et vol en formation américain, y compris les 14 jours de Patrick dans l’espace. Un module d’entraînement à l’amarrage a été lancé à 300 km : votre mission est de le rattraper, de faire rendez-vous et d’amarrer.",
+      "Program": 1,
+      "missionIndex": 3
+    },
+    {
+      "FileName": "Missions/mission5.json",
+      "Title": "Amarrons-nous !?",
+      "CampaignProgressInfo": "Plusieurs tentatives d’amarrage ont échoué à cause de problèmes techniques. Vous êtes désormais assez expérimenté pour réussir. Un vaisseau plus grand, Agena, a été lancé pour réessayer le premier amarrage historique. Agena possède un moteur de propulsion pour atteindre des altitudes record.\r\r\n\r\n",
+      "Program": 1,
+      "missionIndex": 4
+    }
+  ],
+  "CompletionMessage": "Le roulis incontrôlé était dû à une panne d’un propulseur du système OAMS, et la presse s’en est emparée. Cependant, l’objectif d’amarrage a été atteint et Patrick a commandé le dernier vol Gemini sans incident. Tous les objectifs du projet Gemini sont donc atteints, et l’attention se tourne vers le programme Apollo. Patrick est prévu pour le premier vol Apollo, et tous les efforts sont faits pour que le module de commande Apollo soit prêt. Votre succès dans Gemini et votre capacité à résoudre les problèmes vous ont rendu célèbre et vous ont naturellement valu une place dans le programme Apollo.",
+  "Hidden": false
 }

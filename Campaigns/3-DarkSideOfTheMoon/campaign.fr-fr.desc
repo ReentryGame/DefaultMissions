@@ -1,0 +1,204 @@
+{
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": "7cf11756-3e44-470e-ab89-d6cded6bd37d",
+  "Title": "Campaign 3: Dark Side of the Moon",
+  "DisplayTitle": "Campagne 3 : La face cachée de la Lune",
+  "TileBackgroundImage": "tileBg.png",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 0,
+      "Data": "La Lune",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La Lune n’a jamais semblé aussi proche. Le programme Gemini a permis de créer le pont technologique nécessaire pour effectuer le voyage vers la Lune. Avec la plus grande fusée jamais construite, transportant un vaisseau spatial doté des technologies les plus avancées jamais utilisées en vol, un équipage de trois astronautes va tenter le voyage vers la Lune.\n\nPour y parvenir, de nombreuses choses doivent encore se dérouler correctement. Le module de commande Apollo n’a pas encore été testé en vol habité, et le module lunaire nécessaire pour atterrir sur la Lune accuse un retard considérable.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le Saturn V",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La fusée (véhicule de lancement) utilisée pour envoyer le vaisseau Apollo en orbite, puis vers la Lune, est le Saturn V. Elle se compose de trois étages principaux : S-IC, S-II et S-IVB.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "SaturnV_S-IC.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le premier étage (S-IC, « S-un-C ») est composé de cinq moteurs F-1 utilisés pour faire traverser l’atmosphère à l’ensemble de la fusée. La poussée combinée des cinq moteurs F-1 atteint 7 500 000 lbf. Le moteur central est fixe, tandis que les quatre moteurs extérieurs peuvent être orientés pour contrôler l’attitude.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "SaturnV_S-II.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le deuxième étage (S-II, « S-deux ») est propulsé par cinq moteurs J-2 avec une poussée totale de 1 000 000 lbf. Il accélérera l’ensemble dans la haute atmosphère.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "SaturnV_S-IVB.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le troisième étage (S-IVB, « S-quatre-B ») est propulsé par un moteur J-2 d’une poussée de 200 000 lbf. Ce moteur sera allumé deux fois : une fois durant l’ascension, puis une autre pour mettre le vaisseau sur une trajectoire lunaire, une manœuvre appelée Injection Trans-Lunaire (TLI). Il transportera également le module lunaire ainsi que l’adaptateur du vaisseau spatial.\n\nLe système de propulsion auxiliaire (APS) est utilisé comme système principal de contrôle d’attitude jusqu’à la séparation du S-IVB après la TLI.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le vaisseau Apollo",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Un nouveau vaisseau spatial nommé Module de Commande et de Service (CSM) a été développé. Il se compose de deux parties principales : le Module de Commande (CM) et le Module de Service (SM).\nLa fusée Saturn V transporte le vaisseau jusqu’à l’orbite terrestre, puis sur une trajectoire vers la Lune. Après séparation du lanceur, le vaisseau continue son voyage autour de la Lune avant de revenir vers la Terre. Juste avant la rentrée atmosphérique, le Module de Service est détaché, et le Module de Commande effectue la rentrée avant d’amerrir dans l’océan.\n\nPendant l’ascension, le système d’éjection d’urgence (LES) peut extraire le Module de Commande et son équipage de la fusée en cas d’urgence.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "ApolloSpacecraftDiagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le Module de Commande",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le Module de Commande abrite un équipage de trois astronautes dans un compartiment pressurisé contenant les équipements, commandes, écrans et systèmes nécessaires pour toute la mission. Il dispose de son propre système électrique et d’un système de contrôle de réaction (RCS) utilisé pendant la rentrée atmosphérique.\n\nUne trappe avant permettra de relier le Module Lunaire lorsque celui-ci sera prêt.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Command_Module_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le Module de Service",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le Module de Service (SM) est non pressurisé et contient l’équipement essentiel pour la durée de la mission lunaire : le système électrique principal (piles à combustible), les réactifs, le système de propulsion principal (SPS) et ses composants. Ce moteur principal est utilisé pour toutes les grandes manœuvres. Le SM abrite également le système de contrôle de réaction (RCS) pour le contrôle d’attitude et de translation.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Service_Module_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le Système d’Éjection",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "La tour d’éjection fait son retour. La méthode des sièges éjectables utilisée dans le programme Gemini a été abandonnée au profit d’un système similaire à celui du programme Mercury.\n\nPendant le lancement et l’ascension, la tour d’éjection peut séparer le Module de Commande d’une fusée défaillante, permettant une descente et un amerrissage immédiats. Une mission Saturn V prévoit cinq modes d’abandon, dont les trois premiers utilisent la tour LES. Après la séparation du premier étage S-IC, la tour est larguée, car elle n’est plus nécessaire.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Launch_escape_system_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Commandes et Affichages",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Les commandes et instruments servant à piloter le vaisseau sont situés dans le Module de Commande. On y trouve des centaines d’interrupteurs, disjoncteurs et systèmes servant à la configuration et à l’exploitation du vaisseau.\nUn ordinateur révolutionnaire, le Computer de Guidage Apollo (AGC), est utilisé comme système de navigation principal. Grâce à ses capteurs optiques et à une unité de mesure inertielle (IMU), il peut guider et manœuvrer le vaisseau du lancement à la rentrée, en coordination avec l’équipage et le centre de contrôle.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Apollo_Command_Module_Main_Control_Panel.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "L’Académie",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Après de longues années d’expérience dans les programmes Mercury et Gemini, et avec les compétences nécessaires pour surmonter les situations d’urgence les plus extrêmes, la presse s’attend à te voir à bord du programme Apollo.\n\nMartin, le directeur des opérations de vol, t’a nommé Commandant de la deuxième mission Apollo, avec pour objectif de tester le vaisseau en orbite terrestre ainsi que le module lunaire.\n\nComme pour le programme Gemini, le vétéran Aaron fera partie de ton équipage en tant que pilote du module de commande (CMP). Lodkins, pour son premier vol spatial, te rejoindra en tant que pilote du module lunaire (LMP).\n\nLa pression est immense si nous voulons réussir l’alunissage avant la fin de la décennie. Chaque mission Apollo avant cet objectif doit être un succès total.\n\nTu es inscrit à l’Académie du Module de Commande Apollo pour commencer ton entraînement immédiatement. Avant de participer à cette campagne, tu devrais obtenir le certificat de pilote du module de commande.\nL’Académie se trouve dans la section « ACADEMY » du menu principal et te guidera à travers tout ce qu’il faut savoir pour commander une mission.\n\nLes autres astronautes diplômés de l’Académie se trouvent sur le serveur Discord officiel de Reentry. Apprendre seul est difficile, alors n’hésite pas à demander de l’aide !\n Rejoins-nous sur : discord.gg/reentrygame\n\nOptionnel : Une fois ton certificat obtenu, informe tes camarades astronautes afin de recevoir le badge communautaire « Apollo Command Module ».",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Missions",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/cutscene_9100.json",
+      "Title": "Répétition générale",
+      "CampaignProgressInfo": "Le commandant Patrick et son équipage sont installés et prêts, effectuant actuellement un test en préparation du premier vol habité d’Apollo.",
+      "Program": 9000,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/mission1.json",
+      "Title": "Équipage de secours",
+      "CampaignProgressInfo": "Beaucoup a été appris de la perte tragique de la première mission Apollo et de son équipage. Le nouveau module de commande amélioré « Block II » fait désormais partie du vaisseau Apollo et est prêt sur le pas de tir. Tu fais partie de l’équipage de secours et tu prépares le cockpit avant l’arrivée de l’équipage principal.",
+      "Program": 2,
+      "missionIndex": 1
+    },
+    {
+      "FileName": "Missions/mission2.json",
+      "Title": "7,5 millions de livres de poussée",
+      "CampaignProgressInfo": "La première mission habitée Apollo a été un succès ! Cependant, le module lunaire subit des retards et ne sera pas prêt pour ta mission. Tous les tests du module lunaire ont été transférés à une autre mission. Puisque le module de commande a déjà été testé en orbite terrestre, il a été décidé que ta destination serait la Lune.",
+      "Program": 2,
+      "missionIndex": 2
+    },
+    {
+      "FileName": "Missions/mission3.json",
+      "Title": "Mettre les voiles",
+      "CampaignProgressInfo": "L’équipage a atteint avec succès l’orbite terrestre et a configuré le vaisseau pour l’insertion orbitale. La prochaine procédure est critique : elle emmènera le vaisseau sur une trajectoire vers la Lune.",
+      "Program": 2,
+      "missionIndex": 3
+    },
+    {
+      "FileName": "Missions/mission4.json",
+      "Title": "Perte de signal",
+      "CampaignProgressInfo": "La Lune devient de plus en plus grande à travers les hublots, et l’équipage doit se préparer à la manœuvre d’injection en orbite lunaire.",
+      "Program": 2,
+      "missionIndex": 4
+    },
+    {
+      "FileName": "Missions/mission5.json",
+      "Title": "La poussée des ingénieurs",
+      "CampaignProgressInfo": "L’équipage est prêt à rentrer sur Terre.",
+      "Program": 2,
+      "missionIndex": 5
+    },
+    {
+      "FileName": "Missions/mission6.json",
+      "Title": "Chaleur",
+      "CampaignProgressInfo": "Le vaisseau est en trajectoire de retour vers la Terre et l’équipage doit ajuster l’angle d’entrée à environ 6,5 degrés pour réussir la rentrée atmosphérique.\r\n",
+      "Program": 2,
+      "missionIndex": 6
+    }
+  ],
+  "CompletionMessage": "Félicitations pour avoir terminé la campagne !",
+  "Hidden": false
+}

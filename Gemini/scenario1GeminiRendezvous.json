@@ -1,18 +1,19 @@
 {
   "StartInOrbit": false,
-  "ScheduledLaunchTime": "1965-03-23T14:24:00",
+  "ScheduledLaunchTime": "1966-03-20T12:00:00",
   "InitialTimeToRetrograde": "2.07:00:00",
   "MissionCommands": [
     {
       "Delivered": false,
       "Completed": false,
       "Priority": false,
+      "Comment": null,
       "ID": "72d9a81f-c7c4-41d4-8827-ee81f9b41173",
       "Action": 0,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
-      "From": 0,
-      "Message": "Scenario: Gemini Rendezvous",
+      "From": 2,
+      "Message": "Welcome to the Gemini Rendezvous scenario. Check the MISSION PAD -> BRIEFING for a suggested flight plan.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -29,8 +30,7 @@
       "ComputerMode": 0,
       "Fault": 0,
       "Failure": 0,
-      "PlayAudioClip_String3": false,
-      "Comment": null
+      "PlayAudioClip_String3": false
     }
   ],
   "MissionGoals": [
@@ -59,11 +59,11 @@
   ],
   "MissionActivities": [],
   "SpaceProgram": 1,
-  "Id": 759617,
+  "Id": 749311,
   "ID": "48750382-d9ff-4d47-a566-72b87fb89d10",
   "Title": "GEMINI RENDEZVOUS",
-  "Description": "In this scenario you will be set up for launch with the goal of rendezvousing with another Gemini spacecraft in orbit.",
-  "BriefingText": "Scenario: Rendezvous with another Gemini spacecraft.",
+  "Description": "In this scenario you will be set up for launch with the goal of a rendezvous with another Gemini spacecraft in orbit. The BRIEFING page contains a suggested Flight Plan.",
+  "BriefingText": "Scenario: Rendezvous with another Gemini spacecraft.\n\nIn this scenario you will be set up for a rendezvous mission to another Gemini spacecraft currently in orbit.\n\nFlight Plan:\n 00:00:00 Complete ascent and Insertion\r\n 00:15:00 Request Ap circularization burn\r\n~00:51:00 Complete Ap circularization burn\r\n 02:30:00 Request: Rendezvous burn\r\n~03:50:00 Complete Rendezvous Burn 1 (Initial RNDZ burn) \r\n         Adjust the RNDZ: dAP parameter towards 0.2\r\n~04:00:00 Request: Circularize at Ap burn\r\n~04:40:00 Complete Circularize at Ap burn (Rendezvous Burn 2)\r\n         Rendezvous, Final Approach\r\n~04:50:00 Formation Flying\r\n\nNote: This flight plan is an estimate. Exact timings on the burns will vary depending on ascent, insertion orbit, zeroing IVIs and flight execution. Follow the timings of the burn PADs you receive from ground.\n\n\n",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 10.0,
   "TargetAp": 0.0,
@@ -79,6 +79,7 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 47.0,
+  "OldHighlighterQueueMode": false
 }

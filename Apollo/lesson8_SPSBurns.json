@@ -1131,7 +1131,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "The Inertial Measurement Unit (IMU) is resposnible for maintaining the reference platform of the craft and is frequently changed based on what mission phase you are in. It is a fixed inertial platform (fixed relative to the stars). This platform is what the craft use to calcuate its attitude (roll, pitch, yaw) from.",
+      "Message": "The Inertial Measurement Unit (IMU) is responsible for maintaining the reference platform of the craft and is frequently changed based on what mission phase you are in. It is a fixed inertial platform (fixed relative to the stars). This platform is what the craft use to calculate its attitude (roll, pitch, yaw) from.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

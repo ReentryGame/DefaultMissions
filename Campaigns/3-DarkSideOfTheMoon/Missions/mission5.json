@@ -1039,7 +1039,7 @@
   "SpaceProgram": 2,
   "Id": 5577448,
   "ID": "6ad20daa-69b5-4de7-a595-ca32860fbc4d",
-  "Title": "Thrust of the Engineers",
+  "Title": "THRUST OF THE ENGINEERS",
   "Description": "It's time to go home. The crew is in lunar orbit, and will need to prepare the craft for a Trans-Earth Injection burn to get on a return trajectory back home towards Earth.",
   "BriefingText": "Complete the current lunar orbit and plan for the Trans-Earth Injection (TEI) burn, and start the journey towards Earth.",
   "FlightPlanPrefabId": 0,

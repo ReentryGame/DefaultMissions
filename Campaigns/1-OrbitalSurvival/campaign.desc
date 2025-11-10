@@ -3,7 +3,7 @@
     "campaignPath": null,
     "ID": "63b0617d-07cb-4e8b-bc8e-5065cc05321e",
     "Title": "Campaign 1:  Orbital Survival",
-    "DisplayTitle": "Campaign 1:  Orbital Survival",
+    "DisplayTitle": "Campaign 1: Orbital Survival",
     "TileBackgroundImage": "tileBg.png",
     "PageBackgroundImage": "pageBg.png",
     "Sections": [
@@ -14,7 +14,7 @@
         },
         {
             "Type": 1,
-            "Data": "For generations we have been gazing up to the stars, telling tales of the ancient constellations that made up the night sky. These fixed sources of distant light, some millions of light years away, have been the basis for navigators across the world for centuries. Mesmerized by the unknowns and vastness of space, philosophers and scientists have dedicated lifetimes of work to answer its existence.\r\n\r\nRecent developments in engineering, technology and research have unlocked the possibilities of answering many of the things that once were just a dream: Travelling to space.",
+            "Data": "For generations we have been gazing up to the stars, telling tales of the ancient constellations that made up the night sky. These fixed sources of distant light, some millions of light years away, have been the basis for navigators across the world for centuries. Mesmerized by the unknowns and vastness of space, philosophers and scientists have dedicated lifetimes of work to answer its existence.\r\n\r\nRecent developments in engineering, technology and research have unlocked the possibilities of answering many of the things that once were just a dream: travelling to space.",
             "Value": 0
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "Type": 1,
-            "Data": "Project Mercury is the first official space program with a target of putting a man in orbit with a safe return. After a long selection process with brutal tests, you finally received the phone call congratulating you for being selected as one of the astronauts to fly the Mercury capsule. Your comrade Patrick (\"Rad\") from the Test Pilot squadron also made it to the team.\r\n",
+            "Data": "Project Mercury is the first official space program with a target of putting an astronaut in orbit with a safe return. After a long selection process with brutal tests, you finally received the phone call congratulating you for being selected as one of the astronauts to fly the Mercury capsule. Your comrade Patrick (\"Rad\") from the Test Pilot squadron also made it to the team.\r\n",
             "Value": 0
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "Type": 1,
-            "Data": "The first requirement of this campaign is that you complete the Mercury Academy. The Academy can be found on the Main Menu, and will take you through all the details required to operate this brand new spaceship! During your stay with the Academy, it's recommended to also have a copy of the Reentry Mercury Flight Manual with you so you can get a deeper understanding of the systems practised during training.\r\n\r\nOptional: Once you have completed and received the Mercury Pilot Certificate, let your fellow astronauts know in the Official Reentry Discord group, where many of the other Reentry Astronauts hang out. You can find them in discord.gg/reentrygame.",
+            "Data": "The first requirement of this campaign is that you complete the Mercury Academy. The Academy can be found on the Main Menu, and will take you through all the details required to operate this brand new spaceship. During your stay with the Academy, it's recommended to also have a copy of the Reentry Mercury Flight Manual with you so you can get a deeper understanding of the systems practised during training.\r\n\r\nOptional: Once you have completed and received the Mercury Pilot Certificate, let your fellow astronauts know in the Official Reentry Discord group, where many of the other Reentry Astronauts hang out. You can find them in discord.gg/reentrygame.",
             "Value": 0
         }
     ],

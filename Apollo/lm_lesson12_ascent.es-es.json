@@ -574,7 +574,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Vamos a configurar el DAP para el ascenso. Supongo que ya estás familiarizado con cómo hacerlo. Utiliza V48E y establece el DAP en +12102 utilizando V21E +12102E. Presiona \"ROGER\" cuando hayas completado la rutina de configuración del DAP.",
+      "Message": "Vamos a configurar el DAP para el ascenso. Supongo que ya estás familiarizado con cómo hacerlo. Utiliza V48E y establece el DAP en 12102 utilizando V21E 12102E. Presiona \"ROGER\" cuando hayas completado la rutina de configuración del DAP.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

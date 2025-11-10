@@ -29,7 +29,7 @@
         "GameTimer": "1.11:24:37.8170000",
         "MissionDateTime": "1963-06-22T01:14:39.817",
         "TimeSinceLaunch": "1.11:14:35.5010000",
-        "TimeToRetro": "00:21:24.4720000",
+        "TimeToRetro": "00:24:24.4720000",
         "PlannedRetroTimestamp": "01:36:04.3160000",
         "EventTimer": "00:00:00",
         "TimeToLaunch": "-1.11:14:37.8170000",
@@ -126,7 +126,7 @@
             },
             {
                 "Id": 12,
-                "Pos": 3
+                "Pos": 2
             },
             {
                 "Id": 13,
@@ -428,7 +428,7 @@
             },
             {
                 "Id": 3,
-                "Pos": 2
+                "Pos": 1
             },
             {
                 "Id": 4,
@@ -475,6 +475,19 @@
                 "Pos": 1
             }
         ]
+    },
+    "Internal": {
+        "CabinPressure": 5.49952841,
+        "SuitPressure": 5.500917,
+        "OxygenCabinSubstance": 799.93139910723369,
+        "OxygenSuitSubstance": 1.0,
+        "OxygenTankSubstance": 323.0273158869113,
+        "OxygenTank2Substance": 1814.0,
+        "FuelAutoTankSubstance": 10.408447033251832,
+        "FuelManualTankSubstance": 7.61357000019064,
+        "SB1": 8640000.0,
+        "SB2": 8640000.0,
+        "IB": 2160000.0
     },
     "SpaceProgram": 0
 }

@@ -1111,11 +1111,11 @@
       "Priority": false,
       "Comment": null,
       "ID": "7a1725fb-e7a1-49a7-9f1a-2daec34d453a",
-      "Action": 35,
+      "Action": 34,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Окей, загружаем обновление OBC с параметрами скругления на перигее через {{timeToPe}}.",
+      "Message": "Окей, загружаем обновление OBC с параметрами скругления на перигее через {{timeToAp}}.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1144,7 +1144,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Принято, скругление орбиты на перигее через {{timeToPe}}.",
+      "Message": "Принято, скругление орбиты на перигее через {{timeToAp}}.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3936,6 +3936,6 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 45.0
 }

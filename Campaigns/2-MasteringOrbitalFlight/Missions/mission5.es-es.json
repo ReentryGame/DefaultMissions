@@ -1110,11 +1110,11 @@
       "Completed": false,
       "Priority": false,
       "ID": "7a1725fb-e7a1-49a7-9f1a-2daec34d453a",
-      "Action": 35,
+      "Action": 34,
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Ok, estamos enviando una actualización del OBC con los parámetros objetivo para la quemada de circularización en Pe en aproximadamente {{timeToPe}}.",
+      "Message": "Ok, estamos enviando una actualización del OBC con los parámetros objetivo para la quemada de circularización en Ap en aproximadamente {{timeToAp}}.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1143,7 +1143,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Roger, la quema de circularización está programada para el próximo paso por el perihelio, en aproximadamente {{timeToPe}}.",
+      "Message": "Roger, la quema de circularización está programada para el próximo paso por el Ap, en aproximadamente {{timeToAp}}.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -3936,6 +3936,6 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 45.0
 }

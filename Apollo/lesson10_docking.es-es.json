@@ -483,7 +483,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 2,
-      "Message": "A continuación, configuremos los parámetros del piloto automático digital (DAP) del PGNCS. Clave V48E V21E +11103E V22E +01111E. Presione ROGER cuando haya terminado.",
+      "Message": "A continuación, configuremos los parámetros del piloto automático digital (DAP) del PGNCS. Clave V48E V21E 11103E V22E 01111E. Presione ROGER cuando haya terminado.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

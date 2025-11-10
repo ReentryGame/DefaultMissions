@@ -1,6 +1,6 @@
 {
   "StartInOrbit": false,
-  "ScheduledLaunchTime": "1965-03-23T14:24:00",
+  "ScheduledLaunchTime": "1966-03-22T12:00:00",
   "InitialTimeToRetrograde": "2.07:00:00",
   "MissionCommands": [
     {
@@ -59,7 +59,7 @@
   ],
   "MissionActivities": [],
   "SpaceProgram": 1,
-  "Id": 759617,
+  "Id": 759627,
   "ID": "cff5c15c-24d1-48f0-867f-d6c35e60e388",
   "Title": "СТЫКОВКА С АДЖЕНОЙ",
   "Description": "В этом сценарии всё подготовлено для запуска с целью сближения и стыковки с аппаратом Аджена.",
@@ -79,6 +79,6 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 47.0
 }

@@ -1,6 +1,6 @@
 {
   "StartInOrbit": false,
-  "ScheduledLaunchTime": "1966-02-12T15:42:00",
+  "ScheduledLaunchTime": "1966-02-12T15:04:00",
   "InitialTimeToRetrograde": "120.00:00:00",
   "MissionCommands": [
     {
@@ -418,7 +418,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Sigue la lista de verificación Circularize Orbit y entra en una órbita circular en Pe. Para hacerlo, utiliza los Comandos de Radio para solicitar una quemadura de circularización en Pe.",
+      "Message": "Sigue la lista de verificación Circularize Orbit y entra en una órbita circular en Ap. Para hacerlo, utiliza los Comandos de Radio para solicitar una quemadura de circularización en Ap.",
       "Value1": 5.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1424,6 +1424,6 @@
   "OverrideSunPhaseValue": 180.0,
   "OverridePanelState": false,
   "OverridePanelStateFileName": "Default/Ingress.json",
-  "OverrideTargetVehiclePhase": false,
-  "OverrideTargetVehiclePhaseValue": 180.0
+  "OverrideTargetVehiclePhase": true,
+  "OverrideTargetVehiclePhaseValue": 47.0
 }

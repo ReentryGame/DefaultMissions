@@ -1,0 +1,129 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "ID": "63b0617d-07cb-4e8b-bc8e-5065cc05321e",
+    "Title": "Campaign 1:  Orbital Survival",
+    "DisplayTitle": "Campagne 1 :  Survie orbitale",
+    "TileBackgroundImage": "tileBg.png",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "Le rêve de l'espace",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Depuis des générations, nous contemplons les étoiles et racontons des histoires sur les anciennes constellations qui composent le ciel nocturne. Ces sources fixes de lumière lointaine, situées à des millions d'années-lumière, ont servi de repères aux navigateurs du monde entier pendant des siècles. Fascinés par les inconnues et l'immensité de l'espace, les philosophes et les scientifiques ont consacré leur vie à tenter de répondre à ses mystères. Les progrès récents en matière d'ingénierie, de technologie et de recherche ont ouvert la voie à la réalisation de nombreux rêves autrefois inaccessibles, comme celui de voyager dans l'espace.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Rockets",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Les missiles balistiques intercontinentaux modifiés peuvent être utilisés pour lancer des satellites artificiels dans l'espace. Le 4 octobre 1957, l'Union soviétique (URSS) a lancé avec succès un satellite nommé Spoutnik 1 en orbite autour de la Terre, devenant ainsi le premier satellite artificiel terrestre. Il s'agissait d'un satellite simple et léger contenant un émetteur radio. Il a transmis un signal pendant trois semaines avant que ses batteries ne s'épuisent, puis il est rentré dans l'atmosphère et s'est consumé deux mois plus tard.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Sputnik_asm.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Surpris par cette découverte, les États-Unis ont créé ce qui allait devenir la NASA afin d'accélérer leurs efforts d'exploration spatiale. Explorer 1 a été lancé avec succès le 31 janvier 1958 à bord d'un lanceur Juno. Un capteur de rayons cosmiques embarqué a été utilisé pour détecter, pour la première fois, la ceinture de Van Allen. Il a fourni des données pendant près de quatre mois avant que les batteries ne s'épuisent, mais est resté en orbite pendant environ 12 ans avant de rentrer dans l'atmosphère.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "explorer1.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "La course à l'espace",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Avec le lancement de Spoutnik 1, la course à la première place dans le domaine des vols spatiaux entre l'URSS et les États-Unis était lancée. Les États-Unis étaient à la traîne, et les vols spatiaux habités devinrent leur nouvel objectif.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Projet Mercury",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Le projet Mercury est le premier programme spatial officiel dont l'objectif est de mettre un astronaute en orbite et de le ramener sain et sauf sur Terre. Après un long processus de sélection ponctué de tests brutaux, vous avez enfin reçu l'appel téléphonique vous félicitant d'avoir été sélectionné comme l'un des astronautes qui piloteront la capsule Mercury. Votre camarade Patrick (\" Rad \") de l'escadron des pilotes d'essai a également été retenu dans l'équipe.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Le vaisseau spatial",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Le vaisseau spatial Mercury se compose d'un compartiment pressurisé pouvant accueillir un astronaute (1), du rétropack utilisé pour revenir de l'orbite (2), d'un bouclier thermique utilisé pour survivre à l'entrée dans l'atmosphère (3), d'un compartiment de récupération où se trouvent les parachutes d'atterrissage (4), d'une section d'antenne utilisée pour la communication, de scanners pour l'orientation du vaisseau spatial (5) et d'un système d'évacuation de lancement utilisé pour éloigner la capsule en toute sécurité d'un lanceur défaillant lors d'une interruption (6).",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "theSpacecraft.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "L'Académie",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "La première condition pour participer à cette campagne est d'avoir suivi la formation de l'Académie Mercury. L'Académie se trouve dans le menu principal et vous fournira toutes les informations nécessaires pour piloter ce tout nouveau vaisseau spatial. Pendant votre séjour à l'Académie, nous vous recommandons de vous munir d'un exemplaire du manuel de vol Reentry Mercury afin de mieux comprendre les systèmes utilisés pendant la formation. r\n\r\nFacultatif : une fois que vous avez terminé et obtenu le certificat de pilote Mercury, informez-en vos collègues astronautes dans le groupe Discord officiel Reentry, où se retrouvent de nombreux autres astronautes Reentry. Vous les trouverez sur discord.gg/reentrygame.",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission1.json",
+            "Title": "Inspection intérieure",
+            "CampaignProgressInfo": " 1er avril 1961 : Nous prévoyons un lancement début mai. Vous avez été sélectionné comme astronaute et serez le premier homme de l'histoire à voyager dans l'espace."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission2.json",
+            "Title": "Atteindre l'espace",
+            "CampaignProgressInfo": "L'URSS nous a encore battus, mais nous avons encore un vol important à venir. 5 mai 1961 : jour du lancement."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission3.json",
+            "Title": "En orbite",
+            "CampaignProgressInfo": "L'astronaute Patrick a mené à bien une mission secondaire Mercury-Redstone afin d'en vérifier les objectifs. L'URSS a envoyé un cosmonaute en orbite, et il est temps de rattraper son retard sur ses réalisations."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission4.json",
+            "Title": "Longue distance",
+            "CampaignProgressInfo": "Votre précédent vol a été une grande réussite pour le programme, et vous êtes devenu un héros national. Mais il est temps de vous relever. Votre prochain vol comptera 6 orbites."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission5.json",
+            "Title": "Hawaï",
+            "CampaignProgressInfo": "Une anomalie dans le lanceur Atlas a provoqué un arrêt de la mission et la perte du lanceur. Cela a causé un léger contretemps, mais nous sommes de nouveau sur la bonne voie. Depuis, l'astronaute Patrick a mené à bien une mission identique à la vôtre et détient actuellement le record de la plus longue durée passée dans l'espace."
+        }
+    ],
+    "CompletionMessage": "Après le succès et l'achèvement de la dernière mission Mercury, au cours de laquelle vous avez effectué 24 orbites, il a été décidé que toutes les ressources seraient consacrées au développement du prochain programme spatial et au voyage vers la Lune. Le projet Mercury a atteint ses objectifs, et certains des astronautes Mercury poursuivront leur carrière dans le cadre du projet Gemini."
+}

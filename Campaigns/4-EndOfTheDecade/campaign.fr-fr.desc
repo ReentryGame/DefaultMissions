@@ -1,0 +1,166 @@
+{
+  "fullPathDescriptionFile": null,
+  "campaignPath": null,
+  "ID": "ade16a87-6ef6-43a2-87c6-c6d40e7fe73d",
+  "Title": "Campaign 4: The End of the Decade",
+  "DisplayTitle": "Campagne 4 : La fin de la décennie",
+  "TileBackgroundImage": "tileBg.png",
+  "PageBackgroundImage": "pageBg.png",
+  "Sections": [
+    {
+      "Type": 1,
+      "Data": "La fin de la décennie approche à grands pas. Les premières missions habitées dans l’espace ont eu lieu il y a 8 ans, avec la promesse de faire atterrir un astronaute sur la Lune avant la fin de la décennie. Beaucoup de choses se sont passées depuis. Nous avons été témoins de sauts technologiques spectaculaires, de pertes tragiques et de grandes réussites. Les programmes Mercury et Gemini ont tous deux ouvert la voie pour en arriver là où nous en sommes aujourd’hui.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le module lunaire",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le module lunaire est terminé, et a été testé au cours des missions qui ont suivi la vôtre. Il a passé avec succès tous les tests en orbite terrestre et lunaire. Il reste une dernière tâche : l’atterrissage lunaire.",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le voyage vers la Lune est long, et de nombreuses étapes critiques doivent être franchies. Trois astronautes effectueront le voyage dans le module de commande et de service (CSM). Celui-ci transportera le module lunaire, et, au moment venu, deux astronautes entreront dans le module lunaire pour effectuer un atterrissage sécurisé sur le sol lunaire.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "Lunar_Module_diagram.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le module lunaire est composé de deux étages. Le premier, appelé étage de remontée, est la partie pressurisée du vaisseau, à partir de laquelle les astronautes le pilotent. Le module de descente est la partie inférieure orange, dotée de jambes d’atterrissage et d’un gros moteur de descente utilisé pour se poser sur la Lune. L’étage de remontée se séparera de celui de descente lors du décollage depuis la surface lunaire. L’étage de descente devient alors la rampe de lancement de l’étage de remontée, qui possède son propre moteur pour s’élever de la surface vers une orbite lunaire.",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "800px-LM_illustration_02.png",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le module de descente",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Il contient le moteur de descente, deux réservoirs de carburant et d’oxydant, ainsi que de l’hélium pour pressuriser le moteur. Il contient aussi cinq batteries pour l’alimentation électrique, un radar d’atterrissage utilisé pendant la descente, une échelle pour descendre à la surface, de l’eau, et un compartiment pour les charges utiles.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Le module de remontée",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Cet étage contient le compartiment pressurisé où les astronautes vivent et opèrent, ainsi que la majorité des systèmes nécessaires à la navigation du vaisseau. Le radar de rendez-vous est utilisé pendant l’ascension pour suivre le CSM et pour la manœuvre d’amarrage. Quatre ensembles RCS (propulseurs de contrôle) situés à l’extérieur permettent le contrôle d’attitude et de translation. Les radios de communication sont situées sur le toit, ainsi qu’une cible d’amarrage utilisée par le CSM. Des batteries d’ascension alimentent l’étage une fois que l’étage de descente a été largué.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Commandes et affichages",
+      "Value": 0
+    },
+    {
+      "Type": 2,
+      "Data": "LM-CB11-16lbl.png",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Le module lunaire est piloté à l’aide des panneaux de commande, du manche de contrôle d’attitude, et de celui de translation. Un ordinateur de guidage, similaire à celui du CSM, est utilisé pour la navigation, et est appelé ordinateur de guidage lunaire (LGC). Deux astronautes opèrent le vaisseau debout. Une trappe située au-dessus d’eux permet d’entrer et sortir du module lorsqu’il est amarré au CSM, et une trappe avant est utilisée pour entrer/sortir sur la surface lunaire.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "L’équipage",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Martin, le Directeur des Opérations du Vol habité, vous a nommé Commandant de la mission d’atterrissage lunaire. Il a assigné M. Thompson comme pilote du module lunaire, et M. Wood comme pilote du module de commande.\n\nJacob Thompson et Hector Wood sont tous deux des vétérans du programme spatial américain, ayant volé sur les missions Gemini et Apollo. M. Thompson a participé à la mission précédente, où le module lunaire a été testé en orbite lunaire, et M. Wood était le commandant de la première mission Apollo, où le CSM a été testé en orbite.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "L’Académie",
+      "Value": 0
+    },
+    {
+      "Type": 1,
+      "Data": "Vous êtes inscrit à l’Académie du module lunaire pour commencer immédiatement votre entraînement. Avant de tenter cette campagne, vous devez obtenir le certificat de pilote du module lunaire. L’Académie se trouve dans la section \"ACADEMIE\" du menu principal, et vous apprendra tout ce que vous devez savoir pour commander une mission d’atterrissage lunaire.\n\nD’autres astronautes ayant suivi l’Académie peuvent aussi être trouvés sur le serveur officiel Discord de Reentry. Apprendre à piloter cet engin seul est difficile, donc n’hésitez pas à demander de l’aide !\nRendez-vous sur : discord.gg/reentrygame\n\nOptionnel : Une fois que vous avez obtenu votre certificat, signalez-le aux autres astronautes pour recevoir le badge de la communauté du module lunaire.",
+      "Value": 0
+    },
+    {
+      "Type": 0,
+      "Data": "Missions",
+      "Value": 0
+    }
+  ],
+  "Missions": [
+    {
+      "FileName": "Missions/mission1.json",
+      "Title": "Mission 1",
+      "CampaignProgressInfo": "La Saturn V se dresse fièrement sur le pas de tir, prête à emmener l’équipage en orbite et au-delà. Le principal objectif est d’atterrir sur la Lune et de revenir sain et sauf. Mais le chemin est long, et de nombreuses manœuvres avancées et critiques doivent être réussies. Ceci marque le début du voyage.",
+      "Program": 2,
+      "missionIndex": 0
+    },
+    {
+      "FileName": "Missions/mission2.json",
+      "Title": "Mission 2",
+      "CampaignProgressInfo": "Après avoir atteint une orbite terrestre stable, l’équipage doit se préparer à l’injection trans-lunaire, suivie de la manœuvre de transposition et d’amarrage pour extraire le module lunaire du lanceur. Les deux vaisseaux voyageront ensuite ensemble vers la Lune.",
+      "Program": 2,
+      "missionIndex": 1
+    },
+    {
+      "FileName": "Missions/mission3.json",
+      "Title": "Mission 3",
+      "CampaignProgressInfo": "La poussée d’injection trans-lunaire a placé le CSM et le LM sur une trajectoire vers la Lune, avec un périgée cible de 60 milles nautiques. L’équipage doit préparer le système de propulsion principal (SPS) pour effectuer la manœuvre d’insertion en orbite lunaire. Avec le module lunaire comme charge utile, le SPS devra fournir plus de puissance qu’à l’habitude. Cette poussée critique exige une concentration totale de l’équipage : une erreur minime pourrait entraîner une collision avec la Lune.",
+      "Program": 2,
+      "missionIndex": 2
+    },
+    {
+      "FileName": "Missions/mission4.json",
+      "Title": "Mission 4",
+      "CampaignProgressInfo": "Avec le CSM et le LM en orbite circulaire autour de la Lune, la prochaine poussée placera l’ensemble en orbite de descente. L'insertion en orbite de descente doit être réalisée au bon moment pour abaisser le périgée à une altitude de 50 000 pieds, 350 milles nautiques avant le site prévu d’atterrissage. Le module lunaire sera ensuite activé et séparé du CSM.",
+      "Program": 2,
+      "missionIndex": 3
+    },
+    {
+      "FileName": "Missions/mission5.json",
+      "Title": "Mission 5",
+      "CampaignProgressInfo": "Le module lunaire s’est désamarré du CSM et se trouve désormais dans sa propre orbite lunaire. Le CSM est retourné à une orbite circulaire de 60 nmi, tandis que le module lunaire doit être préparé pour la descente motorisée vers la surface lunaire.",
+      "Program": 2,
+      "missionIndex": 4
+    },
+    {
+      "FileName": "Missions/mission6.json",
+      "Title": "Mission 6",
+      "CampaignProgressInfo": "L’atterrissage lunaire a été un succès, et l’équipage a marché sur la Lune. Les événements suivants ramèneront le module lunaire en orbite, permettront un rendez-vous avec le CSM, et un amarrage. L’équipage rentrera alors dans le CSM et dira adieu au module lunaire.",
+      "Program": 2,
+      "missionIndex": 5
+    },
+    {
+      "FileName": "Missions/mission7.json",
+      "Title": "Mission 7",
+      "CampaignProgressInfo": "Le voyage retour commence. Le module lunaire n’est plus là, et l’équipage doit une fois encore préparer le SPS pour une autre poussée : l’injection trans-terrestre. Cette poussée permettra à l’équipage d’échapper à l’attraction lunaire et de revenir sur une orbite terrestre, frôlant l’atmosphère.",
+      "Program": 2,
+      "missionIndex": 6
+    },
+    {
+      "FileName": "Missions/mission8.json",
+      "Title": "Mission 8",
+      "CampaignProgressInfo": "L’équipage est sur une trajectoire vers la Terre. Avec une vitesse de 36 500 pieds/seconde, ils doivent s’assurer de pénétrer dans l’atmosphère avec le bon angle d’entrée. Le module de service sera largué, et le module de commande rentrera et amerrira dans l’océan.\r\n",
+      "Program": 2,
+      "missionIndex": 7
+    }
+  ],
+  "CompletionMessage": "Atterrir sur la Lune n’est pas une tâche facile, pas plus que le voyage de retour. Vous avez maîtrisé l’ensemble du profil de mission lunaire avec le module de commande et de service, ainsi que le module lunaire. Le monde célèbre une fois encore vos réussites.",
+  "Hidden": false
+}

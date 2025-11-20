@@ -1260,7 +1260,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "[When ready and the orbit is circular and aligned to 28.91 degrees inclination, call the MISSION TOOLS > REQUERST BURNS > REQUEST RENDEZVOUS BURN radio command.]",
+      "Message": "[When ready and the orbit is circular and aligned to 28.91 degrees inclination, call the MISSION TOOLS > REQUEST BURNS > REQUEST RENDEZVOUS BURN radio command.]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

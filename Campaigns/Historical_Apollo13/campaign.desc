@@ -245,6 +245,6 @@
             "CampaignProgressInfo": "The crew are on the final stint of this survival mission."
         }
     ],
-    "CompletionMessage": "Congratulations on completeing Apollo 13!",
+    "CompletionMessage": "Congratulations on completing Apollo 13!",
     "Hidden": true
 }

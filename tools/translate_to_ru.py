@@ -214,6 +214,7 @@ translations_lesson2 = {
 
 
 
+
 def translate(obj, translations):
     if isinstance(obj, dict):
         return {

@@ -1533,7 +1533,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "In the Mission Pad -> CHECKLISTS you will find a dedicated section for emergencies called EMERGENCY PROCEDURES. Find this section now. Let's find the Electrical Power System emergency procedures. Open the ORBIT emergency checklist, and scroll down to the Electrical Power System.",
+      "Message": "In the Mission Pad -> CHECKLISTS you will find a dedicated section for emergencies called EMERGENCY PROCEDURES. Find this section now. Let's find the Electrical Power System emergency procedures. Open the EMERGENCY PROCEDURES->ORBIT checklist, and scroll down to the Electrical Power System (~middle of the ORBIT checklist).",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

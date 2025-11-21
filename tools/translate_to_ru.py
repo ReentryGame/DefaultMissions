@@ -213,6 +213,7 @@ translations_lesson2 = {
 }
 
 
+
 def translate(obj, translations):
     if isinstance(obj, dict):
         return {
@@ -235,6 +236,7 @@ def main() -> None:
     apollo = Path("Apollo")
     translate_file(apollo / "lesson1_prelaunch.json", ".ru-ru", translations_lesson1)
     translate_file(apollo / "lesson2_boost.json", ".ru-ru", translations_lesson2)
+
 
 
 if __name__ == "__main__":

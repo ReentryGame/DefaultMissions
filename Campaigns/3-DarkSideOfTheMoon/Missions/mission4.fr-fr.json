@@ -1493,7 +1493,7 @@
       "From": 1,
       "Message": "Utilisez les mêmes procédures : configurez la poussée avec le planificateur. RÉINITIALISEZ le planificateur, ciblez une poussée RÉTROGRADE à la phase 0, réglez le delta-V à 145 pieds/s et ajustez pour obtenir une orbite circulaire. Ensuite, utilisez P30, P52 option 1 et P40 pour compléter la poussée avec la checklist (P40) G&N POUSSÉE SPS.",
       "Value1": 111.0,
-      "Value2": 11.0,
+      "Value2": 27.0,
       "Value3": 0.0,
       "String1": "",
       "String2": "",

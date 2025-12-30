@@ -16079,7 +16079,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "[On the MDIU, check core 25,26,27 by keying: CLEAR 25 READ OUT, check value, CLEAR 26 READ OUT, check value, CLEAR 27 READ OUT, check value. Press DONE when complete]",
+      "Message": "[On the MDIU, check core 25,26,27 by keying: CLEAR 25 READ OUT, check value, CLEAR 26 READ OUT, check value, CLEAR 27 READ OUT, check value. Press ROGER when complete]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

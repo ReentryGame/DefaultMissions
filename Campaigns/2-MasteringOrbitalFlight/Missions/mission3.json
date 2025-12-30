@@ -1579,7 +1579,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 200.0,
       "From": 0,
-      "Message": "Roger, let's hope the burn will take us there! [Open the MISSION TOOLS > DATA FORMS & CARTS > RENDEZVOUS PLOT: GEMINI/AGENA to open a graph that will show your relative position to Agene. By default the range is in km. You can zoom in or out by changing the scale property.]",
+      "Message": "Roger, let's hope the burn will take us there! [Open the MISSION TOOLS > DATA FORMS & CARTS > RENDEZVOUS PLOT: GEMINI/AGENA to open a graph that will show your relative position to Agena. By default the range is in km. You can zoom in or out by changing the scale property.]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

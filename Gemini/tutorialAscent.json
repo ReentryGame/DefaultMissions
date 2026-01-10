@@ -1491,7 +1491,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "When you see SEP SPCFT illuminated, unlock it by left clicking the small black handle on the left side of it. When the push button is unlocked, left click the main button to execute the trigger. This will separate Stage II using the squibs and pyros.",
+      "Message": "When you see SEP SPCFT illuminated, unlock it by right clicking the small black handle on the left side of it. When the push button is unlocked, left click the main button to execute the trigger. This will separate Stage II using the squibs and pyros.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

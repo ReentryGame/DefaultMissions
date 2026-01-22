@@ -2709,7 +2709,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 2,
-      "Message": "Manuever so the FDAI has a prograde attitude with 0 roll. FDAI should read about 0,0,0. The attitude can be anything really, as the RCS can burn in any direction.",
+      "Message": "Maneuver so the FDAI has a prograde attitude with 0 roll. FDAI should read about 0,0,0. The attitude can be anything really, as the RCS can burn in any direction.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

@@ -1563,7 +1563,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 5.0,
       "From": 2,
-      "Message": "Try to null this by maneuvering so the FDAI error lines and the X-Pointer lines are crossed in the center. In this state, you should be looking directly at the CSM transponder. Keep in mind that AUTO TRACK is on, so the RADAR will move as you manuever. This can be seen on the X-POINTER.",
+      "Message": "Try to null this by maneuvering so the FDAI error lines and the X-Pointer lines are crossed in the center. In this state, you should be looking directly at the CSM transponder. Keep in mind that AUTO TRACK is on, so the RADAR will move as you maneuver. This can be seen on the X-POINTER.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

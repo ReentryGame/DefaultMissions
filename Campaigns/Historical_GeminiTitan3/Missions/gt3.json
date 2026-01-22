@@ -20342,7 +20342,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "[Manuever 60 degrees left, then return to center, and then manuever 60 degrees right, observe ground track relative to yaw.]",
+      "Message": "[Maneuver 60 degrees left, then return to center, and then maneuver 60 degrees right, observe ground track relative to yaw.]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

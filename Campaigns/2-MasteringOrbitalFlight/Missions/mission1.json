@@ -1955,7 +1955,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 1,
-      "Message": "S/C to SEF. Burn will be prograde using forward thrusters. Translate backwards in SEF to lower Apogee at Perigee.",
+      "Message": "S/C to SEF. Burn will be retrograde using forward thrusters. Translate backwards in SEF to lower Apogee at Perigee.",
       "Value1": 300.0,
       "Value2": 0.0,
       "Value3": 0.0,

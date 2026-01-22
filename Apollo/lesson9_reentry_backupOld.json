@@ -2427,7 +2427,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "Next, use V49E to set up an automaneuver to the target EI attitude, this can be found in the ENTRY PAD (0, 209, 0) - then start the manuever. Do not wait until the manuever is complete, use V34E to stop the routine.",
+      "Message": "Next, use V49E to set up an automaneuver to the target EI attitude, this can be found in the ENTRY PAD (0, 209, 0) - then start the maneuver. Do not wait until the maneuver is complete, use V34E to stop the routine.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,

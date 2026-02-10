@@ -1095,7 +1095,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 2,
-      "Message": "Use Roll to control the craft through the atmosphere. Follow the line on the EMS and try to not exceed 6 Gs. Heads Up increases G load, Heads Down decreases G load. For beginners, stay Heads Down mostly and maybe roll 90 degrees left or right, but do not go Heads Down.",
+      "Message": "The CMC will use Roll to control the craft through the atmosphere, but be prepared to take over manual control. During manual control, use the EMS to monitor current G-load (vertical axis) and velocity left (horizontal axis) and avoid exceeding 6 Gs. Heads Up increases G load, Heads Down decreases G load. For beginners, stay Heads Down mostly and maybe roll 90 degrees left or right, but do not go Heads Up.",
       "Value1": 49000.0,
       "Value2": 0.0,
       "Value3": 0.0,

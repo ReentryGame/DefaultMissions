@@ -1,0 +1,78 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Mercury-Atlas 6",
+    "DisplayTitle": "Mercury-Atlas 6",
+    "TileBackgroundImage": "",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "Objetivos de la misión",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "1. Evaluar el rendimiento de un sistema hombre-nave en una misión de tres órbitas.\n\n2. Evaluar los efectos del vuelo espacial en el astronauta.\n\n3. Obtener la evaluación del astronauta sobre la idoneidad operativa de la nave espacial y los sistemas de soporte para vuelos espaciales tripulados.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Plan de vuelo",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Nota: Durante la misión, siéntete libre de cambiar los modos de vuelo y observar según sea necesario.\r\n\r\n0:00:00 - Despegue\r\n0:00:30 - Informe: Combustible, presión de cabina, O2, amperios\r\n0:01:00 - Informe: Combustible, presión de cabina, O2, amperios, vibración de la torre\r\n0:01:30 - Informe: Combustible, presión de cabina, O2, amperios\r\n0:02:00 - Informe: Combustible, presión de cabina, O2, amperios\r\n0:02:11 - BECO: Informa BECO, su propio estado\r\n0:02:34 - Desprendimiento de la torre: Informe Jett Tower verde, Auto Retro Jett – apagado, Interruptor de fusible Retro Jett – apagado\r\n0:03:00 - Informe: Combustible, presión de cabina estable, O2, amperios\r\n0:03:30 - Informe: Combustible, presión de cabina, O2, amperios, revisión completa de voltaje\r\n0:04:00 - Informe: Combustible, presión de cabina estable, O2, amperios\r\n0:04:20 - Informe: Centro de control \"go\"\r\n0:04:30 - Informe: Combustible, presión de cabina estable, O2, amperios, comprobación de sistemas “go”, astronauta “go”\r\n0:05:05 - Separación de la cápsula, Giro completo: Separación de la cápsula verde, Aux Damp OK, periscopio fuera, giro iniciado, ASCS OK, comprobación del sistema eléctrico, sensación de trombo\r\n0:06:15 - Transferencia BDA (Actitud de órbita)\r\n 1. Obtener el tiempo de secuencia retro 1B, 1ra y 3ra órbita, comprobar los tiempos de retrosequencia con los gráficos a bordo.\r\n 2. Comprobar el reloj CET y el reloj de muñeca.\r\n 3. BDA: Dar comando de voz.\r\n 4. A: Informar el movimiento del cohete, sensaciones iniciales de 0g\r\n0:06:15 (Tan pronto como sea posible) - Comprobación de los sistemas de control (REFERENCIA NO. 4)\r\n0:10:00 - Cambio de comunicaciones: El astronauta cambia a HF en la pérdida de señal de BDA.\r\n0:14:00 - Cambio de comunicaciones: El astronauta cambia a UHF Hi después de la comprobación de HF con BDA o CYI.\r\n0:16:30 - Observación y presión arterial: La nave espacial se acerca a la costa de África. (REFERENCIA NO. 21)\r\n0:18:00 - Observación: El astronauta marcará el cruce de la costa.\r\n0:21:00 - Cambio de comunicación: UHF Lo\r\n0:24:00 - Maniobra de giro (REFERENCIA NO. 5)\r\n0:28:00 - Comprobación de ASCS, comprobación del lado oscuro (REFERENCIA NO. 14)\r\n0:30:00 - Informe de 30 minutos (REFERENCIA NO. 11)\r\n0:33:48 - Hora de retrofuego para el área de contingencia 1C\r\n0:36:00 - Observar el atardecer.\r\n0:43:00 - Comprobación del horizonte nocturno\r\n0:44:00 - Encendido de bengala en IOS\r\n0:51:00 - Cambiar a ASCS, Observación (REFERENCIA NO. 18, 20, 21)\r\n0:51:54 - Hora de retrosecuencia para el área de contingencia 1D\r\n0:56:20 - Informe de 30 minutos (REFERENCIA NO. 11)\r\n1:03:30 - Cambio de comunicación: HF\r\n1:04:00 - Comprobación de todas las estaciones en HF\r\n1:10:00 - Navegación estelar (REFERENCIA NO. 18)\r\n1:12:00 - Primera comida\r\n1:16:18 - Hora de retrosecuencia para el área de contingencia 1E\r\n1:24:00 - Observar el amanecer\r\n1:25:00 - Cambio de comunicación: UHF Hi\r\n1:27:00 - Decisión de ir-no ir\r\n1:29:06 - Hora de retrosecuencia para el área de contingencia F\r\n1:34:00 - Informe de 30 minutos\r\n1:37:00 - Iniciar la segunda órbita\r\n1:37:00 - Hora de retrosecuencia para el área de contingencia 2A\r\n1:41:00 - Prueba oculogírica\r\n1:43:00 - Cambio de comunicación: HF\r\n1:44:00 - Comprobación de todas las estaciones en HF\r\n1:47:30 - Cambio de comunicación: UHF Hi\r\n1:49:00 - Comprobación del horizonte diurno (REFERENCIA NO. 23)\r\n1:51:06 - Hora de retrosecuencia para el área de contingencia 2B\r\n1:54:00 - Maniobra de giro de 180°\r\n1:55:00 - Comprobación de lado predark\r\n2:01:00 - Informe estándar de 30 minutos\r\n2:04:00 - Observar el atardecer\r\n2:07:36 - Hora de retrosecuencia para el área de contingencia 2C\r\n2:14:00 - Observación de la bengala desde IOS\r\n2:17:00 - Seguimiento de estrellas\r\n2:24:00 - Observación nocturna de ciudades\r\n2:28:54 - Hora de retrosecuencia para el área de contingencia 2D\r\n2:29:00 - Informe de presión arterial, visión e informe estándar de 30 minutos\r\n2:35:00 - Cambio de comunicación: HF\r\n2:37:00 - Observaciones nocturnas y seguimiento de estrellas\r\n2:44:00 - Cambio de comunicación: UHF Hi\r\n2:45:00 - Comer\r\n2:46:00 - Observar el amanecer\r\n2:49:18 - Hora de retrosecuencia para el área de contingencia 2E\r\n2:58:00 - Decisión de ir-no ir\r\n3:00:48 - Hora de retrosecuencia para el área de contingencia G\r\n3:07:00 - Informe de presión arterial, visión e informe estándar de 30 minutos\r\n3:10:30 - Hora de retrosecuencia para el área de contingencia 3A\r\n3:16:30 - Cambio de comunicación: HF\r\n3:23:48 - Hora de retrosecuencia para el área de contingencia 3B\r\n3:25:00 - Cambio de comunicación: UHF Hi\r\n3:25:00 - Informe de presión arterial, visión e informe estándar de 30 minutos\r\n3:25:00 - Comprobación de lado predark\r\n3:33:00 - Observar el atardecer\r\n3:33:30 - Cambio de comunicación: HF\r\n3:41:00 - Hora de retrosecuencia para el área de contingencia 3C\r\n3:46:00 - Cambio de comunicación: UHF Hi\r\n3:56:00 - Comprobación de voz de comando, presión arterial, visión e informe estándar de 30 minutos\r\n4:05:36 - Cambio de comunicación: UHF Hi\r\n4:05:36 - Hora de retrosecuencia para el área de contingencia 3D\r\n4:14:00 - Observar el amanecer\r\n4:15:00 - Comenzar la preparación para el retrofuego\r\n4:18:00 - Prueba oculogírica\r\n4:20:00 - Calentamiento del propulsor\r\n4:21:00 - Cambio de comunicación: UHF Hi\r\n4:22:00 - Lista de verificación preretrofuego\r\n4:22:18 - Hora de retrosecuencia para el área de contingencia 3E\r\n4:30:00 - Listo para controlar la retrosecuencia.\r\n4:32:00 - Retrosecuencia\r\n4:34:00 - Ejercicio y prueba de presión arterial\r\n4:41:00 - Información de salpicadura y recuperación\r\n5:55:43 - Hora de retrosecuencia para el área de contingencia 4",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "flightplan.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Mission Details",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Comandante: John H. Glenn, Jr.\r\nNombre de la cápsula: Friendship 7\r\nCohete: Atlas D\r\nPerfil de la misión: Orbital\r\n\r\n27 de agosto de 1961 - La cápsula llegó a la Estación de la Fuerza Aérea de Cabo Cañaveral, Florida\r\n15 de febrero de 1962 - Revisión de seguridad de vuelo\r\n20 de febrero de 1962 - Lanzamiento\r\nFecha de lanzamiento: 1962-02-20\r\n\r\nInicio de la misión: \r\nT -15 minutos con comprobaciones finales\r\n\r\nAltitud: 162.2 x 100 millas terrestres\r\nInclinación: 32.54\r\nÓrbitas: 3\r\nPeríodo: 88 minutos, 29 segundos\r\nDuración: 0 días, 4 horas, 55 minutos, 23 segundos\r\nDistancia: 75,679 millas terrestres\r\nVelocidad: 17,544 millas por hora",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Notas",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Esta es una misión histórica con el objetivo de recrear la misión lo mejor que pueda dentro de las limitaciones del juego. \r\n\r\nReentry ha diseñado una cápsula genérica con todas las características principales de Mercury. Algunos datos como voltajes, amperios, detalles de trayectoria, etc., pueden diferir del audio. \r\n\r\nComplete la misión principal para desbloquear una versión en vivo de Misión Control donde se han eliminado las comunicaciones de la misión.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Misiones",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/friendship7.json",
+            "Title": "MA-6: Friendship 7",
+            "CampaignProgressInfo": "La misión histórica tal como se voló en la vida real."
+        },
+        {
+            "missionIndex": 1,
+            "Program": 0,
+            "FileName": "Missions/friendship7mcc.json",
+            "Title": "MA-6: Friendship 7 (MCC)",
+            "CampaignProgressInfo": "Esta es una versión de juego libre de la misión diseñada para jugarla por ti mismo o para ser utilizada durante sesiones multijugador en línea habilitadas para el control de misión. Se han eliminado todas las comunicaciones y fallos de la misión."
+        }
+    ],
+    "CompletionMessage": "",
+    "Hidden": true
+}

@@ -1,0 +1,100 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Apollo 16 - Flight Plan Mode",
+    "TileBackgroundImage": "tileBg.png",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 2,
+            "Data": "rntycon_banner.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Welcome to the RNTYCON 2025: The 1.0 Launch Party - an online event for the community and players of REENTRY.\r\n\r\nAs part of this event, the Flight Plan Mode has been enabled to allow you to try out the concept.\r\n\r\nYou should be familiar with the Apollo Command Module before attempting this mission. I recommend you to complete the Apollo Command Module Academy and completed the Campaign.\r\n\r\nI am trying out three different guided Flight Plan modes and during this event, feel free to give them a try and let me know what you like the most. The main difference is how much the mission will hold your hand.",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "WORK IN PROGRESS: This is a Reentry - A Space Flight Simulator 2.0 feature currently in its initial development. I am currently trying to make it possible to reach a similar trajectory to the real Mission, but there will be deviations to the exact events such as for example LOS, AOS and lunar terminators. As the game progresses post 1.0 and towards 2.0, I will strive to improve this. The goal of is not to get it exact, but let you get onto a mission close to the real thing.\n\nThe closer I get to 2.0, the more acurate this mission will become.",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "This mission has been set up to let you fly an Apollo 16 style mission where you start on the PAD for ingress, at the correct time and date for the Apollo 16 launch. The main intent is to let you fly a similar mission without extensive Mission Control / Crew chatter.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Flight Plan Mode",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "The mission has been set up with minimal communication between you and mission control, and behaves more like a free-play mission compared to the Historical missions. Some messages will be communicated to suggest some required precedures, burn parameters, and key mission events. You can choose if you wish to deviate from this or not.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Flight Plan",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "The Mission Pad contains a mission checklist that contains some of the key mission parameters, burn schedules, events etc. You can find this under the Mission Pad -> Checklists -> (AoH) Command Module -> Mission: Mission Details.\r\n\r\nYou can find a link to the Apollo 16 flight plan and other Apollo 16 related documents using the in-game Flight Documents pad (SHIFT+M to toggle). Keep in mind that features such as in-flight EVAs are not supported/simulated.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Missions/MissionChecklists/A16_MissionDetails/1.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "The Apollo 16 mission profile is a lunar mission where the Saturn V inserts the CSM and the LM into orbit. After the TLI burn, the CSM/LM is separated and extracted from the SIVB, before the CSM/LM makes the journey to the Moon. The LM is used to land on the Moon.\r\n\r\nSee below for more details related to the burns. It is not expected to perform any of the MCC burns.\r\n\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Missions/MissionChecklists/A16_MissionDetails/2.png",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Missions/MissionChecklists/A16_MissionDetails/3.png",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Missions/MissionChecklists/A16_MissionDetails/4.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Moon phase: The Moon phase will go from a Waxing crescent (April 16, 11% visibility) to a Full moon (April 27, 100% visibility) during the mission.",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "\r\nNOTE: Use the checklists provided by the in-game Mission Pad, they are based upon the Apollo 15 and Apollo 16 checklists and should be similar to what was used during Apollo 16. Keep in mind that this is my best effort to let you fly a similar trajectory to the real Apollo 16 mission. Deviations from the real mission will happen, but keep in mind that you are flying the mission (avoid trying to follow the exact footsteps) in the environment and events the game provides.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "MISSION",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/mission1.json",
+            "Title": "APOLLO 16 (INGRESS)",
+            "CampaignProgressInfo": "Apollo 16 on the PAD (ingress)."
+        }
+    ],
+    "CompletionMessage": "Congratulations on completing this Flight Plan mission!",
+    "Hidden": true
+}

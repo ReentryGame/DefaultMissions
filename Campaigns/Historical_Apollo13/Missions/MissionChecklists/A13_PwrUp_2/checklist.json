@@ -1,0 +1,1190 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A13_PwrUp_2",
+  "Group": "MISSION",
+  "Name": "A13: CM EI-4+40",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 990000002,
+  "AutoGenerate": true,
+  "checklistText": "ENTRY SEQUENCE\n\nEI-4+40",
+  "Steps": [
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "PERFORM PYRO BATT CHECK STEP 39 E/1-6:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 150,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PyroA_SeqA to Closed (2/150)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 152,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PyroB_SeqB to Closed (2/152)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 2,
+      "ToPosID": 9,
+      "Text": null,
+      "Description": "set DCIndicatorSelector to position 9 (3/2)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Verify volts >35 vdc",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 2,
+      "ToPosID": 10,
+      "Text": null,
+      "Description": "set DCIndicatorSelector to position 10 (3/2)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Verify volts >35 vdc",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 66,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set TVCAC1 to Closed (2/66)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 36,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSAC1 to Closed (2/36)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 37,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSAC2 to Closed (2/37)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 67,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set TVCAC2 to Closed (2/67)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 64,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set DirectUllageMNA to Open (2/64)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 65,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set DirectUllageMNB to Open (2/65)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 38,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set Controller1DirectMNA to Closed (2/38)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 39,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set Controller1DirectMNB to Closed (2/39)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 40,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set Controller2DirectMNA to Closed (2/40)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 41,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set Controller2DirectMNB to Closed (2/41)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 42,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ACRollMNA to Closed (2/42)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 43,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ACRollMNB to Closed (2/43)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 44,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BDRollMNA to Closed (2/44)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 45,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BDRollMNB to Closed (2/45)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 46,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PitchMNA to Closed (2/46)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 47,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PitchMNB to Closed (2/47)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 48,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set YawMNA to Closed (2/48)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 49,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set YawMNB to Closed (2/49)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 172,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ORDEALAC2 to Closed (2/172)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 173,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ORDEALMNB to Closed (2/173)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 54,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ControllerAutoMNA to Closed (2/54)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 55,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ControllerAutoMNB to Closed (2/55)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 128,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic12MNA to Closed (2/128)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 130,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic34MNA to Closed (2/130)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 129,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic12MNB to Closed (2/129)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 131,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSLogic34MNB to Closed (2/131)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 126,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSSystemMNA to Closed (2/126)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 127,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SCSSystemMNB to Closed (2/127)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 68,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set CMHtr1 to Open (2/68)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 69,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set CMHtr2 to Open (2/69)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 56,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set QuadAHeaters to Closed (2/56)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 58,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set QuadCHeaters to Open (2/58)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 57,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set QuadBHeaters to Closed (2/57)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 59,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set QuadDHeaters to Open (2/59)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 52,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PrplntIsolMNA to Closed (2/52)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 53,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PrplntIsolMNB to Closed (2/53)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 50,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set RCSLogicMNA to Closed (2/50)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 51,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set RCSLogicMNB to Closed (2/51)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 132,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set EMSMNA to Open (2/132)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 133,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set EMSMNB to Open (2/133)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 134,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set DockProbeMNA to Closed (2/134)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 135,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set DockProbeMNB to Closed (2/135)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 249,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_GaugingMNA to Open (2/249)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 250,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_GaugingMNB to Open (2/250)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 251,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_GaugingAC1 to Open (2/251)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 252,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_GaugingAC2 to Open (2/252)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 60,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SPSHeVlvMNA to Closed (2/60)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 61,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SPSHeVlvMNB to Closed (2/61)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 253,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_Pitch1BatA to Open (2/253)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 254,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_Pitch2BatB to Open (2/254)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 255,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_Yaw1BatA to Open (2/255)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 256,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P8_SPS_Yaw2BatB to Open (2/256)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 62,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SPSPilotVlvMNA to Closed (2/62)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 63,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SPSPilotVlvMNB to Closed (2/63)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 169,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set EDSBatA to Open (2/169)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 171,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set EDSBatC to Open (2/171)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 170,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set EDSBatB to Open (2/170)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 77,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ELSBatA to Closed (2/77)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 78,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ELSBatB to Closed (2/78)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 168,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set PLVentFLTPL to Open (2/168)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 74,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set FloatBag1 to Open (2/74)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 75,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set FloatBag2 to Open (2/75)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 76,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set FloatBag3 to Open (2/76)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 70,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SeqLogic1 to Closed (2/70)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 71,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set SeqLogic2 to Closed (2/71)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 72,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PyroArmA to Closed (2/72)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 73,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PyroArmB to Closed (2/73)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "CM RCS ACTIVATION STEP 41 E/1-6:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 72,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PyroArmA to Closed (2/72)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 73,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PyroArmB to Closed (2/73)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 160,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SeqLogic1 to Up (1/160)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 161,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SeqLogic2 to Up (1/161)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 162,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set PyroArmA to Up (1/162)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 163,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set PyroArmB to Up (1/163)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 99,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set CMPrplntT1 to Up (1/99)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 100,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set CMPrplntT2 to Up (1/100)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 155,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set CM_RCS_Press to Up (1/155)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 6,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "set RCSIndicatorSelector to position 0 (3/6)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Check for both CM1 and CM2:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "He PRESS, 3300-3500",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "MANF PRESS 287-302 psia",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 162,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set PyroArmA to Down (1/162)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 163,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set PyroArmB to Down (1/163)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "EI-4+30 (do it now):",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Configure for CM RCS hot fire:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 248,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P5_GN_ImuHtr_MNB to Closed (2/248)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 76,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RotCntlPWR_Normal1 to Up (1/76)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 77,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RotCntlPWR_Normal2 to Up (1/77)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 246,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set LogicPower23 to Up (1/246)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 75,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RCSCommand to Up (1/75)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "CM RCS CHECK STEP 4 E/2-1:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 57,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set AutoRCSA1 to Middle (1/57)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 65,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set AutoRCSC1 to Middle (1/65)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 58,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set AutoRCSA2 to Middle (1/58)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 66,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set AutoRCSC2 to Middle (1/66)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 50,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set RCSLogicMNA to Closed (2/50)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 51,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set RCSLogicMNB to Closed (2/51)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 81,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set SCCont to Down (1/81)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 109,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AttManualRoll to Up (1/109)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 110,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AttManualPitch to Up (1/110)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 111,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AttManualYaw to Up (1/111)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 154,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set RCSTransfer to Up (1/154)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 61,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AutoRCSB1 to Up (1/61)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 69,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set AutoRCSD1 to Down (1/69)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 62,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AutoRCSB2 to Up (1/62)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 70,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set AutoRCSD2 to Down (1/70)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 59,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set AutoRCSA3 to Down (1/59)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 67,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AutoRCSC3 to Up (1/67)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 60,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AutoRCSA4 to Up (1/60)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 68,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set AutoRCSC4 to Down (1/68)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 63,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AutoRCSB3 to Up (1/63)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 71,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set AutoRCSD3 to Down (1/71)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 64,
+      "ToPosID": 5,
+      "Text": null,
+      "Description": "set AutoRCSB4 to Down (1/64)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 72,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AutoRCSD4 to Up (1/72)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 44,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set BDRollMNA to Open (2/44)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 46,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set PitchMNA to Open (2/46)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 48,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set YawMNA to Open (2/48)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "LM: Configure for CM RCS HOT FIRE test:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 1,
+      "Type": 1,
+      "SetID": 62,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set AutoRCSB2 to Up (1/62)"
+    },
+    {
+      "Program": 1,
+      "Type": 1,
+      "SetID": 65,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set AutoRCSC1 to Middle (1/65)"
+    },
+    {
+      "Program": 1,
+      "Type": 1,
+      "SetID": 66,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set AutoRCSC2 to Middle (1/66)"
+    },
+    {
+      "Program": 1,
+      "Type": 1,
+      "SetID": 67,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set AutoRCSC3 to Middle (1/67)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "CM: Complete the CM RCS Hotfire check:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "TEST RING 2 THRUSTERS",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 44,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BDRollMNA to Closed (2/44)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 46,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PitchMNA to Closed (2/46)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 48,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set YawMNA to Closed (2/48)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 45,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set BDRollMNB to Open (2/45)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 47,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set PitchMNB to Open (2/47)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 49,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set YawMNB to Open (2/49)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "TEST RING 1 THRUSTERS",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 45,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BDRollMNB to Closed (2/45)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 47,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set PitchMNB to Closed (2/47)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 49,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set YawMNB to Closed (2/49)"
+    },
+    {
+      "Program": 0,
+      "Type": 7,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "",
+      "Description": "Text only"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "CM HOT FIRE RCS check complete",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

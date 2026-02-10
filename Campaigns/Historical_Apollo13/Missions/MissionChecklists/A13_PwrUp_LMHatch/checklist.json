@@ -1,0 +1,166 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A13_PwrUp_LMHatch",
+  "Group": "MISSION",
+  "Name": "A13: LM HATCH",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 990000005,
+  "AutoGenerate": true,
+  "checklistText": "VENT LM HATCH\n\nProcedures in development",
+  "Steps": [
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "The procedures for this is in development.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 27,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set LM_CM_PSI_DiffSelector to position 2 (3/27)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 67,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P326_OxygenSurgeTank to position 1 (3/67)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 41,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P351_MNRegulatorA to position 1 (3/41)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 42,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set P351_MNRegulatorB to position 1 (3/42)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 43,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P351_Regulator to position 2 (3/43)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 44,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P351_Relief to position 2 (3/44)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 45,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "set P351_EmerCabinPSI to position 0 (3/45)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 58,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set P380_DemandReg to position 2 (3/58)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 93,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set XducerPressGroup1MNA to Closed (2/93)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 94,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set XducerPressGroup1MNB to Closed (2/94)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 95,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set XducerPressGroup2MNA to Closed (2/95)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 96,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set XducerPressGroup2MNB to Closed (2/96)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 97,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set XducerTempMNA to Closed (2/97)"
+    },
+    {
+      "Program": 0,
+      "Type": 2,
+      "SetID": 98,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set XducerTempMNB to Closed (2/98)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 16,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set PrimaryRCSGlycolPumps to position 1 (3/16)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "IN DEV: PRESS CLEAR, SKIP THE REST",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "INCR CABIN PRESS TO 5.5 using DIRECT O2",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "VENT TUNNEL TO 3.0 to 3.5 ΔP",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

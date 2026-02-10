@@ -1,0 +1,80 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A11_MissionDetails",
+  "Group": "MISSION",
+  "Name": "MISSION DETAILS",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 100,
+  "AutoGenerate": false,
+  "checklistText": "A11 Mission Flight Plan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "Steps": [],
+  "Images": [
+    {
+      "Name": "1.png",
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "Size": {
+        "x": 690.0,
+        "y": 800.0
+      }
+    },
+    {
+      "Name": "2.png",
+      "Position": {
+        "x": 0.0,
+        "y": 510.0
+      },
+      "Size": {
+        "x": 690.0,
+        "y": 1919.0
+      }
+    },
+    {
+      "Name": "3.png",
+      "Position": {
+        "x": 0.0,
+        "y": 2090.0
+      },
+      "Size": {
+        "x": 690.0,
+        "y": 800.0
+      }
+    },
+    {
+      "Name": "4.png",
+      "Position": {
+        "x": 0.0,
+        "y": 2520.0
+      },
+      "Size": {
+        "x": 690.0,
+        "y": 6000.0
+      }
+    },
+    {
+      "Name": "5.png",
+      "Position": {
+        "x": 0.0,
+        "y": 4520.0
+      },
+      "Size": {
+        "x": 690.0,
+        "y": 6000.0
+      }
+    },
+    {
+      "Name": "6.png",
+      "Position": {
+        "x": 0.0,
+        "y": 7410.0
+      },
+      "Size": {
+        "x": 690.0,
+        "y": 800.0
+      }
+    }
+  ]
+}

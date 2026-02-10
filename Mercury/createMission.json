@@ -1,0 +1,34 @@
+{
+    "BriefingText": "",
+    "Description": "This will load you into the simulator with an empty mission with the Mission Editor open.",
+    "DisableDefaultAudioSFX": false,
+    "FlightPlanPrefabId": 0,
+    "ID": "a2f37eb7-623b-46e6-83a3-1a033efd0502",
+    "Id": 0,
+    "Inclination": 0.0,
+    "InitialTimeToRetrograde": "04:00:00",
+    "LoadState": "stateFilename.json",
+    "MinutesBeforeLaunch": 120.0,
+    "MissionActivities": [],
+    "MissionCommands": [],
+    "MissionGoals": [
+        {
+            "Completed": false,
+            "Description": "Create your mission!",
+            "Progress": null,
+            "String1": "",
+            "String2": "",
+            "Target1": 0.0,
+            "Target2": 0.0,
+            "Target3": 0.0,
+            "Type": 2
+        }
+    ],
+    "Rocket": 0,
+    "ScheduledLaunchTime": "1962-02-20T09:30:30",
+    "SpaceProgram": 0,
+    "StartInOrbit": false,
+    "TargetAp": 0.0,
+    "TargetPe": 0.0,
+    "Title": "CREATE CUSTOM MISSION"
+}

@@ -1,0 +1,78 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Mercury-Redstone 4",
+    "DisplayTitle": "Mercury-Redstone 4",
+    "TileBackgroundImage": "",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "Objetivos de la misión",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "1. Familiarizar al ser humano con una breve pero completa experiencia de vuelo espacial, que incluya el despegue, vuelo impulsado, vuelo en ingravidez (aproximadamente 5 minutos), reentrada y fases de aterrizaje del vuelo.\r\n2. Evaluar la capacidad del ser humano para funcionar como una unidad funcional durante el vuelo espacial, demostrando el control manual de la actitud de la nave espacial antes, durante y después del retrofuego, y mediante el uso de comunicaciones de voz durante el vuelo.\r\n3. Estudiar las reacciones fisiológicas del ser humano durante el vuelo espacial.\r\n4. Calificar la escotilla lateral de salida activada por explosión.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Plan de vuelo",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "00:00 - Despegue\r\n00:30 - Informe de sistemas\r\n01:00 - Informe de sistemas\r\n01:15 - Informe de presión de cabina\r\n01:30 - Informe de sistemas\r\n02:00 - Informe de sistemas\r\n02:23 - Corte de motor del vehículo de lanzamiento y separación de torre, interruptor de desecho retro desactivado\r\n02:33 - Separación de la cápsula del vehículo de lanzamiento\r\n02:38 - Giro de la cápsula a actitud de vuelo en piloto automático\r\n03:00 - Transferencia del control de vuelo del piloto automático al sistema de control manual proporcional, y evaluación del sistema.\r\n04:00 - Giro de la cápsula 45 grados hacia la izquierda usando el horizonte como referencia de actitud\r\n05:10 - Fuego de cohetes de retroceso manualmente\r\n05:35 - Sistema de desecho retro armado, transferencia del control de vuelo del sistema de control manual proporcional al sistema de control por comando de tasa, transmisor de radio cambiado de UHF a HF\r\n06:10 - Descarte del retroempaquetado\r\n06:40 - El periscopio se retrae automáticamente (puede ser más tarde en la reentrada), la cápsula se posiciona en la actitud de reentrada.\r\n07:00 - Las comunicaciones se cambian de vuelta al transmisor UHF\r\n07:46 - Comienza la reentrada\r\n09:41 - Despliegue del paracaídas de drogues, apertura de snorkeles, flujo de oxígeno de emergencia por tasa\r\n10:13 - Despliegue del paracaídas principal de aterrizaje\r\n15:37 - Aterrizaje",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "flightplan.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Mission Details",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Virgil I. \"Gus\" Grissom\r\nNombre de la cápsula: Liberty Bell 7\r\nCohete: Redstone\r\nPerfil de la misión: Suborbital\r\n\r\n7 de marzo de 1961: Cápsula entregada al Hangar S en la Estación Aérea de la Fuerza Aérea de Cabo Cañaveral, Florida\r\n18 de julio de 1961: Fecha original de lanzamiento\r\n19 de julio de 1961: Segundo intento de lanzamiento, cancelado a T-10 minutos debido a condiciones meteorológicas desfavorables\r\nHora programada de lanzamiento: 21 de julio de 1961, 07:20 AM EST\r\nInicio de la cuenta regresiva: 20 de julio de 1961, 6:00 AM EST\r\nIngreso a la cápsula: 21 de julio de 1961, 08:58 UTC\r\nLanzamiento: 21 de julio de 1961 a las 12:20:36 UTC, después de una breve pausa debido a un problema con uno de los 70 pernos de la escotilla.\r\n\r\nInicio de la misión:\r\nT -15 minutos con los últimos chequeos",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Notas",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Esta es una misión histórica con el objetivo de recrear la misión de la mejor manera posible dentro de las limitaciones del juego. \r\n\r\nReentry ha diseñado una cápsula genérica con todas las características principales de Mercury. Algunos datos como voltajes, amperios, detalles de la trayectoria, etc., podrían diferir del audio.\r\n\r\nCompleta la misión principal para desbloquear una versión de Mission Control Live donde las comunicaciones de la misión han sido eliminadas.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "Misiones",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/libertybell7.json",
+            "Title": "MR-4: Liberty Bell 7",
+            "CampaignProgressInfo": "La misión histórica tal como fue realizada en la vida real."
+        },
+        {
+            "missionIndex": 1,
+            "Program": 0,
+            "FileName": "Missions/libertybell7mcc.json",
+            "Title": "MR-4: Liberty Bell 7 (MCC)",
+            "CampaignProgressInfo": "Esta es una versión de juego libre de la misión, diseñada para ser jugada por ti mismo o para ser utilizada durante sesiones multijugador en línea con control de misión habilitado. Todas las comunicaciones de la misión han sido eliminadas."
+        }
+    ],
+    "CompletionMessage": "",
+    "Hidden": true
+}

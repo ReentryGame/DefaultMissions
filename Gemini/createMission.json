@@ -1,0 +1,57 @@
+{
+    "BriefingText": "BRIEFING\r\n\r\nCreate new Gemini mission.",
+    "CoPilot": "Patrick",
+    "Description": "Create new Gemini mission.",
+    "FlightPlanPrefabId": 0,
+    "Id": 99,
+    "Inclination": 28.91,
+    "InitialTimeToRetrograde": "05:40:00",
+    "MinutesBeforeLaunch": 500.0,
+    "MissionActivities": [],
+    "MissionCommands": [
+        {
+            "Action": 0,
+            "Bool1": false,
+            "ButtonId": 0,
+            "Completed": false,
+            "ComputerMode": 0,
+            "Delivered": false,
+            "DisplayTime": 3.0,
+            "Fault": 0,
+            "From": 1,
+            "GaugeId": 0,
+            "KnobID": 0,
+            "Message": "Use the mission editor to create a mission. Should be open by default. If you close it, you can re-open it from the In-Game (ESC) menu.",
+            "PinID": 0,
+            "PinPosition": 0,
+            "String1": null,
+            "String2": null,
+            "String3": null,
+            "ThresholdLimit": 0.0,
+            "Timestamp": 0.0,
+            "Value1": 0.0,
+            "Value2": 0.0,
+            "Value3": 0.0
+        }
+    ],
+    "MissionGoals": [
+        {
+            "Completed": false,
+            "Description": "Splashdown",
+            "Priority": false,
+            "Progress": null,
+            "String1": null,
+            "String2": null,
+            "Target1": 0.0,
+            "Target2": 0.0,
+            "Target3": 0.0,
+            "Type": 2
+        }
+    ],
+    "ScheduledLaunchTime": "1965-05-23T16:24:00",
+    "SpaceProgram": 1,
+    "StartInOrbit": false,
+    "TargetAp": 224.0,
+    "TargetPe": 161.0,
+    "Title": "Create Gemini Mission"
+}

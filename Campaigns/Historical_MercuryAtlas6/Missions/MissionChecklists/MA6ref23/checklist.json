@@ -1,0 +1,110 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref23",
+  "Group": "MISSION",
+  "Name": "REF 23 - Day/Night Horizon",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999023,
+  "AutoGenerate": false,
+  "checklistText": "REFERENCE NO. 23\nDay and Night Horizon Check\n\nPURPOSE\nTo determine the ability of the astronaut to control the attitude \rof the spacecraft using the horizon as a control reference under day and night conditions.\r\n\nPROCEDURE\n1. Switch to manual proportional control\r\n2. Aline the spacecraft to orbit attitude on the instruments\n3. Pitch up to -14° (window reference)\r\n4. Return pitch to orbit (window reference)\n5. Roll right 20° (window reference)\n6. Return to orbit attitude (window reference)\n7. Yaw left 20° (window reference)\r\n8. Return to orbit attitude (window reference)\r\n\nNOTE: Very low spacecraft rates to be used at all times.",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Switch to manual proportional control\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 3,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ManualControl to position Out (5/3)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 12,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ASCSMode to Middle (1/12)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 13,
+      "ToPosID": 3,
+      "Text": null,
+      "Description": "set ASCSAuto to Right (1/13)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "NOTE: Very low spacecraft rates to be used at all times",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Align to 0 yaw, 0 roll, -34 pitch",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Pitch up to -14° (window reference)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Return pitch to orbit (window reference)\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Roll right 20° (window reference)\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Return to orbit attitude (window reference)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Yaw left 20° (window reference)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Return to orbit attitude (window reference)",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

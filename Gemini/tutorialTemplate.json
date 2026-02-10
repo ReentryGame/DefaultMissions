@@ -1,0 +1,56 @@
+{
+    "BriefingText": "BRIEFING",
+    "CoPilot": "Patrick",
+    "Description": null,
+    "FlightPlanPrefabId": 0,
+    "Id": 103,
+    "Inclination": 32.5,
+    "InitialTimeToRetrograde": "01:00:00",
+    "MinutesBeforeLaunch": 0.0,
+    "MissionActivities": [],
+    "MissionCommands": [
+        {
+            "Action": 0,
+            "Bool1": false,
+            "ButtonId": 0,
+            "Completed": false,
+            "ComputerMode": 0,
+            "Delivered": false,
+            "DisplayTime": 3.0,
+            "Fault": 0,
+            "From": 2,
+            "GaugeId": 0,
+            "KnobID": 0,
+            "Message": "Hey",
+            "PinID": 0,
+            "PinPosition": 0,
+            "String1": null,
+            "String2": null,
+            "String3": null,
+            "ThresholdLimit": 0.0,
+            "Timestamp": 0.0,
+            "Value1": 0.0,
+            "Value2": 0.0,
+            "Value3": 0.0
+        }
+    ],
+    "MissionGoals": [
+        {
+            "Completed": false,
+            "Description": "Complete the lesson.",
+            "Progress": null,
+            "String1": null,
+            "String2": null,
+            "Target1": 0.0,
+            "Target2": 0.0,
+            "Target3": 0.0,
+            "Type": 2
+        }
+    ],
+    "ScheduledLaunchTime": "1965-03-24T17:00:14",
+    "SpaceProgram": 1,
+    "StartInOrbit": true,
+    "TargetAp": 224.0,
+    "TargetPe": 161.0,
+    "Title": "Tutorial 4 - Navigation & Control"
+}

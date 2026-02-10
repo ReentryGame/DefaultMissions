@@ -1,0 +1,102 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref16",
+  "Group": "MISSION",
+  "Name": "REF 16 - Occulogyric Test",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999016,
+  "AutoGenerate": false,
+  "checklistText": "REFERENCE NO. 16\n\rOcculogyric Test Procedure\n\nPURPOSE\nTo determine the vestibular effects of weightlessness.\n\nPROCEDURE\n1. Announce test for tape recorder.\n\n2. Switch to FBW control mode.\n\n3. Observe cross made by rate needles on rate and attitude \rindicator.\n\n4. Apply left roll command of 2°/sec using low thrust FBW for\r 4 seconds.\r\n\n5. Observe movement of cross and give mark when motion stops.\r\n\n6. Apply right roll command of 2°/sec using low thrust FBW for\r 4 seconds.\n\n7. Observe movement of cross and give mark when motion stops.\n\n8. Apply right roll command of 2°/sec using low thrust FBW for\r 4 seconds.\n\n9. Observe movement of cross and give mark when motion stops.\n\n10. Apply left roll command of 2°/sec using low thrust FBW for\r 4 seconds.\n\n11. Observe movement of cross and give mark when motion stops.\n\n12. Damp all residual rates to zero, and reorientate spacecraft to\r orbit attitude.\n\nNOTE: \n(a) The ground station should continuously monitor attitude\r during this maneuver.\n\n(b) If the roll attitude exceeds ±45° the ground is to communicate this to the spacecraft and also report each 2° over ±45°.",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 12,
+      "ToPosID": 3,
+      "Text": null,
+      "Description": "set ASCSMode to Right (1/12)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Observe cross made by rate needles",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Apply left roll command of 2°/sec for 4 seconds",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Observe movement of cross",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Apply right roll command of 2°/sec for 4 seconds",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Observe movement of cross",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Apply right roll command of 2°/sec for 4 seconds",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Observe movement of cross",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Apply left roll command of 2°/sec for 4 seconds",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Observe movement of cross",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Damp all residual rates to zero, and reorientate spacecraft to\r orbit attitude.\r\n",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

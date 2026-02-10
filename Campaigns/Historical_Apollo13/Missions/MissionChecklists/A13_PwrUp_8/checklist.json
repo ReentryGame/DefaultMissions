@@ -1,0 +1,78 @@
+{
+  "Spacecraft": 0,
+  "ProjectName": "A13_PwrUp_8",
+  "Group": "MISSION",
+  "Name": "A13: CM EI-30",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 990000009,
+  "AutoGenerate": true,
+  "checklistText": "ENTRY SEQUENCE\n\nEI-30:",
+  "Steps": [
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 14,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set BMAGPWR2 to position 2 (3/14)"
+    },
+    {
+      "Program": 0,
+      "Type": 3,
+      "SetID": 4,
+      "ToPosID": 3,
+      "Text": null,
+      "Description": "set FDAIPowerSelector to position 3 (3/4)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 160,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SeqLogic1 to Up (1/160)"
+    },
+    {
+      "Program": 0,
+      "Type": 1,
+      "SetID": 161,
+      "ToPosID": 4,
+      "Text": null,
+      "Description": "set SeqLogic2 to Up (1/161)"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "ACTIVATE PRIMARY EVAPORATOR",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Key V37E 61E",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "GO TO ENTRY CHECKLIST E/2-2 (P61)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 0,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "Follow the normal entry checklist and procedure, skip excess items.",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

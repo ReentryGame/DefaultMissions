@@ -1,0 +1,277 @@
+﻿{
+  "BriefingText": "TÁJÉKOZTATÓ",
+  "Description": "asdfsdf",
+  "FlightPlanPrefabId": 0,
+  "Id": 99,
+  "Inclination": 33.0,
+  "InitialTimeToRetrograde": "01:00:00",
+  "MinutesBeforeLaunch": 5.0,
+  "MissionActivities": [
+    {
+      "Cancelled": false,
+      "Completed": false,
+      "Description": "A 60°-os perdülési manőver arra szolgál, hogy a periszkópot oldalazási referenciaként ellenőrizzék, amikor nagy szöghibák állnak fenn.",
+      "Points": 10,
+      "Started": false,
+      "Steps": [
+        {
+          "Completed": false,
+          "Description": "Kapcsoljon át a fly-by-wire vezérlőrendszerre.",
+          "FlightMode": 2,
+          "Goal": 3,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Állítson be alacsony sebességű (2°/sec) oldalazást jobbra.",
+          "FlightMode": 0,
+          "Goal": 6,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 2.0
+        },
+        {
+          "Completed": false,
+          "Description": "Hagyja sodródni az űrhajót, amíg az oldalazási szög eléri a hozzávetőlegesen 60°-ot.",
+          "FlightMode": 0,
+          "Goal": 0,
+          "Progress": null,
+          "Value1": 60.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Stabilizálja az űrhajó sebességeit nullára.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 5.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Figyelje meg a földi nyomvonal mozgását a periszkópon keresztül, mind alacsony, mind magas nagyításon.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Indítson egy alacsony, balra irányuló oldalazó mozgást, és stabilizálja az űrhajót 0°-os oldalazás, 0°-os orsó, és -34°-os bólintás helyzetben. Használja referenciaként a periszkópot.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 60.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Rögzítse a manőver eredményeit a Jegyzetekbe, térjen vissza keringési helyzetbe.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        }
+      ],
+      "TimeLimit": 400.0,
+      "Title": "60°-os perdülési manőver"
+    },
+    {
+      "Cancelled": false,
+      "Completed": false,
+      "Description": "Annak meghatározása, hogy az űrhajós képes-e az űrhajó helyzetét a horizontot irányítási referenciaként használva, nappali és éjszakai körülmények között irányítani.",
+      "Points": 10,
+      "Started": false,
+      "Steps": [
+        {
+          "Completed": false,
+          "Description": "Kapcsoljon kézi arányos vezérlésre.",
+          "FlightMode": 4,
+          "Goal": 3,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Igazítsa az űrhajót keringési helyzetbe a műszereken (-34,0,0).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Bólintás fel -14°-ra (ablak referencia).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Bólintás visszaállítása pályamenti helyzetbe (ablak referencia).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Dőlés jobbra 20° (ablak referencia).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Visszatérés a keringési helyzetbe (ablak referencia).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Oldalazás balra 20° (ablak referencia).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "Visszaállás keringési helyzetbe (ablak referencia).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        }
+      ],
+      "TimeLimit": 300.0,
+      "Title": "Nappali Horizont Ellenőrzés"
+    }
+  ],
+  "MissionCommands": [
+    {
+      "Action": 0,
+      "Bool1": false,
+      "Completed": false,
+      "Delivered": false,
+      "DisplayTime": 3.0,
+      "Fault": 0,
+      "From": 1,
+      "FuseID": 0,
+      "KnobID": 0,
+      "Message": "Repülési üzemmódok tesztelése",
+      "PinID": 0,
+      "PinPosition": 0,
+      "PullHandleID": 0,
+      "PullHandlePosition": 0,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 0.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    },
+    {
+      "Action": 1004,
+      "Bool1": false,
+      "Completed": false,
+      "Delivered": false,
+      "DisplayTime": 3.0,
+      "Fault": 1,
+      "From": 1,
+      "FuseID": 0,
+      "KnobID": 0,
+      "Message": "Oldalazási üzemzavar MEGKEZDŐDÖTT!",
+      "PinID": 0,
+      "PinPosition": 0,
+      "PullHandleID": 0,
+      "PullHandlePosition": 0,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 3.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    },
+    {
+      "Action": 0,
+      "Bool1": false,
+      "Completed": false,
+      "Delivered": false,
+      "DisplayTime": 3.0,
+      "Fault": 0,
+      "From": 1,
+      "FuseID": 0,
+      "KnobID": 0,
+      "Message": "KÉSZ!",
+      "PinID": 0,
+      "PinPosition": 0,
+      "PullHandleID": 0,
+      "PullHandlePosition": 0,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 6.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    }
+  ],
+  "MissionGoals": [
+    {
+      "Completed": false,
+      "Description": "vízre szállás az óceánban",
+      "Progress": null,
+      "String1": null,
+      "String2": null,
+      "Target1": 0.0,
+      "Target2": 0.0,
+      "Target3": 0.0,
+      "Type": 2
+    }
+  ],
+  "Rocket": 1,
+  "ScheduledLaunchTime": "2018-05-02T01:00:32",
+  "SpaceProgram": 0,
+  "StartInOrbit": true,
+  "TargetAp": 150.0,
+  "TargetPe": 150.0,
+  "Title": "Repülési üzemmódok tesztelése"
+}

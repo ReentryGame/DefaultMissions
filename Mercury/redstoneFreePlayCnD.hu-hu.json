@@ -56,7 +56,7 @@
   "Id": 96,
   "ID": "fad7d6d5-c19a-4a44-92c0-8d0464c647f5",
   "Title": "MERCURY-REDSTONE (C&D) - Szabad játék",
-  "Description": "Lépjen be a MERCURY-REDSTONE rakétával egy nyitott világba, hozzárendelt küldetés nélkül. A küldetés T-90-nél kezdődik, a kapszula pedig egy *cold & dark* panelállapotra van beállítva.",
+  "Description": "Lépjen be a MERCURY-REDSTONE rakétával egy nyitott világba, hozzárendelt küldetés nélkül. A küldetés T-90-nél kezdődik, a kapszula pedig egy cold & dark panelállapotra van beállítva.",
   "BriefingText": "TÁJÉKOZTATÓ\r\n\r\nNincs megbízatás, jó repülést.",
   "FlightPlanPrefabId": 0,
   "MinutesBeforeLaunch": 90.0,

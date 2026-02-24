@@ -91,7 +91,7 @@
     {
       "Cancelled": false,
       "Completed": false,
-      "Description": "Annak meghatározása, hogy az űrhajós képes-e az űrhajó helyzetét a horizontot irányítási referenciaként használva, nappali és éjszakai körülmények között irányítani.",
+      "Description": "Annak meghatározása, hogy az űrhajós képes-e a kabin helyzetét a horizontot irányítási referenciaként használva, nappali és éjszakai körülmények között irányítani.",
       "Points": 10,
       "Started": false,
       "Steps": [

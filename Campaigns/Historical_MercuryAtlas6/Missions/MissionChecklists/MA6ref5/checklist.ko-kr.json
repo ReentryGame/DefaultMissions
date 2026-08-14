@@ -1,0 +1,142 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref5",
+  "Group": "MISSION",
+  "Name": "REF 5 - 요 기동",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999005,
+  "AutoGenerate": false,
+  "checklistText": "참조 번호 5\n\n요 기동 점검\n\n목적\n요 기동은 큰 각도 오차가 있을 때 잠망경을 요 \r기준으로 점검하는 데 사용됩니다.\n\n절차\n1. 필요시 플라이 바이 와이어(fly-by-wire) 제어 시스템으로 전환하세요\r\n\n2. 낮은 우측 요(1°~2°/sec) 속도를 설정하세요.\n\n3. 요 각도가 약 60°가 될 때까지 우주선이 표류하도록 두세요.\r\n\n4. 우주선의 속도를 0으로 안정화하세요.\n\n5. 잠망경을 통해 지상 궤적의 움직임을 관찰하세요 \r저배율과 고배율 모두에서.\r\n\n6. 낮은 좌측 요 움직임을 설정하고 우주선 \r자세를 0° 요, 0° 롤, -34° 피치로 안정화하세요. 잠망경을 \r기준으로 사용하세요.\n\n7. 기동 결과를 기록하세요.\n\n\n",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 5,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set PitchLock to position In (5/5)"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 6,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set YawLock to position In (5/6)"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 4,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set RollLock to position In (5/4)"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 3,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set ManualControl to position In (5/3)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 13,
+      "ToPosID": 1,
+      "Text": null,
+      "Description": "set ASCSAuto to Left (1/13)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 12,
+      "ToPosID": 3,
+      "Text": null,
+      "Description": "set ASCSMode to Right (1/12)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "낮은 우측 요(1°~2°/sec) 속도를 설정하세요.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "60° 요까지 표류하세요.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "속도를 0으로 안정화하세요.\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "잠망경을 저배율로 설정하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "잠망경을 통해 지상 궤적의 움직임을 관찰하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "잠망경을 고배율로 설정하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "잠망경을 통해 지상 궤적의 움직임을 관찰하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "낮은 좌측 요(1°~2°/sec) 속도를 설정하세요.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "자세를 0° 요, 0° 롤, -34° 피치로 안정화하세요.",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "[목표 자세에 도달했습니다]",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

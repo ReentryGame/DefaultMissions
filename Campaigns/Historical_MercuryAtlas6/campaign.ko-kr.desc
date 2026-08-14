@@ -1,0 +1,78 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Mercury-Atlas 6",
+    "DisplayTitle": "머큐리-아틀라스 6",
+    "TileBackgroundImage": "",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "미션 목표",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "1. 3회 궤도 비행 미션에서 우주비행사-우주선 시스템의 성능을 평가한다.\r\n\r\n2. 우주 비행이 우주비행사에게 미치는 영향을 평가한다.\r\n\r\n3. 유인 우주 비행을 위한 우주선 및 지원 시스템의 운용 적합성에 대한 우주비행사의 평가를 확보한다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "비행 계획",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "참고: 미션 진행 중에는 필요에 따라 자유롭게 비행 모드를 변경하고 관찰하세요.\r\n\r\n0:00:00 리프트오프\r\n0:00:30 보고: 연료, 선실 압력, O2, 전류\r\n0:01:00 보고: 연료, 선실 압력, O2, 전류, 타워 진동\r\n0:01:30 보고: 연료, 선실 압력, O2, 전류\r\n0:02:00 보고: 연료, 선실 압력, O2, 전류\r\n0:02:11 BECO: BECO 및 본인 상태 보고\r\n0:02:34 타워 분리: 타워 분리 정상(green), Auto Retro Jett – off, Retro Jett Fuse Switch – off 보고\r\n0:03:00 보고: 연료, 선실 압력 유지 중, O2, 전류\r\n0:03:30 보고: 연료, 선실 압력, O2, 전류, 전압 점검 완료\r\n0:04:00 보고: 연료, 선실 압력 유지 중, O2, 전류\r\n0:04:20 보고: 관제 센터 “Go”\r\n0:04:30 보고: 연료, 선실 압력 유지 중, O2, 전류, 시스템 “Go” 점검, 우주비행사 “Go”\r\n0:05:05 캡슐 분리, 반전 완료: 캡슐 분리 정상(green), Aux Damp 정상, 잠망경 전개, 반전 시작, ASCS 정상, 전기 시스템 점검, 텀블링 감각\r\n0:06:15 BDA 인계(궤도 자세)\r\n  1. 역분사 시퀀스 시각 1B, 1궤도 및 3궤도를 확인하고 탑재 차트와 역분사 시각을 대조한다.\r\n  2. CET 시계와 손목시계를 확인한다.\r\n  3. BDA: 음성 명령 카운트를 알려준다.\r\n  4. A: 부스터 움직임, 초기 0중력 감각을 보고한다.\r\n0:06:15 (가능한 즉시) 제어 시스템 점검(REFERENCE NO. 4)\r\n0:10:00 통신 변경: BDA 통신 두절(LOS) 시 우주비행사는 HF로 전환한다.\r\n0:14:00 통신 변경: BDA 또는 CYI와의 HF 점검 완료 후 우주비행사는 UHF Hi로 전환한다.\r\n0:16:30 관측 및 혈압: 우주선이 아프리카 해안에 접근 중이다. (REFERENCE NO. 21)\r\n0:18:00 관측: 우주비행사가 해안 통과 지점을 표시한다.\r\n0:21:00 통신 변경: UHF Lo\r\n0:24:00 요(yaw) 기동(REFERENCE NO. 5)\r\n0:28:00 ASCS 점검, 다크사이드 점검(REFERENCE NO. 14)\r\n0:30:00 30분 보고(REFERENCE NO. 11)\r\n0:33:48 비상 지역 1C 역분사 시각\r\n0:36:00 일몰 관측\r\n0:43:00 야간 수평선 점검\r\n0:44:00 IOS에서 조명탄 점화\r\n0:51:00 ASCS로 전환, 관측(REFERENCE NO. 18,20,21)\r\n0:51:54 비상 지역 1D 역분사 시퀀스 시각\r\n0:56:20 30분 보고(REFERENCE NO. 11)\r\n1:03:30 통신 변경: HF\r\n1:04:00 전 지상국 HF 점검\r\n1:10:00 별 항법(REFERENCE NO. 18)\r\n1:12:00 첫 식사\r\n1:16:18 비상 지역 1E 역분사 시퀀스 시각\r\n1:24:00 일출 관측\r\n1:25:00 통신 변경: UHF Hi\r\n1:27:00 Go-No Go 결정\r\n1:29:06 비상 지역 F 역분사 시퀀스 시각\r\n1:34:00 30분 보고\r\n1:37:00 2궤도 시작\r\n1:37:00 비상 지역 2A 역분사 시퀀스 시각\r\n1:41:00 안구운동성 검사(Occulogyric test)\r\n1:43:00 통신 변경: HF\r\n1:44:00 전 지상국 HF 점검\r\n1:47:30 통신 변경: UHF Hi\r\n1:49:00 주간 수평선 점검(REFERENCE NO. 23)\r\n1:51:06 비상 지역 2B 역분사 시퀀스 시각\r\n1:54:00 180° 요(yaw) 기동\r\n1:55:00 다크사이드 진입 전 점검\r\n2:01:00 30분 정기 보고\r\n2:04:00 일몰 관측\r\n2:07:36 비상 지역 2C 역분사 시퀀스 시각\r\n2:14:00 IOS 조명탄 관측\r\n2:17:00 별 추적\r\n2:24:00 야간 도시 관측\r\n2:28:54 비상 지역 2D 역분사 시퀀스 시각\r\n2:29:00 혈압, 시력, 30분 정기 보고\r\n2:35:00 통신 변경: HF\r\n2:37:00 야간 관측 및 별 추적\r\n2:44:00 통신 변경: UHF Hi\r\n2:45:00 식사\r\n2:46:00 일출 관측\r\n2:49:18 비상 지역 2E 역분사 시퀀스 시각\r\n2:58:00 Go-No Go 결정\r\n3:00:48 비상 지역 G 역분사 시퀀스 시각\r\n3:07:00 혈압, 시력, 30분 정기 보고\r\n3:10:30 비상 지역 3A 역분사 시퀀스 시각\r\n3:16:30 통신 변경: HF\r\n3:23:48 비상 지역 3B 역분사 시퀀스 시각\r\n3:25:00 통신 변경: UHF Hi\r\n3:25:00 혈압, 시력, 30분 정기 보고\r\n3:25:00 다크사이드 진입 전 점검\r\n3:33:00 일몰 관측\r\n3:33:30 통신 변경: HF\r\n3:41:00 비상 지역 3C 역분사 시퀀스 시각\r\n3:46:00 통신 변경: UHF Hi\r\n3:56:00 커맨드 음성 점검, 혈압, 시력, 30분 정기 보고\r\n4:05:36 통신 변경: UHF Hi\r\n4:05:36 비상 지역 3D 역분사 시퀀스 시각\r\n4:14:00 일출 관측\r\n4:15:00 역분사 준비 시작\r\n4:18:00 안구운동성 검사(Occulogryic test)\r\n4:20:00 추력기 예열\r\n4:21:00 통신 변경: UHF Hi\r\n4:22:00 역분사 전 체크리스트\r\n4:22:18 비상 지역 3E 역분사 시퀀스 시각\r\n4:30:00 역분사 시퀀스 제어 준비 완료.\r\n4:32:00 역분사 시퀀스\r\n4:34:00 운동 및 혈압 테스트\r\n4:41:00 착수 및 회수 정보\r\n5:55:43 4궤도 역분사 시퀀스 시각",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "flightplan.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션 세부사항",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "선장: John H. Glenn, Jr.\r\n캡슐명: Friendship 7\r\n부스터: Atlas D\r\n미션 프로필: 궤도\r\n\r\n1961년 8월 27일 – 캡슐이 플로리다주 케이프 커내버럴 공군기지에 도착\r\n1962년 2월 15일 – 비행 안전 검토\r\n1962년 2월 20일 – 발사\r\n발사일: 1962-02-20\r\n\r\n미션 시작:\r\nT -15분, 최종 점검과 함께\r\n\r\n고도: 162.2 x 100 mi\r\n궤도 경사각: 32.54\r\n궤도 수: 3\r\n주기: 88분 29초\r\n소요 시간: 0일 4시간 55분 23초\r\n비행 거리: 75,679 mi\r\n속도: 시속 17,544 mi",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "중요",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "미션 커맨드(Mission Commands)에서 지시하지 않는 한 체크리스트를 RUN하지 마세요. 미션 커맨드가 필요한 모든 과정을 안내해 드립니다. 이 미션은 게임의 한계 내에서 최대한 실제 미션을 재현하고자 하는 역사 미션입니다. \r\n\r\nReentry는 머큐리의 주요 특징을 모두 갖춘 범용 캡슐을 설계했습니다. 전압, 전류, 궤적 세부사항 등 일부 수치는 실제 음성 기록과 다를 수 있습니다.\r\n\r\n메인 미션을 완료하면 미션 교신이 제거된 미션 컨트롤 라이브(Mission Control Live) 버전이 잠금 해제됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/friendship7.json",
+            "Title": "MA-6: Friendship 7",
+            "CampaignProgressInfo": "The historical mission as flown in real life."
+        },
+        {
+            "missionIndex": 1,
+            "Program": 0,
+            "FileName": "Missions/friendship7mcc.json",
+            "Title": "MA-6: Friendship 7 (MCC)",
+            "CampaignProgressInfo": "This is a free play version of the mission designed to either be played by yourself, or to be used during online mission control enabled multiplayer sessions. All mission comms and failures has been removed."
+        }
+    ],
+    "CompletionMessage": "",
+    "Hidden": true
+}

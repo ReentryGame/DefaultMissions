@@ -1,0 +1,73 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Gemini-Titan 3",
+    "DisplayTitle": "제미니-타이탄 3",
+    "TileBackgroundImage": "",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "미션 목표",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "주요 목표\r\n1. 제미니 우주선을 이용한 유인 궤도 비행을 시연하고, 향후 유인 미션을 위해 우주선 및 발사체 시스템의 자격을 추가로 검증한다. \r\n\r\n2. 우주선 및 승무원을 대상으로 전 세계 추적망의 운용을 시연하고 평가한다. \r\n\r\n3. 제미니 설계와 그것이 승무원 성능에 미치는 영향을 평가한다. \r\n\r\n4. 궤도 자세 및 기동 시스템(Orbital Attitude and Maneuver System, OAMS)을 사용해 궤도상 우주선을 기동하는 능력을 시연하고 평가한다.\r\n\r\n5. 재진입 비행 경로와 착륙 지점을 제어하는 능력을 시연한다. \r\n\r\n6. 다음 우주선 시스템의 성능을 평가한다:\r\na. 승무원석 제어장치 및 표시장치\r\nb. 환경 제어\r\nc. 제미니 우주복\r\nd. 유도 및 제어\r\ne. 전력 및 시퀀스\r\nf. 추진\r\ng. 통신 및 추적\r\nh. 파이로테크닉\r\ni. 계측\r\nj. 식량, 물, 폐기물 관리\r\nk. 착륙 및 회수\r\n\r\n7. 유인 우주선의 시스템 점검, 발사 전 및 발사 절차를 시연한다.\r\n\r\n8. 우주선을 회수하고 회수 시스템을 평가한다.\r\n\r\n\r\n부차적 목표\r\n1. 다음 우주선 시스템을 평가한다:\r\na. 우주비행사 장비\r\nb. 생체 계측\r\nc. 개인 위생\r\n\r\n2. 다음 실험을 수행한다:\r\na. 성게 알 성장 실험\r\nb. 방사선 및 무중력이 혈액에 미치는 영향\r\nc. 재진입 통신\r\n\r\n3. 궤도상에서 일반적인 사진 촬영을 수행한다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "비행 계획",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "flightplan.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션 세부사항",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "선장: Gus Grissom\r\n조종사: John Young\r\n캡슐명: The Molly Brown\r\n발사체: Titan II\r\n발사일: 1965-03-23\r\n발사장: 미국 케이프 커내버럴\r\n\r\n미션 시작:\r\nT -15분, 최종 점검과 함께\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "중요",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "미션 커맨드(Mission Commands)에서 지시하지 않는 한 체크리스트를 RUN하지 마세요. 미션 커맨드가 필요한 모든 과정을 안내해 드립니다. 이 미션은 게임의 한계 내에서 최대한 실제 미션을 재현하고자 하는 역사 미션입니다. \r\n\r\nReentry는 제미니의 주요 특징을 모두 갖춘 범용 캡슐을 설계했습니다. 전압, 전류, 궤적 세부사항 등 일부 수치는 실제 음성 기록과 다를 수 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 1,
+            "FileName": "Missions/gt3.json",
+            "Title": "Gemini-Titan 3",
+            "CampaignProgressInfo": "The first Gemini mission."
+        },
+        {
+            "missionIndex": 1,
+            "Program": 1,
+            "FileName": "Missions/gt3-stripped.json",
+            "Title": "Gemini-Titan 3 (NO COMMs) ",
+            "CampaignProgressInfo": "This is a free play version of the mission designed to be played by yourself while manually following the flight plan. All mission comms & failures has been removed."
+        }
+    ],
+    "CompletionMessage": "",
+    "Hidden": true
+}

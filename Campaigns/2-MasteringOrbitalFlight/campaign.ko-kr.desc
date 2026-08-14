@@ -1,0 +1,114 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "ID": "1aaa781c-097f-4ba4-9f0d-f7184e100407",
+    "Title": "Campaign 2: Mastering Orbital Flight",
+    "DisplayTitle": "캠페인 2: 궤도 비행 마스터하기",
+    "TileBackgroundImage": "tileBg.png",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "새로운 목적지",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "미국과 소련 사이의 우주 경쟁은 여전히 치열하며, 소련이 미국보다 더 많은 최초 기록을 세우고 있습니다. 우리는 추격하는 입장입니다. Vostok과 소련의 신형 우주선 \"Voskhod\" 모두 최장 궤도 체류 시간, EVA, 다인승 우주 비행 등에서 빠른 속도로 최초 기록을 세우고 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "머큐리 프로젝트가 진행되는 동안, 대통령은 우주비행사를 달에 착륙시키겠다는 목표를 발표했습니다. 이 목표를 달성하기 위해 \"아폴로 프로젝트\"라는 새로운 프로그램의 개발이 시작되었습니다.\r\n\r\n머큐리 프로젝트는 우주비행사를 지구 궤도로 보내고 안전하게 지구로 귀환시킨다는 목표를 성공적으로 달성했습니다. 이 성공을 바탕으로, 궤도 비행이 작동하는 방식을 더 깊이 배우고 이해하기 위한 새로운 우주선이 개발되었습니다. 이 프로그램의 이름은 \"제미니 프로젝트\"입니다.\r\n\r\n누군가를 달에 보내기 전에, 그러기 위해 필요한 모든 것을 배우고 시험해야 합니다. 제미니의 목표는 우주비행사를 달에 착륙시키는 아폴로 미션을 뒷받침하는 데 필요한 우주 비행 기술을 이해하고 시험하는 것입니다.\r\n\r\n달 미션을 수행하려면 최대 14일간 우주에서 생존하는 방법, 선외활동(EVA) 수행 방법, 그리고 다른 우주선과 랑데부하고 도킹하는 데 필요한 궤도 기동을 이해해야 합니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "우주선",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "제미니 우주선은 두 명의 우주비행사를 위한 공간을 갖춘 더 큰 우주선으로, 우주에서 궤도를 변경하는 능력을 갖추고 있습니다. 이 더 큰 우주선은 재진입 모듈, 역추진 모듈, 장비 모듈이라는 세 개의 주요 섹션으로 나뉩니다. 역추진 모듈과 장비 모듈은 재진입 전에 우주선에서 분리됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Gemini_spacecraft.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "재진입 모듈",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "재진입 모듈은 우주에서 생존을 가능하게 하는 가압된 승무원 선실입니다. 발사부터 착수까지 전체 여정을 함께하는 유일한 부분입니다.\r\n\r\n두 가지 서로 다른 전력원으로 구동됩니다. 머큐리 프로젝트와 마찬가지인 배터리, 그리고 극저온 물질로 전력을 생산하는 새로 개발된 연료전지(Fuel Cells)입니다.\r\n\r\nRCS라고 불리는 두 개의 자세 제어 시스템이 재진입 중 자세 제어에 사용됩니다.\r\n\r\n최신 온보드 컴퓨터(OBC)가 승무원의 궤도 기동 및 유도를 돕습니다. 두 종류의 조이스틱으로 우주선의 요, 피치, 롤은 물론 병진 축(전방, 후방, 상, 하, 좌우)까지 제어할 수 있습니다. 병진 제어를 통해 랑데부, 도킹, 그리고 승무원의 비행 경로 제어가 가능합니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "어댑터 모듈",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "어댑터 모듈은 역추진 모듈과 장비 모듈로 구성됩니다.\r\n\r\n장비 모듈에는 궤도 비행 중 필요한 대부분의 장비가 들어 있습니다. 자세 및 병진 제어에 사용되는 16개의 추진기가 이곳에 위치하며, 연료전지와 극저온 물질도 마찬가지입니다.\r\n\r\n네 개의 고체연료 역추진 로켓은 재진입 모듈에 위치하며, 머큐리 프로젝트와 마찬가지로 하나씩 점화됩니다.\r\n\r\n장비 모듈은 궤도상에서 우주선에 전력을 공급하며, 역행(retrograde) 연소 전에 분리됩니다. 역행 연소 이후에는 역추진 섹션이 진입 전에 투기됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "아카데미",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "머큐리 프로젝트에서의 영웅적인 활약 이후, 전 세계 언론이 당신의 이름을 지면에 실었습니다. 우주선에 대한 당신의 기술과 지식이 성공의 핵심이었으며, 안전한 진입과 참사 사이의 차이를 만들어냈습니다. 제미니 프로젝트에는 당신의 베테랑 실력이 필요하며, 이번에는 자신의 승무원을 둔 선장이 됩니다. 비행 승무원 운영 책임자인 Martin이 신입 우주비행사인 Aaron Skye를 당신의 부조종사로 배정했습니다.\r\n\r\n첫 제미니 비행에 나서기 전에, 다시 아카데미를 방문해 제미니 자격증을 취득할 때입니다. 제미니 아카데미는 메인 메뉴의 \"ACADEMY\" 섹션에서 찾을 수 있으며, 이 완전히 새로운 우주선에 대해 알아야 할 모든 것을 안내합니다. Reentry 제미니 비행 매뉴얼 사본을 아카데미에 가져가서 이론을 배우고 우주선을 더 깊이 이해하는 것을 권장합니다. 앞으로 다룰 과제들은 복잡할 것이며, 당신은 이를 해결하는 최초의 사람 중 한 명이 될 것입니다.\r\n\r\n선택 사항: 제미니 조종사 인증서를 이수하고 취득하면, 많은 다른 제미니 우주비행사들이 모이는 Reentry 공식 Discord 그룹에서 동료 우주비행사들에게 알려주세요. discord.gg/reentrygame 에서 찾을 수 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 1,
+            "FileName": "Missions/mission1.json",
+            "Title": "A New Spacecraft",
+            "CampaignProgressInfo": "After a few successful test-flights with the Gemini-Titan II launch vehicle, it's your turn to be the first who will test the new Gemini spacecraft, and for the first time try to change the shape of the orbit using the OAMS thrusters. The U.S.S.R. has already beat the U.S. in having a multi-crew flight using their Voskhod spacecraft, but this is yet to be tested in a U.S. craft."
+        },
+        {
+            "missionIndex": 1,
+            "Program": 1,
+            "FileName": "Missions/mission2.json",
+            "Title": "The Walk in Space",
+            "CampaignProgressInfo": "The new spacecraft is working well, and orbital maneuvering has been proven in the previous flight. It's once again your turn to head up there and perform the first ever EVA attempt by the U.S. Once again, the U.S.S.R. beat the U.S. in performing the first ever EVA in Voskhod a few months ago, but this is a critical maneuver we need to master for Project Apollo!"
+        },
+        {
+            "missionIndex": 2,
+            "Program": 1,
+            "FileName": "Missions/mission3.json",
+            "Title": "Face to Face",
+            "CampaignProgressInfo": "Rendezvousing and docking with another spacecraft is another crucial task needed by the Apollo program, as astronauts will need to extract the Lunar Module from the Launch Vehicle, as well as getting back from the Lunar Surface. The next mission was all about practicing these two methods, however, the target docking vehicle failed to launch. Patrick and his crew are still in orbit in the long duration mission, so we will try to rendezvous with them instead, and leaving the docking for another mission."
+        },
+        {
+            "missionIndex": 3,
+            "Program": 1,
+            "FileName": "Missions/mission4.json",
+            "Title": "The Docking",
+            "CampaignProgressInfo": "The press has gone wild after the first U.S. rendezvous & formation flying in space was achieved, including Commander Patricks 14 days in space. A lot of work is still in front of us as we make progress towards the bold goal and dream of landing on the Moon. A docking training module has just successfully launched into orbit at an altitude of 300 km, and it's your job to catch up with it, rendezvous and dock."
+        },
+        {
+            "missionIndex": 4,
+            "Program": 1,
+            "FileName": "Missions/mission5.json",
+            "Title": "Let's Dock!?",
+            "CampaignProgressInfo": "Multiple unsuccessful docking attempts has been made due to technical issues with either the docking target or the launch vehicle carrying it. As you are getting very good at rendezvous, it has been decided that you will get back up there and complete the job. A larger target vehicle named Agena has been launched up there, and a re-attempt at the first ever docking will be made. The Agena has a propulsion engine that will be used to get into record breaking altitudes."
+        }
+    ],
+    "CompletionMessage": "The uncontrolled tumble was due to a faulty jet in the OAMS system, and naturally the press has been all over the incident. However, the docking objective was met, and Patrick commanded the final Gemini flight with no incidents. This means all the objectives of Project Gemini has been met, and focus has shifted to the Apollo program. Patrick has been scheduled for the first Apollo flight, and all efforts are being done to make sure the Apollo Command Module is ready in time. Your success in Gemini, and the ability to solve problems as they arise has made you one of the most famous astronauts, and naturally, you have been assigned a seat in the Apollo program."
+}

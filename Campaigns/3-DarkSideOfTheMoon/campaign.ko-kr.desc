@@ -1,0 +1,203 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "ID": "7cf11756-3e44-470e-ab89-d6cded6bd37d",
+    "Title": "Campaign 3: Dark Side of the Moon",
+    "DisplayTitle": "캠페인 3: 달의 어두운 면",
+    "TileBackgroundImage": "tileBg.png",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "달",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "달이 이렇게 가깝게 느껴진 적은 없습니다. 제미니 프로그램은 달로 향하는 여정에 필요한 기술적 교량을 성공적으로 구축했습니다. 지금까지 건조된 가장 큰 로켓이, 지금까지 비행한 것 중 가장 진보된 기술로 이루어진 우주선을 싣고, 세 명의 우주비행사가 달로의 여정에 도전합니다.\r\n\r\n그곳에 도달하려면 아직 많은 것이 순조롭게 진행되어야 합니다. 아폴로 사령선은 유인 비행 시험을 아직 거치지 않았으며, 실제로 달에 착륙하는 데 필요한 달착륙선은 이미 예정보다 늦어지고 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "새턴 V",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "아폴로 우주선을 궤도로, 그리고 달을 향해 실어 나르는 데 사용되는 로켓(발사체)은 새턴 V입니다. 이는 S-IC, S-II, S-IVB의 세 개 주요 단으로 구성됩니다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "SaturnV_S-IC.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "1단(S-IC, \"S-one-C\")은 전체 스택을 대기권 통과 동안 실어 나르는 데 사용되는 F-1 엔진 5기로 구성됩니다. F-1 엔진 5기의 합산 추력은 7,500,000 lbf입니다. 중앙 엔진은 고정되어 있으며, 바깥쪽 네 개의 엔진은 자세 제어를 위해 짐벌(gimbal) 구동이 가능합니다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "SaturnV_S-II.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "2단(S-II, \"S-two\")은 총 추력 1,000,000 lbf의 J-2 엔진 5기로 구동됩니다. 이는 스택을 상층 대기를 통과시키며 가속합니다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "SaturnV_S-IVB.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "3단(S-IVB, \"S-four-B\")은 추력 200,000 lbf의 J-2 엔진 1기로 구동됩니다. 이 엔진은 두 차례 점화됩니다. 한 번은 상승 중에, 다른 한 번은 우주선을 달 궤적으로 진입시키는 데 사용되며, 이 절차를 달 전이 궤도 진입(Trans-Lunar Injection, TLI)이라고 합니다. 또한 달착륙선과 우주선 어댑터 자체도 함께 실어 나릅니다.\r\n\r\n보조 추진 시스템(Auxiliary Propulsion System, APS)은 TLI 이후 S-IVB가 분리될 때까지 주된 자세 제어로 사용됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "아폴로 우주선",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "사령선 및 기계선(Command and Service Module, CSM)이라는 새로운 우주선이 개발되었습니다. 이는 사령선(CM)과 기계선(SM)이라는 두 개의 주요 부분으로 구성됩니다. 아폴로 새턴 V 발사체는 우주선을 지구 궤도로, 그리고 달 궤적으로 실어 나릅니다. 우주선은 발사체에서 분리되어 달 주위를 돌고 지구로 돌아오는 여정을 계속합니다. 재진입 직전에 기계선이 분리되고 사령선이 대기권에 진입해 바다에 착수합니다.\r\n\r\n대기권을 통과하는 상승 중에는, 비상 상황이 발생할 경우 발사 탈출 시스템(Launch Escape System, LES)이 사령선과 승무원을 발사체로부터 떼어내는 데 사용됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "ApolloSpacecraftDiagram.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "사령선",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "사령선은 여정 전체에 필요한 장비함, 조작부, 디스플레이, 시스템을 갖춘 가압 구획에 세 명의 승무원을 수용합니다. 자체 전기 시스템과, 대기권 재진입 중 필요한 반작용 제어 시스템(RCS)을 갖추고 있습니다.\r\n\r\n또한 전방 해치가 있어, 달착륙선과의 도킹이 완료되면 이를 통해 출입할 수 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Command_Module_diagram.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "기계선",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "SM은 우주선의 비가압 부분으로, 장시간의 달 미션에 필요한 필수 장비를 싣고 있습니다. 주 전기 시스템(연료전지, Fuel Cells)과 반응물, 그리고 기계선 추진 시스템(Service Propulsion System, SPS)과 그 모든 구성 요소를 싣습니다. SPS는 우주선의 주 엔진으로, 모든 주요 연소에 사용됩니다. SM에는 또한 자세 제어와 병진 제어를 위한 주 반작용 제어 시스템(RCS)도 실려 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Service_Module_diagram.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "발사 탈출 시스템",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "발사 탈출 타워가 돌아왔습니다. 제미니 프로젝트에서 사용된 사출 좌석 방식은 중단하고, 머큐리 프로젝트에서 사용된 것과 비슷한 탈출 방식으로 돌아가기로 결정되었습니다.\r\n\r\n아폴로 새턴 V 로켓의 발사 및 상승 중, 발사 탈출 타워는 고장 난 로켓에서 사령선을 분리해 즉시 하강 및 착수시키는 데 사용될 수 있습니다. 새턴 V 발사에는 다섯 가지 중단(abort) 모드가 있으며, 이 중 처음 세 모드는 LES를 사용합니다. S-IC 단분리 이후에는 LES가 더 이상 필요하지 않으므로 투기됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Launch_escape_system_diagram.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "조작부 및 디스플레이",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "우주선을 제어하는 데 사용되는 조작부 및 디스플레이는 사령선에 있습니다. 이는 우주선을 구성하고 조작하는 데 사용되는 수백 개의 회로 차단기, 스위치, 조작부로 이루어져 있습니다. 아폴로 유도 컴퓨터(Apollo Guidance Computer)라는 최첨단 범용 컴퓨터가 주 유도 수단으로 사용됩니다. 눈 역할을 하는 광학 장비와 다리 역할을 하는 관성 측정 장치(Inertial Measurement Unit, IMU)를 이용해, AGC는 승무원과 미션 컨트롤의 입력을 받아 발사부터 재진입까지 우주선을 항법하고 기동시킬 수 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Apollo_Command_Module_Main_Control_Panel.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "아카데미",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "머큐리와 제미니 우주선을 모두 비행한 경험을 갖춘 베테랑 우주비행사로서, 가장 심각한 비상 상황에서도 벗어날 수 있는 기술과 마음가짐을 지닌 당신을, 언론은 이제 아폴로 프로그램의 조종석에서 볼 것을 기대하고 있습니다.\r\n\r\n비행 승무원 운영 책임자인 Martin이 당신을 2차 아폴로 미션의 선장으로 임명했습니다. 이번 미션의 목적은 지구 궤도에서 우주선과 달착륙선을 시험하는 것입니다.\r\n\r\n제미니 프로젝트 때와 마찬가지로, 베테랑 우주비행사 Aaron이 승무원으로 함께하며 사령선 조종사(Command Module Pilot, CMP)를 맡습니다. Lodkins는 첫 우주 비행을 위해 훈련해 왔으며, 달착륙선 조종사(Lunar Module Pilot, LMP)로 당신의 승무원에 합류합니다.\r\n\r\n이번 10년 안에 달 착륙에 성공하려면 우리에게는 큰 부담이 있습니다. 따라서 달 착륙으로 이어지는 아폴로의 모든 미션이 하나하나 성공하는 것이 매우 중요합니다.\r\n\r\n당신은 즉시 훈련을 시작하도록 아폴로 사령선 아카데미에 배정되었습니다. 이 캠페인에 도전하기 전에 사령선 조종사 자격증을 취득해야 합니다. 아카데미는 메인 메뉴의 \"ACADEMY\" 섹션에서 찾을 수 있으며, 미션을 지휘하는 데 필요한 우주선에 관한 모든 것을 안내합니다.\r\n\r\n아카데미를 거친 다른 우주비행사들은 공식 Reentry Discord 그룹에서도 만날 수 있습니다. 이런 내용을 혼자 배우기는 어려우니, 도움을 요청해 보세요!\r\ndiscord.gg/reentrygame 에서 저희를 찾아보세요!\r\n\r\n선택 사항: 사령선 조종사 자격증을 이수하고 취득하면, 동료 우주비행사들에게 알려서 아폴로 사령선 커뮤니티 배지도 받아보세요.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 9000,
+            "FileName": "Missions/cutscene_9100.json",
+            "Title": "Rehearsal",
+            "CampaignProgressInfo": "Commander Patrick is strapped in and ready with his crew, currently performing a test in preparation for the first crewed Apollo flight!"
+        },
+        {
+            "missionIndex": 1,
+            "Program": 2,
+            "FileName": "Missions/mission1.json",
+            "Title": "Backup Crew",
+            "CampaignProgressInfo": "A lot was learned from the tragic loss of the first Apollo mission and its crew. The new and improved \"Block II\" Command Module is now part of the Apollo spacecraft, and is ready at the pad. You are part of the backup crew for the flight and will prepare the cockpit for Prime Crew ingress."
+        },
+        {
+            "missionIndex": 2,
+            "Program": 2,
+            "FileName": "Missions/mission2.json",
+            "Title": "7.5 Million Pounds of Thrust",
+            "CampaignProgressInfo": "The first crewed Apollo mission was a success! However, the Lunar Module is having a lot of delays and will not be ready in time for your mission. All testing of the Lunar Module has been moved to another mission. We have already tested the Command Module in Earth orbit, so instead of cancelling or postponing your mission, it has been decided that your destination will be the Moon."
+        },
+        {
+            "missionIndex": 3,
+            "Program": 2,
+            "FileName": "Missions/mission3.json",
+            "Title": "Set Sail",
+            "CampaignProgressInfo": "The crew has successfully ascended into Earth Parking Orbit and has configured the spacecraft for orbital insertion. The upcoming procedure is a critical one and will take the spacecraft on a journey towards the Moon."
+        },
+        {
+            "missionIndex": 4,
+            "Program": 2,
+            "FileName": "Missions/mission4.json",
+            "Title": "Loss of Signal",
+            "CampaignProgressInfo": "The Moon is rapidly growing larger in the windows and the crew must prepare for the Lunar Orbit Injection burn."
+        },
+        {
+            "missionIndex": 5,
+            "Program": 2,
+            "FileName": "Missions/mission5.json",
+            "Title": "Thrust of the Engineers",
+            "CampaignProgressInfo": "The crew is ready to go home."
+        },
+        {
+            "missionIndex": 6,
+            "Program": 2,
+            "FileName": "Missions/mission6.json",
+            "Title": "Heat",
+            "CampaignProgressInfo": "The crew is on a coasting trajectory towards the Earth and must do what it takes to have an entry angle of about 6.5 degrees."
+        }
+    ],
+    "CompletionMessage": "Congratulations on completing the campaign!"
+}

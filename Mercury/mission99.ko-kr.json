@@ -1,0 +1,277 @@
+{
+  "BriefingText": "브리핑",
+  "Description": "asdfsdf",
+  "FlightPlanPrefabId": 0,
+  "Id": 99,
+  "Inclination": 33.0,
+  "InitialTimeToRetrograde": "01:00:00",
+  "MinutesBeforeLaunch": 5.0,
+  "MissionActivities": [
+    {
+      "Cancelled": false,
+      "Completed": false,
+      "Description": "60° 요 기동은 큰 각도 오차가 있을 때 요 기준으로서 잠망경을 점검하는 데 사용됩니다.",
+      "Points": 10,
+      "Started": false,
+      "Steps": [
+        {
+          "Completed": false,
+          "Description": "플라이-바이-와이어 제어 시스템으로 전환하세요.",
+          "FlightMode": 2,
+          "Goal": 3,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "낮은 우측 요(2°/초) 속도를 설정하세요.",
+          "FlightMode": 0,
+          "Goal": 6,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 2.0
+        },
+        {
+          "Completed": false,
+          "Description": "요 각도가 약 60°가 될 때까지 우주선이 드리프트하도록 두세요.",
+          "FlightMode": 0,
+          "Goal": 0,
+          "Progress": null,
+          "Value1": 60.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "우주선 속도를 0으로 안정화하세요.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 5.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "저배율과 고배율 모두에서 잠망경으로 지상 궤적의 움직임을 관찰하세요.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "낮은 좌측 요 움직임을 설정하고 우주선 자세를 요 0°, 롤 0°, 피치 -34°로 안정화하세요. 기준으로 잠망경을 사용하세요.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 60.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "메모에 기동 결과를 기록하고, 궤도 자세로 복귀하세요.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        }
+      ],
+      "TimeLimit": 400.0,
+      "Title": "60° 요 기동"
+    },
+    {
+      "Cancelled": false,
+      "Completed": false,
+      "Description": "주간 및 야간 조건에서 수평선을 제어 기준으로 사용해 우주선 자세를 제어하는 우주비행사의 능력을 확인합니다.",
+      "Points": 10,
+      "Started": false,
+      "Steps": [
+        {
+          "Completed": false,
+          "Description": "수동 비례 제어로 전환하세요.",
+          "FlightMode": 4,
+          "Goal": 3,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "계기를 기준으로 우주선을 궤도 자세(-34,0,0)로 정렬하세요.",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "-14°로 피치업하세요(창 기준).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "피치를 궤도 자세로 되돌리세요(창 기준).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "우측으로 20° 롤 하세요(창 기준).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "궤도 자세로 복귀하세요(창 기준).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "좌측으로 20° 요 하세요(창 기준).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 30.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        },
+        {
+          "Completed": false,
+          "Description": "궤도 자세로 복귀하세요(창 기준).",
+          "FlightMode": 0,
+          "Goal": 5,
+          "Progress": null,
+          "Value1": 0.0,
+          "Value2": 0.0,
+          "Value3": 0.0
+        }
+      ],
+      "TimeLimit": 300.0,
+      "Title": "주간 수평선 점검"
+    }
+  ],
+  "MissionCommands": [
+    {
+      "Action": 0,
+      "Bool1": false,
+      "Completed": false,
+      "Delivered": false,
+      "DisplayTime": 3.0,
+      "Fault": 0,
+      "From": 1,
+      "FuseID": 0,
+      "KnobID": 0,
+      "Message": "비행 모드 테스트",
+      "PinID": 0,
+      "PinPosition": 0,
+      "PullHandleID": 0,
+      "PullHandlePosition": 0,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 0.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    },
+    {
+      "Action": 1004,
+      "Bool1": false,
+      "Completed": false,
+      "Delivered": false,
+      "DisplayTime": 3.0,
+      "Fault": 1,
+      "From": 1,
+      "FuseID": 0,
+      "KnobID": 0,
+      "Message": "요 실패 시작됨!",
+      "PinID": 0,
+      "PinPosition": 0,
+      "PullHandleID": 0,
+      "PullHandlePosition": 0,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 3.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    },
+    {
+      "Action": 0,
+      "Bool1": false,
+      "Completed": false,
+      "Delivered": false,
+      "DisplayTime": 3.0,
+      "Fault": 0,
+      "From": 1,
+      "FuseID": 0,
+      "KnobID": 0,
+      "Message": "완료!",
+      "PinID": 0,
+      "PinPosition": 0,
+      "PullHandleID": 0,
+      "PullHandlePosition": 0,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 6.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    }
+  ],
+  "MissionGoals": [
+    {
+      "Completed": false,
+      "Description": "바다에 착수",
+      "Progress": null,
+      "String1": null,
+      "String2": null,
+      "Target1": 0.0,
+      "Target2": 0.0,
+      "Target3": 0.0,
+      "Type": 2
+    }
+  ],
+  "Rocket": 1,
+  "ScheduledLaunchTime": "2018-05-02T01:00:32",
+  "SpaceProgram": 0,
+  "StartInOrbit": true,
+  "TargetAp": 150.0,
+  "TargetPe": 150.0,
+  "Title": "비행 모드 테스트"
+}

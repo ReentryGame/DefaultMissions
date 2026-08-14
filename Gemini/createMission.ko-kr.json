@@ -1,0 +1,57 @@
+{
+  "BriefingText": "브리핑\r\n\r\n새 제미니 미션을 생성합니다.",
+  "CoPilot": "Patrick",
+  "Description": "새 제미니 미션을 생성합니다.",
+  "FlightPlanPrefabId": 0,
+  "Id": 99,
+  "Inclination": 28.91,
+  "InitialTimeToRetrograde": "05:40:00",
+  "MinutesBeforeLaunch": 500.0,
+  "MissionActivities": [],
+  "MissionCommands": [
+    {
+      "Action": 0,
+      "Bool1": false,
+      "ButtonId": 0,
+      "Completed": false,
+      "ComputerMode": 0,
+      "Delivered": false,
+      "DisplayTime": 3.0,
+      "Fault": 0,
+      "From": 1,
+      "GaugeId": 0,
+      "KnobID": 0,
+      "Message": "미션 편집기를 사용해 미션을 생성하세요. 기본적으로 열려 있어야 합니다. 닫았다면 인게임(ESC) 메뉴에서 다시 열 수 있습니다.",
+      "PinID": 0,
+      "PinPosition": 0,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 0.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    }
+  ],
+  "MissionGoals": [
+    {
+      "Completed": false,
+      "Description": "착수",
+      "Priority": false,
+      "Progress": null,
+      "String1": null,
+      "String2": null,
+      "Target1": 0.0,
+      "Target2": 0.0,
+      "Target3": 0.0,
+      "Type": 2
+    }
+  ],
+  "ScheduledLaunchTime": "1965-05-23T16:24:00",
+  "SpaceProgram": 1,
+  "StartInOrbit": false,
+  "TargetAp": 224.0,
+  "TargetPe": 161.0,
+  "Title": "제미니 미션 생성"
+}

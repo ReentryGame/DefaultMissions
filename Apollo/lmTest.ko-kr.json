@@ -1,0 +1,62 @@
+{
+  "BriefingText": "브리핑\r\n\r\n이 미션은 테스트 전용입니다.",
+  "CommandModulePilot": "Lars",
+  "Description": "실험용 달착륙선(LM)의 승무원이 시스템 테스트를 위해 현재 달 궤도에 있습니다. 테스트가 끝나면 이 미션은 삭제됩니다.",
+  "DisableDefaultAudioSFX": true,
+  "FlightPlanPrefabId": 0,
+  "Id": 503,
+  "Inclination": 32.5,
+  "InitialTimeToRetrograde": "11:20:00",
+  "LoadState": "lmTest_state.json",
+  "LunarModulePilot": "Paul",
+  "MinutesBeforeLaunch": 60.0,
+  "MissionActivities": [],
+  "MissionCommands": [
+    {
+      "Action": 0,
+      "Bool1": false,
+      "ButtonId": 0,
+      "Completed": false,
+      "Delivered": false,
+      "DisplayTime": 5.0,
+      "Fault": 0,
+      "From": 2,
+      "FuseID": 0,
+      "FusePosition": 0,
+      "KnobID": 0,
+      "Message": "이곳은 달착륙선(LM) 테스트 파일럿을 위한 테스트 구역이며, 테스트 목적으로만 제공됩니다.",
+      "PinID": 0,
+      "PinPosition": 0,
+      "PlayAudioClip_String3": false,
+      "Priority": false,
+      "String1": null,
+      "String2": null,
+      "String3": null,
+      "ThresholdLimit": 0.0,
+      "Timestamp": 10.0,
+      "Value1": 0.0,
+      "Value2": 0.0,
+      "Value3": 0.0
+    }
+  ],
+  "MissionGoals": [
+    {
+      "Completed": false,
+      "Description": "생존",
+      "Progress": null,
+      "String1": null,
+      "String2": null,
+      "Target1": 0.0,
+      "Target2": 0.0,
+      "Target3": 0.0,
+      "Type": 0
+    }
+  ],
+  "Payload": 1,
+  "ScheduledLaunchTime": "1968-12-21T07:51:00",
+  "SpaceProgram": 2,
+  "StartInOrbit": true,
+  "TargetAp": 185.0,
+  "TargetPe": 185.0,
+  "Title": "테스트 파일럿: 달착륙선(LM)"
+}

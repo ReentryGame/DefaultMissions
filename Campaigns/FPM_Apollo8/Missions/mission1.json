@@ -87,7 +87,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "[Complete the TIMELINE -> Pre-Launch: Launch Preparations Checklists]",
+      "Message": "[Complete the TIMELINE -> Pre-Launch: Launch Preparations checks]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -267,7 +267,7 @@
       "Timestamp": 25.0,
       "DisplayTime": 6.0,
       "From": 0,
-      "Message": "",
+      "Message": "[Ground is working on the TLI parameters and will be communicated at approximately 001:45 GET]",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
@@ -1534,5 +1534,7 @@
   "LunarPeriodInclinationLat": -12.0,
   "LunarPeriodInclinationLon": 35.7,
   "SetSunphaseDelta": 4.0,
-  "SetSuntiltDelta": 54.0
+  "SetSuntiltDelta": 54.0,
+  "FpmAlgnOvrdMde": false,
+  "FpmAlgnOvrdMde_Inc": 0.0
 }

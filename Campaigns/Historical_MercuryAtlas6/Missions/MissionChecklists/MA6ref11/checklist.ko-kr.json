@@ -1,0 +1,134 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref11",
+  "Group": "MISSION",
+  "Name": "REF 11 - 30분 보고",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999011,
+  "AutoGenerate": false,
+  "checklistText": "참조 번호 11\n30분 보고\n\n목적\n일정한 간격으로 우주비행사와 우주선의 전체 상태를 파악하기 위함입니다.\r\n\n절차\nT + 0:\n  혈압 스위치 누름 – 시작\r\n  혈압 샘플 1회 측정\r (몇 초간 그대로 두세요)\n  혈압 스위치 누름 – 정지\n\nT + 1분:\n  운동 – 번지 코드 30회 당기기\n\nT + 2분:\n  혈압 스위치 누름 – 시작\r\n  혈압 샘플 1회 측정\r (몇 초간 그대로 두세요)\n  혈압 스위치 누름 – 정지\n\nT + 3분:\n  시력 검사\r\n    스넬렌(Snellen) 시력표 검사\r\n    난시(astigmatic) 검사\r\n\n  머리 움직임 – 피치, 롤, 요\n  팔 뻗기 정확도\n  선 위치 확인\n  우주선 상태 보고\r\n    [C] 미션 도구(MISSION TOOLS) - 양식(FORMS) - 30분 보고 작성\n  ",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+0분:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 1,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureStart (4/1)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "5초간 그대로 두세요 (1회 샘플)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 2,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureEnd (4/2)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+1분: 운동 - 번지 코드 30회 당기기 (즉석 대체)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+2분:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 1,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureStart (4/1)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "5초간 그대로 두세요 (1회 샘플)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 4,
+      "SetID": 2,
+      "ToPosID": 0,
+      "Text": null,
+      "Description": "push BloodPressureEnd (4/2)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "T+3분:",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "시력 검사 (한 번에 한쪽 눈씩 가리세요)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "- 스넬렌(Snellen) 시력표 검사 (즉석 대체)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "- 난시(astigmatic) 검사 (즉석 대체)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "우주선 상태 보고",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "- [C] 미션 도구(MISSION TOOLS) - 양식(FORMS) - 30분 보고 작성",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

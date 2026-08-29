@@ -1,0 +1,13 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref4",
+  "Group": "MISSION",
+  "Name": "REF 4 - 제어 시스템 점검",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999004,
+  "AutoGenerate": false,
+  "checklistText": "참조 번호 4\r\n제어 시스템 점검\r\n\r\n목적\r\n모든 제어 모드가 ASCS 시스템의 백업으로서 준비되어 있는지 \r\n확인하기 위함입니다. 이 절차는 모든 \r\n제어 모드를 점검합니다. 시험 시작 시점에 우주선은 궤도 자세에서 \r\nASCS 상태입니다.\r\n\r\n절차\r\n수동 및 자동 연료를 기록하세요\r\n\r\nManual Fuel 핸들 – Direct로 당기기\r\nRSCS 스위치 – Rate Comd\r\nASCS 스위치 – Aux Damp\r\n\r\n-34°에서 4°/sec로 피치 업\r\nManual Fuel 핸들 – Rate Comd로 밀기\r\n(각속도 감쇠가 ±3°/sec 이내인지 관찰)\r\nRSCS 스위치 – Auto\r\n(보조 감쇠가 ±0.5°/sec 이내인지 관찰)\r\nASCS 스위치 – FBW\r\n(0° 피치에서 각속도 0)\r\n\r\nASCS 스위치 – Aux Damp\r\nRSCS 스위치 – Rate Comd\r\nManual Fuel 핸들 – Direct로 당기기\r\n\r\n4°/sec 우측 요 시작\r\nManual Fuel 핸들 – Rate Comd로 밀기\r\n(각속도 감쇠가 ±3°/sec 이내인지 관찰)\r\nRSCS 스위치 – Auto\r\n(보조 감쇠가 ±0.5°/sec 이내인지 관찰)\r\nASCS 스위치 – FBW\r\n(30° 우측 요에서 각속도 0)\r\n\r\nASCS 및 RSCS 스위치를 초기화하고 Manual Fuel 핸들을 당기세요\r\n\r\n4°/sec 좌측 요 시작\r\nManual Fuel 핸들 – Rate Comd로 밀기\r\n(각속도 감쇠가 ±3°/sec 이내인지 관찰)\r\nRSCS 스위치 – Auto\r\n(보조 감쇠가 ±0.5°/sec 이내인지 관찰)\r\nASCS 스위치 – FBW\r\n(30° 요에서 각속도 0)\r\n\r\nASCS 및 RSCS 스위치를 초기화하고 Manual Fuel 핸들을 당기세요\r\n4°/sec 우측 롤 시작\r\nManual Fuel 핸들 – Rate Comd로 밀기\r\n(각속도 감쇠가 ±3°/sec 이내인지 관찰)\r\nRSCS 스위치 – Auto\r\n(보조 감쇠가 ±0.5°/sec 이내인지 관찰)\r\nASCS 스위치 – FBW\r\n(30° 우측 롤에서 각속도 0)\r\n\r\nASCS 및 RSCS 스위치를 초기화하고 Manual Fuel 핸들을 당기세요\r\n\r\n4°/sec 좌측 롤 시작\r\nManual Fuel 핸들 – Rate Comd로 밀기\r\n(각속도 감쇠가 ±3°/sec 이내인지 관찰)\r\nRSCS 스위치 – Auto\r\n(보조 감쇠가 ±0.5°/sec 이내인지 관찰)\r\nASCS 스위치 – FBW\r\n(0° 롤에서 각속도 0)\r\n필요시 FBW에서 고추력 제트를 사용하거나 이 시점에서 점검하세요\r\n\r\nASCS 및 RSCS 스위치를 초기화하고 Manual Fuel 핸들을 당기세요\r\n\r\n4°/sec 피치 다운 시작\r\nManual Fuel 핸들 – Rate Comd로 밀기\r\n(각속도 감쇠가 ±3°/sec 이내인지 관찰)\r\nRSCS 스위치 – Auto\r\n(보조 감쇠가 ±0.5°/sec 이내인지 관찰)\r\nASCS 스위치 – FBW\r\n(0° 요, 0° 롤, -34° 피치에서 각속도 0)\r\n\r\n수동 및 자동 연료를 기록하세요 (예상: 양쪽 모두 5%)\r\n",
+  "Steps": [],
+  "Images": []
+}

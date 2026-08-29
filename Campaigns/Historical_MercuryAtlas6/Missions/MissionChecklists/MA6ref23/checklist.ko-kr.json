@@ -1,0 +1,110 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref23",
+  "Group": "MISSION",
+  "Name": "REF 23 - 주야간 지평선",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999023,
+  "AutoGenerate": false,
+  "checklistText": "참조 번호 23\n주야간 지평선 점검\n\n목적\n주간과 야간 조건에서 지평선을 자세 제어 기준으로 사용하는 \r우주비행사의 능력을 판단하기 위함입니다.\r\n\n절차\n1. 수동 비례 제어로 전환\r\n2. 계기를 이용해 우주선을 궤도 자세로 정렬\n3. -14°까지 피치 업(창 기준)\r\n4. 피치를 궤도로 복귀(창 기준)\n5. 오른쪽으로 20° 롤(창 기준)\n6. 궤도 자세로 복귀(창 기준)\n7. 왼쪽으로 20° 요(창 기준)\r\n8. 궤도 자세로 복귀(창 기준)\r\n\nNOTE: 항상 매우 낮은 우주선 회전율을 사용하세요.",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "수동 비례 제어로 전환\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 5,
+      "SetID": 3,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ManualControl to position Out (5/3)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 12,
+      "ToPosID": 2,
+      "Text": null,
+      "Description": "set ASCSMode to Middle (1/12)"
+    },
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 13,
+      "ToPosID": 3,
+      "Text": null,
+      "Description": "set ASCSAuto to Right (1/13)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "NOTE: 항상 매우 낮은 우주선 회전율을 사용하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "요 0, 롤 0, 피치 -34로 정렬",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "-14°까지 피치 업(창 기준)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "피치를 궤도로 복귀(창 기준)\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "오른쪽으로 20° 롤(창 기준)\r",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "궤도 자세로 복귀(창 기준)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "왼쪽으로 20° 요(창 기준)",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "궤도 자세로 복귀(창 기준)",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

@@ -1,0 +1,102 @@
+{
+  "Spacecraft": 3,
+  "ProjectName": "MA6ref16",
+  "Group": "MISSION",
+  "Name": "REF 16 - Occulogyric 검사",
+  "CustomName": null,
+  "Side": 1,
+  "SortPriority": 99999016,
+  "AutoGenerate": false,
+  "checklistText": "참조 번호 16\n\rOcculogyric 검사 절차\n\n목적\n무중력이 전정계(vestibular)에 미치는 영향을 파악하기 위함입니다.\n\n절차\n1. 녹음기에 검사 시작을 알리세요.\n\n2. FBW 제어 모드로 전환하세요.\n\n3. rate and attitude indicator에서 속도계 바늘이 만드는 십자선을 관찰\r하세요.\n\n4. 저추력 FBW로 2°/sec 좌측 롤 명령을 가하고\r 4초간 유지하세요.\r\n\n5. 십자선의 움직임을 관찰하고, 움직임이 멈추면 신호를 주세요.\r\n\n6. 저추력 FBW로 2°/sec 우측 롤 명령을 가하고\r 4초간 유지하세요.\n\n7. 십자선의 움직임을 관찰하고, 움직임이 멈추면 신호를 주세요.\n\n8. 저추력 FBW로 2°/sec 우측 롤 명령을 가하고\r 4초간 유지하세요.\n\n9. 십자선의 움직임을 관찰하고, 움직임이 멈추면 신호를 주세요.\n\n10. 저추력 FBW로 2°/sec 좌측 롤 명령을 가하고\r 4초간 유지하세요.\n\n11. 십자선의 움직임을 관찰하고, 움직임이 멈추면 신호를 주세요.\n\n12. 모든 잔류 회전율을 0으로 감쇠시키고 우주선을 재정렬하여\r 궤도 자세로 되돌리세요.\n\n주의: \n(a) 지상국은 이 기동 동안 자세를\r 지속적으로 감시해야 합니다.\n\n(b) 롤 자세가 ±45°를 초과하면 지상은 이를 우주선에 전달하고 ±45°를 초과하는 매 2°마다 보고해야 합니다.",
+  "Steps": [
+    {
+      "Program": 3,
+      "Type": 1,
+      "SetID": 12,
+      "ToPosID": 3,
+      "Text": null,
+      "Description": "set ASCSMode to Right (1/12)"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "속도계 바늘이 만드는 십자선을 관찰하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "2°/sec 좌측 롤 명령을 4초간 가하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "십자선의 움직임을 관찰하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "2°/sec 우측 롤 명령을 4초간 가하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "십자선의 움직임을 관찰하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "2°/sec 우측 롤 명령을 4초간 가하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "십자선의 움직임을 관찰하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "2°/sec 좌측 롤 명령을 4초간 가하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "십자선의 움직임을 관찰하세요",
+      "Description": "Manual step"
+    },
+    {
+      "Program": 3,
+      "Type": 0,
+      "SetID": 0,
+      "ToPosID": 0,
+      "Text": "모든 잔류 회전율을 0으로 감쇠시키고 우주선을 재정렬하여\r 궤도 자세로 되돌리세요.\r\n",
+      "Description": "Manual step"
+    }
+  ],
+  "Images": []
+}

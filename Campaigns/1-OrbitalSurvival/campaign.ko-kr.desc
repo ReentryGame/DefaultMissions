@@ -1,0 +1,129 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "ID": "63b0617d-07cb-4e8b-bc8e-5065cc05321e",
+    "Title": "Campaign 1:  Orbital Survival",
+    "DisplayTitle": "캠페인 1: 궤도 생존",
+    "TileBackgroundImage": "tileBg.png",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "우주를 향한 꿈",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "수 세대에 걸쳐 우리는 밤하늘을 수놓은 고대 별자리 이야기를 전하며 밤하늘의 별들을 올려다보았습니다. 수백만 광년 떨어진 곳에 있는 이 고정된 빛의 근원들은 수 세기 동안 전 세계 항해자들의 기준이 되어 왔습니다. 우주의 미지와 광활함에 매료된 철학자와 과학자들은 그 존재에 대한 답을 찾기 위해 평생을 바쳐 연구해 왔습니다.\r\n\r\n최근 공학, 기술, 연구의 발전은 한때 단지 꿈에 불과했던 많은 것들, 즉 우주로의 여행을 실현할 가능성을 열어주었습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "로켓",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "개조된 대륙간 탄도 미사일을 이용하면 인공위성을 우주로 발사할 수 있습니다. 1957년 10월 4일, 소비에트 연방(소련)은 스푸트니크 1호라는 위성을 지구 궤도에 성공적으로 발사하여 최초의 인공위성이 되었습니다. 이는 무선 송신기를 탑재한 단순하고 가벼운 위성이었습니다. 배터리가 소진되기 전까지 3주 동안 신호를 송신했으며, 두 달 후 대기권에 재진입해 소실되었습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "Sputnik_asm.png",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "이에 놀란 미국(US)은 미국의 우주 탐사 노력을 가속화하기 위해 훗날 NASA가 될 조직을 창설했습니다. 익스플로러 1호는 1958년 1월 31일 주노 발사체로 성공적으로 발사되었습니다. 탑재된 우주 방사선(Cosmic Ray) 센서는 최초로 밴앨런대를 감지하는 데 사용되었습니다. 배터리가 소진되기 전까지 약 4개월간 데이터를 제공했으며, 대기권에 재진입하기까지 약 12년간 궤도에 머물렀습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "explorer1.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "우주 경쟁",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "스푸트니크 1호의 발사와 함께 소련과 미국 간 우주비행 능력에서 최초 기록을 달성하기 위한 경쟁이 시작되었습니다. 미국은 뒤처져 있었고, 유인 우주비행이 다음 목표가 되었습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "머큐리 프로젝트",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "머큐리 프로젝트는 우주비행사를 궤도에 진입시키고 안전하게 귀환시키는 것을 목표로 하는 최초의 공식 우주 프로그램입니다. 혹독한 시험을 거친 긴 선발 과정 끝에, 마침내 당신은 머큐리 캡슐을 조종할 우주비행사 중 한 명으로 선발되었다는 축하 전화를 받았습니다. 시험 조종사 대대 출신 동료 Patrick(\"Rad\")도 팀에 합류했습니다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "우주선",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "머큐리 우주선은 우주비행사 1명이 탑승하는 가압 승무원실(1), 궤도에서 귀환하는 데 사용되는 역분사 패키지(2), 대기권 진입 시 생존을 위한 내열 방패(3), 착륙 낙하산이 위치한 회수실(4), 통신용 안테나부와 우주선 자세 감지용 스캐너(5), 발사체 이상 시 캡슐을 안전하게 분리하는 발사 탈출 시스템(6)으로 구성됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "theSpacecraft.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "아카데미",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "이 캠페인의 첫 번째 요구사항은 머큐리 아카데미를 완료하는 것입니다. 아카데미는 메인 메뉴에서 찾을 수 있으며, 이 새로운 우주선을 조작하는 데 필요한 모든 세부 사항을 안내합니다. 아카데미에서 훈련하는 동안 실습하는 시스템을 더 깊이 이해할 수 있도록 Reentry 머큐리 비행 매뉴얼도 함께 참고할 것을 권장합니다.\r\n\r\n선택 사항: 머큐리 조종사 자격증을 취득하고 나면, 다른 많은 Reentry 우주비행사들이 모이는 공식 Reentry 디스코드 그룹에서 동료 우주비행사들에게 소식을 전해보세요. discord.gg/reentrygame 에서 찾을 수 있습니다.",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission1.json",
+            "Title": "Interior Inspection",
+            "CampaignProgressInfo": " April 01, 1961: We are targeting a launch early in May. You are selected as the astronaut who will be the first human in history to make the journey into space."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission2.json",
+            "Title": "Reaching Space",
+            "CampaignProgressInfo": "The USSR beat us again, but we still have an important flight coming up. May 05, 1961: Launch day."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission3.json",
+            "Title": "Going Orbital",
+            "CampaignProgressInfo": "Astronaut Patrick successfully followed a secondary Mercury-Redstone mission to verify its objectives. The USSR orbited a Cosmonaut, and it's time to catch up with their achievements."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission4.json",
+            "Title": "Long Haul",
+            "CampaignProgressInfo": "Your previous flight was a huge achievement for the program, and you have become a national hero. But it's time to get up again. Your next flight will have 6 orbits."
+        },
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/mission5.json",
+            "Title": "Hawaii",
+            "CampaignProgressInfo": "A malfunction in the Atlas launch vehicle caused by an anomaly resulted in an abort, and the loss of the launch vehicle. This has caused a bit of a setback, but we are on track again. Since then, Astronaut Patrick successfully followed with an identical mission to yours, currently holding the record of longest time in space."
+        }
+    ],
+    "CompletionMessage": "After the success and completion of the final Mercury mission where you orbited 24 times, it was concluded that all resources would be moved into the development of the next space program, and the journey towards the Moon. Project Mercury met its objectives, and some of the Mercury astronauts will continue their careers in Project Gemini."
+}

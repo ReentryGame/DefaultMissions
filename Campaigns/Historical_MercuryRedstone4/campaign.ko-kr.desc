@@ -1,0 +1,78 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Mercury-Redstone 4",
+    "DisplayTitle": "머큐리-레드스톤 4",
+    "TileBackgroundImage": "",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "미션 목표",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "1. 이륙, 동력 비행, 무중력 비행(약 5분), 재진입, 착륙 단계를 포함한 짧지만 완전한 우주비행 경험을 조종사에게 숙지시킨다.\r\n2. 역분사 전후 및 도중 우주선 자세의 수동 제어를 시연하고 비행 중 음성 통신을 사용함으로써, 조종사가 우주비행 중 기능적 단위로서 수행할 수 있는 능력을 평가한다.\r\n3. 우주비행 중 조종사의 생리적 반응을 연구한다.\r\n4. 폭발형 측면 탈출 해치를 검증한다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "비행 계획",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "00:00 - 발사\r\n00:30 - 시스템 보고\r\n01:00 - 시스템 보고\r\n01:15 - 선실 압력 보고\r\n01:30 - 시스템 보고\r\n02:00 - 시스템 보고\r\n02:23 - 발사체 엔진 정지 및 타워 분리, 역분사 투기 스위치 OFF\r\n02:33 - 발사체로부터 우주선 분리\r\n02:38 - 오토파일럿에 의한 우주선 비행 자세 전환\r\n03:00 - 오토파일럿에서 수동 비례 제어 시스템으로 비행 제어 전환 및 시스템 평가\r\n04:00 - 수평선을 자세 기준으로 사용하여 우주선을 좌측으로 45도 요\r\n05:10 - 역행 로켓 수동 점화\r\n05:35 - 역분사 투기 시스템 ARM(활성화), 수동 비례 제어 시스템에서 속도 명령 제어 시스템으로 비행 제어 전환, 무선 송신기 UHF에서 HF로 전환\r\n06:10 - 역분사 패키지 투기\r\n06:40 - 잠망경 자동 수납(Reentry에서는 더 늦을 수 있음), 우주선을 재진입 자세로 정렬\r\n07:00 - 통신 UHF 송신기로 복귀\r\n07:46 - 재진입 시작\r\n09:41 - 보조 낙하산 전개, 스노클 개방, 비상 속도 산소 공급\r\n10:13 - 주 착륙 낙하산 전개\r\n15:37 - 착륙",
+            "Value": 0
+        },
+        {
+            "Type": 2,
+            "Data": "flightplan.png",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션 세부사항",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "선장: 버질 I. \"거스\" Grissom(Virgil I. \"Gus\" Grissom)\r\n캡슐명: Liberty Bell 7\r\n부스터: 레드스톤\r\n미션 프로필: 준궤도\r\n\r\n1961년 3월 7일: 우주선이 플로리다주 케이프 커내버럴 공군기지의 행어 S로 인도됨\r\n1961년 7월 18일: 최초 발사 예정일\r\n1961년 7월 19일: 두 번째 발사 시도, 기상 악화로 T-10분에서 취소\r\n예정 발사 시각: 1961년 7월 21일 오전 07:20 EST\r\n카운트다운 시작: 1961년 7월 20일 오전 6:00 EST\r\n캡슐 탑승: 1961년 7월 21일 08:58 UTC\r\n발사: 70개 해치 볼트 중 하나의 문제로 짧은 정지 후, 1961년 7월 21일 12:20:36 UTC\r\n\r\n미션 시작:\r\nT -15분 최종 점검\r\n\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "중요",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "미션 커맨드(Mission Commands)에서 지시하지 않는 한 체크리스트를 RUN하지 마세요. 미션 커맨드가 필요한 모든 것을 안내합니다. 이는 게임의 한계 내에서 최선을 다해 미션을 재현하고자 한 역사적 미션입니다.\r\n\r\nReentry는 머큐리의 주요 특징을 모두 갖춘 일반화된 캡슐을 설계했습니다. 전압, 전류, 궤적 세부사항 등 일부 판독값은 실제 음성 기록과 다를 수 있습니다.\r\n\r\n메인 미션을 완료하면 미션 통신이 제거된 실시간 미션 컨트롤 버전이 잠금 해제됩니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 0,
+            "FileName": "Missions/libertybell7.json",
+            "Title": "MR-4: Liberty Bell 7",
+            "CampaignProgressInfo": "The historical mission as flown in real life."
+        },
+        {
+            "missionIndex": 1,
+            "Program": 0,
+            "FileName": "Missions/libertybell7mcc.json",
+            "Title": "MR-4: Liberty Bell 7 (MCC)",
+            "CampaignProgressInfo": "This is a free play version of the mission designed to either be played by yourself, or to be used during online mission control enabled multiplayer sessions. All mission comms has been removed."
+        }
+    ],
+    "CompletionMessage": "",
+    "Hidden": true
+}

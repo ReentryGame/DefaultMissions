@@ -1,0 +1,13 @@
+{
+  "StartInOrbit": false,
+  "ScheduledLaunchTime": "1965-03-23T08:24:00",
+  "InitialTimeToRetrograde": "02:30:00",
+  "MissionCommands": [],
+  "MissionGoals": [],
+  "MissionActivities": [],
+  "SpaceProgram": 9000,
+  "Id": 9100,
+  "ID": "2ad1b591-7349-4389-b15d-aaef5c506c4a",
+  "Title": "CO2 어댑터",
+  "Description": "CO2 어댑터를 살펴볼 수 있는 장면입니다. 현재는 임시 자리표시자일 뿐입니다. 이후 미니게임으로 발전할 예정입니다. 이를 미니게임으로 만들 아이디어가 있다면 알려주세요. 그냥 불러온 다음 EXIT 버튼을 누르세요. 마우스 가운데 버튼을 누른 채로 카메라를 회전시킬 수 있습니다."
+}

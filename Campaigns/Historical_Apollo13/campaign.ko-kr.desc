@@ -1,0 +1,250 @@
+{
+    "fullPathDescriptionFile": null,
+    "campaignPath": null,
+    "Title": "Apollo 13",
+    "DisplayTitle": "아폴로 13호",
+    "TileBackgroundImage": "tileBg.png",
+    "PageBackgroundImage": "pageBg.png",
+    "Sections": [
+        {
+            "Type": 0,
+            "Data": "우주 탐사 축제:",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "REENTRY의 Steam 우주 탐사 축제에 오신 것을 환영합니다! 인류의 우주 탐사 발전을 위해 목숨을 걸었던 선구자들을 기리기 위해, 특별한 인게임 이벤트를 소개하게 되어 기쁩니다. 이 축제의 일환으로, 모든 REENTRY 플레이어는 탐사와 발견의 정신에 헌정된 '캠페인 5: 아폴로 13호'의 얼리 액세스 버전을 이용할 수 있습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "아폴로 13호는 미국의 세 번째 유인 달 착륙 미션으로, 4월 11일 플로리다주 케네디 우주센터에서 발사되어 달의 구릉지대를 탐사하고 아마도 50억 년 된 암석을 가져올 예정입니다.\r\n\r\n아폴로 13호의 달착륙선은 33시간 넘게 달에 머무르며, 착륙 승무원은 달 표면에 과학 실험 장비를 설치하고 지질 조사를 계속하기 위해 두 차례 우주선 밖으로 나갈 예정입니다. \r\n\r\n아폴로 13호의 착륙 지점은 프라 마우로(Fra Mauro) 고지대입니다. 미국 항공우주국(NASA)의 이전 두 차례 착륙은 각각 아폴로 11호가 고요의 바다(Sea of Tranquility)에, 아폴로 12호가 폭풍의 대양(Ocean of Storms)에 착륙하는 등 '바다' 지역에서 이루어졌습니다.\r\n\r\n아폴로 13호의 원래 승무원은 선장 James A. Lovell, Jr.; 사령선 조종사 Thomas K. Mattingly III; 그리고 달착륙선 조종사 Fred W. Haise, Jr.입니다.\r\n\r\n그러나 발사 이틀 전, 원래 아폴로 13호의 백업 승무원이었던 Jack Swigert가 사령선 조종사 Mattingly의 풍진(German measles) 노출로 인해 주 승무원으로 승격되었습니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "주요 목표",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "아폴로 13호의 목표는 다음과 같습니다:\r\n1. 프라 마우로(Fra Mauro) 지층 내 미리 선정된 구역에서 지질학적 조사, 답사 및 시료 채취를 수행한다.\r\n\r\n2. 아폴로 달 표면 실험 패키지를 배치하고 가동한다.\r\n\r\n3. 달 환경에서 작업하는 인간의 능력을 더욱 발전시킨다.\r\n\r\n4. 후보 탐사 지점의 사진을 촬영한다.\r\n\r\n아폴로 13호의 착륙 지점은 크레이터 프라 마우로 북쪽의 구릉 지대입니다. 착륙 지점의 달 좌표는 남위 3.6도, 서경 17.5도로, 아폴로 12호가 착륙한 서베이어 3(Surveyor III) 크레이터 지점에서 동쪽으로 약 95.6해리 떨어져 있습니다.\r\n\r\n새턴 V 발사체의 빈 3단은 달 착륙 전에 달 표면에 충돌하도록 유도되며, 그 충격은 지난 11월 아폴로 12호 우주비행사들이 남겨둔 지진계로 기록될 예정입니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "승무원",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Lovell은 미 해군 대령, Swigert는 미 공군 조종사, Haise는 민간인, Mattingly는 해군 중령입니다.\r\n\r\n사령선의 이름은 Odyssey이며, 달착륙선의 이름은 Aquarius입니다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "아카데미",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "이 캠페인에 도전하기 전에 사령선(Command Module) 자격증과 달착륙선 조종사(Lunar Module Pilot) 자격증을 모두 취득하는 것이 좋습니다. 아카데미는 메인 메뉴의 \"ACADEMY\" 섹션에서 찾을 수 있으며, 달 착륙 미션을 지휘하는 데 필요한 우주선에 관한 모든 것을 안내합니다.\r\n\r\n이 캠페인에 도전하기 전에 캠페인 III(CSM)와 캠페인 IV(LM)도 함께 완료하는 것을 강력히 권장합니다.\r\n\r\n아카데미를 거친 다른 우주비행사들은 공식 Reentry Discord 그룹에서도 만날 수 있습니다. 이런 내용을 혼자 배우기는 어려우니, 도움을 요청해 보세요!\r\ndiscord.gg/reentrygame 에서 저희를 찾아보세요!\r\n\r\n선택 사항: 달착륙선 조종사 자격증을 취득하고 나면, 동료 우주비행사들에게 알려서 달착륙선 커뮤니티 배지도 받아보세요.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "중요",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "Mission Commands에서 지시하지 않는 한 체크리스트를 RUN하지 마세요. Mission Commands가 필요한 모든 것을 안내해 줄 것입니다. 이 미션은 아폴로 13호 미션의 주요 부분과 기동 일부를 몰입감 있게 재현한 것입니다. Reentry에서 아폴로 13호의 일부를 체험할 수 있도록 최선을 다했습니다. 실제 음성 기록을 어느 정도 사용했으며, 미션은 대체로 사건들을 순차적으로 실행하는 방식으로 구성되어 있습니다.\r\n\r\n이 여정은 여러 개의 미션으로 나뉘어 있으며, 각 미션은 30분에서 2시간 정도 소요됩니다.\r\n\r\n각 챕터는 필요한 모든 체크리스트를 제공합니다. 필요할 때 미션 패드에서 확인할 수 있으며, 일부 절차는 미션 컨트롤과 함께 수행하게 됩니다. 일부 챕터에서는 Flight Documents(SHIFT+M)를 사용해 승무원이 실제로 사용한 비행 계획과 체크리스트를 열어보도록 안내합니다.\r\n\r\n이 미션은 다양한 요소가 맞물린 복잡한 미션이며, Reentry에서 이 미션을 체험할 수 있도록, 게임에서 직접 지원/시뮬레이션되지 않는 절차라 하더라도 이를 캠페인의 일부로 만들기 위한 기동과 절차를 설계했습니다.\r\n",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "크레딧",
+            "Value": 0
+        },
+        {
+            "Type": 1,
+            "Data": "미션 통신 기록:\r\nApollo 13, Apollo Flight Journal\r\nDavid Woods, Johannes Kemppanen, Alexander Turhanov and Lennox J. Waugh\r\n\r\n음성:\r\n미션 전반에 걸쳐 실제 음성 기록(https://archive.org/details/Apollo13Audio)을 사용했습니다. 누락된 구간을 찾는 데 도움을 준 lunarmodule5와 Johannes Kemppanen에게 특별히 감사드립니다.",
+            "Value": 0
+        },
+        {
+            "Type": 0,
+            "Data": "미션",
+            "Value": 0
+        }
+    ],
+    "Missions": [
+        {
+            "missionIndex": 0,
+            "Program": 2,
+            "FileName": "Missions/mission1.json",
+            "Title": "I - ASCENT",
+            "CampaignProgressInfo": "The Saturn V is standing tall on the launch pad and the crew of Apollo 13 are currently preparing the cockpit for its first phase, the ascent."
+        },
+        {
+            "missionIndex": 1,
+            "Program": 2,
+            "FileName": "Missions/mission2.json",
+            "Title": "II - INSERTION",
+            "CampaignProgressInfo": "After a slight deviation during ascent, the crew of Apollo 13 is following the Post Insertion checklists to set up the craft for orbital mission."
+        },
+        {
+            "missionIndex": 2,
+            "Program": 2,
+            "FileName": "Missions/mission3.json",
+            "Title": "III - TLI",
+            "CampaignProgressInfo": "The crew of Apollo 13 has completed most of the post insertion checklists and are working towards the the upcomming Trans-Lunar Injection burn, a burn that will make the spacecraft reach the Moon."
+        },
+        {
+            "missionIndex": 3,
+            "Program": 2,
+            "FileName": "Missions/mission4.json",
+            "Title": "IV - T&D",
+            "CampaignProgressInfo": "Apollo 13 is on the way to the Moon, and will need to dock and extract the Lunar Module from the SIVB. The Lunar Module will be used later in the mission to land in the Fra Mauro highlands."
+        },
+        {
+            "missionIndex": 4,
+            "Program": 2,
+            "FileName": "Missions/mission5.json",
+            "Title": "V - COASTING",
+            "CampaignProgressInfo": "The Lunar Module has been extracted from the SIV-B. The SIV-B will make its own journey towards the Moon and is scheduled to crash into the Lunar Surface ahead of the Lunar landing. The crew will prepare for the long journey between the Earth and the Moon."
+        },
+        {
+            "missionIndex": 5,
+            "Program": 2,
+            "FileName": "Missions/mission6.json",
+            "Title": "VI - MCC-2",
+            "CampaignProgressInfo": "A mid-course correction burn is required to trim the lunar trajectory and target Perilune, for lunar orbit insertion."
+        },
+        {
+            "missionIndex": 6,
+            "Program": 2,
+            "FileName": "Missions/mission7.json",
+            "Title": "VII - COASTING",
+            "CampaignProgressInfo": "The crew are performing house keeping tasks onboard the craft, who is getting further and further away from the oasis we call Earth."
+        },
+        {
+            "missionIndex": 7,
+            "Program": 2,
+            "FileName": "Missions/mission8.json",
+            "Title": "VIII - HOUSTON",
+            "CampaignProgressInfo": "The crew is getting closer and closer to the Moon and are scheduled to make a live TV broadcast directly from the spacecraft!"
+        },
+        {
+            "missionIndex": 8,
+            "Program": 2,
+            "FileName": "Missions/mission9.json",
+            "Title": "IX - THE LIFEBOAT",
+            "CampaignProgressInfo": "The Command Module is crippled and the crew are looking at survial options."
+        },
+        {
+            "missionIndex": 9,
+            "Program": 2,
+            "FileName": "Missions/mission10.json",
+            "Title": "X - THE FREE RETURN",
+            "CampaignProgressInfo": "The Command Module has been powered down, and the Lunar Module acts like a life boat. Mission control and the crew are looking at the return journey and their options."
+        },
+        {
+            "missionIndex": 10,
+            "Program": 2,
+            "FileName": "Missions/mission11.json",
+            "Title": "XI - MINIMIZING POWER",
+            "CampaignProgressInfo": "A luner landing is no longer the focus of the mission. The focus is to figure out how to get home. The crippled spacecraft is still on its lunar trajectory and is getting closer and closer to the Moon"
+        },
+        {
+            "missionIndex": 11,
+            "Program": 2,
+            "FileName": "Missions/mission12.json",
+            "Title": "XII - THE MOON",
+            "CampaignProgressInfo": "The Apollo 13 crew are getting close to the Moon and must prepare for a burn that will take them home."
+        },
+        {
+            "missionIndex": 12,
+            "Program": 2,
+            "FileName": "Missions/mission13.json",
+            "Title": "XIII - POWERING DOWN",
+            "CampaignProgressInfo": "After a successful Pc+2 burn, the crew must power down the Lunar Module to minimize consumption."
+        },
+        {
+            "missionIndex": 13,
+            "Program": 2,
+            "FileName": "Missions/mission14.json",
+            "Title": "XIV - RETURN PLANNING",
+            "CampaignProgressInfo": "Cdr. Lovell is discussing and planning the return journey with Mission Control."
+        },
+        {
+            "missionIndex": 14,
+            "Program": 9000,
+            "FileName": "Missions/cutscene_9200.json",
+            "Title": "XV - THE CO2 ADAPTER",
+            "CampaignProgressInfo": "The crew needs to build a CO2 adapter to avoid it reaching toxic levels."
+        },
+        {
+            "missionIndex": 15,
+            "Program": 2,
+            "FileName": "Missions/mission16.json",
+            "Title": "XVI - ODYSSEY'S MAIN BUS B",
+            "CampaignProgressInfo": "It's time to check the MNB."
+        },
+        {
+            "missionIndex": 16,
+            "Program": 2,
+            "FileName": "Missions/mission17.json",
+            "Title": "XVII - A STRANGE BURST",
+            "CampaignProgressInfo": "The crew have verified Odessy's Main Bus B, but faces another problem during their return journey to Earth."
+        },
+        {
+            "missionIndex": 17,
+            "Program": 2,
+            "FileName": "Missions/mission18.json",
+            "Title": "XVIII - ENTRY CORRIDOR",
+            "CampaignProgressInfo": "The crew are comming in shallow and must perform a mid-course correction burn to bring Pe into the atmosphere."
+        },
+        {
+            "missionIndex": 18,
+            "Program": 2,
+            "FileName": "Missions/mission19.json",
+            "Title": "XIX - CHARGING THE ODYSSEY",
+            "CampaignProgressInfo": "The crew has completed the entry trajectory correction burn and must start to attend to the CSM."
+        },
+        {
+            "missionIndex": 19,
+            "Program": 2,
+            "FileName": "Missions/mission20.json",
+            "Title": "XX - THE PLAN",
+            "CampaignProgressInfo": "The crew are still awaiting the plan for entry, and the entry procedures."
+        },
+        {
+            "missionIndex": 19,
+            "Program": 2,
+            "FileName": "Missions/mission21.json",
+            "Title": "XXI - CM PROCEDURES",
+            "CampaignProgressInfo": "The crew are about to receive the power up procedures for the CM."
+        },
+        {
+            "missionIndex": 20,
+            "Program": 2,
+            "FileName": "Missions/mission22.json",
+            "Title": "XXII - FINAL MCC",
+            "CampaignProgressInfo": "Final MCC."
+        },
+        {
+            "missionIndex": 21,
+            "Program": 2,
+            "FileName": "Missions/mission23.json",
+            "Title": "XXIII - REENTRY",
+            "CampaignProgressInfo": "The crew are on the final stint of this survival mission."
+        }
+    ],
+    "CompletionMessage": "Congratulations on completing Apollo 13!",
+    "Hidden": true
+}
